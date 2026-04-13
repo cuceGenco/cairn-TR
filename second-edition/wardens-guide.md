@@ -16,11 +16,11 @@ Muhafız Rehberi, Cairn'i yönetmek için araçlar, tablolar ve tavsiyeler ile V
 ## İçindekiler
 
 ### Bölüm 1: Dünya İnşası
-- [Ortam Tohumları](setting-seeds)
-- [Gruplaşmalar](setting-seeds#factions)
+- [Ekilmesi gereken Tohumlar](setting-seeds)
+- [Fraksiyonlar](setting-seeds#factions)
 - [Topografya](setting-seeds#topography)
-- [Zindan Tohumları](dungeon-seeds)
-- [Orman Tohumları](forest-seeds)
+- [Zindan Temelleri](dungeon-seeds)
+- [Orman Temelleri](forest-seeds)
 
 ### Bölüm 2: Muhafız Araçları
 - [Bestiary (Canavar Kitabı)](bestiary)

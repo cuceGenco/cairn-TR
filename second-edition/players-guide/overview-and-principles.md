@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview & Principles
+title: Genel Bakış ve İlkeler
 parent: Player's Guide
 grand_parent: Second Edition
 ---

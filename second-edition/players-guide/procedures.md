@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Procedures
+title: Prosedürler
 parent: Player's Guide
 grand_parent: Second Edition
 ---
