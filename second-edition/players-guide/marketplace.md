@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marketplace
+title: Pazar
 parent: Player's Guide
 grand_parent: Second Edition
 ---

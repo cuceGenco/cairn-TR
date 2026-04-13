@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Character Creation
+title: Karakter Yaratma
 parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Character Creation 
+# Karakter Yaratma
 
 ## Bir Geçmiş seç veya zar at
 
