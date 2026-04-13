@@ -5,8 +5,8 @@ parent: Warden's Guide
 grand_parent: Second Edition
 ---
 
-# About the Example Party
+# Örnek Parti Hakkında
 
-- **Wolfram**: A _Hexenbane_ belonging to the _Order of the Blank Eye_. Besides the usual equipment, he carries a Voidglass Shard and the _Disassemble_ Spellbook. He has taken a _Vow of Poverty_. 
-- **Lucius**: A _Mountebank_. Besides the usual equipment he carries Bandages (3 uses) and Miracle Oil (2 uses).
-- **Freya**: A _Cutpurse_. Besides the usual equipment she carries Smoke Pellets (3 uses) and a Catring (2 charges).
+- **Wolfram**: _Boş Göz Tarikatı_'na mensup bir _Hexenbane_. Olağan ekipmanlarının yanı sıra bir Boşlukcamı Kırığı ve _Sökme_ Büyü Kitabı taşır. _Yoksulluk Yemini_ etmiştir.
+- **Lucius**: Bir _Şarlatan_. Olağan ekipmanlarının yanı sıra Sargı Bezleri (3 kullanım) ve Mucize Yağı (2 kullanım) taşır.
+- **Freya**: Bir _Yankesici_. Olağan ekipmanlarının yanı sıra Duman Topları (3 kullanım) ve bir Kedi Yüzüğü (2 şarj) taşır.

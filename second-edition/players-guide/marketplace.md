@@ -5,120 +5,119 @@ parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Marketplace 
+# Pazar
 
-> All prices are in gold pieces  
+> Tüm fiyatlar altın sikke cinsindendir
 
-## Armor
+## Zırhlar
 
-|                               |     |
-| ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+|                               |      |
+| ----------------------------- | ---- |
+| Kalkan (+1 Zırh)              | 10   |
+| Miğfer (+1 Zırh)              | 10   |
+| Gambeson (+1 Zırh)            | 15   |
+| Brigandin (1 Zırh, _hantal_)  | 20   |
+| Zincir Zırh (2 Zırh, _hantal_) | 40   |
+| Plaka Zırh (3 Zırh, _hantal_)  | 60   |
 
-## Weapons
+## Silahlar
 
-|                                                             |     |
-| ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+|                                                             |      |
+| ----------------------------------------------------------- | ---- |
+| Hançer, Sopa, Orak, Asa vb. (d6 hasar)                      | 5    |
+| Mızrak, Kılıç, Topuz, Balta, Tokmak vb. (d8 hasar)          | 10   |
+| Tepeli Baltası, Savaş Çekici, Uzun Kılıç vb. (d10 hasar, _hantal_) | 20   |
+| Sapan (d6 hasar)                                            | 5    |
+| Yay (d6 hasar, _hantal_)                                    | 20   |
+| Arbalet (d8 hasar, _hantal_)                                | 30   |
 
-## Transport
+## Ulaşım
 
-|                          |     |
-| ------------------------ | --- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+|                            |      |
+| -------------------------- | ---- |
+| Araba (+4 yuva, _hantal_)  | 30   |
+| Vagon (+8 yuva, yavaş)     | 200  |
+| At (+4 yuva)               | 75   |
+| Katır (+6 yuva, yavaş)     | 30   |
+| Araba Koltuğu              | 5    |
+| Gemi Yolculuğu             | 10   |
 
-## Upkeep & Recovery
+## Bakım ve İyileşme
 
-|                               |     |
-| ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+|                               |      |
+| ----------------------------- | ---- |
+| Oda & Kahvaltı (gecelik)      | 10   |
+| Özel Oda & Kahvaltı (4 kişilik) | 35   |
+| Ahır & Yem (gecelik)          | 5    |
+| Tıbbi İyileştirme             | 50   |
+| Konsantre Yiyecek (3 kullanım)| 10   |
+| Hayvan Yemi (3 kullanım, hantal) | 5    |
 
-## Hirelings (per day)
+## Paralı Askerler (günlük)
 
-|                   |     |
-| ----------------- | --- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+|                   |      |
+| ----------------- | ---- |
+| Simyacı           | 30   |
+| Hayvan Terbiyecisi | 5    |
+| Demirci           | 15   |
+| Koruma            | 10   |
+| Yerel Rehber      | 5    |
+| Maymuncukçu       | 10   |
+| Seyirci           | 10   |
+| Gemici            | 5    |
+| Bilgin            | 20   |
+| İz Sürücü         | 5    |
+| Tuzakçı           | 5    |
+| Kıdemli Koruma    | 20   |
 
+## Teçhizat
 
-## Gear
-
-|                                                    |     |
-| -------------------------------------------------- | --- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+|                                                    |      |
+| -------------------------------------------------- | ---- |
+| Hava Tulumu                                        | 5    |
+| Antitoksin                                         | 20   |
+| Sargı Bezleri (3 kullanım)                         | 30   |
+| Banyo Malzemeleri (Sabun, Parfüm vb.)              | 5    |
+| Kitap                                              | 50   |
+| Kurşun Diken                                       | 10   |
+| İskambil Kağıtları                                 | 5    |
+| Zincir (3 m)                                       | 10   |
+| Tebeşir (_önemsiz_)                                | 1    |
+| Sandık                                             | 25   |
+| Keski                                              | 5    |
+| Yaygın Maddeler (Tutkal, Gres vb.)                 | 10   |
+| Yaygın Aletler (Çekiç, Kürek vb.)                  | 10   |
+| Pusula                                             | 75   |
+| Karmaşık Çalgılar (Gayda, Keman vb.)               | 50   |
+| Kaplar (Çuval, Matara vb.)                         | 10   |
+| Pişirme Malzemeleri (Tencereler, Mutfak Gereçleri vb.) | 10   |
+| Kostüm Malzemeleri (Yüz Boyası, Kılık Değiştirme)  | 15   |
+| Suyun Yerini Bulma Çubuğu                          | 15   |
+| Keşif Teçhizatı (Tırmanma Çivisi, Makara vb.)      | 10   |
+| Ateş Yağı                                           | 10   |
+| Olta                                               | 10   |
+| Oyunlar (Kartlar, Zarlar vb.)                      | 10   |
+| Eldivenler (_önemsiz_)                             | 20   |
+| İp Uçlu Kanca                                      | 25   |
+| Fener                                              | 10   |
+| Ayna                                               | 5    |
+| Ağ                                                 | 10   |
+| Yağ Tenekesi (6 kullanım)                          | 10   |
+| Dış Mekan Konforu (Battaniye, Hamak vb.)           | 10   |
+| Parşömen (3 kullanım)                              | 10   |
+| Sırık (3 m)                                        | 5    |
+| Kovucu (Kurtboğan, Pelinotu vb.)                   | 10   |
+| Halat (7.5 m)                                      | 5    |
+| Sakinleştirici                                     | 30   |
+| Dikiş Seti                                         | 20   |
+| Basit Çalgılar (Kaval, Lavta vb.)                  | 10   |
+| Pipet (_önemsiz_)                                  | 15   |
+| Özel Aletler (Mürekkep vb.)                        | 20   |
+| Sivri Çizmeler                                     | 15   |
+| Dürbün                                             | 40   |
+| Çadır (2 kişilik, _hantal_)                        | 20   |
+| Hırsız Aletleri (Maymuncuk, Eğe vb.)               | 25   |
+| Meşale (3 kullanım)                                | 5    |
+| Tuzak (d6 GÜÇ hasarı)                              | 35   |
+| Düdük (_önemsiz_)                                  | 15   |
+| Doğa Kıyafetleri (Ponço, Pelerin vb.) (_önemsiz_)  | 15   |

@@ -4,298 +4,289 @@ title: Procedures
 parent: Player's Guide
 grand_parent: Second Edition
 ---
+# Prosedürler
 
-# Procedures
+## Zindan Keşfi
 
-## Dungeon Exploration
+### Temel Bilgiler
 
-### The Basics
+- Zindan keşif döngüsü (aşağıya bakın) bir dizi **Tur**, **Eylem** ve bunların sonuçlarına bölünmüştür.
+- Kendi **turunda** bir karakter, meşale ışığının çevresine eşit bir mesafe (yaklaşık 12 metre) hareket edebilir ve bir **eylem** gerçekleştirebilir. Oyuncular **eylemlerini** bu mesafenin üç katına kadar hareket etmek için kullanabilirler, ancak bu, [**Zindan Olayları**](#zindan-olayları) tablosunda zar atma şansını artıracaktır.
+- **Muhafız**, bir alan ve tehlikeleri hakkında bariz bilgileri özgürce ve hiçbir bedel ödemeden sunmalıdır. Hızlı veya dikkatsiz hareket etmek, gezgin bir canavarla karşılaşma, bir tuzağa basma veya [**Zindan Olayları**](#zindan-olayları) tablosunda zar atma şansını artırabilir.
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+> Burada "zindan" terimi kullanılsa da, herhangi bir tehlikeli yeri (konaklar, çiftlik evleri, macera alanı vb.) ifade edebilir.
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+### Zindan Keşif Döngüsü
 
-### Dungeon Exploration Cycle
+1. **Muhafız**, partinin çevresini ve acil tehlikeleri (çatışma, tuzaklar, sürprizler vb.) betimler. Oyuncular daha sonra karakterlerinin amaçlanan hareketlerini ve **eylemlerini** bildirir.
+2. Muhafız, her karakterin **eylemlerini** halihazırda devam eden **eylemlerle** birlikte eş zamanlı olarak çözer. Unutmayın, Kader Zarı Muhafız'ın kararsız kaldığı her an kullanışlı bir araç olabilir!
+3. Oyuncular herhangi bir kaynak kaybını ve yeni durumları (yani eşya kullanımı, _bitkinlik_ vb.) kaydeder. Döngü daha sonra yeniden başlar. Uygunsa, **Muhafız** [**Zindan Olayları**](#zindan-olayları) tablosunda zar atmalıdır. Sonuçları yorumlarken sağduyuyu elden bırakmayın!
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+### Zindan Olayları
 
-### Dungeon Events
+Bir zindanı keşfetmek her zaman tehlikelidir ve zaman, her zaman mekanın sakinlerini, doğal tehlikeleri ve daha kötüsünü uyandırma riskine karşı tartılmalıdır.
+Parti:
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+- Tek bir odada veya konumda bir zindan döngüsünden fazla zaman harcarsa
+- Bir odada hızlı veya düzensiz hareket ederse
+- Yeni bir alana, kata veya bölgeye geçerse
+- Yüksek sesli bir rahatsızlık yaratırsa
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+**Aşağıdaki tabloda zar atın.**
 
-**Roll on the table below.**
+|       |                 |                                                                                                                       |
+| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| **1** |  **Karşılaşma** | Bir karşılaşma tablosunda zar at. Muhtemelen **düşmanca**. (Bkz. [Tepkiler](/second-edition/players-guide/core-rules#tepkiler).) |
+| **2** |    **İşaret**   | Bir ipucu, iz, patika, terk edilmiş in, koku, kurban vb. keşfedilir.                                                 |
+| **3** | **Çevre**       | Çevre değişir veya yükselir. Sular yükselir, tavanlar çöker, bir ritüel tamamlanmaya yaklaşır vb.                    |
+| **4** |    **Kayıp**    | Meşaleler söner, devam eden bir büyü söner vb. Parti devam etmeden önce etkiyi çözmelidir.                           |
+| **5** | **Tükenme**     | Parti dinlenmeli (bu tabloda başka bir zarı tetikler), bir **Yorgunluk** eklemeli veya bir konsantre yiyecek tüketmelidir. |
+| **6** |    **Sessizlik**| Parti bir süreliğine yalnız (ve güvende) bırakılır.                                                                   |
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+### Eylemler
 
-### Actions
+- **Eylemler**, _tuzak arama_, _kapıyı zorla açma_, _tehlikeyi dinleme_, _tuzak etkisiz hale getirme_, _düşmanla çatışmaya girme_, _büyü yapma_, _tuzaktan kaçma_, _kaçma_, _dinlenme_ vb. gibi pasif olmayan her türlü faaliyettir.
+- Bazı **eylemlerin** özel kuralları vardır (aşağıya bakın), diğerleri ise tamamlanması birden fazla **tur** alabilir.
+- Yüksek sesli veya fark edilebilir **eylemler** ayrıca zindan sakinleriyle bir **karşılaşmayı** tetikleyebilir.
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+#### Arama
 
-#### Searching
+- Bir karakter, bir alandaki **bir** nesneyi veya konumu _kapsamlı_ bir şekilde aramak için bir **tur** harcayabilir ve ilgili gizli hazineleri, tuzakları, gizli kapıları vb. ortaya çıkarabilir.
+- Daha büyük odalar ve zorlu veya karmaşık zindan arazilerinin düzgün bir şekilde aranması birkaç **tur** alabilir.
+- Bir odayı _önce_ aramak, zindanı keşfetmenin daha güvenli bir yoludur, ancak dik bir bedeli vardır: zaman.
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+#### Dinlenme
 
-#### Resting
+- Bir karakter tüm **HK**'sını geri kazanmak için bir tur **dinlenerek** geçirebilir.
+- **Dinlenmek** için bir ışık kaynağı ve _güvenli bir konum_ gereklidir. Mevcut veya yaklaşan tehlike, **dinlenmeyi** imkansız hale getirir.
+- **Dinlenme**, **Yorgunluk** geri kazandırmaz, çünkü bir zindanda güvenli bir şekilde **Kamp Kurmak** imkansızdır.
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+## Panik
 
-## Panic
+- Düşmanlarla çevrili, karanlığa gömülmüş veya en büyük korkularıyla yüzleşen bir karakter _panik_ yaşayabilir. Kontrolü kaybetmemek ve _panik_ olmamak için tipik olarak bir **İRADE** **zarı** gereklidir.
+- _Panik_ olan bir karakter, kendi **turunda** bir **eylem** olarak durumunun üstesinden gelmek için bir **İRADE** **zarı** atmalıdır.
+- _Panik_ olan bir karakterin **HP**'si 0'dır, çatışmanın ilk turunda hareket etmez ve tüm saldırıları _zayıflamıştır_.
+### Zindan Unsurları
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+#### Işık
+- Meşaleler ve diğer dairesel ışık kaynakları, 12 metrelik zindanı aydınlatır ve bunun ötesinde sadece nesnelerin loş bir taslağını gösterir. Meşaleler, bir karakter veya çevre tarafından söndürülene kadar dayanır.
+- Bir meşale, kalıcı olarak bozulmadan önce 3 kez yakılabilir. Bir fener, her yağ tenekesinde 6 kez yeniden yakılabilir, ancak daha fazla envanter yuvası gerektirir.
+- Işık kaynağı olmayan karakterler, durumları düzelene kadar _panik_ yaşayabilir.
 
-### Dungeon Elements
+#### Kapılar
+- Kapılar ve girişler kilitli, sıkışmış veya tamamen tıkalı olabilir. Karakterler mevcut kaynakları (sivri uçlar, tutkal) veya ham yeteneklerini kullanarak bir kapıyı zorla açmayı (veya kapatmayı) deneyebilir.
+- Partinin yürüyüş düzeni, bir kapının ardında ne olduğundan en çok kimin etkileneceğini belirler.
+- Bir karakter, dikkatli gözlem (dinleme, koklama vb.) yoluyla yakındaki kapı ve duvarların ardındaki yaşam belirtilerini ve diğer tehlikeleri tespit edebilir.
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### Tuzaklar
+- Dikkatli bir karaktere, bir tuzağı _tetiklemekten kaçınma_ fırsatı verecek her türlü bilgi sunulmalıdır. Habersiz bir karakter, kurguya göre bir tuzağı tetikler veya aksi halde 6'da 2 şansı vardır.
+- **Tuzaklar** genellikle bir odayı dikkatlice **arayarak** tespit edilebilir.
+- Tuzaklardan gelen hasar, **HP**'den _değil_, Niteliklerden (genellikle **GÜÇ** veya **ÇEV**) alınır. Zırh hasarı azaltabilir, ancak yalnızca uygulanabiliyorsa (örneğin bir kalkan, zehirli gazdan gelen hasarı azaltmaz).
 
-#### Doors
+## Vahşi Doğa Keşfi
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+### Nöbetler
+- Bir gün _sabah_, _öğleden sonra_ ve _gece_ olmak üzere üç **nöbete** bölünmüştür.
+- Her karakter, **nöbet** başına _bir_ [**Vahşi Doğa Eylemi**](#vahşi-doğa-eylemleri) seçebilir.
+- Karakterler ayrılırsa, her grup bağımsız bir varlık olarak ele alınır.
 
-#### Traps 
+### Noktalar
+- Haritadaki potansiyel varış noktalarına **nokta** denir.
+- Bir haritada iki **nokta** arasında seyahat etmek için, rotaya, araziye, havaya ve parti durumuna bağlı olarak bir veya daha fazla **nöbet** gerekebilir.
+- Parti, hedeflerine ulaşmak için gereken zorluklar hakkında kabaca bir fikre sahiptir, ancak nadiren ayrıntılı bilgiye sahiptir.
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+### Seyahat Süresi
+Cairn'de seyahat süresi, günde üç sekiz saatlik dilime bölünmüş nöbetlerle hesaplanır. Bununla birlikte, çoğu parti günün üçüncü nöbetini dinlenmeye ayırdığından, seyahat süresi için kısa olarak "gün" kullanılabilir.
 
-## Wilderness Exploration
+İki nokta arasındaki mesafeyi belirlemek için, rota boyunca bu unsurlardaki değişiklikleri dikkate alarak yol, arazi ve hava durumu zorluk tablolarındaki tüm cezaları birleştirin. Su yollarıyla seyahat için çevredeki arazi zorluğuna bakın. Özellikle geniş araziler için yolculuğa +2 nöbete kadar ceza ekleyin.
 
-### Watches
+Hava durumu, arazi, karanlık, yaralı parti üyeleri ve diğer engeller seyahati etkileyebilir, hatta imkansız hale getirebilir! Bazı durumlarda, partinin tempolarını sürdürmek için **Yorgunluk** eklemesi veya kaynaklarını harcaması gerekebilir. Binek hayvanları, rehberler ve haritalar partinin seyahat hızını artırabilir veya hatta belirli cezaları geçersiz kılabilir.
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
-- If the characters split up, each group is treated as an independent entity.
+### Yol Zorluğu
 
-### Points
-
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
-
-### Travel Duration
-
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
-
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
-
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
-
-### Path Difficulty
-
-|            |             |                          |
-| ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+|                 |             |                           |
+| --------------- | ----------- | ------------------------- |
+| **Yol**         | **Ceza**    | **Kaybolma Olasılığı**    |
+| Yollar          | Yok         | Yok                       |
+| Patikalar       | +1 Nöbet    | 6'da 2                    |
+| Vahşi Doğa      | +2 Nöbet    | 6'da 3                    |
 
 |                   |             |
 | ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+| **Yol Mesafesi**  | **Ceza**    |
+| Kısa              | +1 Nöbet    |
+| Orta              | +2 Nöbet    |
+| Uzun              | +3 Nöbet    |
 
-## Terrain Difficulty
+### Arazi Zorluğu
 
-|                |                               |             |                                                                                                       |
-| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+|                |                               |             |                                                                                                                   |
+| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Zorluk**     | **Arazi**                     | **Ceza**    | **Faktörler**                                                                                                     |
+| **Kolay**      | **Ovalar, platolar, vadiler** | Yok         | _Dinlenmek için güvenli alanlar, yol arkadaşları, iyi görüş_                                                        |
+| **Zorlu**      | **Ormanlar, çöller, tepeler** | +1 Nöbet    | _Vahşi hayvanlar, su baskınları, kırık ekipmanlar, düşen kayalar, güvensiz barınaklar, avcı tuzakları_             |
+| **Tehlikeli**  | **Dağlar, ormanlar, bataklık**| +2 Nöbet    | _Bataklık, emici çamur, boğucu asmalar, kirli su, zehirli bitkiler ve hayvanlar, zayıf navigasyon_                |
+### Hava Durumu
 
-### Weather
+Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "**Aşırı**" hava sonucu arka arkaya iki kez gelirse, hava "**Felaket**" seviyesine döner. Bir fırtına kasırgaya dönüşür, bir sağanak vadiyi su altında bırakır, vb.
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+#### Hava Türü
 
-#### Weather Type
+|        |             |             |            |             |
+| :----: | :---------: | :---------: | :--------: | :---------: |
+| **z6** | **İlkbahar** | **Yaz**     | **Sonbahar** | **Kış**     |
+| **1**  | Hoş         | Hoş         | İyi        | İyi         |
+| **2**  | İyi         | Hoş         | İyi        | Rahatsız edici |
+| **3**  | İyi         | İyi         | Rahatsız edici | Şiddetli    |
+| **4**  | Rahatsız edici | Rahatsız edici | Şiddetli   | Şiddetli    |
+| **5**  | Şiddetli    | Şiddetli    | Şiddetli   | Aşırı       |
+| **6**  | Aşırı       | Aşırı       | Aşırı      | Aşırı       |
 
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+#### Hava Durumu Zorluğu
 
-#### Weather Difficulty
+|                    |                                                                                                         |                                                              |
+| :----------------: | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+|    **Hava Durumu** | **Etki**                                                                                                | **Örnekler**                                                 |
+|      **Hoş**       | Seyahat için uygun koşullar.                                                                            | _Açık gökyüzü, güneşli_                                      |
+|      **İyi**       | Seyahat için uygun koşullar.                                                                            | _Bulutlu, esintili_                                           |
+| **Rahatsız edici** | Bir **Yorgunluk** ekleyin _veya_ yolculuğa bir **nöbet** ekleyin.                                      | _Fırtınalı rüzgarlar, sağanak yağmur, kavurucu sıcak, soğuk hava_ |
+|    **Şiddetli**    | Bir **Yorgunluk** ekleyin _veya_ **+1 nöbet** ekleyin. Arazi **Zorluğunu** bir kademe artırın.         | _Gök gürültülü fırtınalar, şimşek, yağmur, çamurlu zemin_      |
+|     **Aşırı**      | Bir **Yorgunluk** _ve_ **+1 nöbet** ekleyin. Arazi **Zorluğunu** bir kademe artırın.                   | _Kar fırtınaları, dondurucu rüzgarlar, su baskınları, çamur kaymaları_ |
+|    **Felaket**     | Çoğu parti bu koşullar altında seyahat edemez.                                                           | _Kasırgalar, gelgit dalgaları, büyük fırtına, volkanik patlama_  |
 
-|                  |                                                                                                         |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+### Vahşi Doğa Keşif Döngüsü
 
-### Wilderness Exploration Cycle
+1. **Muhafız**, haritadaki mevcut **noktayı** veya **bölgeyi** ve yol, hava durumu, arazi veya parti durumunun **seyahat hızını** nasıl etkileyebileceğini betimler. Parti, hedeflerine doğru bir rota çizer veya mevcut rotayı ayarlar.
+2. Her parti üyesi tek bir **Vahşi Doğa Eylemi** seçer. **Muhafız** sonuçları anlatır ve ardından [**Vahşi Doğa Olayları**](#vahşi-doğa-olayları) tablosunda zar atar. Parti sonuçlara yanıt verir.
+3. **Oyuncular** ve **Muhafız** herhangi bir kaynak kaybını ve yeni durumları (yani meşale kullanımı, _bitkinlik_ vb.) kaydeder ve döngü tekrarlanır.
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+### Vahşi Doğa Olayları
 
-### Wilderness Events
+|       |                  |                                                                                                                                                                                                                                                                      |
+| ----- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Karşılaşma**   | Bu arazi türü veya konum için bir karşılaşma tablosunda zar at. Uygunsa NPC [tepkileri](/second-edition/players-guide/core-rules.md#tepkiler) için zar atmayı unutmayın.                                                                                                    |
+| **2** | **İşaret**       | Parti, yakındaki bir karşılaşma, yerellik, gizli bir özellik veya yakındaki bir alan hakkında bilgi ipucu, iz veya belirti keşfeder.                                                                                                                                           |
+| **3** | **Çevre**        | Hava durumunda veya arazide bir değişiklik.                                                                                                                                                                                                                           |
+| **4** | **Kayıp**        | Parti, onlara bir kaynağa (konsantre yiyecek, alet vb.), zamana veya çabaya mal olan bir seçimle karşı karşıyadır.                                                                                                                                                         |
+| **5** | **Tükenme**      | Parti, çaba, dikkat veya gecikmeler gerektiren bir engelle karşılaşır. Bu, fazladan zaman harcamak (ve ek bir **Vahşi Doğa Eylemi**) veya zorluklarını temsil etmesi için PC'nin envanterine **Yorgunluk** eklemek anlamına gelebilir.                                   |
+| **6** | **Keşif**        | Parti yiyecek, hazine veya diğer kullanışlı kaynakları bulur. **Muhafız** bunun yerine bölgenin ana özelliğini ortaya çıkarmayı seçebilir.                                                                                                                                |
+### Vahşi Doğa Unsurları
 
-|       |                 |                                                                                                                                                                                                                            |
-| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+#### Gece
 
-### Wilderness Elements
+- Parti gece seyahat etmeyi ve gündüz dinlenmeyi tercih edebilir, ancak gece seyahati çok daha yavaş ve daha tehlikelidir!
+- Gece seyahati her zaman daha tehlikelidir! **Muhafız** [**Vahşi Doğa Olayları**](#vahşi-doğa-olayları) tablosunda _iki kez_ zar atmalıdır.
+- Bazı araziler ve hava koşulları gece daha kolay aşılabilir (örneğin çöl). **Muhafız** bu zorlukları diğerleriyle birlikte dengelemelidir.
 
-#### Night
+#### Uyku
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+- Günün son **nöbeti** tipik olarak [**Kamp Kur**](#kamp-kur) eylemi için ayrılmıştır.
+- Karakterlerin tipik olarak her gün uyumaya ihtiyacı vardır. Küçük bir kesintinin ötesindeki her şey uykunun faydalarını ortadan kaldırabilir veya iptal edebilir.
+- Parti **Kamp Kur** eylemini atlarsa, her biri envanterine bir **Yorgunluk** ekler ve _bitkin_ düşer. Ek olarak, uykusuz seyahat etmek arazi **Zorluğunu** bir kademe artırır (yani _Kolay_, _Zorlu_ olur).
 
-#### Sleep
+#### Işık
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+- Meşaleler ve diğer dairesel ışık kaynakları partinin 12 metre ilerisini aydınlatır, ancak bunun ötesinde sadece nesnelerin loş bir taslağını sağlar.
+- Işık kaynağı olmayan karakterler, durumları düzelene kadar _panik_ yaşayabilir.
+- Çevresel koşullar (ani rüzgarlar, toz, su vb.) bir meşaleyi kolayca söndürebilir.
 
-#### Light
+##### Işık Kaynakları
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+- Bir meşale bozulmadan önce 3 kez yakılabilir.
+- Bir fener süresiz olarak yeniden yakılabilir ancak ayrı bir yağ tenekesi (6 kullanım) gerektirir.
 
-##### Light Sources
+### Vahşi Doğa Eylemleri
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+#### Seyahat Et
 
-### Wilderness Actions
+- Seyahat başlar. Yakındaki alanların belirgin konumları, özellikleri ve arazileri mesafelerine göre ortaya çıkar. Bu eylem tipik olarak tüm parti tarafından tek bir eylem olarak yapılır.
+- Parti, yol boyunca kaybolup kaybolmadıklarını görmek için 1z6 atar. Bu risk, yol **Zorluğuna**, haritalara, parti becerilerine ve rehberlere bağlı olarak artabilir veya azalabilir.
+- Kaybolursa, partinin yolunu bulmak için bir **Vahşi Doğa Eylemi** harcaması gerekebilir. Aksi halde parti, rotası boyunca bir sonraki **noktaya** ulaşır.
 
-#### Travel
+> Kaybolma sonuçlarını ilgili yol **Zorluğu** ile karşılaştırmayı unutmayın.
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+#### Keşfet
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+- Bir veya daha fazla parti üyesi, gizli özellikleri arayarak, ileriyi keşfederek veya dikkatli adımlarla geniş bir alanı araştırır.
+- Bir Konum (barınak, köy, mağara vb.) veya Özellik (gayzer, yer altı nehri, karaya vurmuş gemi vb.) keşfedilir.
+- Mevcut alan tamamen keşfedilmiş olsa bile, alandan _ayrılmak_ için yine de **Seyahat Et** eylemi gereklidir.
 
-#### Explore
+#### Tedarik Et
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+- Bir veya daha fazla parti üyesi avlanabilir, balık tutabilir veya yiyecek toplayabilir, 1z4 **Konsantre Yiyecek** (her biri 3 kullanım) toplar. Daha fazla ganimet şansı, katılan her ekstra katılımcıyla artar (örneğin 1z4, 1z6 olur, maksimum 1z12'ye kadar).
+- İlgili deneyim veya ekipman da toplanan ganimeti artırabilir.
+- Parti evler ve küçük köylerle karşılaşabilir, altın harcayarak ve tam bir **nöbet** ayırarak malzeme yenileyebilir.
 
-#### Supply
+#### Kamp Kur
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+- Parti vahşi doğada kamp kurmak için durur. Her parti üyesi (ve binek hayvanları) bir **Konsantre Yiyecek** tüketir.
+- Partinin rahatsız edilmeden uyuyabilmesi için bir **nöbetçi sırası** belirlenir. Daha küçük bir partinin korumasız uyuma riskini alması veya birkaç güne yayılmış şekilde nöbet değiştirmesi gerekebilir.
+- Dinlenebilen parti üyeleri, envanterlerindeki tüm **Yorgunluk**ları kaldırır.
 
-#### Make Camp
+## Aşağı Zaman
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+Oyun oturumları arasında, oyuncular araştırma yapmak, ipuçlarını takip etmek, becerilerini geliştirmek veya ilişkiler kurmak gibi çeşitli faaliyetlerde bulunabilir. Bir PC, aynı anda yalnızca bir **Aşağı Zaman Eylemi** ile sınırlıdır. Bu eylemler güvenli olmayan koşullarda veya bir karakter iyileşme sürecindeyken yapılamaz. Bir karakter, eylem güvenliğini riske atacaksa bir eylem gerçekleştiremez.
 
-## Downtime
+### Kilometre Taşları
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+Birden fazla adım gerektiren faaliyetler için **Muhafız**, oyuncuların ilerlemeyi takip etmesi için 1-5 **Kilometre Taşı** belirler. Her **Kilometre Taşı**, kapsamlı, etkileşimsiz bir görevi temsil eder. **Muhafız**, bu hedeflere ulaşmak için her biri farklı **Kilometre Taşlarına** sahip farklı stratejiler sunabilir. Oyunda gelişen olaylara bağlı olarak, **Muhafız** ayrıca yeni **Kilometre Taşları** ekleme veya mevcut olanları atma yetkisine sahiptir.
+### Bedeller
 
-### Milestones
+PC'ler, bir **Aşağı Zaman Eylemi** yaparak ve ilgili **Bedel**i ödeyerek bireysel **Kilometre Taşlarını** tamamlayabilir. Bir karakter **Bedel**i ödeyemezse, hedefine ulaşmak için başka bir yol bulması gerekebilir. **Bedel** için birkaç örnek:
+- **Altın**: Bir karakterin envanterinden doğrudan altın ödemesi.
+- **Kaynaklar**: Malzemeler, belirli yaygın eşyalar vb. gibi parasal olmayan maliyetler.
+- **İtibar**: Bir karakterin şöhreti, kişiliği, varlığı, sosyal bağlantıları vb. üzerine bahse girmek.
+- **Kayıp**: Belirli ve benzersiz bir şey sunmak. Bir parmak, bir ruh, bir **Kalıntı** vb.
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+Bazı **Bedeller**, karakter becerileri, bağlantıları veya irade gücü sayesinde azaltılabilir veya tamamen göz ardı edilebilir. Örneğin, bir PC tanınmış bir kuruma erişmek için gerekli itibara zaten sahip olabilir ve bu nedenle **bedel** düşer. Öte yandan, başka bir karakter bu kadar şanslı olmayabilir ve bunun yerine kişiliğinin gücüne güvenmek zorunda kalabilir. Bu durumda, Muhafız riski belirtmelidir (girişin kalıcı olarak yasaklanması, itibar kaybı vb.). PC daha sonra bir **İRADE** zarı atar; başarılı olursa, bedel ya azaltılır ya da tamamen atlatılır.
 
-### Costs
+## Aşağı Zaman Eylemleri
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+Aşağıdaki faaliyetler, oyuncuların seçebileceği en yaygın **Aşağı Zaman Eylemleri**nden bazılarını temsil eder. **Muhafız** ayrıca oyunun ihtiyaçlarına göre özel eylemler de oluşturabilir.
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+### Araştırma
 
-## Downtime Actions
+Bir PC, kayıp veya unutulmuş bir bilgi parçası, kayıp bir eşyanın konumu, önemli bir NPC'nin nerede olduğu vb. hakkında bir soruyu araştırır. Bu eylemi gerçekleştirmek için oyuncunun yanıtlamak istediği açıkça formüle edilmiş bir sorusu ve karakterinin etkileşime girebileceği oyun dünyasında bir **Kaynak** bilgisi olmalıdır. PC'nin bir **Kaynağı** yoksa, bir tane bulmaya çalışmak için bir **Aşağı Zaman Eylemi** harcayabilir. Başarılı olacağının garantisi yoktur. Bir soru sorulduktan ve uygun bir **Kaynak** belirlendikten sonra, **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+#### Sorular
 
-### Research
+Her zaman olduğu gibi, soru oyun sırasında meydana gelen bir deneyimden gelmelidir.
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+**Örnekler:**
 
-#### Questions
+- "**Doğu Nipoor'un Kayıp Tapınağı** nerede?"
+- "**Servet Şehri**'nde kadim bir kasayı nasıl kıracağını bilebilecek kim var?"
+- "**Kıvırcık hastalığının** tedavisini nerede bulabilirim?"
 
-As always, the question must come from an experience that occurred during play.
+#### Kaynaklar
 
-**Examples:**
+Bir **Kaynak**, karakterin aradığı cevabın bir kısmını veya tamamını elinde bulunduran bir kişi, yer, fraksiyon veya varlıktır. Bunlar NPC'ler, Fraksiyonlar, ruhlar veya hatta diğer PC'ler olabilir.
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+##### Örnekler:
 
-#### Sources
+- **Ağız Kewr**, **Tüccarlar Konseyi** için sık kullanılan bir bağlantı. Bu fraksiyonla mükemmel bir ilişkileri olmasına rağmen, yasadışı bir faaliyet için yardım istemek yüksek bir bedel gerektirebilir.
+- **Bıçak Ormanı**'nın derinliklerinde evini yapan bir **Orman Adamı**. Parti onu daha önceki bir seferde karşılamıştı ve karşılaşma iyi bitmemişti. Yine de, her bitkinin doğasını ve iyileştirici özelliklerini bildiği söylenir.
+- **Kuklalar Tapınağı**, bilinen ve bilinmeyen diyarları dolaşmış göçebe bir sirk kumpanyası. Parti, **Ateş Yağmuru** sırasında, Orman'ın yaratıklarının bile evlerini terk etmeye hazırlandığı bir anda, üyelerinden birine yardım etti. Unutulmuş yerleri duyan varsa, onlardır.
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+### Eğitim
 
-##### Examples: 
+Bir karakter, net bir anlatı veya mekanik sonuçla, bir eşya veya yetenek konusundaki becerilerini geliştirebilir. Belirli bir silahla daha fazla hasar vermek, sert havalarda kaybolma şansını azaltmak veya eskilerin dillerini okumayı öğrenmek isteyebilir. Bir PC, belirli bir silahla çalışarak, becerilerini haftalar içinde geliştirerek birden fazla **Aşağı Zaman Eylemi** harcayabilir. Veya uzak bir bilgenin evine seyahat etmeleri, kısa ama yoğun bir çalışmayla kendilerini geliştirmeleri gerekebilir.
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+Oyuncu, tam olarak neyi geliştirmek istediğini ve birlikte eğitim alabileceği bir **Usta**yı tanımlamalıdır. Ve tabii ki, karakterin gelişme ilhamı oyundaki bir deneyimden gelmelidir. **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
 
-### Training
+**Örnekler:**
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+- **İki Elli Savuşturma**: Bir eli boşken savaşırken, bir PC'nin HP'si geçici olarak 1d4 artar. Parti, **Kraterli Topraklar**'dan bir paralı asker tuttu; bu toprakların savaşçıları düşman saldırılarından kaçınmaya önem verir. Kadın, kendisini göğüs göğüse dövüşte yenebilecek herkese eğitim vermeyi kabul etti.
+- **Bitki Bilimi**: Doğru malzemeler verildiğinde, bir PC bir **Aşağı Zaman Eylemi** olarak bir **İyileştirici Merhem** (4 GÜÇ onarır) yapabilir. **Yeşil Koruluklar**'daki yaşlı bir bitkici kadından bakım aldıktan sonra, yaralı PC şifa sanatlarında eğitilmek istedi. **Usta** kabul etti, ancak eğitime başlamadan önce üç nadir bitki toplamalarını istedi.
+- **Alabalık Ustası**: Tedarik etme **Eylemi** yaparken, soğuk tatlı su kaynaklarının yakınında toplanan **Konsantre Yiyecek**ler bir kademe artar (örn. 1z4, 1z6 olur). Parti, ünlü korkunç **Gümüş Atıklar**'dan mahsur kalmış bir doğa bilimciyi güvenli bir şekilde şehre geri getirdi. Teşekkür olarak, soğuk sularda sıkça bulunan yaygın bir göl balığını tanımlamak ve yakalamak için bir PC'ye eğitim vermeyi teklif etti.
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
 
-**Examples:**
+### Bağları Güçlendirme
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+Bir karakter, oyun dünyasındaki bir NPC veya Fraksiyon ile bağ kurar. İlk olarak, bağlarını güçlendirmek istedikleri varlığı ve belirli bir **niyeti** (örneğin güven inşa etmek, bir arkadaşlığı onarmak, bir Fraksiyona üyelik talep etmek, bir ittifak oluşturmak vb.) belirlemelidir. **Muhafız** daha sonra PC'nin ilişkiyi ilerletmek için üstlenebileceği somut önlemleri (**Kilometre Taşları** ve **Bedeller** olarak tanımlanır) sağlar. Tamamlanan her **Kilometre Taşı** ile **Muhafız**, PC'nin ilişkisinin nasıl büyüdüğünü veya değiştiğini betimler.
 
-### Strengthening Ties
+**Örnekler:**
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
-
-**Examples:**
-
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+- **Kökler**'e yapılan başarısız bir inişten dönen bir PC, farkında olmadan bir kaçak yolcu getirdiğini keşfeder: yeni çatlamış, gözsüz bir yiyici. Yaratığı saklamaya ve gizlice eğitmeye karar verir.
+- Bir oyun oturumu sırasında, bir PC **Helm Tarikatı**'nın bir ajanıyla arkadaş olur. Tarikatın değerlerinden etkilenen PC, katılmak için gereken koşulların neler olduğunu sorar.
+- Güçlü bir fraksiyonun bir ajanı, partinin bakımı altındayken **Kurbağalar Savaşı** sırasında ölür. Şimdi sorumlu olanlar, partinin o fraksiyon için tekrar görev yapabilmesi adına bir tazminat sunmak istemektedir.

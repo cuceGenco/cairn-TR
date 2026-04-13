@@ -7,32 +7,32 @@ grand_parent: Second Edition
 
 # Vald
 
-## Introduction
+## Giriş
 
-The implied setting of Cairn is called **Vald**, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative. 
+Cairn'in varsayılan oyun evreni **Vald** olarak adlandırılır; gelişmiş veya yerleşim olan tüm toprakları, şehirleri, kasabaları, ormanları vb. kapsar. Belirli bir hükümdar önemsizdir, çünkü çoğu macera daha küçük kasaba ve köylerde, ormanda ve diyarın kıyı bölgelerinde geçecektir. Çoğu sakin (bölgeden bağımsız olarak) yerel güç merkezlerinden _Şehirler_ olarak bahseder, bazen aşağılayıcı bir şekilde.
 
-Towns and villages are built near water and lumber sources, within a day's walk of each other. Larger villages may rely on nearby farms and hunters. Settlements are often organized around specific industries like lumber, brewing, fishing, or mining, with a Fieldwarden or Beast Handler protecting their most valued assets. 
+Kasabalar ve köyler, su ve kereste kaynaklarının yakınına, birbirlerine bir günlük yürüme mesafesinde inşa edilir. Daha büyük köyler yakınlardaki çiftliklere ve avcılara güvenebilir. Yerleşimler genellikle kerestecilik, biracılık, balıkçılık veya madencilik gibi belirli endüstriler etrafında organize edilir ve en değerli varlıklarını bir Tarla Muhafızı veya Canlı Terbiyecisi korur.
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger caravans, or Rill Runners to help ferry passengers in the Riverlands.
+Büyük kasabalar arasındaki yerleşik patikalar oldukça yaygındır, ancak bakımlı yollar neredeyse yoktur, uzak şehirler dışında. Gezgin tüccarlar, Kazancılar ve çeşitli seyyar satıcılar yerleşimlerden yarı-düzenli olarak geçer, bazen daha büyük kervanları korumak ve eskortluk etmek için Öncü Süvarileri veya Nehir Taşımacılığı'nda yolcu taşımaya yardımcı olması için Derenin Koşucularını tutarlar.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+En küçük köy bile şehirlerden bilgin tiplere ev sahipliği yapabilir: Yakındaki mezarlar, tümülüsler ve Geçitlerle yakından ilgilenen bir Yazman, Aurifex veya Yeşil Bilge. Genellikle bir Kemik Bekçisi veya Mantar Toplayıcısı uzmanlıkları için tutulur, zeki maceracılar ise bir Berber-Cerrah'ın asla uzakta olmamasını sağlar veya hoş olmayan işler varsa bir Yankesici. Tabii ki, Düzenbazlar ve Jonglörler genellikle bu tiplere eşlik eder, onların eteklerinde sürüklenerek bir sonraki büyük keşiften kendilerinin de faydalanacağını umarlar.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+Orman'a girenler, bölgeye aşina bir rehber tutar, örneğin bir Pusucu veya Okçu, gerçekten kararlı gezgin ise daha karanlık sırlarıyla bağlantısı olan bir Yarım Cadı veya Buluntu'nun bilgeliğini arar. Sınıra yakın yerlerde, Sınır Muhafızları diyarı dış etkilerden korumak için çalışırken, Hexenbane'ler onu içerideki güçlerden korumaya çalışır.
 
-## The Wood
+## Orman
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. 
+**Orman** diyarı çevreler ve böler, sadece bir ormanı değil, _tüm_ ormanları temsil eder. Orman'ın sakinleri son derece bağımsızdır ve yalnızca onun kurallarına tabi olduklarına inanırlar. Çeşitli halkları, yaratıkları ve amansız doğal unsurları, çok eski zamanlardan beri dış dünyayı uzakta tutmuştur.
 
-At the core of each forest is a Heart Tree, the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single Heartseed, acquired exclusively from a Heart Tree that is dying or dead. 
+Her ormanın özünde bir Kalp Ağacı bulunur, ormanın hem en güçlü hem de en tehlikeli olduğu yer. Her Kalp Ağacı, yalnızca ölmekte olan veya ölü bir Kalp Ağacından elde edilen tek bir Kalp Tohumundan doğar.
 
-The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
+Orman, Goblinler, Ruhlar, Ağaçdevler, Troller, Kurtadamlar, Cadılar ve hatta konuşan bitkiler ve hayvanlar gibi tuhaf ve harika yaratıklarla doludur. Çoğu yabancılara (özellikle insanlara) açıkça düşmancadır, ancak diğerleri (zaman zaman) Orman'a saygı gösterenlerle müzakere edebilir. Tabii ki, hepsi Perilere (bazen **Solgun Halk** veya **Komşular** olarak anılır) tam bir saygı gösterir.
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
+Elbette, Orman insanlardan arınmış değildir. Bu tür yerlerde hayatta kalabilen (ve hatta gelişebilen) insanlar, ormanın kurallarına göre yaşamayı öğrenir, çünkü bu kuralları görmezden gelen veya aptalca karşı koyanlar genellikle korkunç sonlarla karşılaşır.
 
-## The Roots
+## Kökler
 
-The **Roots** is a realm of mystery and horror underground, where vast caves loom as large as an emptied ocean, without even a hint of sunlight. The various creatures and wild animals that survive there have developed natural means to live in the utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+**Kökler**, yeraltında gizem ve dehşet diyarıdır; boşalmış bir okyanus kadar büyük mağaralar, en ufak bir güneş ışığı belirtisi olmaksızın orada uzanır. Orada hayatta kalan çeşitli yaratıklar ve vahşi hayvanlar, tam karanlıkta yaşamak için doğal yollar geliştirmiş, görüşlerini en loş ışıkta bile çalışacak şekilde uyarlamış veya tamamen görme yetisinden vazgeçmiştir.
 
-Entrances to the Roots, known as Gates, are scattered across the lands and are usually hidden or protected by powerful forces. Once opened, Gates permit dangerous creatures to pass through, giving them free reign over the weak and vulnerable.
+Kökler'e girişler, Geçitler olarak bilinir, diyarlara dağılmıştır ve genellikle gizlidir veya güçlü güçler tarafından korunur. Açıldıklarında, Geçitler tehlikeli yaratıkların geçmesine izin verir, onlara zayıf ve savunmasız olanlar üzerinde serbestçe hükmetme yetkisi verir.
 
-Only the brave and foolish enter the Roots, and most do not return. The few that do whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Still, there will always be those who cannot resist the draw of forgotten Relics, profound wealth, or knowledge, for there are rumors that creatures far more interesting than wild beasts make their home in the depths below.
+Sadece cesurlar ve aptallar Kökler'e girer ve çoğu geri dönmez. Geri dönen birkaç kişi, bu kayıp hazineleri koruyan tarifsiz dehşetler ve kötü zekalardan fısıldar. Yine de, unutulmuş Kalıntıların, büyük servetlerin veya bilginin cazibesine karşı koyamayacak olanlar her zaman olacaktır, çünkü yabani hayvanlardan çok daha ilginç yaratıkların aşağıdaki derinliklerde evlerini yaptığına dair söylentiler vardır.

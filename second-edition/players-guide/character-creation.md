@@ -7,13 +7,14 @@ grand_parent: Second Edition
 
 # Character Creation 
 
-## Roll or choose a Background
+## Bir Geçmiş seç veya zar at
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- İlk olarak, aşağıdaki [Geçmişler](#geçmişler) tablosundan seçim yap veya şansa bırak ve zar at. sayfa numarasını not et. Sonraki birkaç adım için bu sayfaya ihtiyacın olacak.
+- Mevcut listeden bir isim seç, ardından karakterinin başlangıç ekipmanlarının her birini kaydet. Eşyaların nasıl kaydedileceği için [Envanter](#envanter) ve [Envanter Yuvaları](#envanter-yuvaları) bölümlerine bak.
+- Geçmişin içindeki tabloların her birinde zar at. Her sonuçtan karakterinin eşyalarını, becerilerini veya yeteneklerini kaydet. Bazı geçmişler, [Pazar](/second-edition/players-guide/marketplace) bölümündeki tablolara da bakmanı isteyebilir.
 
-## Backgrounds
+## Geçmişler
+> Bu oyunda bir sürü tablo olacak bunları kullanmanın yolu ise oldukça basit d20 gibi ifadeler gördüğünüzde bu bir adet 20'lik zar atın demek. Aynı şekilde 2d10 gördüğünüzde ise 2 adet 10 yüzlü zar atıp bunun toplamını alın. Not: 2d10 kesinlikle 1d20'ye eşit değildir. 
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
@@ -29,166 +30,164 @@ grand_parent: Second Edition
 | **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
 | **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
 
-## Attributes, Hit Protection, and Traits 
+## Nitelikler, Hasar Koruması ve Özellikler
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- Karakterinin **Nitelikleri** ve **Hasar Koruması** için zar at.
+- Karakterinin geri kalan [Özellikler](#karakter-özellikleri-d10) için, ardından [Bağlar](#bağlar) tablosu için zar at.
+- Son olarak, karakterinin **Yaşı** için zar at (2d20+10). Eğer _en genç_ karakter sensen, [Alametler](#alametler) tablosunda zar at. Sonuç diğer oyunculara yüksek sesle okunmalıdır. Muhafız, Alametleri uygun gördüğü şekilde oyun dünyasına entegre etmelidir.
 
-## Attributes
+## Nitelikler
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- Oyuncu Karakterlerinin sadece üç Niteliği vardır: (**Güç (STR)** , **Çeviklik (DEX)** ve **İrade (WIL)**).
+- Karakterinin her bir **Nitelik** değeri için sırasıyla 3z6 at. Daha sonra sonuçlardan herhangi ikisini değiştirebilirsin.
+- Nitelikler evrensel tanımlayıcılar değildir. Düşük GÜÇ'e sahip bir karakter umutsuzca zayıf değildir; yine de ağır bir kapıyı kaldırmayı veya ölümcül bir dövüşten sağ kurtulmayı deneyebilir! Sadece riskleri daha yüksektir.
 
-## Hit Protection
+## Hasar Koruması
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+- Karakterinin başlangıç **Hasar Koruması** (HK) için 1d6 at. HK, karakterin savaşta hasardan kaçınma yeteneğini yansıtır. Karakterin sağlığını veya dayanıklılığını göstermez, ve çok uzun süreli kaybedilen bir şey değildir. Bkz. [İyileşme & Kurtarma](/second-edition/players-guide/core-rules#healing--recovery).
+- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, oyuncu [**Yaralar**](/second-edition/players-guide/core-rules#scars) tablosunda zar atmalıdır.
 
-## Inventory
+## Envanter
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- Karakterlerin toplam on envanter yuvası vardır ancak çantalar, sırt çantaları, atlar, arabalar vb. yardımı olmadan rahatça yalnızca dört veya beş eşya taşıyabilirler.
+- Her PC, altı yuvaya kadar eşya veya **Yorgunluk** taşıyabilen bir **Sırt Çantası** ile başlar. Arabalar (iki elle çekilmesi gereken), atlar veya katırlar, bir PC'nin bir macerada yanında ne kadar götürebileceği konusunda büyük fark yaratabilir. **Paralı Askerler** de ekipman taşımak için tutulabilir.
+- Envanter soyuttur, yalnızca Muhafız tarafından karara bağlanan kurguya bağlıdır. Dolu bir envantere sahip olan (yani 10 yuvanın tamamını dolduran) herkes 0 HK'ye düşer. Bir karakter on yuvadan fazlasını dolduramaz.
 
-### Inventory Slots
+### Envanter Yuvaları
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+- Aksi belirtilmedikçe çoğu eşya bir yuva kaplar.
+- _Önemsiz_ eşyalar herhangi bir yuva kaplamaz. _Hantal_ eşyalar **iki** yuva kaplar.
+- 100ap'den daha az değerdeki bir kese altın _önemsizdir_ ve bir yuva işgal etmez.
 
-## Character Traits (d10)
+## Karakter Özellikleri (d10)
 
-### Physique
+### Fizik
 
-|       |          |        |            |
-| ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+|       |             |        |               |
+| ----- | ----------- | ------ | ------------- |
+| **1** | Atletik     | **6**  | Sıska         |
+| **2** | Kaslı       | **7**  | Kısa          |
+| **3** | Tombul      | **8**  | Heykel gibi   |
+| **4** | Uzun ve ince| **9**  | Tıknaz        |
+| **5** | Sert        | **10** | Dev gibi      |
 
-### Skin
+### Cilt
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+|       |              |        |             |
+| ----- | ------------ | ------ | ----------- |
+| **1** | Benli        | **6**  | Yumuşak     |
+| **2** | İzli         | **7**  | Bronzlaşmış |
+| **3** | Yağlı        | **8**  | Dövmeli     |
+| **4** | Pembe        | **9**  | Yıpranmış   |
+| **5** | Yaralı       | **10** | Perdeli     |
 
-### Hair
+### Saç
 
-|       |         |        |           |
-| ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+|       |             |        |            |
+| ----- | ----------- | ------ | ---------- |
+| **1** | Kel         | **6**  | Uzun       |
+| **2** | Örgülü      | **7**  | Lüks       |
+| **3** | Kıvırcık    | **8**  | Yağlı      |
+| **4** | Kirli       | **9**  | Dalgalı    |
+| **5** | Kabarık     | **10** | Seyrek     |
 
-### Face
+### Yüz
 
-|       |           |        |         |
-| ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
+|       |            |        |           |
+| ----- | ---------- | ------ | --------- |
+| **1** | Kemikli    | **6**  | Kusursuz  |
+| **2** | Kırık      | **7**  | Çapkın    |
+| **3** | Yontulmuş  | **8**  | Keskin    |
+| **4** | Uzamış     | **9**  | Kare      |
+| **5** | Solgun     | **10** | Çökmüş    |
 
-### Speech
+### Konuşma
 
-|       |         |        |            |
-| ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+|       |             |        |              |
+| ----- | ----------- | ------ | ------------ |
+| **1** | Kaba        | **6**  | Çakıllı      |
+| **2** | Gür         | **7**  | Keskin       |
+| **3** | Gizemli     | **8**  | Cızırtılı    |
+| **4** | Monoton     | **9**  | Kekeme       |
+| **5** | Resmi       | **10** | Fısıltılı    |
 
-### Clothing
+### Giyim
 
-|       |         |        |        |
-| ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+|       |            |        |           |
+| ----- | ---------- | ------ | --------- |
+| **1** | Antika     | **6**  | Yıpranmış |
+| **2** | Kanlı      | **7**  | Paspaslı  |
+| **3** | Zarif      | **8**  | Üniformalı|
+| **4** | Kirli      | **9**  | Kokmuş    |
+| **5** | Yabancı    | **10** | Lekeli    |
 
-### Virtue
+### Erdem
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+|       |              |        |              |
+| ----- | ------------ | ------ | ------------ |
+| **1** | Hırslı       | **6**  | Onurlu       |
+| **2** | İhtiyatlı    | **7**  | Mütevazı     |
+| **3** | Cesur        | **8**  | Merhametli   |
+| **4** | Disiplinli   | **9**  | Sakin        |
+| **5** | Girişken     | **10** | Hoşgörülü    |
 
-### Vice
+### Kusur
 
-|       |            |        |          |
-| ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+|       |             |        |            |
+| ----- | ----------- | ------ | ---------- |
+| **1** | Saldırgan   | **6**  | Tembel     |
+| **2** | İçerlemiş   | **7**  | Sinirli    |
+| **3** | Korkak      | **8**  | Kaba       |
+| **4** | Hilekâr     | **9**  | Kibirli    |
+| **5** | Açgözlü     | **10** | Kindar     |
+## Bağlar
 
-## Bonds
+|         |                                                                                                                                                                                                                                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d20** | **Bağ**                                                                                                                                                                                                                                                                                          |
+| **1**   | Uzun zaman önce ölmüş bir akrabandan **Tek Bir Mücevher** (500ap, soğuk ve kırılgan) miras aldın. Bir uyarıyla geldi: yeni bulduğun zenginliği savurganca harcarsan, uzun zamandır unutulduğu düşünülen bir borç tahsil edilecekti.                                                                       |
+| **2**   | Uzak bir kuzen sana küçük bir miras bıraktı. **20ap** ve Orman'ın derinliklerindeki bir şeye doğru sürekli işaret eden bir **Tuhaf Pusula** (_önemsiz_) al.                                                                                                                                 |
+| **3**   | Uzun zaman önce Orman'da kaybolan geçmiş bir sevgilinin bir kolye ucu içinde **Portre**sini (_önemsiz_) taşıyorsun. Her nasılsa hâlâ hayatta olduklarını biliyorsun.                                                                                                                              |
+| **4**   | Toprağa gömülü bir **Küçük Kristal Prizma** (_önemsiz_) buldun. Işığa tutulduğunda, Orman'ın derinliklerinde bilinmeyen bir yerin görüntülerini gösteriyor. Bazen sana bakan bir varlık hissediyorsun.                                                                                           |
+| **5**   | Bir zamanlar tıkanmış bir dereden bir Su Perisini kurtardın. Karşılığında sana biraz **Gümüş Yosun** (_önemsiz_) verdi. Suya yakın bir yerde yut, ve yaratık bir kez, borcunu ödemek için gelecektir.                                                                                                    |
+| **6**   | Kabukla kaplı eski bir **Günlük** miras aldın. Her akşam, sayfaları günün olaylarıyla, günlüğün bakış açısından kaba bir dille yazılır. Yazı kaba ama doğrudur.                                                                                                                                       |
+| **7**   | Uzun süredir uyuyan bir aile sırrını koruyorsun. **Kadim Bir Anahtar**'ın (_önemsiz_) bir yarısını al. Derler ki ikiziyle birleştirilirse, herhangi bir kapıdan bir **Geçit** açar.                                                                                                                |
+| **8**   | Gerçek soyunun Peri soylularından olduğuna dair tartışılmaz kanıtları detaylandıran bir **Mektup** (_önemsiz_) aldın. Not ayrıca mektubun yazarıyla Orman'ın derinliklerinde buluşacağın bir tarih ve konumu gösteriyor.                                                                        |
+| **9**   | Soyluluğun bir üyesine büyük bir borcun var ve onların **Mührünü** (_önemsiz_) taşıyorsun, bu hem onların korumasının hem de yükümlülüğünün kanıtıdır.                                                                                                                                                |
+| **10**  | İç organlarında tahribat yaratan, Orman'ın derinliklerindeki evine götürülmeyi talep eden bir **Yaramaz Ruh** tükettin. Bir yuva kaplar ama her gün bir **Yorgunluk** emer. Şimdilik seni canlı istiyor.                                                                                   |
+| **11**  | Gezgin bir hikaye anlatıcısı sana bir zamanlar Orman'ın derinliklerinde saklı büyük hazineler hakkında hikayeler anlattı. Sence bu bir hayalden ibaretti, ta ki sana üzerinde X işareti olan **Bir Rulo Harita** (_önemsiz_) verene kadar.                                                              |
+| **12**  | Seyahatlerin sırasında, ölmekte olan bir avcıyla karşılaştın ve ondan sevdiklerine bir mesaj iletmeni istedi. Ağaç özsuyuyla mühürlenmiş bir **Mektup** (_önemsiz_) al. Sadece **Kış Lordu**'na hitaben yazılmış.                                                                                      |
+| **13**  | Ormanda yaralı bir canavar buldun ama onu görmezden gelmeyi seçtin. Şimdi onu her yerde görüyorsun, ama sadece yalnızken. Üzgün ama kızgın değil gibi görünüyor. Yalnız hareket ederken _panik_ yapamazsın.                                                                                       |
+| **14**  | Çocukluk arkadaşına, dünyada eşi benzeri olmayan nadir bir hediye getireceğine söz verdin. Sargı ipi ve yabani çiçeklerden örülmüş bir **Bileklik** (_önemsiz_) al.                                                                                                                                 |
+| **15**  | Orman'ın bir yaratığını kandırdın ve seni **Taş Kalp** ile lanetledi. Geçen her ay ile birlikte, taş bir yuva kadar ağırlaşır. Borcun kalkana kadar gerçekten ölemezsin.                                                                                                            |
+| **16**  | Bir **Meşe Lordu**'nun dalından bir **Düdük** (_önemsiz_) oydun. Eylemin fark edilmedi. Düdükten kurtulamıyor gibisin de.                                                                                                                                                    |
+| **17**  | **Şafak Tugayı** aileme bir iyilik yaptı, karşılığında sana kanıt olarak kurutulmuş **Kan-Kırmızısı Çiçek** (_önemsiz_) verdi. Çiçek beyazladığında, iyiliğin borçlu olunduğu anlamına gelir.                                                                                                      |
+| **18**  | Bir eğlenceci bir zamanlar evini ziyaret etti, onu hikaye ve şarkıyla doldurdu. Bir gün tek kelime etmeden gitti, ardında sadece **Bir Minyatür Lavta** bıraktı. İçinde bir şey tıngırdıyor.                                                                                                     |
+| **19**  | Bir rüyada sana gagasında bir dal tutan beyaz bir karga göründü. Ertesi sabah **Dal** (_önemsiz_) elinde uyandın. Sana şans getirdiğine inanıyorsun. Hafifçe kükürt kokuyor.                                                                                                                    |
+| **20**  | Atalarından biri bir **Yosun Cadısı**nı haksızlığa uğrattı ve cadı onların kan soyunu lanetledi. Suretinin aynaları kırmasına neden oluyor. Parçaların bazen illüzyonları ortaya çıkarabildiğini fark ettin.                                                                                                |
 
-|         |                                                                                                                                                                                                                                                                                          |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+## Alametler
 
-
-## Omens
-
-|         |                                                                                                                                                                                                                                                    |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+|         |                                                                                                                                                                                                                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d20** | **Alamet**                                                                                                                                                                                                                                                                                     |
+| **1**   | Hayat veren bir nehrin bir zamanlar zengin olan suları siyaha dönmüş ve kokuşmuş, toprağı kirletiyor ve ondan içenleri hastalandırıyor. Bir köy yaşlısı, son zamanlardaki bir saygısızlığı neden olarak gösteriyor, ancak çoğu onların sözlerine kulak asmıyor.                                               |
+| **2**   | Bu yıl kış çok erken gelmiş gibi hissediliyor; don ve kar, beklenenden çok daha önce ortaya çıktı. Pencerelerde, göletlerde ve topraktaki çatlaklarda bulunan donun bir deseni olduğuna dair konuşmalar var. Neredeyse bir haritaya benziyor.                                                             |
+| **3**   | Kalın, doğal olmayan bir sis, kadim ve kutsal bir korulukta yayılmaya başladı. Bunun, yakındaki ormansızlaşmaya öfkelenen büyük bir orman ruhunun işi olduğu söyleniyor.                                                                                                                              |
+| **4**   | Gece gökyüzü her akşam kararıyor, sanki yıldızlar birer birer kayboluyor. Cehennemi yaratıkların çiftçileri yakalayıp Köklere sürüklediğine dair söylentiler orman yangını gibi yayılıyor. Köy yaşlıları ikisinin bağlantılı olduğuna inanıyor.                                                       |
+| **5**   | Orman'ın ötücü kuşları son zamanlarda ürkütücü bir şekilde sessizleşti. Avcılar, ormanda hayaletimsi bir figürün dolaştığını, karşılaştığı herkese özlemle baktığını iddia ediyor.                                                                                                                    |
+| **6**   | Bölge boyunca tuhaf, gözyaşı şeklinde taşlar bulundu ve bu, kuyumcular ve hırsızlar arasında bir tür "altına hücum" başlattı. Yerliler, bunların henüz gelmemiş büyük bir trajedi için ağlayan dünyanın kendi gözyaşları olduğuna inanıyor.                                                                 |
+| **7**   | Sürü halindeki zararlılar, rüyaların kenarlarını kemiriyor ve çiftçiler Orman'ın derinliklerinden gelen yüksek bir vızıltı sesinden bahsediyor. Ayrıca sesin yaklaştığını söylüyorlar.                                                                                                                |
+| **8**   | Etkileyici "ana ağacı" ile geniş çapta tanınan bir köy var; bu ağacın kasabanın sırlarını dallarında barındırdığı söylenir. Son zamanlarda kırmızı özsu sızdırmaya başladı ve bu yaşlıları endişelendiriyor.                                                                                             |
+| **9**   | Ay koyu kırmızıya dönüyor, geceyi ürkütücü, kan kırmızısı bir ışıkla yıkıyor. Bazıları bunun, Orman ile ölümlü diyar arasındaki sınırların inceldiği bir kaos ve çekişme zamanını habercisi olduğunu söylüyor.                                                                                      |
+| **10**  | Gece gökyüzünde tuhaf çatlaklar belirdi, dönen bir ışık ve renk girdabını ortaya çıkarıyor. Bazıları, diyarlar arasındaki ayrımın yüzyıllardır en zayıf noktasında olduğunu ve diğer taraftan neyin çıkabileceğinden korkuyor.                                                                                |
+| **11**  | Bir zamanlar soyu tükendiği düşünülen gece açan bir çiçek, Orman'ın her yerinde filizleniyor. Kokusu sarhoş edici ama aynı zamanda canlı kabuslara neden oluyor.                                                                                                                                                |
+| **12**  | Yerel çiftlik hayvanları son zamanlarda giderek daha fazla tedirgin ve yönetilemez hale geldi. Yaşlı bir çoban, bunun her dolunayda Orman'dan yayılan ürkütücü bir ulumadan kaynaklandığını söylüyor.                                                                                                     |
+| **13**  | Böcek sürüleri Orman'dan kitleler halinde kaçıyor, karşılaştıkları tüm ahşap yapıları tahrip ediyorlar. Kanatlarının sesi, tepeden geçerken unutulmuş bir ninni gibi tanıdık bir melodi mırıldanıyor.                                                                                                      |
+| **14**  | Avcılar, beyaz kürklü bir canavarı öldüren herkesin başına gelen bir lanetten bahsediyor: kısa bir süre sonra evlerinde ölü bulunuyorlar. Her geçen gün avlanacak giderek daha az yaratık kalıyor.                                                                                                        |
+| **15**  | Halk, şehrin her yerindeki kuyulardan yankılanan hafif bir kahkahanın duyulabileceğini ve yankıların geceleyin hıçkırıklara dönüştüğünü söylüyor.                                                                                                                                                        |
+| **16**  | Takımyıldızlar gece gökyüzünde yavaşça değişmeye başladı, yıldız gözlemcilerini ve bilgeleri şaşırtan yabancı desenler oluşturuyor. Hayvanlar bile rahatsız görünüyor.                                                                                                                                       |
+| **17**  | Sakin bir köyün kalbindeki kadim bir ağaç, hiçbir hastalık belirtisi göstermemesine rağmen aniden solup kurudu. Gövdesi kesildikten sonra, özünde kanlı bir el bulundu.                                                                                                                                        |
+| **18**  | Heykeller aylardır kan ağlıyor ve köyün rahimleri o zamandan beri kısır kaldı. Yaşlılar tarafından korku ve dehşetle saklanan tek bir çocuk, tek istisna olmuştur.                                                                                                                                                   |
+| **19**  | Yerel fauna tuhaf davranıyor, artan bir saldırganlık sergiliyor veya bölgeden tamamen kaçıyor. Avcılar, Orman'da dolaşan, hayvanlara seslenen gölgemsi bir figürden bahsediyor.                                                                                                                              |
+| **20**  | Sınır kasabaları, son haftalarda kırmızı cüppeli bir figürün çocuklarının rüyalarında belirerek aynı uyarıyı söylediğine dair çok sayıda iddianın ardından kargaşaya dönüştü: Bir ateş geliyor ve her şeyi tüketip yok edecek.                                                                                     |
