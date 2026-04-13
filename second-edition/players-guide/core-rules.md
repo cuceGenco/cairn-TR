@@ -5,141 +5,125 @@ parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Core Rules
+# Temel Kurallar
 
-## Attributes
+## Nitelikler
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+Üç **Nitelik** de farklı durumlarda kullanılır. (Aşağıdaki **Zarlar** bölümüne bakın.)
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Güç (STR)** : Kapı kaldırmak, parmaklıkları bükmek, zehire direnmek gibi fiziksel güç gerektiren zarlar için kullanılır.
+- **Çeviklik (DEX)** : Denge, hız, refleksler, kaçma, tırmanma, gizlenme, denge kurma vb. gerektiren zarlar için kullanılır.
+- **İrade (WIL)** : İkna etme, kandırma, sorgulama, gözdağı verme, büyüleme, kışkırtma, büyüleri manipüle etme vb. gerektiren zarlar için kullanılır.
 
-## Saves
+## Zarlar
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- Zar, riskli seçimlerden kaynaklanan olumsuz sonuçlardan kaçınmak için yapılan bir atıştır. Karakterler bir z20 atar ve sonucu uygun nitelikle karşılaştırır. Eğer nitelik değerine eşit veya altında bir sayı gelirse başarılı olur. Aksi halde başarısız olur. 1 her zaman başarı, 20 her zaman başarısızlıktır.
+- İki rakip birbirini alt etmeye çalışıyorsa, en çok risk altında olan zar atmalıdır.
+- İki karakterin birlikte bir eylem yapması gerekiyorsa, en çok risk altında olan zar atmalıdır (genellikle ilgili niteliği en düşük olan karakter).
 
-## Healing & Recovery
+## İyileşme & Kurtarma
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+- Birkaç an dinlenmek ve bir yudum su içmek kaybedilen HK'yı geri kazandırır ancak grubu riske atabilir. Sargı bezleri, kritik hasar almış bir karakteri stabilize edebilir.
+- Nitelik kaybı (bkz. **Kritik Hasar**) genellikle bir şifacı veya uygun başka bir uzmanlık kaynağı tarafından kolaylaştırılan bir haftalık dinlenme ile geri kazanılabilir.
+- Bazı iyileştirme hizmetleri ücretsizdir, ancak büyülü veya daha hızlı kurtarma yöntemleri bir bedel gerektirebilir.
 
-## Deprivation & Fatigue
+## Bitkinlik & Yorgunluk
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+- Kritik bir ihtiyaçtan (yiyecek veya dinlenme gibi) yoksun olan bir PC **Bitkin** durumundadır. **Bitkin** olan herhangi biri bir günden fazla süreyle, her gün için envanterine **Yorgunluk** ekler. **Bitkin** bir PC, HP'sini, Niteliklerini veya **Yorgunluk**tan kaynaklanan eşya yuvalarını geri kazanamaz.
+- Bir PC ayrıca büyü yaptıktan sonra veya kurguda meydana gelen olaylar nedeniyle **Yorgunluk** eklemek zorunda kalabilir. Her Yorgunluk bir yuva kaplar ve PC iyileşene kadar (örneğin güvenli bir yerde tam bir gece uykusuyla) sürer.
+- Bir karakter envanterine **Yorgunluk** eklemek zorunda kalırsa ancak boş yuvası yoksa, envanterinden bir eşya düşürmelidir.
 
-## Armor
+## Zırh
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- HK'ya hasar hesaplanmadan önce, hasar zarlarının sonucundan hedefin **Zırh** değerini çıkar.
+- Kalkanlar ve benzeri zırhlar ekstra bir savunma bonusu sağlar (örneğin +1 Zırh), ancak yalnızca eşya tutulduğu veya giyildiği sürece. Bazıları ayrıca kurguya bağlı olarak ek avantajlar da sağlayabilir.
+- Bir PC, NPC veya canavar 3'ten fazla Zırha sahip olamaz.
 
-## Reactions
+## Tepkiler
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+PC'ler, partiye tepkisi belli olmayan bir NPC ile karşılaştığında, Muhafız 2z6 atar ve aşağıdaki tabloya bakabilir:
 
-|         |      |         |      |         |
-| :-----: | :--: | :-----: | :--: | :-----: |
-|    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+|          |        |         |        |           |
+| :------: | :----: | :-----: | :----: | :-------: |
+|    2     |  3-5   |   6-8   |  9-11  |    12     |
+| Düşmanca | Tedirgin | Meraklı | İyi niyetli | Yardımsever |
 
-## Morale
+## Moral
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+- Düşmanlar, ilk zayiatı verdiklerinde ve sayılarının yarısını kaybettiklerinde kaçmaktan kaçınmak için bir İRADE zarı atmalıdır.
+- Bazı gruplar kendi liderlerinin İRADE'ini kendi İRADE'leri yerine kullanabilir. Yalnız düşmanlar, 0 HP'ye düştüklerinde zar atmalıdır.
+- Moral, PC'leri etkilemez.
+## Paralı Askerler
 
-## Hirelings
+- Maceracı grupları, seferlerde yardımcı olmaları için paralı askerler tutabilir, onların benzersiz becerilerine, bilgilerine ve eğitimlerine güvenebilir.
+- Bir paralı asker oluşturmak için, Pazar'daki [Paralı Askerler](/second-edition/players-guide/marketplace#paralı-askerler-günlük) tablosundan uygun bir rol seçin. Her nitelik için 3z6 ve HK'ları için 1z6 atın. Konumlarına uygun **ekipman** verin, ardından onları daha da detaylandırmak için Karakter Özellikleri tablolarında zar atın.
+- Alternatif olarak, [Karakter Yaratım](/second-edition/players-guide/character-creation) kılavuzundan uygun bir [**geçmiş**](/second-edition/players-guide/character-creation#geçmişler) ve **isim** seçin. O geçmişe ait tablolarda zar atın (veya seçim yapın). Ardından Konsantre Yiyecek, Altın Sikke, Nitelikler, HK ve yaş için zar atın.
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+## Kader Zarı
 
-## Die of Fate  
+- Bir olayın sonucunun belirsiz olduğu durumlarda veya rastlantı ve şans unsurunu simüle etmek için isteğe bağlı olarak 1z6 atın.
+- 4 veya daha yüksek bir atış genellikle PC'lerin lehineyken, 3 veya altı bir atış genellikle PC'ler için kötü şans anlamına gelir.
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+## Çatışma
 
-## Combat
+### Turlar
 
-### Rounds
+- Bir **Tur** yaklaşık on saniyelik oyun içi zamandır ve her iki tarafın sırayla hamle yapmasıyla ilerler. Her tur, hareket edebilen herhangi bir PC ile başlar, ardından rakipleri gelir. _Her iki tarafın eylemlerinin sonucu eş zamanlı olarak gerçekleşir_.
+- Çatışmanın _ilk turunda_, her PC hareket edebilmek için bir ÇEV zarı atmalıdır. Özel durumlar, yetenekler, eşyalar veya beceriler bu gerekliliği geçersiz kılabilir. Zarı başarısız olan PC'ler bu turda _sırasını kaybeder_.
+- Ardından rakipleri sırasını alır ve ilk tur sona erer. Bir sonraki tur, PC'lerin sırasını almasıyla başlar, ardından rakipleri gelir ve bu şekilde çatışma bir taraf yenilene veya kaçana kadar devam eder.
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+### Eylemler
 
-### Actions
+Bir karakter kendi sırasında, 12 metreye kadar hareket edebilir ve en fazla bir eylem gerçekleştirebilir. Bu bir büyü yapmak, saldırmak, ikinci kez hareket etmek veya başka makul bir eylem olabilir. Her turda, PC'ler zar atılmadan önce ne yapacaklarını beyan ederler. Bir karakter riskli bir şey denerse, Muhafız uygun oyuncular veya NPC'ler için zar atmalarını ister.
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+### Saldırı ve Hasar
 
-### Attacking & Damage
+- Saldırgan, silah zarını atar ve hedefin zırhını çıkarır, ardından kalan toplamı rakibinin HK'sına verir. Çatışmadaki saldırılar otomatik olarak isabet eder.
+- Birden fazla saldırgan aynı düşmanı hedef alırsa, tüm hasar zarlarını atın ve en yüksek tek sonucu tutun. Tüm eylemler, çözümlenmeden önce beyan edilir.
+- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, nasıl benzersiz şekilde etkilendiklerini görmek için [Yaralar](#yaralar-tablosu) tablosuna bakın.
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+### Saldırı Değiştiricileri
 
-### Attack Modifiers
+- Zayıf bir konumdan savaşıyorsanız (örneğin siper arkasından veya elleri bağlıyken), saldırı _Zayıflamış_ olur ve saldırgan, saldırının hasar zarı ne olursa olsun 1z4 hasar atmalıdır. Silahsız saldırılar her zaman d4 hasar verir.
+- Avantajlı bir konumdan savaşıyorsanız (örneğin çaresiz bir düşmana karşı veya cesur bir manevrayla), saldırı _Güçlenmiş_ olur ve saldırganın normal zarı yerine 1z12 hasar atmasına izin verir.
+- _Patlama_ özelliğine sahip saldırılar, belirtilen alandaki tüm hedefleri etkiler ve etkilenen her karakter için ayrı ayrı zar atılır. Bu, patlamalardan bir ejderhanın nefesine veya bir göktaşının çarpmasına kadar her şey olabilir. Kaç hedefin etkilenebileceğinden emin değilseniz, _bir sonuç için ilgili hasar zarını atın_.
+- Aynı anda iki silahla saldırıyorsanız, her iki hasar zarını da atın ve en yüksek tek sonucu tutun (artı sembolüyle gösterilir, örn. d8+d8).
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+### Kritik Hasar
 
-### Critical Damage
+- Bir hedefin HK'sını sıfırın altına düşüren hasar, kalan hasar miktarı kadar _GÜÇ'ünden çıkarılır_. Hedef, _yeni GÜÇ puanını_ kullanarak **Kritik Hasar** almaktan kaçınmak için hemen bir GÜÇ zarı atmalıdır. Başarılı olursa, hedef hâlâ dövüştedir (daha düşük bir GÜÇ puanıyla olsa da) ve hasar aldığında kritik hasar zarları atmaya devam etmelidir.
+- Kritik Hasar alan herhangi bir PC, zayıfça sürünerek hayata tutunmaktan başka bir şey yapamaz. Yardım alırsa (sargı bezi gibi) stabilize olur. Tedavi edilmezse, bir saat içinde ölür. Kritik Hasar zarını başarısız kılan NPC'ler ve canavarlar, **Muhafız**'ın takdirine bağlı olarak ölü sayılır. Ek olarak, bazı düşmanlar, hedefleri kritik hasar zarını başarısız kıldığında tetiklenen özel yeteneklere veya etkilere sahiptir.
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+### Nitelik Kaybı
 
-### Attribute Loss
+- Bir PC çatışma dışında hasar alırsa, bunun yerine genellikle STR olmak üzere bir Nitelikten hasar almalıdır.
+- Bir PC'nin STR'si 0'a düşerse ölür. DEX'i 0'a düşerse felç olur. WIL'ı 0'a düşerse sayıklar. Tam DEX ve WIL kaybı, karakter uzun süreli dinlenme veya olağanüstü yollarla iyileşene kadar hareket edemez hale getirir.
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### Karakter Ölümü
 
-### Character Death
+- Bir karakter öldüğünde, oyuncu yeni bir karakter oluşturmalı veya bir paralı askerin kontrolünü almalıdır. Bekleme süresini azaltmak için hemen partiye katılırlar.
+### Müfrezeler
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- Birlikte savaşan büyük benzer savaşçı grupları tek bir _Müfreze_ olarak ele alınır. Bir _müfreze_ **Kritik Hasar** aldığında, bozguna uğrar veya önemli ölçüde zayıflar. STR’si 0’a ulaştığında yok edilir.
+- Bireyler tarafından müfrezelere yapılan saldırılar _zayıflamıştır_ (_patlama_ hasarı hariç). Müfrezeler tarafından bireylere yapılan saldırılar _güçlenmiştir_ ve _patlama_ hasarı verir.
 
-### Detachments
+### Geri Çekilme
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- Kötü bir durumdan kaçmak her zaman başarılı bir ÇEV zarı ve güvenli bir kaçış noktası gerektirir.
 
-### Retreat
+### Menzilli Saldırılar
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- Menzilli silahlar, gözlerinin akını görecek kadar yakındaki herhangi bir düşmanı hedef alabilir. Özellikle uzaktaki hedeflere yapılan saldırılar _Zayıflamıştır_.
+- Aksi belirtilmedikçe mühimmat takibi yapılmaz.
 
-### Ranged Attacks
+## Yaralar
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+Bir PC’ye gelen hasar HK’sını tam olarak 0’a indiriyorsa, saldırıda _kaybedilen HK miktarına_ göre aşağıdaki tablodan sonuca bakın. Örneğin, bir PC 3 HK’dan 0 HK’ya düşerse, #3 (Sarsılmış) girişine bakarlar.
 
-## Scars
+### Yaralar Tablosu
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
-
-### Scars Table
-
-|             |                                                                                                                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
-
+|                |                                                                                                                                                                                                                                                                           |
+| -------------- | ------------------------
 ## Magic
 
 ### Spellbooks 
@@ -164,4 +148,43 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 
 ### Relics
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kaybedilen HK** | **Sonuç**                                                                                                                                                                                                                                                                 |
+| 1              | Kalıcı Yara: 1d6 at. 1: Boyun, 2: Eller, 3: Göz, 4: Göğüs, 5: Bacaklar, 6: Kulak. 1d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                                                                                                             |
+| 2              | Sarsıcı Darbe: Şaşkın ve sarsılmış durumdasın. Nasıl yeniden odaklandığını betimle. 1d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                                                                                                           |
+| 3              | Sarsılmış: Savrulup gidiyor ve yüzüstü yere düşüyorsun, nefesin kesiliyor. Birkaç saat dinlenene kadar bitkin düşersin. Ardından 1d6 at. Bu miktarı maksimum HK’na ekle.                                                                                               |
+| 4              | Kırık Uzv: 1z6 at. 1-2: Bacak, 3-4: Kol, 5: Kaburga, 6: Kafatası. İyileştikten sonra 2d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                                                                                                           |
+| 5              | Hastalıklı: İğrenç, rahatsız edici bir enfeksiyona yakalandın. Atlattığında 2d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                                                                                                                 |
+| 6              | Yönlendirici Kafa Travması: 1z6 at. 1-2: GÜÇ, 3-4: ÇEV, 5-6: İRADE. 3d6 at. Toplam, mevcut niteliğinden yüksekse, yeni sonucu al.                                                                                                                                          |
+| 7              | Akil Kesilmesi: Ciddi bir yardım ve dinlenme alana kadar zar zor hareket edebilirsin. İyileştikten sonra 3d6 at. Toplam, maksimum ÇEV’inden yüksekse, yeni sonucu al.                                                                                                    |
+| 8              | Sağırlaşma: Olağanüstü bir yardım bulana kadar hiçbir şey duyamazsın. Bununla birlikte, bir İRADE zarı at. Başarırsan, maksimum İRADE’ini 1d4 artır.                                                                                                                    |
+| 9              | Beyni Değişen: Ruhunun gizli bir parçası yerinden oynar. 3z6 at. Toplam, maksimum İRADE’inden yüksekse, yeni sonucu al.                                                                                                                                                  |
+| 10             | Parçalanmış: Bir uzvun koparılır, sakatlanır veya kullanılamaz hale gelir. (Muhafız hangisi olduğunu söyler.) Ardından bir İRADE zarı at. Başarırsan, maksimum İRADE’ini 1d6 artır.                                                                                    |
+| 11             | Ölümcül Yara: Bitkin düşersin ve eylem dışı kalırsın. İyileştirilmezsen bir saat içinde ölürsün. İyileştikten sonra 2d6 at. Yeni sonucu maksimum HK’n olarak al.                                                                                                       |
+| 12             | Kaderine Terk Edilmiş: Ölüm çok yakın görünüyordu, ama nasılsa hayatta kaldın. Kritik hasara karşı bir sonraki zarın başarısız olursa, korkunç bir şekilde ölürsün. Başarırsan, 3d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                 |
+
+## Büyü
+
+### Büyü Kitapları
+
+- **Büyü Kitapları** tek bir büyü içerir ve bir yuva kaplar. Kolayca kopyalanamaz veya oluşturulamaz; bunun yerine mezarlar, zindanlar ve malikaneler gibi yerlerden bulunurlar.
+- Büyü Kitapları bazen olağandışı özellikler veya sınırlamalar sergiler; örneğin açıldığında kötü veya doğaüstü bir koku yaymak, doğuştan bir zekaya sahip olmak veya sadece ay ışığında tutulduğunda okunabilir olmak gibi.
+- Büyü Kitapları, içindeki büyülü gücü arayanların dikkatini çekecektir ve bunları açıkça sergilemek tehlikeli kabul edilir.
+
+### Büyü Yapmak
+
+- Herkes, bir Büyü Kitabını iki eliyle tutarak ve içindekileri yüksek sesle okuyarak büyü yapabilir. Ardından envanterine bir **Yorgunluk** eklemelidir.
+- Zaman ve güvenlik verildiğinde, PC'ler bir büyünün etkisini _güçlendirebilir_ (örneğin birden fazla hedefi etkilemek, gücünü artırmak vb.) herhangi bir ek maliyet olmadan.
+- PC _bitkin_ ise veya tehlikedeyse (örneğin çatışma sırasında), Muhafız, PC'den büyüyü yapmanın olumsuz etkilerinden kaçınmak için bir İRADE zarı atmasını isteyebilir. Başarısızlığın sonuçları, amaçlanan etkiyle aynı düzeydedir ve ek **Yorgunluk**, Büyü Kitabının yok olması, yaralanma ve hatta ölümle sonuçlanabilir.
+
+### Tomarlar
+
+**Tomarlar** Büyü Kitaplarına benzer, ancak:
+
+- _Önemsizdirler_.
+- **Yorgunluk**a neden olmazlar.
+- Bir kullanımdan sonra kaybolurlar.
+
+### Kalıntılar
+
+**Kalıntılar**, büyülü bir büyü veya güçle yüklenmiş eşyalardır. Yorgunluğa neden olmazlar. Kalıntılar genellikle sınırlı kullanıma ve bir **Şarj etme** koşuluna sahiptir.
