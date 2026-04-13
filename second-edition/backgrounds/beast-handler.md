@@ -4,44 +4,42 @@ layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
+# Hayvan Terbiyecisi
 
-# Beast Handler
+> Vahşi yaratıkların arasında korkusuzca ve kontrolü elde tutarak yürüyebilen tek kişi sensin. Hayvanlarla, diğerlerinin ancak hayalini kurabileceği bir bağın var... tabii onların atıştırmalığı haline gelmezsen.
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
-
-## Names
+## İsimler
 
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3d6 Altın Sikke
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Deri Kırbaç (d6)
+- Uyku Darbeleri (GÜÇ kurtarma zarı veya uykuya dalar, 6 kullanım)
+- Yem
+- Halat (7.5 m)
 
-## What creature is your specialty? Roll 1d6:
+## Hangi yaratık türü uzmanlık alanındır? 1d6 at:
 
-|       |               |                                                                                                                                                                                   |
-| ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                     |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+|       |                 |                                                                                                                                                                                                     |
+| ----- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Örümceğimsiler** | Bir **Çabuk-Alev Çubuğu** ve bir **Yağ Tenekesi** (6 kullanım) al. Büyük bir örümcek yuvasını saniyeler içinde yok edebilir.                                                                            |
+| **2** | **Kedigiller**     | Bir çuval **Bıyık Otu** al. Kokusu en büyük kedileri bile sakinleştirip kontrol edebilir.                                                                                                            |
+| **3** | **Köpeğimsiler**   | Bir **Kurtboğan** çelengi ve bir **Büyük Ağ** al. Kurt adamlara karşı da etkilidir.                                                                                                                 |
+| **4** | **Kuşlar**       | Bir **Ötüş Düdüğü** al (3 şarj). Herhangi bir kuş sesini taklit edebilir ve hatta basit mesajlar göndermek için kullanılabilir. **Şarj etme**: Bir yavru kuşu annesi gibi besle, sonra üfle. |
+| **5** | **Kemirgenler**  | Sadece kemirgenlerin duyabileceği yüksek perdeli bir ses çıkaran bir **Pan Flüt** al. Çaldığın sürece, ölümlerine bile olsa götürecek olsa takip ederler.                                                             |
+| **6** | **Yılanımsılar** | Karşı konulmaz bir ısı üreten bir **Isıtma Taşı** ve bir şişe **Antitoksin** (2 kullanım) al.                                                                                                      |
 
+## Vahşi yaratıklardan ne öğrendin? 1d6 at:
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
-
-|       |                                                                                                                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.               |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+|       |                                                                                                                                                                                                                                      |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Dünyada gözle görülenden çok daha fazlası olduğunu. Sessizce odaklanarak, **uzmanlık alanındaki** bir yaratığın duyularını sezebilirsin.                                                                                             |
+| **2** | Canavarların davranışlarının kendi başına bir dil olduğunu. **Uzmanlık alanındaki** canavarları gözlemlerken hava durumu modelleri ve yaklaşan felaketler hakkında içgörü kazanırsın.                                                         |
+| **3** | Avın nabzının güçlü bir dürtü olduğunu. Yırtıcıların, hatta **uzmanlık alanında olmayanların** bile yakınlarda olduğuna dair bir hissin vardır.                                                                                                |
+| **4** | Toprağın kendi başına bir dil olduğunu. **Uzmanlık alanındaki** canavarların hakim olduğu bir arazide kaybolma ihtimalin bir kademe azalır (örn. %65 ihtimal %50 olur).                                                                     |
+| **5** | Doğanın senfonisinin, ritmine uyum sağlarsan duyulabileceğini. **Uzmanlık alanındaki** yaratıklarla çevriliyken, yaklaşan tehlike gelmeden önce seni uyarabilirler.                                                                           |
+| **6** | Hayatta kalmanın tamamen uyum sağlamakla ilgili olduğunu. Günde bir kez, **uzmanlık alanındaki** bir yaratıktan basit bir özellik alabilirsin (perdeli parmaklar, gece görüşü vb.). Her seferinde bir **Yorgunluk** ekle. |

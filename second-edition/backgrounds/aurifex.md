@@ -5,41 +5,41 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Aurifex
+# Simyacı
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> Büyülerin zanatkarı ve gizli güçlerin demircisisin. Atölyenin kazında bu dünyayı yöneten yasaları kendi ihtiyaçlarına göre eğip bükebilirsin.
 
-## Names
+## İsimler
 
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3d6 Altın Sikke
+- Yiyecek (3 kullanım)
+- Gaz Lambası
+- Yağ Tenekesi (6 kullanım)
+- İğne uçlu bıçak (d6)
+- Koruyucu Eldivenler (_önemsiz_)
 
-## What went horribly wrong? Roll 1d6:
+## Yanlış giden neydi? 1d6 at:
 
-|       |                                                                                                                                                                                                                                     |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+|      |                                                                                                                                                                                                                                     |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Bir patlama oldu ve koku alma duyunu kaybettin. Neredeyse: bir domuzun yer mantarını bulması gibi altınının  kokusunu alabilirsin. Etkiyi azaltmak için bir **Enfiye Kutusu** (6 kullanım) kullan. Her gün kullan, yoksa _bitkin_ düşersin.                                  |
+| **2** | Sevdiğin bir evcil hayvanı madde formundan kurtardın. Şimdi görünmez oldu ama her zaman seni takip ediyor. Fiziksel dünyayla etkileşime geçemese de, onun duyularını paylaşabiliyorsun. (Her bunu yaptığında bir **Yorgunluk** ekle.) Basit komutları takip eder. |
+| **3** | Etkileri henüz geçmemiş, uzun etkili bir doğruluk serumuna maruz kaldın. Bu bozukluğun avantajları da var: Duyduğun yalanları da tekrarlayamazsın.                                                                                 |
+| **4** | Neredeyse gerçek kadar iyi olan _sahte_ altın yapmada ustaydın. Sonunda hünerin keşfedildi ve aceleyle kaçmak zorunda kaldın. Ağır bir **Metal Külçe** ve **Altın Tozu** (3 kullanım) al.                                                    |
+| **5** | Simya tarifin işe yaradı ama bir rakip, iddialarını kanıtlayamadan meslektaşın planını çaldı. Yeniden doldurması bir tur süren bir prototip **Gürültü Tüfeği** (d12, _patlama_, _hantal_) ve bir intikam tadı al.                                                      |
+| **6** | Altını _kurşuna_ çevirmeyi keşfettiğin için alay konusu oldun, gülünen bir şaklaban oldun. Dokunduğu her şeyi bileşenlerine ayıran bir şişe **Her Şeyi eriten eritici** (2 kullanım) al.                                   |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## Son ustalık ürünün hangi simya harikası? 1z6 at:
 
-|       |                    |                                                                                                                                                                                                                      |
-| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+|       |                       |                                                                                                                                                                                                                      |
+| ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Piroforik Jel**     | Havayla temas ettiğinde tutuşan ve 8 saat boyunca yanan yapışkan yeşil bir sıvı. Söndürülemez (1 kullanım).                                                                                                |
+| **2** | **Patlama Küresi**    | Darbe üzerine patlayan patlayıcı tozla dolu. Kafa büyüklüğünde demir bir top (d12, _patlama_, _hantal_, 1 kullanım).                                                                                                             |
+| **3** | **Aqua Vita**         | Herhangi bir sıvıyı arındırarak saf suya dönüştürür. İçmek 1d6 GÜÇ iyileştirir (1 kullanım).                                                                                                                                         |
+| **4** | **Taklit Taşı**       | Kısa bir cümleyi kaydeder ve daha sonra çalabilir.                                                                                                                                                     |
+| **5** | **Kıvılcım Tozu**     | Kolayca ve hızlıca tutuşur. Ateş yakmak veya yakıcı bir düzenek olarak kullanışlıdır (3 kullanım).                                                                                                                           |
+| **6** | **Homunculus**        | Her emrini takip eden, kendinin minyatür bir kil kopyası. Sana esir olmaktan nefret eder ve mümkün olduğunda acı acı söylenir. Homunculus'a verilen hasar aynı şekilde sana da verilir. 3 HP, 4 GÜÇ, 13 ÇEV, 5 İRADE |
