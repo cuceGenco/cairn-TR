@@ -9,9 +9,9 @@ grand_parent: Second Edition
 
 ## Bir Geçmiş seç veya zar at
 
-- İlk olarak, aşağıdaki [Geçmişler](#geçmişler) tablosundan seçim yap veya şansa bırak ve zar at. sayfa numarasını not et. Sonraki birkaç adım için bu sayfaya ihtiyacın olacak.
+- İlk olarak, aşağıdaki [Geçmişler](#geçmişler) tablosundan seçim yap veya zar at ve zar senin yerine karar versin. Sayfa numarasını not et. Sonraki birkaç adım için bu sayfaya ihtiyacın olacak.
 - Mevcut listeden bir isim seç, ardından karakterinin başlangıç ekipmanlarının her birini kaydet. Eşyaların nasıl kaydedileceği için [Envanter](#envanter) ve [Envanter Yuvaları](#envanter-yuvaları) bölümlerine bak.
-- Geçmişin içindeki tabloların her birinde zar at. Her sonuçtan karakterinin eşyalarını, becerilerini veya yeteneklerini kaydet. Bazı geçmişler, [Pazar](/second-edition/players-guide/marketplace) bölümündeki tablolara da bakmanı isteyebilir.
+- Geçmişinin içindeki tabloların her birinde zar at. Her sonuçtan karakterinin eşyalarını, becerilerini veya yeteneklerini kaydet. Bazı geçmişler, [Pazar](/second-edition/players-guide/marketplace) bölümündeki tablolara da bakmanı isteyebilir.
 
 ## Geçmişler
 > Bu oyunda bir sürü tablo olacak bunları kullanmanın yolu ise oldukça basit d20 gibi ifadeler gördüğünüzde bu bir adet 20'lik zar atın demek. Aynı şekilde 2d10 gördüğünüzde ise 2 adet 10 yüzlü zar atıp bunun toplamını alın. Not: 2d10 kesinlikle 1d20'ye eşit değildir. 

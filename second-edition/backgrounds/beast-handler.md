@@ -1,5 +1,5 @@
 ---
-title: Beast Handler
+title: Hayvan Terbiyecisi
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

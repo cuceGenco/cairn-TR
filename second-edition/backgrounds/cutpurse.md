@@ -1,5 +1,5 @@
 ---
-title: Cutpurse
+title: Yankesici
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

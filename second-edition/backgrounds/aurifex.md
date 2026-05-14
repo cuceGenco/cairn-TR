@@ -1,5 +1,5 @@
 ---
-title: Aurifex
+title: Simyacı
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

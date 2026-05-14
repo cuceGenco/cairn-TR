@@ -1,5 +1,5 @@
 ---
-title: Kettlewright
+title: Kazancı
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

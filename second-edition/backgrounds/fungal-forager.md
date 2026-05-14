@@ -1,5 +1,5 @@
 ---
-title: Fungal Forager
+title: Mantar Toplayıcısı
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

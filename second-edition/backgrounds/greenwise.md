@@ -1,5 +1,5 @@
 ---
-title: Greenwise
+title: Yeşil Bilge
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

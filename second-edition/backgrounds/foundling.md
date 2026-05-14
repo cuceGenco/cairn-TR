@@ -1,5 +1,5 @@
 ---
-title: Foundling
+title: Buluntu
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

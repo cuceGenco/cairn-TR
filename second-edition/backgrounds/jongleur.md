@@ -1,5 +1,5 @@
 ---
-title: Jongleur
+title: Jonglör
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition

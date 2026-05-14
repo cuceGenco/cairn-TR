@@ -1,5 +1,5 @@
 ---
-title: Half Witch
+title: Yarı Cadı
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
