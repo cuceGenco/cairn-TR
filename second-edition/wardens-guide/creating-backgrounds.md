@@ -1,36 +1,36 @@
 ---
 layout: default
-title: Creating Backgrounds
+title: Karakter Geçmişi Oluşturmak
 parent: Warden's Guide
 grand_parent: Second Edition
 ---
 
-# Creating Backgrounds
+# Karakter Geçmişi Oluşturmak
 
-## Introduction
+## Giriş
 
-In Cairn, a PC's Background is the most important element of their character, representing their past as well as their present. Backgrounds can influence a character's knowledge, expertise, their connection with the setting, and much more. Backgrounds are also a filter for interpreting the results of a dice roll, or a reason to not roll at all. A Greenwise doesn't need to save DEX when cutting leaves from a poisonous plant, just as a Scrivener knows how to read the older form of a local tongue. Most importantly, Backgrounds tell a story through the character's starting gear and unique history, connecting the PC to a setting and its themes.
+Cairn'de bir PC'nin Geçmişi, karakterin en önemli unsurudur; hem geçmişini hem de bugününü temsil eder. Geçmişler; bir karakterin bilgisini, uzmanlığını, ortamla bağını ve çok daha fazlasını etkileyebilir. Geçmişler ayrıca bir zar atışının sonuçlarını yorumlamak için bir filtre ya da hiç zar atmamak için bir nedendir. Bir Yeşilbilir'in zehirli bir bitkiden yaprak keserken ÇEV zarları atması gerekmediği gibi, bir Yazman da yerel bir dilin eski biçimini okumayı bilir. En önemlisi, Geçmişler karakterin başlangıç ekipmanı ve eşsiz geçmişi aracılığıyla bir hikâye anlatır; PC'yi bir ortama ve onun temalarına bağlar.
 
-## Principles
+## İlkeler
 
-- Players should be excited about rolling on the Background tables.
-- Backgrounds can be archetypal and familiar, but leave room for alternative interpretations!
-- Backgrounds should tell the player something about the implied setting.
-- Each table result should be unique, so that characters with the same Background are still distinct from one another.
+- Oyuncular Geçmiş tablolarında zar atmaya hevesli olmalıdır.
+- Geçmişler arketipik ve tanıdık olabilir, ancak alternatif yorumlara yer bırakmalıdır!
+- Geçmişler oyuncuya, ima edilen ortam hakkında bir şeyler söylemelidir.
+- Her tablo sonucu eşsiz olmalıdır, böylece aynı Geçmişe sahip karakterler bile birbirinden farklı kalır.
 
-## Anatomy of a Background
+## Bir Geçmişin Anatomisi
 
-### Theme
+### Tema
 
-Prepare a list of common adjectives that describe your new Background. If designing a profession, ask yourself what would lead someone to take on such a career. If writing something more unique (such as the Half-Witch, for example), consider how such a person's strangeness would alienate them from others or bring them closer. And as you write the Background's starting gear and tables, keep in mind how the game world's implied setting, inspirational materials (books, film, etc.), and existing tropes might influence the results.
+Yeni Geçmişinizi tanımlayan yaygın sıfatların bir listesini hazırlayın. Eğer bir meslek tasarlıyorsanız, birini böyle bir kariyere itecek şeyin ne olduğunu kendinize sorun. Daha eşsiz bir şey yazıyorsanız (örneğin Yarı Cadı gibi), böyle bir kişinin tuhaflığının onu diğerlerinden nasıl uzaklaştıracağını ya da nasıl yakınlaştıracağını düşünün. Ve Geçmişin başlangıç ekipmanlarını ve tablolarını yazarken, oyun dünyasının ima edilen ortamının, ilham kaynaklarının (kitaplar, filmler vb.) ve mevcut motiflerin sonuçları nasıl etkileyebileceğini aklınızda bulundurun.
 
-### Starting Gear
+### Başlangıç Ekipmanı
 
-Characters in Cairn are largely defined by their inventory, so starting gear should be the first place to start painting a Background's unique canvas. Each Background has:
-- Gold, food, and some kind of light source. These should still be unique; a Background might start with unusual Rations, a candle helmet, and so on.
-- Up to four _unique_ items that reinforce the overarching theme. At least one of these items should be a weapon of some kind.
-- Starting items should occupy no more than seven slots in total, so as to not overburden a character's inventory.
+Cairn'deki karakterler büyük ölçüde envanterleriyle tanımlanır, bu nedenle başlangıç ekipmanı bir Geçmişin eşsiz tuvalini boyamaya başlamak için ilk yer olmalıdır. Her Geçmiş şunlara sahiptir:
+- Altın, yiyecek ve bir tür ışık kaynağı. Bunlar yine de eşsiz olmalıdır; bir Geçmiş sıra dışı Azıklarla, bir mum kaskı vb. ile başlayabilir.
+- Genel temayı pekiştiren en fazla dört _eşsiz_ eşya. Bu eşyalardan en az biri bir tür silah olmalıdır.
+- Başlangıç eşyaları toplamda yedi envanter yuvasını geçmemelidir, böylece karakterin envanteri aşırı yüklenmez.
 
-### Tables
+### Tablolar
 
-Tables are where a character's unique story really starts to come together. They also provide a level of diversity so that no two characters are alike. Each Background has a defining question, followed by six rows of answers. The first table question should be tailored around the character's distant or recent past and what experiences led to their present circumstances. The first table should offer the character a unique item, ability, or combination of the two. The second table question focuses on who the character is _today_, and the answers are typically related to a specific item or skill that broadly defines the character.
+Tablolar, bir karakterin eşsiz hikayesinin gerçekten bir araya gelmeye başladığı yerdir. Ayrıca hiçbir iki karakterin birbirine benzememesi için bir çeşitlilik düzeyi sağlarlar. Her Geçmiş, ardından altı satırlık yanıtların geldiği tanımlayıcı bir soruya sahiptir. İlk tablo sorusu, karakterin uzak ya da yakın geçmişi ve hangi deneyimlerin onu şu anki durumuna getirdiği etrafında şekillendirilmelidir. İlk tablo, karaktere eşsiz bir eşya, yetenek veya ikisinin bir kombinasyonunu sunmalıdır. İkinci tablo sorusu, karakterin _bugün_ kim olduğuna odaklanır ve yanıtlar tipik olarak karakteri geniş ölçüde tanımlayan belirli bir eşya veya beceriyle ilgilidir.

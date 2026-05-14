@@ -1,15 +1,15 @@
 ---
 layout: default
-title: NPC Tables
+title: NPC Tabloları
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
 
-# NPC Tables
+# NPC Tabloları
 
 |         |           |
 | ------- | --------- |
-| **d20** | **Name**  |
+| **d20** | **İsim**  |
 | **1**   | Alaric    |
 | **2**   | Carver    |
 | **3**   | Cleaver   |
@@ -33,7 +33,7 @@ grand_parent: Second Edition
 
 |         |           |
 | ------- | --------- |
-| **d20** | **Name**  |
+| **d20** | **İsim**  |
 | **1**   | Ainsley   |
 | **2**   | Azura     |
 | **3**   | Brave     |
@@ -57,7 +57,7 @@ grand_parent: Second Edition
 
 |         |          |
 | ------- | -------- |
-| **d20** | **Name** |
+| **d20** | **İsim** |
 | **1**   | Alder    |
 | **2**   | Alistair |
 | **3**   | Caius    |
@@ -79,131 +79,130 @@ grand_parent: Second Edition
 | **19**  | Taros    |
 | **20**  | Thaddeus |
 
-## Quirks
+## Tuhaflıklar (Quirks)
 
 |         |                |
 | ------- | -------------- |
-| **d20** | **Quirk 1**    |
-| **1**   | Alert          |
-| **2**   | Bald           |
-| **3**   | Bright Eyes    |
-| **4**   | Broad Face     |
-| **5**   | Crooked Teeth  |
-| **6**   | Gaunt          |
-| **7**   | Good Posture   |
-| **8**   | Grimy          |
-| **9**   | Harsh Voice    |
-| **10**  | Heavy Brow     |
-| **11**  | Limps          |
-| **12**  | Missing Ear    |
-| **13**  | Muscular       |
-| **14**  | Notable Hair   |
-| **15**  | Pleasant Voice |
-| **16**  | Squints        |
-| **17**  | Strong         |
-| **18**  | Thick Eyebrows |
-| **19**  | Tired          |
-| **20**  | Young          |
+| **d20** | **Tuhaflık 1** |
+| **1**   | Dikkatli       |
+| **2**   | Kel            |
+| **3**   | Parlak Gözler  |
+| **4**   | Geniş Yüz      |
+| **5**   | Çarpık Dişler  |
+| **6**   | Sıska / Kemikli |
+| **7**   | İyi Duruş      |
+| **8**   | Kirli          |
+| **9**   | Sert Ses       |
+| **10**  | Ağır Kaş       |
+| **11**  | Topallar       |
+| **12**  | Kulak Kayıp    |
+| **13**  | Kaslı          |
+| **14**  | Dikkat Çekici Saç |
+| **15**  | Hoş Ses        |
+| **16**  | Kısar Gözler   |
+| **17**  | Güçlü          |
+| **18**  | Kalın Kaşlar   |
+| **19**  | Yorgun         |
+| **20**  | Genç           |
 
-## Background
+## Geçmiş (Background)
 
 |         |                |
 | ------- | -------------- |
-| **d20** | **Background** |
-| **1**   | Academic       |
-| **2**   | Assassin       |
-| **3**   | Blacksmith     |
-| **4**   | Farmer         |
+| **d20** | **Geçmiş**     |
+| **1**   | Akademisyen    |
+| **2**   | Suikastçı      |
+| **3**   | Demirci        |
+| **4**   | Çiftçi         |
 | **5**   | General        |
-| **6**   | Gravedigger    |
-| **7**   | Guard          |
-| **8**   | Healer         |
-| **9**   | Jailer         |
-| **10**  | Laborer        |
+| **6**   | Mezar Kazıcı   |
+| **7**   | Muhafız        |
+| **8**   | Şifacı         |
+| **9**   | Zindancı       |
+| **10**  | İşçi           |
 | **11**  | Lord           |
-| **12**  | Merchant       |
-| **13**  | Monk           |
-| **14**  | Mystic         |
-| **15**  | Outlander      |
-| **16**  | Peddler        |
-| **17**  | Politician     |
-| **18**  | Spy            |
-| **19**  | Thief          |
-| **20**  | Thug           |
+| **12**  | Tüccar         |
+| **13**  | Keşiş          |
+| **14**  | Mistik         |
+| **15**  | Yabancı        |
+| **16**  | Seyyar Satıcı  |
+| **17**  | Politikacı     |
+| **18**  | Casus          |
+| **19**  | Hırsız         |
+| **20**  | Haydut         |
 
-## Goals
+## Hedefler (Goals)
 
 |         |              |
 | ------- | ------------ |
-| **d20** | **Goal**     |
-| **1**   | Ascension    |
-| **2**   | Cleansing    |
-| **3**   | Conservation |
-| **4**   | Defense      |
-| **5**   | Domination   |
-| **6**   | Enrichment   |
-| **7**   | Expansion    |
-| **8**   | Freedom      |
-| **9**   | Healing      |
-| **10**  | Integration  |
-| **11**  | Justice      |
-| **12**  | Peace        |
-| **13**  | Power        |
-| **14**  | Preservation |
-| **15**  | Purification |
-| **16**  | Redemption   |
-| **17**  | Revenge      |
-| **18**  | Survival     |
-| **19**  | Unity        |
-| **20**  | Wealth       |
+| **d20** | **Hedef**    |
+| **1**   | Yükseliş     |
+| **2**   | Temizlik     |
+| **3**   | Koruma       |
+| **4**   | Savunma      |
+| **5**   | Tahakküm     |
+| **6**   | Zenginleşme  |
+| **7**   | Genişleme    |
+| **8**   | Özgürlük     |
+| **9**   | Şifa         |
+| **10**  | Bütünleşme   |
+| **11**  | Adalet       |
+| **12**  | Barış        |
+| **13**  | Güç          |
+| **14**  | Muhafaza     |
+| **15**  | Arınma       |
+| **16**  | Kefaret      |
+| **17**  | İntikam      |
+| **18**  | Hayatta Kalma |
+| **19**  | Birlik       |
+| **20**  | Zenginlik    |
 
-## Traits
+## Özellikler (Traits)
 
 |         |               |
 | ------- | ------------- |
-| **d20** | **Virtues**   |
-| **1**   | Cautious      |
-| **2**   | Compassionate |
-| **3**   | Connected     |
-| **4**   | Courageous    |
-| **5**   | Disciplined   |
-| **6**   | Discreet      |
-| **7**   | Honest        |
-| **8**   | Intelligent   |
-| **9**   | Judicious     |
-| **10**  | Loyal         |
-| **11**  | Methodical    |
-| **12**  | Meticulous    |
-| **13**  | Polite        |
-| **14**  | Popular       |
-| **15**  | Pragmatic     |
-| **16**  | Resourceful   |
-| **17**  | Suave         |
-| **18**  | Shrewd        |
-| **19**  | Tenacious     |
-| **20**  | Witty         |
+| **d20** | **Erdemler**  |
+| **1**   | İhtiyatlı     |
+| **2**   | Şefkatli      |
+| **3**   | Bağlantılı    |
+| **4**   | Cesur         |
+| **5**   | Disiplinli    |
+| **6**   | İhtiyatlı (discreet) |
+| **7**   | Dürüst        |
+| **8**   | Zeki          |
+| **9**   | Sağduyulu     |
+| **10**  | Sadık         |
+| **11**  | Yöntemli      |
+| **12**  | Titiz         |
+| **13**  | Kibar         |
+| **14**  | Popüler       |
+| **15**  | Pratik        |
+| **16**  | Becerikli     |
+| **17**  | Hoşsohbet     |
+| **18**  | Akıllı (shrewd) |
+| **19**  | Azimli        |
+| **20**  | Nüktedan      |
 
 |         |              |
 | ------- | ------------ |
-| **d20** | **Vices**    |
-| **1**   | Aloof        |
-| **2**   | Corrupt      |
-| **3**   | Craven       |
-| **4**   | Cruel        |
-| **5**   | Cynical      |
-| **6**   | Deceptive    |
-| **7**   | Greedy       |
-| **8**   | Impulsive    |
-| **9**   | Incompetent  |
-| **10**  | Inflexible   |
-| **11**  | Manipulative |
-| **12**  | Mercurial    |
-| **13**  | Naive        |
-| **14**  | Pedantic     |
-| **15**  | Ruthless     |
-| **16**  | Sarcastic    |
-| **17**  | Selfish      |
-| **18**  | Stubborn     |
-| **19**  | Vain         |
-| **20**  | Xenophobic   |
-
+| **d20** | **Kusurlar** |
+| **1**   | Mesafeli     |
+| **2**   | Yozlaşmış    |
+| **3**   | Korkak       |
+| **4**   | Zalim        |
+| **5**   | Alaycı       |
+| **6**   | Aldatıcı     |
+| **7**   | Açgözlü      |
+| **8**   | Dürtüsel     |
+| **9**   | Yetersiz     |
+| **10**  | Esnek olmayan |
+| **11**  | Manipülatif  |
+| **12**  | Kararsız     |
+| **13**  | Saf          |
+| **14**  | Pedantik     |
+| **15**  | Acımasız     |
+| **16**  | Alaycı (sarkastik) |
+| **17**  | Bencil       |
+| **18**  | İnatçı       |
+| **19**  | Kibirli      |
+| **20**  | Yabancı Düşmanı |

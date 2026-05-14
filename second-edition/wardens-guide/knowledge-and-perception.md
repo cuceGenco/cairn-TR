@@ -1,48 +1,47 @@
 ---
 layout: default
-title: Knowledge And Perception
+title: Bilgi ve Algı
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
+# Bilgi ve Algı
 
-# Knowledge And Perception
+## Giriş
 
-## Introduction
+Cairn, bilgi veya uzmanlık için mekanikler içermeyerek birçok modern rol yapma oyunundan ayrılır. Bunun yerine, bir karakterin gerekli bilgiye, kurguda gerekçelendirilebildiği sürece sahip olduğu varsayılır. Benzer şekilde, bir karakterin çevresindeki önemli detayları "algılama" yeteneğini veya algısını yöneten herhangi bir mekanik yoktur. Bunun yerine, Muhafız, bir karakterin temel duyularıyla algılayabileceği her detay hakkında sınırsız ilgili bilgi sağlamalıdır.
 
-Cairn differs from many modern roleplaying games by not including mechanics for knowledge or expertise. Instead, it is assumed that a character has the necessary knowledge so long as it can be justified in the fiction. Similarly, there are no mechanics that govern a character's perception or ability to "detect" important details in their environment. Instead, the Warden should provide unlimited relevant information about every detail a character can perceive with their basic senses.
+## Bilgi
 
-## Knowledge
+Karakter bilgisi, yalnızca kurgudaki unsurlarla açıklanabilenlerle sınırlıdır. Bir PC'nin yoksul bir geçmişten geldiği ve hayatta kalmak için her yolu öğrendiği biliniyorsa, oyuncusu karakterinin gecekondu mahallesinde saklanan önemli bir NPC'yi bulma konusunda daha yetenekli olduğunu savunabilir. Kiminle konuşması gerektiğini ve hedefinin nerede olduğu hakkında bilgi toplamak için ne tür takaslar gerekebileceğini biliyor olabilir.
 
-Character knowledge is limited only by what can be explained by elements in the fiction. If it is known that a PC comes from an impoverished background and learned how to survive by any means necessary, then their player may argue that their character is better able to track down a notable NPC hiding in the slums. They may know whom to speak to and what sorts of trades might be required to collect the information they need about their target's whereabouts. 
+Bir karakterin bir konu hakkında gerekçelendirilebilir bir bilgisi yoksa, o konu hakkında hiçbir şey bilmiyor demektir! Ancak Muhafız, karakterin _bir şey_ bilme şansı olup olmadığını belirlemek için **Kader Zarı**nı (Die of Fate) atmayı seçebilir. Sonuç ne kadar yüksekse, (makul olarak) o kadar çok şey bilebilir.
 
-If a character has no justifiable knowledge of a subject, then they simply do not know anything about it! However, the Warden may decide to roll the **Die of Fate** to determine if the character has a chance of knowing _something_. The higher the result, the more they might (reasonably) know.
+### Emanetler
 
-### Relics
+Bir karakter aşina olmadığı bir Emanet'i ilk edindiğinde, ya onun hakkında daha fazla şey öğrenmek için zaman harcayabilir (bir Ara Dinlenme eylemi kullanarak) ya da onunla deney yapabilir. İkincisi bazı tehlikeler taşır ve olumsuz sonuçlardan kaçınmak için başarılı bir İRA zarı bile gerektirebilir. Bununla birlikte, oyuncunun Emanet hakkında istediği kadar soru sormasına ve (sonunda) ona _nasıl çalıştığını söylemeye_ izin vermek genellikle daha ilginçtir.
 
-When a character first acquires a Relic they are not familiar with, they can either spend time learning more about it (using a Downtime action) or experiment with it. The latter carries some dangers and may even require a successful WIL save to avoid negative consequences. However, it is often more interesting to allow the player to ask as many questions as they like about it and (eventually) to simply _tell them how it works_.
+## Algı
 
-## Perception
+Oyuncuları PC'lerinin algılayabildikleri hakkında bilgilendirirken, Muhafız, belirli bir durumdaki nesneler, karakterler, tehlikeler ve etkileşimli öğelerle ilgili maksimum duyusal bilgi sağlamalıdır. PC'lerin ne bildiğini veya bilmediğini sınırlamanın ne kazandırabileceğini düşünün. Sırlar, ilginç seçimler ve karar noktaları yaratmaya yardımcı olur mu? İlginç sorular ortaya çıkarır mı? Oyunculara kendi eylemleri üzerinde bir kontrol hissi verir mi? Bu soruların cevabı neredeyse her zaman güçlü bir _Hayır_'dır.
 
-When informing the players of what their PCs can perceive, the Warden should provide maximal sensory information pertaining to the objects, characters, dangers, and interactive elements in the given situation. Consider what can be gained by limiting what the PCs know or do not know. Do secrets help create interesting choices and decision points? Do they raise interesting questions? Do they give the players a sense of control over their own actions? The answer to these questions is almost always an emphatic _No_. 
+Oyuncular, karakterlerinin eylemlerinin sonuçlarının _hak edilmiş_ olduğunu ve sonuçlar her zaman onların lehine olmasa bile bunu _hak ettiklerini_ hissetmelidir. Gerçek eylemcilik (agency), oyunculara ilginç bir karar vermek için bilmeleri gereken her şeyi sağlamaktan gelir; bu sadece karakterlerinin ne algılayabileceği hakkında bir soru sormak olsa bile.
 
-Players should feel that the consequences of their character's actions are _earned_, and that they are _deserved_, even if the results aren't always in their favor. True agency comes from providing the players with everything they need to know to make an interesting decision, even if that is simply asking a question about what their character might perceive. 
+Örneğin, aşağıdaki kodlanmış konumu ele alalım:
 
-Take for example the following keyed location:
+Büyük bir meşe ağacının dalından sarkan devasa bir kovanın etrafında öfkeyle daire çizen bir **arı** kolonisi. Ağacın altındaki gölgelerde gözlem yapan bir **adam** ve ağaçtan çok uzakta olmayan bir yerde yerde paslı bir **kılıç** duruyor.
 
-A colony of **bees** furiously circles a massive hive hanging from the branch of a large oak tree. A **man** observes in the shadows beneath the tree, and a rusted **sword** lies on the ground not far from the tree.
+- **Arılar**: Vızıltıları neredeyse sağır edici, ağacın etrafında bir ses duvarı oluşturuyor.
+  - Kovandan bal damlıyor. Lezzetli ve sıradan.
+  - Kovandan bal almaya yönelik herhangi bir girişim, koloniden agresif bir yanıtla karşılanır [3 HP, 3 STR, 12 DEX, 4 WIL, sokma (d6), _müfreze_].
+- **Adam**: Uzun bir asaya yaslanmış, bakışları kovaya sabitlenmiş. Görünüşe göre sürüden etkilenmiyor.
+  - Adam, arıcı tarafından olası yırtıcıları uzaklaştırmak için yaratılmış büyülü bir yanılsamadır. Doğrudan herhangi bir uyarana tepki vermez.
+  - Kova herhangi bir şekilde hasar görürse, adam çok yüksek sesle çığlık atar, sonra kaybolur.
+- **Kılıç**: Topraktaki ayakkabı izleri ona doğru gidiyor ancak birkaç adım ötede aniden duruyor.
+  - Silah, hemen altındaki toprağa gömülü iskelete aittir. Bu, tuhaf bir şekilde korunmuş, sıradan bir kısa kılıçtır (d6).
+  - Kan Asmaları [3 HP, 4 STR, 13 DEX, 1 WIL, dallar (d6, _patlama_)] kılıca yaklaşan herkese saldırır, hedeflerinden her tur 1 STR emer (ilk turdan sonra kaçmak için STR zarları).
 
-- **Bees**: Their buzzing is nearly deafening, creating a wall of sound around the tree.
-  - The hive is dripping with honey. It is delicious, and mundane.
-  - Any attempt to take honey from the hive is met with an aggressive response from the colony [3 HP, 3 STR, 12 DEX, 4 WIL, sting (d6), _detachment_].
-- **Man**: Leans against a long staff, his gaze fixed on the hive. He appears unfazed by the swarm. 
-  - The man is a magical illusion created by the beekeeper as a means to drive away any potential predators. He will not react to any direct stimuli.
-  - If the hive is damaged in any way, the man will scream very loudly, then disappear.
-- **Sword**: Shoe prints in the earth lead towards it but stop abruptly a few feet away. 
-  - The weapon belongs to the skeleton buried just beneath the earth. It is a regular short sword (d6), strangely preserved.
-  - Bloodvines [3 HP, 4 STR, 13 DEX, 1 WIL, tendrils (d6, _blast_)] attack anyone that steps close to the sword, sapping 1 STR per round from their target (STR save to escape after the first round).
+Bu örnekte üç potansiyel tehlike vardır: arılar, adam ve Kan Asması bitkisi. Arılardan gelen tehlike daha belirgindir, çünkü PC'ler tehlikeleri açıkça görebilir ve arıları zaten bilirler. Adam bilinmeyen bir varlıktır ve dost ya da düşman olabilirken, Kan Asmaları gizlidir ve bir tür tuzak işlevi görür. Bu nedenle Muhafız, PC'lerin tam olarak ne görebildiğini, duyabildiğini ve koklayabildiğini iletmelidir.
 
-In this example, there are three potential dangers: the bees, the man, and the Bloodvine plant. The danger from bees is more obvious, as the PCs can clearly see the danger and are familiar with bees already. The man is an unknown entity and could be friend or foe, while the Bloodvines are hidden and act as a sort of trap. The Warden should therefore communicate exactly what the PCs can see, hear, and smell. 
+PC'ler muhtemelen önce adamla etkileşime geçmeye çalışacak veya belki de kılıç hakkında sorular soracaktır, çünkü bunlar sahneyle etkileşime geçmenin oldukça pasif yollarıdır. PC'ler adamın tepki vermediğini fark ettiklerinde, daha yakından bakmayı veya belki de kovandan kaçınarak ona doğru bir taş fırlatmayı deneyebilirler, vb. PC'ler kılıç hakkında soru sorarsa veya onunla etkileşime geçmeye çalışırsa, Muhafız onlara çimlerdeki ayakkabı izlerini hemen söylemelidir.
 
-The PCs will likely try to interact with the man first or perhaps ask questions about the sword, as these are both fairly passive ways to engage with the scene. When the PCs realize that the man does not respond, they may try to get a closer look or perhaps toss a rock in his direction (avoiding the hive), and so on. If the PCs ask questions about the sword or try to interact with it, the Warden should tell them about the shoe prints in the grass right away. 
-
-If the PCs decide to engage with the bee hive, the Warden should "warn" them with a hint of some kind: the bees begin to fly in a more aggressive manner, or the noise they create gets louder, and so on. It is up to the players whether to ignore the clues in front of them and continue, or to stop and ask questions. 
+PC'ler arı kovanıyla ilgilenmeye karar verirse, Muhafız bir tür ipucu ile onları "uyarmalıdır": arılar daha agresif bir şekilde uçmaya başlar veya çıkardıkları ses yükselir, vb. İpuçlarını görmezden gelip devam etmek veya durup soru sormak oyunculara kalmıştır.

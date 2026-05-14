@@ -1,35 +1,35 @@
 ---
 layout: default
-title: Wilderness Exploration
+title: Vahşi Doğa Keşfi
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
 
-# Wilderness Exploration
+# Vahşi Doğa Keşfi
 
-## Overview
+## Genel Bakış
 
-In Cairn, wilderness exploration and travel is mostly abstract, hand-waving away the minutiae of the journey while still giving the party ample opportunities for interactivity and character agency. 
+Cairn'de vahşi doğa keşfi ve seyahat çoğunlukla soyuttur, yolculuğun ayrıntılarını geçiştirirken aynı zamanda partiye etkileşim ve karakter eylemi için bolca fırsat sunar.
 
-### Exploration Example
+### Keşif Örneği
 
-The party is escorting an NPC between two POIs: a small village situated in the grasslands to a stronghold at the base of an impressive valley. The short journey should only take one day, as travel is limited to _Easy_ terrain and is along a clear _Trail_ all the way. 
+Ekip, iki İN (İlgi Noktası) arasında bir NPC'ye eskortluk etmektedir: çayırlıklarda bulunan küçük bir köyden, etkileyici bir vadinin eteğindeki bir kaleye. Kısa yolculuk sadece bir gün sürmelidir, çünkü seyahat _Kolay_ araziyle sınırlıdır ve tüm yol boyunca net bir _Patika_ boyunca ilerlenmektedir.
 
-> At the start of the day, the Warden rolls for the local weather, then adjudicates its potential impacts on the journey that day. It is overcast and breezy (no impact). After each of the following **Wilderness Actions,** the party rolls 1d6 to see if they get lost, and the Warden rolls on the **Wilderness Events Table**.
+> Günün başında, Muhafız yerel hava durumu için zar atar, ardından yolculuk üzerindeki potansiyel etkilerini değerlendirir. Hava bulutlu ve esintilidir (etkisi yok). Aşağıdaki **Vahşi Doğa Eylemleri**nin her birinden sonra, ekip kaybolup kaybolmadıklarını görmek için 1d6 atar ve Muhafız **Vahşi Doğa Olayları Tablosu**'nda zar atar.
 
-#### Day One / Watch One 
+#### Birinci Gün / Birinci Nöbet (Watch)
 
-- The party takes the **Travel** action. _They do not get lost_.
-- **Events Table**: **Sign**. One of the characters looks behind the party and spies something glittering in the distance behind them. It disappears after a few seconds. Could that be a spyglass, reflecting in the sun?
+- Ekip **Seyahat (Travel)** eylemini yapar. _Kaybolmazlar._
+- **Olaylar Tablosu**: **İşaret (Sign)**. Karakterlerden biri partinin arkasına bakar ve uzakta parıldayan bir şey görür. Birkaç saniye sonra kaybolur. Bu bir dürbün olabilir mi, güneşte yansıyan?
 
-#### Day One / Watch Two 
+#### Birinci Gün / İkinci Nöbet
 
-- The party takes the **Travel** action again, continuing along the same trail and plain. _They do not get lost._
-- **Events Table**: **Environment**. The weather has worsened in the evening, and as a result, the plain is muddy and the trail harder to follow. The Warden adds 1 Watch to the journey, as the party is forced to slow their march considerably, only reaching the edge of the grasses by nightfall. The party is forced to find shelter in the open plain rather than at their destination in the adjacent valley.
+- Ekip tekrar **Seyahat** eylemini yapar, aynı patika ve ova boyunca devam eder. _Kaybolmazlar._
+- **Olaylar Tablosu**: **Çevre (Environment)**. Akşam vakti hava kötüleşir ve bunun sonucunda ova çamurlanır, patikayı takip etmek zorlaşır. Muhafız yolculuğa +1 Nöbet ekler, çünkü ekip yürüyüşünü önemli ölçüde yavaşlatmak zorunda kalır ve gecenin çöküşüyle birlikte ancak çimenlerin kenarına ulaşır. Ekip, bitişik vadideki hedeflerine değil, açık ovada barınak bulmak zorunda kalır.
 
-#### Day One / Watch Three 
+#### Birinci Gün / Üçüncü Nöbet
 
-- The party takes the **Make Camp** action. They set up a hastily-made shelter, and each character consumes a Ration. A lookout rotation is set, dividing the night between all four party members.
-- **Events Table**: **Sign**. The sky clears up enough for the first person on lookout to see a light in the distance, flickering slowly. A campfire! Someone is definitely following them.
+- Ekip **Kamp Kur (Make Camp)** eylemini yapar. Aceleyle yapılmış bir barınak kurarlar ve her karakter bir Azık tüketir. Dört parti üyesi arasında geceyi bölüştüren bir nöbetçi düzeni kurulur.
+- **Olaylar Tablosu**: **İşaret (Sign)**. Gökyüzü, ilk nöbetçinin uzakta yavaşça titreşen bir ışık görmesi için yeterince açılır. Bir kamp ateşi! Birileri kesinlikle onları takip ediyor.
 
-> Note: the party could have chosen to continue on through the night, but doing so could increase the chance of getting lost and put the party at greater risk! 
+> Not: Ekip gece boyunca devam etmeyi seçebilirdi, ancak bunu yapmak kaybolma şansını artırabilir ve ekibi daha büyük riske sokabilirdi!

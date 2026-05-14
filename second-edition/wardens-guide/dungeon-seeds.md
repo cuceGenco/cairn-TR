@@ -1,577 +1,577 @@
 ---
 layout: default
-title: Dungeon Seeds
+title: Zindan Tohumları
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
 
-# Dungeon Seeds
+# Zindan Tohumları
 
-## Dungeon Principles
+## Zindan İlkeleri
 
-- **Purpose**: Consider what the dungeon's original purpose was, as well as what it is being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals. Sometimes a dungeon will have multiple purposes, and these can collide against each other to create tension among its denizens.
-- **Levels**: Though they should make sense as part of the dungeon's construction and purpose, levels should also represent increasing danger. On each level, try to push players to weigh the risk of further exploration versus a potential reward. 
-- **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
-- **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
-- **Secret Areas**: Include hidden zones, including at least one that will likely remain undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
-- **Rooms**: Vary room shapes, sizes, and functions. Use architectural motifs to connect rooms and provide hints of what's to come. Room descriptions should be easy to map and recall.
-- **Treasure**: Incorporate a variety of treasures beyond mere gold, such as knowledge, allies, trade goods, and artifacts. Add narrative elements to treasure to increase its non-monetary value.
-- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overly dangerous areas and creatures should be obvious. Create encounters that can be avoided with critical thinking and problem-solving, not just violence. Remember that monsters and other obstacles are another way to tell the dungeon's story.
-- **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. 
-- **Factions**: Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. 
-- **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not just special abilities or tools. Create built-in clues suggesting the puzzle's origin and its effects. 
-- **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map, rather than in the room description. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
-- **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
-- **Encounter Tables**: Create random events to help make a dungeon feel alive by making exploration tense and unpredictable, as parties may encounter wandering monsters, factions, NPCs, or signs of an approaching threat. Try to provide challenges, moments of respite, or opportunities for roleplay. 
+- **Amaç**: Zindanın orijinal amacının ne olduğunu ve bugün ne için kullanıldığını düşünün. Orijinal sakinlerinin ve hedeflerinin işaretlerine yer vererek bir zindanın tarihini gösterin. Bazen bir zindanın birden çok amacı olur ve bunlar çatışarak sakinleri arasında gerilim yaratabilir.
+- **Seviyeler**: Zindanın inşası ve amacının bir parçası olarak mantıklı olmaları gerekse de, seviyeler aynı zamanda artan tehlikeyi temsil etmelidir. Her seviyede, oyuncuları daha fazla keşif riski ile potansiyel ödül arasında bir değerlendirme yapmaya itmeye çalışın.
+- **Düzen**: Birden çok giriş ve çıkış oluşturun, çoklu rotalar sunun, darboğaz noktaları tasarlayın ve saklanma yerleri sağlayın. Oda giriş ve çıkışlarına anlamlı ve bariz bilgiler ekleyin.
+- **Dikeylik**: Yüksek tavanlı odalar, tırmanılabilir yapılar ve engellerin etrafında ve üzerinde hareket imkânı sağlayan yollar ekleyin.
+- **Gizli Alanlar**: Gizli bölgeler ekleyin; en az biri büyük olasılıkla keşfedilmeyecek ama yine de bulmaya değer olsun. Kritik bilgileri gizli odaların arkasına saklamaktan kaçının.
+- **Odalar**: Oda şekillerini, boyutlarını ve işlevlerini çeşitlendirin. Odaları birbirine bağlamak ve ne geleceğine dair ipuçları sağlamak için mimari motifler kullanın. Oda betimlemeleri haritalaması ve hatırlaması kolay olmalıdır.
+- **Hazine**: Sadece altının ötesinde bilgi, müttefikler, ticaret malları ve eserler gibi çeşitli hazineler ekleyin. Hazineye anlatı öğeleri ekleyerek parasal olmayan değerini artırın.
+- **Zorluklar**: Karakterlerin, önceden belirlenmiş sonuçları olmayan zorluklar yazarak hikayeyi yönlendirmesine izin verin. Bir tehlike hissi yaratın, ancak engelleri aşılmaz gibi göstermekten kaçının. Aşırı tehlikeli alanlar ve yaratıklar bariz olmalıdır. Sadece şiddetle değil, eleştirel düşünme ve problem çözme ile önlenebilecek karşılaşmalar oluşturun. Canavarların ve diğer engellerin aynı zamanda zindanın hikayesini anlatmanın bir yolu olduğunu unutmayın.
+- **NPC'ler**: Kendi hedefleri ve gündemleri olan ilgi çekici NPC'ler ekleyin. Bu karakterler zindanda _kalmak isteyebilir_; hatta orayı sevebilirler! NPC'ler ve canavarlar, çatışma sırasında bile PC'lerle iletişim kurmalıdır. Mümkün olduğunda tehditler savursunlar, uzlaşma önersinler veya PC'leri ikna etmeye çalışsınlar. Her karakter bir şey ister ve onu elde etmek için yapabileceklerinin bir sınırı vardır.
+- **Hizipler**: Hizipler hem karakterlerle hem de birbirleriyle etkileşime geçmeli, karakterlerin eylemlerinden bağımsız olarak kendi başlarına hareket etmelidir. İstismar edilebilecek hiyerarşiler ve bölünmeler verin.
+- **Bulmacalar**: Net, eyleme geçirilebilir hedefleri olan bulmacalar oluşturun. Bulmacalar zindanın temalarını pekiştirmeli ve tarihi üzerine inşa edilmelidir. Bulmacanın zorluğunu bariz, ancak çözümünü daha az bariz hale getirin. Birden çok çözüme ve oyuncuların sadece özel yetenekler veya araçlar değil, zeka ve eleştirel düşünme kullanarak çözmelerine izin verin. Bulmacanın kökenini ve etkilerini ima eden yerleşik ipuçları oluşturun.
+- **Zindan Haritası**: Sıkıcı veya tekrarlayan şeyleri (çıkışlar, oda şekilleri vb.) oda betimlemesi yerine haritaya koyun. Bariz çıkışlar net, ayırt edici bir dille betimlenmelidir. Haritaya atıfta bulunurken karışıklığı önlemek için odalarınızı numaralandırın.
+- **Oda Kodlama (Keying)**: Bir odanın en önemli yönlerini (tipik olarak bariz tehditler veya NPC'ler) vurgulayın. Partinin çevreye yönelmesine yardımcı olan öğeleri betimleyin. Somut olun, ancak karakterlerin nasıl _hissetmesi_ gerektiğini betimlemekten kaçının. Sadece şimdi _olan_ şeyi betimleyin. Burada bir tarih varsa, karakterler bunu oyun içinde keşfedecektir. Her odayı adlandırın!
+- **Karşılaşma Tabloları**: Keşfi gergin ve öngörülemez kılmak için zindanı canlı hissettirecek rastgele olaylar oluşturun; partiler gezgin canavarlar, hizipler, NPC'ler veya yaklaşan bir tehdidin işaretleriyle karşılaşabilir. Zorluklar, dinlenme anları veya rol yapma fırsatları sağlamaya çalışın.
 
-## Creating a Dungeon
+## Bir Zindan Oluşturmak
 
-### Materials Required
+### Gereken Malzemeler
 
-- A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+- Bir kağıt ve bir defter. A4 boyutu yeterlidir.
+- Kalemler ve silgiler.
+- En az bir d6 ve bir d20, ancak 6d6 ve 2d20 ideal olacaktır.
 
-> Going forward, we will refer to the sheet of paper as the **dungeon map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
+> Bundan sonra, kağıda **zindan haritası** olarak atıfta bulunacağız.
+> Diğer kurallarda olduğu gibi, bir tablo sonucunu beğenmezseniz, tekrar atın veya istediğiniz gibi ayarlayın!
 
-Follow this procedure for any dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
+Ortamınızdaki herhangi bir zindan İlgi Noktası (POI) için bu prosedürü izleyin. Daha önceki zindan türü tablosu sonuçlarına bakın ve haritanızdaki sonuçları okuyun. Hemen hangi görüntü aklınıza geliyor? Zindan nerede bulunuyor? Girişi neye benziyor? Bu soruları henüz cevaplayamıyorsanız endişelenmeyin. Bu sürecin sonunda cevaplayabilecek durumda olmalısınız.
 
-### Overview
+### Genel Bakış
 
-1. Define the dungeon's original purpose, its construction, and finally its ruination.
-2. Define the dungeon's NPCs and factions, including their unique traits and agendas.
-3. Finalize the dungeon theme.
-4. Create the map.
-5. Stock the dungeon's rooms.
+1. Zindanın orijinal amacını, inşasını ve nihayetinde yıkımını tanımlayın.
+2. Zindanın NPC'lerini ve hiziplerini, benzersiz özellikleri ve gündemleri dahil tanımlayın.
+3. Zindan temasını son haline getirin.
+4. Haritayı oluşturun.
+5. Zindanın odalarını doldurun (stock).
 
-### History
+### Tarihçe
 
-Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook, keeping the following questions in mind: 
+Zindanı kim inşa etti? Başlangıçta ne için kullanılıyordu? Belki bir zamanlar dünyanın en güçlü silahını yapabilecek büyük bir demirhane idi. Ya da belki antik krallar için bir mezar alanıydı, ruhlarını bir zamanlar yönettikleri topraklara bağlıyordu. Aşağıdaki tablolarda zar atın, sonuçları defterinize not edin ve aklınızda şu soruları tutun:
 
-_"What kind of dungeon is this, and what makes it unusual?"_
+_"Bu nasıl bir zindan ve onu sıra dışı kılan nedir?"_
 
-_"Why was this dungeon built, how was it built, and what caused its downfall?"_
+_"Bu zindan neden inşa edildi, nasıl inşa edildi ve çöküşüne ne sebep oldu?"_
 
-#### Purpose
+#### Amaç (Purpose)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                              |                        |
 | ------- | ---------------------------- | ---------------------- |
-| **d20** | **Original Use**             | **Built By**           |
-| **1**   | Ancestral Rites              | A Fallen Hero          |
-| **2**   | Arcane Library               | A Fanatical Cult       |
-| **3**   | Astral Trading Hub           | A Forgotten Empire     |
-| **4**   | Bestial Creations            | A Long-Dead Poet       |
-| **5**   | Breeding Grounds             | A Militant Order       |
-| **6**   | Burial Site                  | A Renowned Alchemist   |
-| **7**   | Celestial Observations       | A Royal Dynasty        |
-| **8**   | Covert Experiments           | A Secret Society       |
-| **9**   | Forbidden Trysts             | A Tyrannical Ruler     |
-| **10**  | Forge for a Great Weapon     | A Warrior Tribe        |
-| **11**  | Hideout                      | A Wealthy Recluse      |
-| **12**  | Impenetrable Vault           | Desperate Rebels       |
-| **13**  | Invasion of Dreams           | Heretical Alchemists   |
-| **14**  | Isolated Refuge              | Heretical Monks        |
-| **15**  | Military Outpost             | Immoral Sorcerers      |
-| **16**  | Observatory                  | Inverted Astrologers   |
-| **17**  | Pilgrimage Site              | Mob Families           |
-| **18**  | Protection of Rare Artifacts | Opulent Merchants      |
-| **19**  | Secret Meeting Place         | Pilgrims to a Dead God |
-| **20**  | Treasure Horde               | Rogue Scholars         |
+| **d20** | **Orijinal Kullanım**        | **İnşa Eden**          |
+| **1**   | Atasal Törenler              | Düşmüş Bir Kahraman    |
+| **2**   | Büyülü Kütüphane             | Fanatik Bir Tarikat     |
+| **3**   | Astral Ticaret Merkezi       | Unutulmuş Bir İmparatorluk |
+| **4**   | Hayvani Yaratımlar           | Uzun Zaman Önce Ölmüş Bir Şair |
+| **5**   | Üreme Alanları               | Militan Bir Tarikat     |
+| **6**   | Mezar Alanı                  | Tanınmış Bir Simyacı    |
+| **7**   | Göksel Gözlemler             | Bir Kraliyet Hanedanı   |
+| **8**   | Gizli Deneyler               | Gizli Bir Cemiyet       |
+| **9**   | Yasak Buluşmalar             | Tiran Bir Hükümdar      |
+| **10**  | Büyük Bir Silah İçin Demirhane | Bir Savaşçı Kabilesi  |
+| **11**  | İn                           | Zengin Bir İnzivaya Çekilmiş Kişi |
+| **12**  | Aşılmaz Kasa                 | Çaresiz İsyancılar      |
+| **13**  | Rüyaların İstilası           | Sapkın Simyacılar       |
+| **14**  | İzole Sığınak               | Sapkın Rahipler         |
+| **15**  | Askeri Karakol              | Ahlaksız Büyücüler      |
+| **16**  | Gözlemevi                   | Tersine Dönmüş Astrologlar |
+| **17**  | Hac Yeri                    | Mafya Aileleri          |
+| **18**  | Nadir Eserlerin Korunması   | Gösterişli Tüccarlar    |
+| **19**  | Gizli Buluşma Yeri          | Ölü Bir Tanrıya Hacılar |
+| **20**  | Hazine Yığını               | Haydut Bilginler        |
 
-#### Construction
+#### İnşa (Construction)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                       |                    |
 | ------- | --------------------- | ------------------ |
-| **d20** | **Entrance**          | **Composition**    |
-| **1**   | A Creature's Lair     | Bone               |
-| **2**   | A Dream               | Coral              |
-| **3**   | A Massive Tree        | Crystal            |
-| **4**   | A Well                | Earth              |
-| **5**   | An Enormous Grave     | Ethereal Fabric    |
-| **6**   | Behind a Waterfall    | Flesh              |
-| **7**   | Between Menhirs       | Floating Platforms |
-| **8**   | Cave                  | Fungi              |
-| **9**   | Center of a Maze      | Glass              |
-| **10**  | Cliff door            | Ice                |
-| **11**  | Hollow Statue         | Living Plants      |
-| **12**  | Illusory Wall         | Marble             |
-| **13**  | Mine Shaft            | Metal              |
-| **14**  | Sinking Sand          | Obsidian           |
-| **15**  | Skyward Beam of Light | Petrified Wood     |
-| **16**  | Starlight Path        | Sand               |
-| **17**  | Through a Painting    | Shadow Material    |
-| **18**  | Under a Bridge        | Stone              |
-| **19**  | Underwater Tunnel     | Webs               |
-| **20**  | Veil of Mist          | Wood               |
+| **d20** | **Giriş**             | **Yapı Malzemesi** |
+| **1**   | Bir Yaratığın İni     | Kemik              |
+| **2**   | Bir Rüya              | Mercan             |
+| **3**   | Devasa Bir Ağaç       | Kristal            |
+| **4**   | Bir Kuyu              | Toprak             |
+| **5**   | Devasa Bir Mezar      | Eterik Kumaş       |
+| **6**   | Bir Şelalenin Arkası  | Et                 |
+| **7**   | Menhirlerin Arası     | Yüzen Platformlar  |
+| **8**   | Mağara                | Mantar             |
+| **9**   | Bir Labirentin Merkezi | Cam              |
+| **10**  | Uçurum Kapısı         | Buz                |
+| **11**  | İçi Boş Heykel        | Yaşayan Bitkiler   |
+| **12**  | Yanılsamalı Duvar     | Mermer             |
+| **13**  | Maden Ocağı           | Metal              |
+| **14**  | Batan Kum             | Obsidyen           |
+| **15**  | Gökyüzüne Doğru Işık Hüzmesi | Taşlaşmış Odun |
+| **16**  | Yıldız Işığı Yolu     | Kum                |
+| **17**  | Bir Tablonun İçinden  | Gölge Malzemesi    |
+| **18**  | Bir Köprünün Altında  | Taş                |
+| **19**  | Sualtı Tüneli         | Ağlar              |
+| **20**  | Sis Perdesi           | Odun               |
 
-#### Ruination
+#### Yıkım (Ruination)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                  |                             |
 | ------- | ---------------- | --------------------------- |
-| **d20** | **Condition**    | **Cause**                   |
-| **1**   | Corpse           | Alchemical Accident         |
-| **2**   | Crumbling        | Ancient Curse               |
-| **3**   | Cursed           | Cataclysmic Flood           |
-| **4**   | Desecrated       | Civil War                   |
-| **5**   | Devoured         | Competing Rituals           |
-| **6**   | Displaced        | Consumed by a Beast         |
-| **7**   | Divided          | Disease                     |
-| **8**   | Frozen           | Hedonism                    |
-| **9**   | Haunted          | Invasion                    |
-| **10**  | Infested         | Long-Term Abandonment       |
-| **11**  | Overgrown        | Magic Gone Awry             |
-| **12**  | Overpopulated    | Magical Seal                |
-| **13**  | Petrified        | Natural Disaster            |
-| **14**  | Plundered        | Natural Erosion             |
-| **15**  | Poisoned         | Obfuscation                 |
-| **16**  | Scorched         | Overrun with Monsters       |
-| **17**  | Shrouded in Mist | Sudden Change in Climate    |
-| **18**  | Submerged        | Teleported to Another Realm |
-| **19**  | Unending         | Turned to Stone             |
-| **20**  | Warped           | Unresolved Spirits          |
+| **d20** | **Durum**        | **Sebep**                   |
+| **1**   | Ceset            | Simya Kazası                |
+| **2**   | Yıkılmakta       | Antik Lanet                 |
+| **3**   | Lanetli          | Yıkıcı Sel                  |
+| **4**   | Saygısızlaştırılmış | İç Savaş                  |
+| **5**   | Yenmiş           | Rekabet Eden Ritüeller      |
+| **6**   | Yerinden Edilmiş | Bir Canavar Tarafından Tüketilmiş |
+| **7**   | Bölünmüş         | Hastalık                    |
+| **8**   | Donmuş           | Hedonizm                    |
+| **9**   | Perili           | İstila                      |
+| **10**  | İstila Edilmiş   | Uzun Süreli Terk           |
+| **11**  | Aşırı Büyümüş    | Büyünün Kontrolden Çıkması |
+| **12**  | Aşırı Nüfuslu    | Büyülü Mühür                |
+| **13**  | Taşlaşmış        | Doğal Afet                  |
+| **14**  | Yağmalanmış      | Doğal Aşınma                |
+| **15**  | Zehirlenmiş      | Belirsizleştirme (Obfuscation) |
+| **16**  | Yanmış/kavrulmuş | Canavarlarla İstila Edilmiş |
+| **17**  | Sisle Kaplı      | İklimde Ani Değişiklik      |
+| **18**  | Sulara Gömülmüş  | Başka Bir Aleme Işınlanmış  |
+| **19**  | Bitmeyen         | Taşa Dönüştürülmüş          |
+| **20**  | Çarpıtılmış      | Çözülmemiş Ruhlar           |
 
-### Dungeon Denizens
+### Zindan Sakinleri (Denizens)
 
-Most dungeons will have creatures that _live_ there and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
+Çoğu zindanda _yaşayan_ ve orayı yuva edinen yaratıklar bulunur. Aşağıdaki tablo, zindandaki akıllı yaratıkların herhangi birinin veya tamamının genel tavrını betimlemek için kullanılabilir. Özellikler tablosunda zar atın ve sonuçları defterinize yazın. Bu, zindanda bulunan yaratıkların genel tavrını betimler.
 
-Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently from their brethren. They should be NPCs that the party can interact with, trade with, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and factions. Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
+Bu arada, her zindanda diğerlerinden sıyrılan en az bir NPC bulunmalıdır. Bu tür karakterler zindan hayatını diğer her şeye tercih eder, ancak yine de benzerlerinden farklı davranırlar. Partinin etkileşime geçebileceği, ticaret yapabileceği, işe alabileceği, yardım edebileceği vb. NPC'ler olmalıdırlar. Bu garip yaratıklar, zindanın diğer sakinleri ve hizipleriyle derinden ilgili veya tamamen tarafsız olabilir. Tekrar Özellikler tablosunda zar atın, sonuçları defterinize not edin ve aklınızda şu soruları tutun:
 
-_"What do we know about the creatures and factions that occupy the dungeon?"_
+_"Zindanı işgal eden yaratıklar ve hizipler hakkında ne biliyoruz?"_
 
-_"What is each faction trying to achieve, and what stands in their way?"_
+_"Her hizip neyi başarmaya çalışıyor ve önlerinde ne duruyor?"_
 
-#### Traits
+#### Özellikler (Traits)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                 |               |
 | ------- | --------------- | ------------- |
-| **d20** | **Virtues**     | **Vices**     |
-| **1**   | Compassionate   | Absent-Minded |
-| **2**   | Courageous      | Aloof         |
-| **3**   | Creative        | Critical      |
-| **4**   | Deductive       | Cynical       |
-| **5**   | Honest          | Greedy        |
-| **6**   | Incisive        | Impulsive     |
-| **7**   | Incorruptible   | Inflexible    |
-| **8**   | Individualistic | Naive         |
-| **9**   | Loyal           | Obstinate     |
-| **10**  | Methodical      | Passive       |
-| **11**  | Polite          | Pedantic      |
-| **12**  | Practical       | Perfectionist |
-| **13**  | Resilient       | Sarcastic     |
-| **14**  | Scholarly       | Selfish       |
-| **15**  | Self-Sufficient | Skeptical     |
-| **16**  | Solid           | Stubborn      |
-| **17**  | Studious        | Superficial   |
-| **18**  | Suave           | Unfocused     |
-| **19**  | Unwavering      | Unimaginative |
-| **20**  | Witty           | Vain          |
+| **d20** | **Erdemler**    | **Kusurlar**  |
+| **1**   | Şefkatli        | Dalgın        |
+| **2**   | Cesur           | Soğuk         |
+| **3**   | Yaratıcı        | Eleştirel     |
+| **4**   | Tümdengelimli   | Alaycı        |
+| **5**   | Dürüst          | Açgözlü       |
+| **6**   | Keskin          | Dürtüsel      |
+| **7**   | Yozlaşmaz       | Esnek olmayan |
+| **8**   | Bireyci         | Saf           |
+| **9**   | Sadık           | İnatçı        |
+| **10**  | Yöntemli        | Pasif         |
+| **11**  | Kibar           | Pedantik      |
+| **12**  | Pratik          | Mükemmeliyetçi |
+| **13**  | Dirençli        | Alaycı (sarkastik) |
+| **14**  | Bilgili         | Bencil        |
+| **15**  | Kendine Yeterli | Şüpheci       |
+| **16**  | Sağlam          | İnatçı        |
+| **17**  | Çalışkan        | Yüzeysel      |
+| **18**  | Hoşsohbet       | Odaksız       |
+| **19**  | Sarsılmaz       | Hayal Gücünden Yoksun |
+| **20**  | Nüktedan        | Kibirli       |
 
-### Dungeon Factions
+### Zindan Hizipleri (Factions)
 
-All dungeons should have one or more factions with their own unique agenda, obstacles, leaders, and hierarchy.
+Tüm zindanların kendine özgü gündemi, engelleri, liderleri ve hiyerarşisi olan bir veya daha fazla hizbi olmalıdır.
 
-#### Agendas
+#### Gündemler (Agendas)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                |              |
 | ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Ascension      | Conflict     |
-| **2**   | Creation       | Corruption   |
-| **3**   | Destruction    | Cost         |
-| **4**   | Dominion       | Danger       |
-| **5**   | Enlightenment  | Decay        |
-| **6**   | Exploration    | Discord      |
-| **7**   | Growth         | Division     |
-| **8**   | Innovation     | Dogma        |
-| **9**   | Justice        | Exposure     |
-| **10**  | Knowledge      | Factionalism |
-| **11**  | Liberation     | Fear         |
-| **12**  | Peace          | Ignorance    |
-| **13**  | Power          | Incompetence |
-| **14**  | Preservation   | Injustice    |
-| **15**  | Protection     | Isolation    |
-| **16**  | Redemption     | Opposition   |
-| **17**  | Revenge        | Sacrifice    |
-| **18**  | Survival       | Stagnation   |
-| **19**  | Transformation | Tradition    |
-| **20**  | Wealth         | Weakness     |
+| **d20** | **Hedef**      | **Engel**    |
+| **1**   | Yükseliş       | Çatışma      |
+| **2**   | Yaratım        | Yozlaşma     |
+| **3**   | Yıkım          | Bedel        |
+| **4**   | Egemenlik      | Tehlike      |
+| **5**   | Aydınlanma     | Çürüme       |
+| **6**   | Keşif          | Anlaşmazlık  |
+| **7**   | Büyüme         | Bölünme      |
+| **8**   | Yenilik        | Dogma        |
+| **9**   | Adalet         | Maruz Kalma  |
+| **10**  | Bilgi          | Hizipçilik   |
+| **11**  | Kurtuluş       | Korku        |
+| **12**  | Barış          | Cehalet      |
+| **13**  | Güç            | Yetersizlik  |
+| **14**  | Koruma         | Adaletsizlik |
+| **15**  | Muhafaza       | İzolasyon    |
+| **16**  | Kefaret        | Muhalefet    |
+| **17**  | İntikam        | Fedakarlık   |
+| **18**  | Hayatta Kalma  | Durgunluk    |
+| **19**  | Dönüşüm        | Gelenek      |
+| **20**  | Zenginlik      | Zayıflık     |
 
-## Build a Dungeon
+## Bir Zindan İnşa Etmek
 
-### Create the Map
+### Haritayı Oluşturun
 
-- Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
-- Write the face-up results on the page using the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, which you can denote on the page with the letter "S."
-  - If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
-- Select the room closest to the page border. This is the _entrance_ to the dungeon.
-- Starting with the entrance, number each room on the dungeon map.
+- Zindan haritasına **6-20 d6** zar atın, sayfadan düşen zarları yok sayın. Bunlar zindanın _odalarıdır_.
+- [Zindan Zar Düşürme Tablosu](#zindan-zar-düşürme-tablosu) kullanılarak, üst yüze gelen sonuçları sayfaya yazın. Örneğin, **4** sayısı **Özel** bir odayı belirtir; bunu sayfada "Ö" harfiyle belirtebilirsiniz.
+  - Bir oda diğerlerinden "çok uzakta" görünüyorsa, başka bir zar atın ve yeni bir oda eklemek için önceki prosedürü izleyin.
+- Sayfa kenarına en yakın odayı seçin. Bu, zindanın _girişidir_.
+- Girişten başlayarak, zindan haritasındaki her odayı numaralandırın.
 
-#### Dungeon Die Drop Table
+#### Zindan Zar Düşürme Tablosu
 
 |         |          |
 | ------- | -------- |
-| **d6**  | **Room** |
-| **1**   | Monster  |
-| **2-3** | Lore     |
-| **4**   | Special  |
-| **5-6** | Trap     |
+| **d6**  | **Oda**  |
+| **1**   | Canavar  |
+| **2-3** | Bilgi    |
+| **4**   | Özel     |
+| **5-6** | Tuzak    |
 
-## Draw Paths
+## Yollar Çizin
 
-### Path Types
+### Yol Türleri
 
-- **Standard** paths are obvious connectors between rooms. _Represented by a thick line._
-- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked, or requires specialized tools (hidden levers, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **Standart** yollar, odalar arasındaki bariz bağlantılardır. _Kalın bir çizgi ile temsil edilir._
+- **Gizli** yollar, bilinen haritaların hiçbirinde görünmez. Keşfedilmeleri her zaman bir tür bedel gerektirir. _Kesikli çizgi ile temsil edilir._
+- **Koşullu** yollar engellenmiş olabilir veya geçmek için özel araçlar (gizli kollar, tırmanış ekipmanı vb.) gerektirir. Diğerleri bir harita veya rehber olmadan gezinmek imkansız bile olabilir. _Üzeri çizili çizgi ile temsil edilir._
 
-- Starting with the entrance, create 1-4 paths between each room. 
- - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
- - Some paths are Conditional, represented by a crossed line.
- - Some paths are Hidden, represented by a dashed line.
-- Create intersections (crossed lines) with no rooms in between.
+- Girişten başlayarak, her oda arasında 1-4 yol oluşturun.
+ - Döngüler, dallanan koridorlar, çıkmaz sokaklar ve odalar arasında kestirmeler oluşturun.
+ - Bazı yollar Koşulludur, üzeri çizili çizgi ile temsil edilir.
+ - Bazı yollar Gizlidir, kesikli çizgi ile temsil edilir.
+- Aralarında oda bulunmayan kesişim noktaları (çapraz çizgiler) oluşturun.
 
-### Stock the Rooms
+### Odaları Doldurun
 
-- Roll on the relevant tables for each room, writing the results in your notebook. 
-- For each room, filter the table results through the theme you generated earlier in this process. 
+- Her oda için ilgili tablolarda zar atın, sonuçları defterinize yazın.
+- Her oda için, tablo sonuçlarını bu süreçte daha önce oluşturduğunuz temaya göre filtreleyin.
 
-#### Monster
+#### Canavar (Monster)
 
-Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+Canavarlar, bir zindanda yaşayan tehlikeli yaratıklardır. Bu, varsayılan olarak davetsiz misafirlere saldıracağı anlamına gelmez! Canavarlar, karakterlerin onları bulması için sadece "etrafta bekleyen" varlıklar değildir; aksine, sadece bir sonraki yemeklerini arıyor olsalar bile kendi istekleri ve hedefleri vardır. Bazı canavarlar konuşabilir, mantık yürütebilir ve hatta merhamet dileyebilir. _İnsanlar da canavar olabilir._
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
-| **d20** | **Group**     | **Activity** |
-| **1**   | Avian         | Building     |
-| **2**   | Beast         | Devouring    |
-| **3**   | Behemoth      | Dying        |
-| **4**   | Construct     | Fighting     |
-| **5**   | Demon         | Growing      |
-| **6**   | Extraplanar   | Haunting     |
-| **7**   | Fey           | Hiding       |
-| **8**   | Giant         | Killing      |
-| **9**   | Goblinoid     | Mating       |
-| **10**  | Humanoid      | Mourning     |
-| **11**  | Hybrid        | Patrolling   |
-| **12**  | Incorporeal   | Praying      |
-| **13**  | Insectoid     | Protecting   |
-| **14**  | Lizard        | Recuperating |
-| **15**  | Magical       | Scheming     |
-| **16**  | Mythical      | Sleeping     |
-| **17**  | Plant         | Stalking     |
-| **18**  | Shape Shifter | Torturing    |
-| **19**  | Undead        | Training     |
-| **20**  | Unusual       | Trapped      |
+| **d20** | **Grup**      | **Aktivite** |
+| **1**   | Kuş           | İnşa Etme    |
+| **2**   | Canavar       | Yutma        |
+| **3**   | Dev Yaratık   | Ölme         |
+| **4**   | Yapım (Construct) | Dövüşme   |
+| **5**   | İblis         | Büyüme       |
+| **6**   | Başka Boyutlu | Hayaletlik   |
+| **7**   | Peri          | Saklanma     |
+| **8**   | Dev           | Öldürme      |
+| **9**   | Goblin benzeri | Çiftleşme   |
+| **10**  | İnsansı       | Yas Tutma    |
+| **11**  | Melez         | Devriye Gezme |
+| **12**  | Bedensiz      | Dua Etme     |
+| **13**  | Böceğimsi     | Koruma       |
+| **14**  | Kertenkele    | İyileşme     |
+| **15**  | Büyülü        | Plan Kurma   |
+| **16**  | Mitolojik     | Uyuma        |
+| **17**  | Bitki         | Gizlice Takip Etme |
+| **18**  | Şekil Değiştirici | İşkence    |
+| **19**  | Ölümsüz (Undead) | Eğitim   |
+| **20**  | Sıra dışı     | Tuzağa Düşmüş |
 
-#### Lore
+#### Bilgi (Lore)
 
-Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum, these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
+Bilgi odaları, zindanın teması üzerine inşa etmeli, değerli bir ders sağlamalı veya karakterleri bir NPC veya Hiziple bağlamalıdır. Partiyi birleştiren veya onları görevleriyle karşı karşıya getiren bir ikilem yaratabilirler. En azından, bu odalar bir merak unsuru olarak işlev görür ve deneyime tehlike ve bulmaca çözmenin ötesinde akılda kalıcı bir şey ekler. Tabii ki, karakterler bu odaların tehlike veya zorluk içermediğini bilmemelidir. Bu, zindandaki gerilimi artırmaya yardımcı olurken, potansiyel bir dinlenme ve anlatıyı büyütme fırsatı sunar.
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
-| **d20** | **Room Type** | **Clue**      |
-| **1**   | Armory        | Decay         |
-| **2**   | Barracks      | Decor         |
-| **3**   | Bath          | Draft         |
-| **4**   | Cistern       | Echoes        |
-| **5**   | Court         | Footprints    |
-| **6**   | Crypt         | Leavings      |
-| **7**   | Den           | Light         |
-| **8**   | Dining Hall   | Markings      |
-| **9**   | Guard Post    | Moisture      |
-| **10**  | Infirmary     | Noise         |
-| **11**  | Kitchen       | Paraphernalia |
-| **12**  | Latrine       | Residue       |
-| **13**  | Library       | Scurrying     |
-| **14**  | Shrine        | Signs         |
-| **15**  | Smith         | Smell         |
-| **16**  | Stable        | Stains        |
-| **17**  | Storage       | Tapping       |
-| **18**  | Study         | Temperature   |
-| **19**  | Vault         | Vibrations    |
-| **20**  | Workshop      | Writing       |
+| **d20** | **Oda Türü**  | **İpucu**     |
+| **1**   | Cephanelik    | Çürüme        |
+| **2**   | Kışla         | Dekor         |
+| **3**   | Banyo         | Hava Akımı    |
+| **4**   | Sarnıç        | Yankılar      |
+| **5**   | Avlu          | Ayak İzleri   |
+| **6**   | Mezar odası   | Artıklar      |
+| **7**   | İn            | Işık          |
+| **8**   | Yemek Salonu  | İşaretler     |
+| **9**   | Nöbetçi Noktası | Nem         |
+| **10**  | Revir         | Gürültü       |
+| **11**  | Mutfak        | Malzeme       |
+| **12**  | Tuvalet       | Kalıntı       |
+| **13**  | Kütüphane     | Koşuşturma    |
+| **14**  | Tapınak       | Belirtiler    |
+| **15**  | Demirhane     | Koku          |
+| **16**  | Ahır          | Lekeler       |
+| **17**  | Depo          | Tıklama/vurma |
+| **18**  | Çalışma Odası | Sıcaklık      |
+| **19**  | Kasa          | Titreşimler   |
+| **20**  | Atölye        | Yazı          |
 
-#### Special
+#### Özel (Special)
 
-Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
+Özel odalar, gizli veya etkileşimli bir öğeye sahip nadir alanlardır. Bu öğe bir zorluk, bir engel, bir bulmaca veya hepsinin birden olabilir. Bu odalar, uzun vadeli etkileri olan zor seçimler sunmalıdır. Zindan keşfini kolaylaştırabilir, ancak ciddi bir bedeli olabilir.
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |             |             |
 | ------- | ----------- | ----------- |
-| **d20** | **Special** | **Feature** |
-| **1**   | Books       | Ages        |
-| **2**   | Bridge      | Alarms      |
-| **3**   | Contraption | Animates    |
-| **4**   | Creature    | Attracts    |
-| **5**   | Door        | Charges     |
-| **6**   | Flames      | Closes      |
-| **7**   | Furniture   | Falls       |
-| **8**   | Hole        | Glows       |
-| **9**   | Liquid      | Grows       |
-| **10**  | Mirror      | Illusion    |
-| **11**  | Mural       | Levitates   |
-| **12**  | Pool        | Locks       |
-| **13**  | Shadows     | Opens       |
-| **14**  | Smoke       | Reflects    |
-| **15**  | Statue      | Repels      |
-| **16**  | Surface     | Reveals     |
-| **17**  | Treasure    | Shifts      |
-| **18**  | Voices      | Silences    |
-| **19**  | Wheel       | Teleport    |
-| **20**  | Writing     | Transforms  |
+| **d20** | **Özel**    | **Özellik** |
+| **1**   | Kitaplar    | Çağlar      |
+| **2**   | Köprü       | Alarmlar    |
+| **3**   | Düzenek     | Canlandırır |
+| **4**   | Yaratık     | Çeker       |
+| **5**   | Kapı        | Yükler      |
+| **6**   | Alevler     | Kapatır     |
+| **7**   | Mobilya     | Düşer       |
+| **8**   | Delik       | Parlar      |
+| **9**   | Sıvı        | Büyür       |
+| **10**  | Ayna        | Yanılsama   |
+| **11**  | Duvar Resmi | Havalanır   |
+| **12**  | Havuz       | Kilitler    |
+| **13**  | Gölgeler    | Açar        |
+| **14**  | Duman       | Yansıtır    |
+| **15**  | Heykel      | İter        |
+| **16**  | Yüzey       | Ortaya Çıkarır |
+| **17**  | Hazine      | Kaydırır    |
+| **18**  | Sesler      | Sessizleştirir |
+| **19**  | Tekerlek    | Işınlar     |
+| **20**  | Yazı        | Dönüştürür  |
 
-#### Trap
+#### Tuzak (Trap)
 
-A trap is a dangerous and hidden object, typically triggered through interaction with a character. While traps are by their very nature not obvious, a good trap should contain hints as to their presence or the room's true purpose.
+Tuzak, tehlikeli ve gizli bir nesnedir, tipik olarak bir karakterle etkileşim yoluyla tetiklenir. Tuzaklar doğaları gereği bariz olmasa da, iyi bir tuzak bunların varlığına veya odanın gerçek amacına dair ipuçları içermelidir.
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |            |               |
 | ------- | ---------- | ------------- |
-| **d20** | **Trap**   | **Trigger**   |
-| **1**   | Ages       | Activating    |
-| **2**   | Burns      | Breaking      |
-| **3**   | Captures   | Crossing      |
-| **4**   | Carries    | Disturbing    |
-| **5**   | Confuses   | Entering      |
-| **6**   | Crushes    | Extinguishing |
-| **7**   | Curses     | Focusing      |
-| **8**   | Cuts       | Interacting   |
-| **9**   | Deafens    | Lighting      |
-| **10**  | Drops      | Moving        |
-| **11**  | Drowns     | Opening       |
-| **12**  | Freezes    | Pulling       |
-| **13**  | Glues      | Pushing       |
-| **14**  | Hypnotizes | Reading       |
-| **15**  | Impales    | Speaking      |
-| **16**  | Infects    | Stepping      |
-| **17**  | Lifts      | Taking        |
-| **18**  | Poisons    | Talking       |
-| **19**  | Shocks     | Touching      |
-| **20**  | Shoots     | Tripping      |
+| **d20** | **Tuzak**  | **Tetikleyici** |
+| **1**   | Yaşlandırır | Etkinleştirme |
+| **2**   | Yakar      | Kırma        |
+| **3**   | Yakalar    | Geçme        |
+| **4**   | Taşır      | Rahatsız Etme |
+| **5**   | Kafasını Karıştırır | Girme |
+| **6**   | Ezer       | Söndürme     |
+| **7**   | Lanetler   | Odaklanma    |
+| **8**   | Keser      | Etkileşim    |
+| **9**   | Sağırlaştırır | Aydınlatma |
+| **10**  | Düşürür    | Hareket Etme |
+| **11**  | Boğar      | Açma        |
+| **12**  | Dondurur   | Çekme       |
+| **13**  | Yapıştırır | İtme        |
+| **14**  | Hipnotize eder | Okuma   |
+| **15**  | Sancak/şişler | Konuşma   |
+| **16**  | Enfekte eder | Basma     |
+| **17**  | Kaldırır   | Alma        |
+| **18**  | Zehirler   | Konuşma     |
+| **19**  | Şoklar     | Dokunma     |
+| **20**  | Fırlatır/atar | Takılma   |
 
-## Example Dungeon
+## Örnek Zindan
 
-For this example, let's assume we are looking at a POI generated using the methods described in the Setting Seeds chapter. Our relevant results were:
+Bu örnek için, Ortam Tohumları bölümünde açıklanan yöntemler kullanılarak oluşturulmuş bir İlgi Noktası'na (POI) baktığımızı varsayalım. İlgili sonuçlarımız şunlardı:
 
-- **Terrain**: _Forest_
-- **Type**: _Temple_
-- **Feature**: _Isolated_
+- **Arazi**: _Orman_
+- **Tür**: _Tapınak_
+- **Özellik**: _İzole_
 
-### What kind of dungeon is this, and what makes it unusual?
+### Bu nasıl bir zindan ve onu sıra dışı kılan nedir?
 
-_A remote forest temple, cut off from the world by a vast ocean of trees and shrubbery._
+_Uzak bir orman tapınağı, devasa bir ağaç ve çalılık okyanusu tarafından dünyadan koparılmış._
 
-We then roll on the **Purpose**, **Construction**, and **Ruination** tables and get the following results:
+Ardından **Amaç**, **İnşa** ve **Yıkım** tablolarında zar atarız ve şu sonuçları alırız:
 
-- **Purpose**: The _protection of rare artifacts_. Built by a _fanatical cult_. 
-- **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
-- **Ruination**: _Divided_ (literally) by _competing rituals_.
+- **Amaç**: _Nadir eserlerin korunması_. _Fanatik bir tarikat_ tarafından inşa edilmiş.
+- **İnşa**: Giriş _bir menhir çemberinin arasında_ ve temeli etrafını saran _taşlaşmış odun_ ile inşa edilmiştir.
+- **Yıkım**: _Rekabet eden ritüeller_ tarafından (kelimenin tam anlamıyla) _Bölünmüş_.
 
-### Why was this dungeon built and what caused its downfall?
+### Bu zindan neden inşa edildi ve çöküşüne ne sebep oldu?
 
-_It was designed by an extremist cult of forest druids to house a reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
+_Orman druidlerinden oluşan aşırı uç bir tarikat tarafından, gerçekliği değiştiren bir Emanet'i barındırmak için tasarlanmıştır. Girişi, ormanın derinliklerindeki bir menhir çemberinin içinde sahte bir taşın altındadır. Zindanın duvarları ve tavanı taşlaşmış odundan yapılmıştır, çünkü kadim eser yaşayan bitkileri etkileyerek onları kendi iradesine büker. Tarikat içindeki bir bölünme, Emanet'in kontrolü için karşı karşıya gelir, ancak kendi kibirliklerinin kurbanı olurlar ve neredeyse birbirlerini yok ederler. İki karşıt ritüel çarpıştığında, tapınak ikiye bölünür, Hizip hatları boyunca ayrılır. Emanet bu kaostan sonra kaybolur._
 
-Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
+Zindanımızın günümüz sakinlerine devam ederek şu sonuçları alırız (iki _hizip_ için zar atarak):
 
-- **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Goal: _Destruction_. Obstacle: _Opposition_.
-- **Faction B**: Goal: _Redemption_. Obstacle: _Tradition_.
+- **Sakinler**: Burada yaşayan yaratıklar _pratik_ ama _hayal gücünden yoksun_.
+- **Hizip A**: Hedef: _Yıkım_. Engel: _Muhalefet_.
+- **Hizip B**: Hedef: _Kefaret_. Engel: _Gelenek_.
 
-### What do we know about the creatures and Factions that occupy the dungeon?
+### Zindanı işgal eden yaratıklar ve Hizipler hakkında ne biliyoruz?
 
-_The current denizens of this dungeon are the descendants of the original factions, are typically pragmatic about their ceaseless war, and cannot imagine a way out._
+_Bu zindanın şu anki sakinleri, orijinal hiziplerin torunlarıdır, bitmeyen savaşları konusunda tipik olarak pragmatiktirler ve bir çıkış yolu hayal edemezler._
 
-### What is each Faction trying to achieve, and what stands in their way?
+### Her Hizip neyi başarmaya çalışıyor ve önlerinde ne duruyor?
 
-**The Crimson Path** would like to destroy their former brethren, the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately, an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
+**Kızıl Yol**, eski kardeşleri **Lacivert Lejyon**'u yok etmek ister, ancak rakiplerinin savaş becerileri karşısında boyun eğmişlerdir. Lacivert Lejyon, atalarının eylemlerinden büyük bir utanç duyar ve kefaretlerinin ancak tapınağın gizli eserini bularak ve yok ederek başarılabileceğine inanır. Ne yazık ki, kadim bir gelenek, Lacivert kumaşı giyen hiç kimsenin kayıp Emanet'i aramasını yasaklar.
 
-### Dungeon Theme
+### Zindan Teması
 
-With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
+Zindanın tarihi, amacı ve sakinleri hakkında biraz fikir sahibi olduktan sonra nihayet temamıza kavuşuyoruz. Hepsini bir araya getirelim:
 
-_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing factions, and when their dueling rituals collided, the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction, and redemption but are hindered by power imbalances and ancient tradition._
+_Yoğun, örtülü bir ormanın içinde, tamamen taşlaşmış odunlardan yapılmış bir tapınak yatıyor. Eolith'in Çocukları adlı fanatik bir tarikat tarafından inşa edilen tapınak, herhangi bir bitkiyi taşa çevirebilen kadim bir Emanet olan Ağaççevirici'yi (Woodturn) korumak için tasarlanmıştır. Tarikat sonunda iki karşıt hizbe bölünür ve düello eden ritüelleri çarpıştığında tapınak parçalanır, her Hizip bir yarısını alır. Bugün bu hiziplerin torunları hâlâ kontrol, yıkım ve kefaret için mücadele etmekte, ancak güç dengesizlikleri ve kadim gelenek tarafından engellenmektedir._
 
-_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy the Azure Legion forever. However, every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
+_Kızıl Yol, orijinal Emanet kurtarılırsa, gücünü Lacivert Lejyon'u sonsuza dek yok etmek için kullanabileceklerine inanır. Ancak, tapınağın derinliklerine yapılan her girişim, eski kardeşleri tarafından karşılanmıştır. Yakın tarihli bir saldırı, birçoğunu öldürmüş ve kalan üyeler yeniden toplanmak için tapınaktan kaçmıştır._
 
-_The Azure Legion feel a great sense of shame over their ancestor's actions and believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
+_Lacivert Lejyon, atalarının eylemleri karşısında büyük bir utanç duyar ve orijinal Emanet yok edilirse tapınağın yeniden iyileşeceğine ve utançlarının silineceğine inanır. Ne yazık ki, köklü bir gelenek, geçmişin hatalarından kaçınmak için hiçbir üyenin Emanet'i aramasını yasaklar._
 
-_In the center of the temple (between **3** and **4**), a massive crack (the Fracture) splits the dungeon in two, acting as a sort of demilitarized zone. Both factions realize that only death lies across its threshold._
+_Tapınağın merkezinde (**3** ve **4** arasında), zindanı ikiye bölen devasa bir çatlak (Kırık), bir tür silahsızlandırılmış bölge işlevi görür. Her iki hizip de eşiğin ötesinde sadece ölüm olduğunu fark eder._
 
-_Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capable of petrifying trees, wood, or other plant life through mere contact. If not properly contained, it could turn an entire forest into a wasteland!_
+_Zindanın derinliklerinde **Ağaççevirici** adlı bir Emanet gizlidir. Sadece temas yoluyla ağaçları, ahşabı veya diğer bitki yaşamını taşlaştırabilir. Düzgün bir şekilde kontrol altına alınmazsa, tüm bir ormanı çorak araziye dönüştürebilir!_
 
-#### Hooks
+#### Kancalar (Hooks)
 
-- The Crimson Path has made a public offer of 300gp apiece for the safe retrieval of an "ancient relic" deep within the temple. The characters will be on their own in dealing with any "opposition." 
-- The party is contacted by an agent of the Azure Legion, acting in secret. The party is to find and destroy the **Woodturn**, an item of great power lost somewhere in the temple. The mission is to remain a secret, and members of any Faction will likely stand against them. The characters are to be paid 1000gp (total).
+- Kızıl Yol, tapınağın derinliklerindeki "kadim bir eser"in güvenli bir şekilde getirilmesi için kişi başı 300 altın vermeyi teklif ediyor. Karakterler, herhangi bir "muhalefet" ile başa çıkmada yalnız olacaklardır.
+- Partiye, gizlice hareket eden Lacivert Lejyon'dan bir ajan temas kurar. Parti, tapınakta kaybolmuş büyük güce sahip bir eşya olan **Ağaççevirici**'yi bulup yok edecektir. Görev gizli kalmalıdır ve herhangi bir Hizbin üyeleri muhtemelen onlara karşı duracaktır. Karakterlere 1000 altın (toplam) ödenecektir.
 
-### Map
+### Harita
 
-[![Click Me!](/img/2e/dungeon-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example.webp)
+[![Tıkla Büyüt!](/img/2e/dungeon-seed-example.webp "Büyütmek için tıkla"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example.webp)
 
-### The Fractured Temple
+### Kırık Tapınak (The Fractured Temple)
 
-#### Features Throughout
+#### Genel Özellikler
 
-- **Light**: Wall sconces are built into the walls in every room. None are lit.
-- **Smell**: Damp, dirt, and hints of sulfur.
-- **Noise**: Distant shouting, along with an occasional rumbling and creaking throughout.
-- **Build**: The walls and floor are made of a white, petrified wood.
+- **Işık**: Tüm odalarda duvarlara duvar aplikleri inşa edilmiştir. Hiçbiri yanmıyor.
+- **Koku**: Nemli, kir ve kükürt kokuları.
+- **Ses**: Uzak bağrışmalar, ara sıra gürleme ve gıcırdama sesleri.
+- **Yapı**: Duvarlar ve zemin beyaz, taşlaşmış odunlardan yapılmıştır.
 
-### Entrance: Circle of Menhirs
+### Giriş: Menhir Çemberi
 
-A small circle of 10' tall **stones** are set in a circle atop a **grassy** hill. White **trees** surround the glade on all sides.
+3 metre yüksekliğinde küçük **taşlardan** oluşan bir çember, **çimenli** bir tepenin üzerine kurulmuştur. Beyaz **ağaçlar** açıklığı her yandan çevreler.
 
-- **Stones**: Moss-covered, with thin, ruined writing in an ancient script.
-  - An expert in such matters can still determine that the stones are many centuries old.
-- **Grass**: A patch in the center of the circle is browner than the rest.
-  - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
-- **Trees**: Petrified. As white as snow.
+- **Taşlar**: Yosun kaplı, kadim bir yazıyla ince, yıpranmış yazılar.
+  - Bu konuda uzman biri, taşların birkaç yüzyıllık olduğunu hâlâ belirleyebilir.
+- **Çimen**: Çemberin merkezindeki bir yama, diğerlerinden daha kahverengidir.
+  - Altında gizli bir kapağı gizlenmiştir. Taşlaşmış odun basamaklar **1**'e iner.
+- **Ağaçlar**: Taşlaşmış. Kar gibi beyaz.
 
-### 1 - Dining Hall
+### 1 - Yemek Salonu
 
-**Lore**: _Dining Hall_. _Smell_.
+**Bilgi**: _Yemek Salonu_. _Koku_.
 
-Long, rustic **tables** are arranged in horizontal rows. The **smell** of root vegetables and cloves lingers in the air.
+Uzun, rustik **masalar** yatay sıralar halinde dizilmiştir. Havada kök sebzeler ve karanfil **kokusu** kalıntısı vardır.
 
-- **Tables**: Large enough for 80 people, used by the cult before the split. 
-- **Smell**: Strongest near the North passage (towards **4**).
+- **Masalar**: 80 kişilik, bölünmeden önce tarikat tarafından kullanılıyordu.
+- **Koku**: Kuzey geçidi yakınında (**4**'e doğru) en güçlü.
 
-### 2 - Sitting Room
+### 2 - Oturma Odası
 
-**Special**: _Furniture_. _Falls_.
+**Özel**: _Mobilya_. _Düşer_.
 
-Plush, **dust-covered** chairs and couches are arranged in a semi-circle around a black, wooden **chair**. The air in the room tastes stale.
+Kadife, **toz kaplı** sandalyeler ve kanepeler siyah, ahşap bir **sandalye** etrafında yarım daire şeklinde dizilmiştir. Odadaki hava bayat kokuyor.
 
-- **Dust**: Most of the furniture appears long-abandoned, but the black chair is dust-free.
-- **Chair**: Clean and shiny, as if new. Ankle straps are tied to the underside of the chair, which is bolted to the floor.
-  - A thin, nearly-invisible square line is cut around the chair.
-  - Sitting in the chair and attaching the straps causes the floor beneath the chair to lower, descending to **3**.
+- **Toz**: Mobilyaların çoğu uzun süredir terk edilmiş görünüyor, ancak siyah sandalye tozsuz.
+- **Sandalye**: Temiz ve parlak, sanki yeni gibi. Sandalyenin alt kısmına bilek kayışları bağlıdır ve sandalye zemine cıvatalanmıştır.
+  - Sandalyenin etrafında ince, neredeyse görünmez bir kare çizgi kesilmiştir.
+  - Sandalyeye oturmak ve kayışları bağlamak, sandalyenin altındaki zeminin alçalmasına ve **3**'e inmesine neden olur.
 
-### 3 - Basilisk Lair
+### 3 - Basilisk İni
 
-**Monster**: _Lizard_. _Recuperating_.
+**Canavar**: _Kertenkele_. _İyileşme_.
 
-A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room, a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
+Bir Basilisk, odanın Doğu tarafında bir **duvar** diliminin üzerine yapılmış bir yuvada uyuyor. Odanın merkezinde, zeminden **tavana** kadar uzanan uzun bir cam **kafes** bulunur. Güney duvarına bağlı uzun, kırık bir **zincir** vardır.
 
-- **Basilisk**: Recuperating after having just birthed a new clutch of three eggs.
-  - She warms her eggs by sitting atop them and will not leave them for very long. 
-  - The eggs are worth 1000gp each. They are _bulky_ and extremely fragile.
-- **Wall**: The passage East is still accessible, despite having collapsed. The Basilisk is too large to traverse the rubble.
-- **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber to observe the Basilisk.
-- **Chain**: Once used to trap the Basilisk here.
+- **Basilisk**: Üç yumurtadan oluşan yeni bir kuluçkayı doğurduktan sonra iyileşiyor.
+  - Yumurtalarını üzerine oturarak ısıtır ve onları uzun süre terk etmez.
+  - Yumurtalar tanesi 1000 altın değerindedir. _Hantaldır_ ve son derece kırılgandır.
+- **Duvar**: Çökmüş olmasına rağmen Doğu geçidi hâlâ erişilebilir durumdadır. Basilisk molozu geçemeyecek kadar büyüktür.
+- **Kafes**: **2**'den, yeni acemilerin Basilisk'i gözlemlemek için odaya indirildiği bir gözlem bacası işlevi görür.
+- **Zincir**: Bir zamanlar Basilisk'i burada tuzağa düşürmek için kullanılıyordu.
 
 ### Basilisk
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 HP, 1 Zırh, 12 STR, 13 DEX, 13 WIL, ısırık (d10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
-- **Gaze**: A target facing the Basilisk is slowly petrified, from the bottom up, completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Yerin derinliklerinde veya ayak altındaki çalılıklarda yuva yapan uzun, yılanımsı kertenkeleler.
+- Bir **Basilisk** ile onun bakışlarından kaçınarak dövüşmek zordur (heykele bakan saldırılar _kusurludur_).
+- **Bakış**: Basilisk'e bakan bir hedef, aşağıdan yukarıya doğru yavaşça taşlaşır, üç tur sonra tamamen donar. Basilisk'in işkembesinden bir panzehir hazırlanabilir. Yaratığın yansıması zararsızdır.
 
-### 4 - Kitchen
+### 4 - Mutfak
 
-**Trap**: _Poisons_. _Stepping_.
+**Tuzak**: _Zehirler_. _Basma_.
 
-The withered **corpse** of a man is stretched atop a large butcher block. A **sconce** on the West wall, over the West exit, burns with twin blue flames. Open **cupboards** stand at knee-height on the North wall.
+Bir adamın solmuş **cesedi** büyük bir kasap bloğunun üzerine gerilmiş durumda. Batı duvarında, Batı çıkışının üzerindeki bir **duvar aplik**, çift mavi alevle yanıyor. Kuzey duvarında diz hizasında açık **dolaplar** duruyor.
 
-- **Corpse**: Dressed in the Red Robes of the Crimson Path. Looks at least two weeks dead.
-  - There are no obvious wounds or markings, save for a green crust around the man's lip.
-  - He carries a white dagger made of petrified wood (d8).
-- **Sconce**: Passing beneath the flames releases a poison gas spray into the room, dealing d4 STR damage to anyone nearby (save to avoid losing consciousness).
-- **Cupboards**: Bare. The arrangement of the cupboards and the block seem to imply that this room was once a communal kitchen. 
-  - One of the cupboards has a false back that can be depressed, disabling the poison gas trap for one minute.
+- **Ceset**: Kızıl Yol'un Kırmızı Cüppesi'ne bürünmüş. En az iki haftalık ölü görünüyor.
+  - Adamın dudak çevresindeki yeşil bir kabuk dışında belirgin bir yara veya iz yok.
+  - Taşlaşmış odundan yapılmış beyaz bir hançer (d8) taşıyor.
+- **Aplik**: Alevlerin altından geçmek, odaya zehirli gaz püskürtür, yakındaki herkese d4 STR hasarı verir (bilinci kaybetmemek için Kurtarma Zarı).
+- **Dolaplar**: Boş. Dolapların ve bloğun düzeni, bu odanın bir zamanlar ortak mutfak olduğunu gösteriyor.
+  - Dolaplardan birinin içinde, gaz tuzağını bir dakikalığına devre dışı bırakan sahte bir arka yüzey bulunur.
 
-### 5 - Study
+### 5 - Çalışma Odası
 
-**Lore**: _Study_. _Decor_.
+**Bilgi**: _Çalışma Odası_. _Dekor_.
 
-Bookshelves wrap around every inch of wall, their dusty **shelves** stacked with heaps of **books**. An unlit **candelabra** hangs from the ceiling.
+Kitaplıklar duvarın her santimini sarar, tozlu **rafları** yığınlarca **kitap** ile doludur. Tavandan yanmamış bir **şamdan** sarkıyor.
 
-- **Shelves**: Despite the lack of furniture, the room looks like it may have been a well-used study at one time.
-- **Books**: Untouched for decades. Clearing the dust from the spines reveal all manner of subjects.
-  - Nearly every word in every book has been blacked out in stark black.
-- **Candelabra**: Unusual design, worth 500gp (four slots, brittle). 
-  - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable by non-magical light. They were placed here as a final insult against the old study.
+- **Raflar**: Mobilya eksikliğine rağmen, oda bir zamanlar iyi kullanılmış bir çalışma odası olabilir.
+- **Kitaplar**: Onlarca yıldır dokunulmamış. Sırtlardaki tozu temizlemek her türlü konuyu ortaya çıkarır.
+  - Her kitaptaki neredeyse her kelime, keskin siyahla karartılmıştır.
+- **Şamdan**: Sıra dışı tasarım, 500 altın değerinde (dört yuva, kırılgan).
+  - Mumlar (5 kullanım) hâlâ erişilebilirdir (ulaşılabilirlerse). Yanar yakılmaz, büyülü olmayan ışıkla delinemeyen yaklaşık 6 metre karanlık üretirler. Eski çalışma odasına son bir hakaret olarak buraya yerleştirilmişlerdir.
 
-### 6 - The Fractured Hall
+### 6 - Kırık Salon
 
-**Special**: _Smoke_. _Illusion_.
+**Özel**: _Duman_. _Yanılsama_.
 
-Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. Faint **movement** is visible through the smoke, as well as occasional shouting from the West side of the room. The **floor** is not level, with the East side raised a full foot higher than the West.
+Dönen **duman** havayı durmak bilmeyen bir kül ve kor fırtınasıyla doldurur, çıkışları gizler. Dumanın içinden belli belirsiz **hareket** ve odanın Batı tarafından ara sıra bağrışmalar duyulur. **Zemin** düz değildir, Doğu tarafı Batı'dan tam bir ayak daha yüksektedir.
 
-- **Smoke**: Magical, it emits no sound or smell and cannot be dissolved by normal means. The exits in this room are obscured.
-  - The doorway near the SW corridor contains the broken statue of a robed figure (see Basilisk, **3**).
-- **Movement**: Robed soldiers engaged in melee combat with unseen opponents.
-  - There are always at least 3 members of either Faction engaged in skirmishes here. They will generally attack any shapes that try to cross the room but are easily confused by the smoke.
-  - Due to the smoke, all attacks within the room are _impaired_.
-- **Floor**: Split when the temple fractured. Along with the smoke, navigation in this room is extremely difficult.
+- **Duman**: Büyülüdür, ses veya koku çıkarmaz ve normal yollarla dağıtılamaz. Bu odadaki çıkışlar gizlidir.
+  - GD koridoru yakınındaki kapı, cübbeli bir figürün kırık bir heykelini içerir (bkz. Basilisk, **3**).
+- **Hareket**: Görünmeyen rakiplerle göğüs göğüse çatışmaya girmiş cübbeli askerler.
+  - Her iki Hizipten en az 3 üye burada çatışmalara girişir. Genellikle odayı geçmeye çalışan her türlü şekle saldırırlar, ancak duman yüzünden kolayca kafaları karışır.
+  - Duman nedeniyle, odadaki tüm saldırılar _kusurludur_.
+- **Zemin**: Tapınak kırıldığında bölünmüş. Dumanla birlikte, bu odada yön bulmak son derece zordur.
 
-#### Druid Cultist 
+#### Druid Tarikat Üyesi
 
-5 HP, 11 STR, 12 DEX, 8 WIL, petrified short sword (d8)
+5 HP, 11 STR, 12 DEX, 8 WIL, taşlaşmış kısa kılıç (d8)
 
-- Wears a red or blue robe to indicate their factional allegiance. Are otherwise indistinguishable.
+- Hizip bağlılığını belirtmek için kırmızı veya mavi cüppe giyer. Aksi halde ayırt edilemezler.
 
-### 7 - False Relic
+### 7 - Sahte Emanet
 
-**Trap**: _Crushes_. _Interacting_.
+**Tuzak**: _Ezer_. _Etkileşim_.
 
-Four **pillars** are arranged in a **square** pattern around a white **rod** suspended in air. 
+Dört **sütun**, havada asılı duran beyaz bir **çubuk** etrafında **kare** bir desen düzeninde yerleştirilmiştir.
 
-- **Pillars**: Built from floor to ceiling and made of petrified wood. 
-  - The space between the pillars is protected by a magical, impenetrable barrier. At least two pillars must be destroyed for the barrier to dissolve. 
-  - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (DEX save or take 12 STR damage).
-- **Rod**: A facsimile of the **Woodturn** found in **9**, but lacks any real power.
+- **Sütunlar**: Yerden tavana kadar inşa edilmiş ve taşlaşmış odundan yapılmıştır.
+  - Sütunlar arasındaki boşluk, büyülü, aşılmaz bir bariyerle korunur. Bariyerin çözülmesi için en az iki sütun yok edilmelidir.
+  - İki _bitişik_ sütun yok edilirse, oda sakinlerinin üzerine çöker (DEX zarları atın veya 12 STR hasarı alın).
+- **Çubuk**: **9**'da bulunan **Ağaççevirici**'nin bir kopyasıdır, ancak gerçek bir gücü yoktur.
 
-### 8 - Nest
+### 8 - Yuva
 
-**Monster**: _Insectoid_. _Hiding_.
+**Canavar**: _Böceğimsi_. _Saklanma_.
 
-The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the low ceiling. There are no obvious exits.
+Zemin ağır hasarlıdır, taşlaşmış döşeme **karoları** ile bölünmüştür. Alçak tavanda büyük **delikler** dağılmıştır. Bariz çıkış yoktur.
 
-- **Tiles**: A maze of broken shards. The West exit is entirely obscured by the tiles.
-- **Holes**: Created by a _Burrowing Horror_. 
-  - If the party ignores the ceiling, it attacks the first PC that walks under a hole (ignore HP).
-  - A hole on the West side is actually a 30ft tunnel leading up to **9**. Small grooves along the tunnel make climbing easy, provided one can reach them.
+- **Karolar**: Kırık parçalardan oluşan bir labirent. Batı çıkışı karolar tarafından tamamen gizlenmiştir.
+- **Delikler**: Bir _Oyuk Açan Dehşet (Burrowing Horror)_ tarafından oluşturulmuştur.
+  - Parti tavanı görmezden gelirse, bir deliğin altında yürüyen ilk PC'ye saldırır (HP'yi yoksayar).
+  - Batı tarafındaki bir delik, aslında **9**'a çıkan 9 metrelik bir tüneldir. Tünel boyunca küçük oluklar tırmanışı kolaylaştırır, yeter ki onlara ulaşılabilsin.
 
-#### Burrowing Horror
+#### Oyuk Açan Dehşet (Burrowing Horror)
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 HP, 1 Zırh, 16 STR, 11 DEX, 4 WIL, ısırık (d10), asit püskürtme (d8, _patlama_)
 
-- Huge insectoids with multiple legs and shiny black eyes. Subsists from dirt, roots, and flesh.
-- Burrows just beneath the surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm. 
+- Çok bacaklı ve parlak siyah gözlü dev böceğimsiler. Kir, kök ve etle beslenir.
+- Şaşırtmak için yüzeyin hemen altında yuva açar.
+- **Kritik Hasar**: Hedef bir vücut parçasını kaybeder. 1d6 atın. 1: Kafa, 2-4: Bacak, 5-6: Kol.
 
-### 9 - Mirror Room
+### 9 - Ayna Odası
 
-**Special**: _Mirror_. _Opens_.
-  
-A **mirror** hangs on a **track** on the West wall. A large **hole** is dug into the ground on the East side.
+**Özel**: _Ayna_. _Açar_.
 
-**Track**: Runs in a full circle around the room, allowing the mirror to be moved along the track.
-- **Mirror**: If moved to the North wall, the reflection will reveal a small, invisible alcove on the South side.
-  - The alcove is hidden behind an otherwise illusory piece of wall. Hidden inside is the **Woodturn**. 
-  - If damaged, the mirror will explode (d6 STR damage to any nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple.
-- **Hole**: Tunnel to **8** (30ft).
+Batı duvarında bir **ray** üzerinde bir **ayna** asılıdır. Doğu tarafında zemine kazılmış büyük bir **delik** vardır.
 
-#### Woodturn
+- **Ray**: Odanın çevresinde tam bir daire şeklinde uzanır, aynanın ray boyunca hareket etmesine izin verir.
+- **Ayna**: Kuzey duvarına taşınır, yansıma Güney tarafında küçük, görünmez bir oyuk ortaya çıkarır.
+  - Oyuk, aksi takdirde yanıltıcı bir duvar parçasının arkasında gizlidir. İçinde **Ağaççevirici** gizlidir.
+  - Ayna hasar alırsa patlar (yakındakilere d6 STR hasarı). Kurban _yoksun_ bırakılır ve kesikleri tapınaktan ayrılana kadar iyileşmez.
+- **Delik**: **8**'e tünel (9 metre).
 
-- A white rod made of polished wood. Touching the rod to any living plant petrifies it. 3 Charges.
-- **Recharge**: Burn the rod in heavy flames for a day and a night. Pour the ashes into pure spring water. The rod will reform. 
+#### Ağaççevirici (Woodturn)
+
+- Parlatılmış odun yapımı beyaz bir çubuk. Çubuğun herhangi bir canlı bitkiye dokundurulması onu taşlaştırır. 3 Yük (Charge).
+- **Yeniden Şarj Etme**: Çubuğu bir gün ve bir gece boyunca güçlü alevlerde yakın. Külleri saf kaynak suyuna dökün. Çubuk yeniden şekillenecektir.

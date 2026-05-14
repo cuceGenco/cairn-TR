@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the Example Party
+title: Örnek Parti Hakkında
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---

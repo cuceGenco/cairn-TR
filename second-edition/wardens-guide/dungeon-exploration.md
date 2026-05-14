@@ -5,110 +5,109 @@ parent: Warden's Guide
 grand_parent: Second Edition
 ---
 
-# Dungeon Exploration
+# Zindan Keşfi
 
-## Principles
+## İlkeler
 
-- Always clarify what is about to happen. Does that flaming barrel look stable or like it might explode at any minute? 
-- Regularly restate a character's surroundings, where they are in physical space, and what their senses are detecting. 
-- Describe obvious threats and NPCs first, followed by any distinct and memorable objects in each room. 
-- Do not tell characters how they should feel, and only tell them what's happening right now, before their eyes.
-- Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
-- Ensure that the players understand their character's place in the Dungeon Cycle. Remind them who has already moved, who has yet to take an action, and so on. 
-- The cost of dungeon exploration is paid in turns. If the party spends too long in one place, acts without caution, makes noise, or enters a new area, they risk a roll on the Dungeon Events table. Players should always be made aware of the cost.
+- Her zaman ne olacağını netleştirin. O alev saçan fıçı sağlam mı görünüyor, yoksa her an patlayabilir mi?
+- Bir karakterin çevresini, fiziksel uzayda nerede olduğunu ve duyularının ne algıladığını düzenli olarak tekrar belirtin.
+- Her odada önce bariz tehditleri ve NPC'leri, ardından ayırt edici ve akılda kalıcı nesneleri tanımlayın.
+- Karakterlere nasıl hissetmeleri gerektiğini söylemeyin; sadece şu anda, gözlerinin önünde olan biteni anlatın.
+- Bir sonraki koridorun ötesinde ne olduğuna dair ipuçları verin (kokular, sesler, yükseklik farkları dahil).
+- Oyuncuların karakterlerinin Zindan Döngüsü içindeki yerini anlamasını sağlayın. Kimin çoktan hareket ettiğini, kimin henüz eylem yapmadığını vb. hatırlatın.
+- Zindan keşfinin bedeli turlarla ödenir. Eğer ekip bir yerde çok uzun süre kalırsa, dikkatsiz davranırsa, gürültü yaparsa veya yeni bir alana girerse, Zindan Olayları tablosunda zar atma riskiyle karşılaşır. Oyuncular her zaman bu bedelin farkında olmalıdır.
 
-## Dungeon Exploration Example
+## Zindan Keşfi Örneği
 
-Wolfram, Lucius, and Freya have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Wolfram** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is presented as follows:
+Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci katına girdiler. Buranın bir zamanlar kötü şöhretli bir ölüm tarikatına ev sahipliği yaptığı söyleniyor. Her karakterin bir meşalesi var ama sadece **Wolfram**'ınki yanıyor. Gece gökyüzündeki Ay dışında burada ışık kaynağı yok. İlk oda şu şekilde tanıtılır:
 
-### The Courtyard
+### Avlu
 
-A wide courtyard exposed to the **open air**. The **ground** is sandy and rough. **Rubble** is piled near the center of the room. A full-sized **statue** holding a bident is placed in the exact center. A wooden **doorway** to the East is locked with an iron chain. An open stone archway leads towards the West.
+**Açık havaya** maruz kalmış geniş bir avlu. **Zemin** kumlu ve engebeli. Odanın merkezine yakın bir yerde **moloz** yığılı. Tam ortada, bir çatal mızrak tutan, gerçek boyutlarda bir **heykel** yerleştirilmiş. Doğuya bakan ahşap bir **kapı**, demir bir zincirle kilitlenmiş. Batıya doğru açık bir taş kemer geçit veriyor.
 
-- **Air**: The roof has collapsed, letting exterior lighting illuminate the room. 
-- **Ground**: Glitters in the light. A cursory investigation will reveal that the "sand" is actually pulverized bones.  
-- **Rubble**: Stone chunks from statues resembling people. 
-  - A red jewel glints within a tight stone fist.
-- **Statue**: One eye socket is empty, in the other is a red jewel.
-  - The cult's Death Goddess, marred by time. If the remaining eye is removed, the statue comes to life, slicing the bident in an arc for d6 STR damage. Contact with the bident turns the victim to stone.
-  - If the jewel from the nearby rubble is inserted into the statue, nothing happens. If it is removed again, the statue responds accordingly.
-- **Doorway**: The door to the Storeroom has nearly rotted away, leaving cracks in the wood. The iron chain is clearly rusted.
+- **Hava**: Çatı çökmüş, dışarıdan gelen ışık odayı aydınlatıyor.
+- **Zemin**: Işıkta parıldıyor. Hızlı bir inceleme, "kum"un aslında toz haline getirilmiş kemikler olduğunu ortaya çıkaracaktır.
+- **Moloz**: İnsanlara benzeyen heykellerden kopmuş taş parçaları.
+  - Sıkı bir taş yumruğun içinde kırmızı bir mücevher parıldıyor.
+- **Heykel**: Bir göz çukuru boş, diğerinde kırmızı bir mücevher var.
+  - Tarikatın Ölüm Tanrıçası, zamanla bozulmuş. Kalan göz çıkarılırsa, heykel canlanır ve çatal mızrağı bir yay şeklinde savurarak d6 STR hasar verir. Mızrakla temasa geçen kişi taşa dönüşür.
+  - Yakındaki molozdaki mücevher heykele yerleştirilirse hiçbir şey olmaz. Tekrar çıkarılırsa, heykel buna göre tepki verir.
+- **Kapı**: Eriye Odası'nın kapısı neredeyse tamamen çürümüş, ahşapta çatlaklar bırakmış. Demir zincir açıkça paslanmış.
 
-**Warden** "_Warden: "You enter a wide courtyard illuminated by moonlight drifting through the collapsed roof. The ground is sandy and sparkles chalk-white in the moonlight. Near the center, rubble piles around a statue of a woman wielding a bident. To the East, a wooden door is closed and chained, while an open archway leads Westward into a dark tunnel. What do you do?"_
+**Muhafız**: _"Çökmüş tavandan süzülen ay ışığının aydınlattığı geniş bir avluya giriyorsunuz. Zemin kumlu ve ay ışığında tebeşir beyazı parlıyor. Merkeze yakın bir yerde, çatal mızraklı bir kadın heykelinin etrafı moloz yığınlarıyla çevrili. Doğuda ahşap bir kapı zincirle kapatılmış, batıda ise açık bir taş kemer karanlık bir tünele doğru uzanıyor. Ne yapmak istersiniz?"_
 
-> **The characters then declare their intended actions.**
+> **Karakterler daha sonra yapmak istedikleri eylemleri beyan ederler.**
 
-**Wolfram**: _"I'll search the room for clues about its purpose, starting with that glittery ground."_ 
-**Lucius**: _"I'll check out the wooden **door**, to see if I can figure out what's on the other side."_ 
-**Freya**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
+**Wolfram**: _"Odanın amacına dair ipuçları için odayı arayacağım, şu parıldayan zeminden başlayarak."_
+**Lucius**: _"Ben ahşap **kapıyı** kontrol edeceğim, öbür tarafta ne olduğunu anlayabilir miyim diye bakacağım."_
+**Freya**: "_Ben **heykele** daha yakından bakacağım. Çok yaklaşmadan ne öğrenebilirim?"_
 
-**Warden**: _"Alright, let's start with **Wolfram**. The sand is white, grainy, and clearly not from any beach 'round these parts. Starting at a small lump in the ground, you recognize a half-decayed human skull, meaning that this 'sand' is actually bone! What do you do now?"_
+**Muhafız**: _"Pekala, **Wolfram** ile başlayalım. Kum beyaz, taneli ve kesinlikle buralardaki herhangi bir sahilden değil. Yerdeki küçük bir topaktan başlayarak, yarı çürümüş bir insan kafatası tanıyorsunuz, yani bu 'kum' aslında kemik! Şimdi ne yapıyorsun?"_
 
-**Wolfram**: _"Gross. I'm gonna poke at it a bit with my sword. Is there is anything hidden in the dust? Something valuable, maybe?"_
+**Wolfram**: _"İğrenç. Kılıcımla biraz dürtüşeceğim. Tozun içinde gizli bir şey var mı? Belki değerli bir şey?"_
 
-**Warden**: _"No. But you're at least convinced the ground is safe. And that's the end of your turn!"_
+**Muhafız**: _"Hayır. Ama en azından zeminin güvenli olduğuna ikna oldun. Ve bu senin turunun sonu!"_
 
-> **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
+> **Muhafız daha sonra başka bir karakterin eylemlerini, bunlar eş zamanlı olarak gerçekleşiyormuş gibi anlatmaya geçer.**
 
-**Warden**: _"Let's see what **Lucius** is up to."_
+**Muhafız**: _"Bakalım **Lucius** ne yapıyor."_
 
-**Warden**: _"**Lucius**, the **door** is locked, ancient, and partly rotted away. It bears a rusted iron lock. What do you do now?"_
+**Muhafız**: _"**Lucius**, **kapı** kilitli, kadim ve kısmen çürümüş. Paslı bir demir kilit taşıyor. Şimdi ne yapıyorsun?"_
 
-**Lucius**: _"As I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ 
+**Lucius**: _"Maymuncuğum olmadığı için, sanırım kulağımı kapıya dayayıp diğer tarafta ne olduğunu dinleyeceğim."_
 
-**Warden**: _"You place an ear on the door, but hear only a faint rustling on the other side._"
+**Muhafız**: _"Kulağını kapıya dayıyorsun, ama diğer taraftan sadece hafif bir hışırtı duyuyorsun."_
 
-**Lucius**: _"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted._"
+**Lucius**: _"Anahtar deliği ne kadar bozuk? İçinden görebilir miyim? Peki ya kapının kendisi? Çürümüş demiştin."_
 
-**Warden**: _"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."_
+**Muhafız**: _"Anahtar deliği sağlam ve içini görmek için çok karanlık. İçine bir ışık tutabilirsin ya da kapıdaki aralıklardan birini kullanabilirsin."_
 
-**Lucius**: _"That works. I light my **torch** and hold it aloft so that I can see through."_
+**Lucius**: _"Bu işe yarar. **Meşalemi** yakıyorum ve içini görebilmek için yukarı kaldırıyorum."_
 
-**Warden**: _"**Lucius**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It looks like a large, wet footprint!"_
+**Muhafız**: _"**Lucius**, çatlaklardan gri bir çimento zemini görebiliyorsun. Yerde bir şey parlıyor, meşale ışığında titreşiyor. Büyük, ıslak bir ayak izine benziyor!"_
 
-**Lucius**: _"Eek! I let the others know."_
+**Lucius**: _"Eyvah! Diğerlerine haber veriyorum."_
 
-**Warden**: _"Got it. Now let's see what **Freya** can find out about that statue."_
+**Muhafız**: _"Anlaşıldı. Şimdi **Freya'nın** o heykel hakkında ne bulabildiğine bakalım."_
 
-**Freya**: _"Right, remember that I'd like to take a look, but I don't want to get too close."_
+**Freya**: _"Doğru, sadece bakmak istediğimi ama çok yaklaşmak istemediğimi hatırla."_
 
-**Warden**: _"You approach until you are about five feet away from the statue. The face looks chipped away, and one of the eyes is missing entirely. However, embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further or move along?"_
+**Muhafız**: _"Heykelden yaklaşık beş adım kalana kadar yaklaşıyorsun. Yüzü yontulmuş ve gözlerinden biri tamamen eksik. Ancak diğerine güzel bir kırmızı mücevher yerleştirilmiş! Heykel elinde beyaz bir çatal mızrak tutuyor. Heykelle daha fazla etkileşime geçiyor musun yoksa devam mı ediyorsun?"_
 
-**Freya**: _"That's just creepy! I want no part in this, at least not until we learn more about what this room was for. I'd like to investigate that rubble you mentioned before."_ 
+**Freya**: _"Bu çok ürkütücü! Bu işin içinde olmak istemiyorum, en azından bu odanın ne işe yaradığını daha fazla öğrenene kadar. Daha önce bahsettiğin molozu incelemek istiyorum."_
 
-**Warden**: _"Alright, you move to the rubble adjacent to the statue. It looks extremely heavy and difficult to move. In the light from **Wolfram's** torch, you can see something red and shiny glinting in the cracks of the pile. What do you do?"_
+**Muhafız**: _"Pekala, heykelin yanındaki moloz yığınına doğru hareket ediyorsun. Oldukça ağır ve hareket ettirmesi zor görünüyor. **Wolfram'ın** meşalesinin ışığında, yığının çatlaklarında kırmızı ve parlak bir şeyin parıldadığını görebiliyorsun. Ne yapıyorsun?"_
 
-**Freya**: _"I investigate further, of course!"_
+**Freya**: _"Elbette daha fazla inceliyorum!"_
 
-**Warden**: _"You take a closer look, and spy a red jewel enclosed in a large stone fist. It looks valuable, at least 75gp. It also looks large enough to take up an entire slot!"_
+**Muhafız**: _"Yakından bakıyorsun ve büyük bir taş yumruğun içine alınmış kırmızı bir mücevher görüyorsun. Değerli görünüyor, en az 75 altın. Ayrıca tam bir envanter yuvası dolduracak kadar büyük görünüyor!"_
 
-**Freya**: _"I want it. Can I dig it out easily?"_
+**Freya**: _"Onu istiyorum. Kolayca çıkarabilir miyim?"_
 
-**Warden**: _"The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose or spend an extra turn to extract it quietly. Either choice will likely trigger a dungeon event roll."_
+**Muhafız**: _"Parmaklar oldukça sıkı sarmış; gevşetmek için çok uğraşman gerekecek ya da sessizce çıkarmak için fazladan bir tur harcaman gerekecek. Her iki seçenek de muhtemelen bir zindan olayı zarı atılmasını tetikleyecek."_
 
-**Freya**: _"Damn. Fine, I'll do it as quickly as possible, using the edge of my dagger and a block of rubble to pop it out. Noise be damned!_"
+**Freya**: _"Lanet olsun. Peki, olabildiğince hızlı yapacağım, hançerimin kenarını ve bir moloz parçasını kullanarak çıkaracağım. Sesi umurumda değil!"_
 
-**Warden**: _"Alright, let's see how loud you are..."_
+**Muhafız**: _"Pekala, bakalım ne kadar gürültü yapıyorsun..."_
 
-> **The Warden then rolls on the Dungeon Events table: Environment.**
+> **Muhafız daha sonra Zindan Olayları tablosunda zar atar: Çevre.**
 
-**Warden**: _"**Freya's** clanging labor echoes against the exposed walls of the courtyard. The silence is broken by a shingle falling from the east wall, clattering onto the stone floor. Lucius, you hear rustling noises drawing nearer from behind the door! At that exact moment, the jewel comes loose."_ 
+**Muhafız**: _"**Freya'nın** tıngırdatma çalışması avlunun duvarlarında yankılanıyor. Sessizlik, doğu duvarından düşen bir kiremitin taş zeminde takırdamasıyla bozuluyor. Lucius, kapının arkasından yaklaşan hışırtı sesleri duyuyorsun! Tam o anda mücevher gevşeyip çıkıyor."_
 
-**Warden**: _"And with that, this cycle is over. What do you all do next?"_
+**Muhafız**: _"Ve bu döngü burada sona eriyor. Hepiniz şimdi ne yapıyorsunuz?"_
 
-**Lucius**: _"Um, something's coming. Can we please leave, NOW?"_ 
+**Lucius**: _"Şey, bir şey geliyor. Lütfen HEMEN çıkabilir miyiz?"_
 
-**Freya**: _"I'll quickly put the jewel in my backpack_."
+**Freya**: _"Mücevheri çabucak sırt çantama koyacağım."_
 
-**Wolfram**: _"I think we should head down that stone archway to the West. We can always circle back to this room on our way out._"
+**Wolfram**: _"Bence batıdaki taş kemerden aşağı inmeliydik. Çıkarken her zaman bu odaya geri dönebiliriz."_
 
-**Freya**: _"Hang on, what about this jewel I discovered? It looks like it could go in that statue's eye..."_
+**Freya**: _"Bekle, ya bu keşfettiğim mücevher? Heykelin gözüne uyacak gibi duruyor..."_
 
-**Lucius**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
+**Lucius**: _"Nesin sen, manyak mı? Bildiğimiz kadarıyla o heykel canlanıp saldıracak!"_
 
-**Freya**: _"Or maybe it'll open a secret door?_"
+**Freya**: _"Ya da belki gizli bir kapı açar?"_
 
-**Wolfram**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want to find out what!"_
+**Wolfram**: _"Yeter, şimdilik devam edelim. O kapının diğer tarafında bir şey var ve ne olduğunu öğrenmek istemiyorum!"_
 
-> **The party moves on to the adjoining hall and the adventure continues.**
-
+> **Ekip bitişikteki koridora geçer ve macera devam eder.**

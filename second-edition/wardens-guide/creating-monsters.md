@@ -1,295 +1,295 @@
 ---
-title: Creating Monsters
+title: Canavar Oluşturmak
 layout: default
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
 
-# Creating Monsters
+# Canavar Oluşturmak
 
-## Overview
+## Genel Bakış
 
-To create a unique monster, follow these steps:
-- Roll on the [Monster Appearance](#monster-appearance) table.
-- Roll on the [Monster Traits](#monster-traits) table.
-- Roll on the [Monster Attacks](#monster-attacks) table.
-- Roll on the [Monster Abilities](#monster-abilities) table.
-- Describe the creature's appearance, abilities, and attacks in plain English.
-- Create the creature's stats according to the principles, definitions, and stat block format below.
+Eşsiz bir canavar yaratmak için şu adımları izleyin:
+- [Canavar Görünümü](#canavar-görünümü) tablosunda zar atın.
+- [Canavar Özellikleri](#canavar-özellikleri) tablosunda zar atın.
+- [Canavar Saldırıları](#canavar-saldırıları) tablosunda zar atın.
+- [Canavar Yetenekleri](#canavar-yetenekleri) tablosunda zar atın.
+- Yaratığın görünüşünü, yeteneklerini ve saldırılarını sade Türkçe ile betimleyin.
+- Aşağıdaki ilkeler, tanımlar ve istatistik bloğu formatına göre yaratığın istatistiklerini oluşturun.
 
-## Principles
+## İlkeler
 
-- Use **Critical Damage** to lean into the threat or strangeness of any aggressive NPC.
-- Use flavor and style to help creatures stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Always adjust creature stats based on what is fun and interesting.
+- Herhangi bir saldırgan PC olmayan karakterin (NPC) tehdidini veya tuhaflığını vurgulamak için **Kritik Hasar**'ı kullanın.
+- Canavarların öne çıkması için tat ve tarz kullanın. Oyuncular, sıradan bir goblin okçudan ziyade kayıp koyunlarını arayan domuz suratlı bir insansıyı daha kolay hatırlayacaktır.
+- Canavar istatistiklerini her zaman eğlenceli ve ilginç olana göre ayarlayın.
 
-## **Hit Protection**
+## **İsabet Koruması (HP)**
 
-A creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and and give serious threats 10 or higher.
+Bir canavarın, ister dayanıklılık, ister hız, ister beceri yoluyla tehlikeden kaçınma yeteneği. Ortalama canavarlara 3 HP, daha dayanıklı olanlara 6 HP ve ciddi tehditlere 10 veya daha fazla HP verin.
 
-## Armor
+## Zırh
 
-For some creatures, this represents their natural toughness; for others, it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
+Bazı canavarlar için bu onların doğal sertliğini temsil eder; diğerleri için giyilen veya taşınan bir şeyden kaynaklanıyor olabilir. Eğer bir canavar bir saldırıya hareket etmeden dayanabiliyorsa, bu sayıyı yükseltin.
 
-## Ability Score
+## Yetenek Puanları
 
-3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. 
+3 yetersiz, 6 zayıf, 10 ortalama, 14 dikkate değer ve 18 efsanevidir.
 
-## Strength
+## Güç (STR)
 
-Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
+Genel sağlığı, fiziksel gücü ve zehirlere karşı direnci izler. Bir canavarın doğrudan bir darbeden kurtulma yeteneğidir, tehlikeden kaçınma yeteneği değil!
 
-## Dexterity
+## Çeviklik (DEX)
 
-Start with **10** as a base, and if the creature is particularly quick, agile, or nimble, increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
+**10** temel alınır; eğer canavar özellikle hızlı, çevik veya atikse sayıyı gerektiği gibi artırın. Tepkisi yavaşsa, hantal veya sakarsa sayıyı düşürün.
 
-## Willpower
+## İrade (WIL)
 
-Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
+Bir canavarın başka birinin etkisine dayanma yeteneğini ve başkaları üzerindeki gücünü belirler. Ayrıca büyülü veya ruhani konulardaki savunmalarının bir ölçüsü olarak işlev görür.
 
-## Attacks
+## Saldırılar
 
-Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth).
+Genellikle bir nesne (ör. kılıç veya yay) ya da doğal bir silah (ör. pençeler veya dişler).
 
-## Abilities
+## Yetenekler
 
-A unique action or power the creature can utilize both in and out of combat.
+Canavarın hem çatışma içinde hem de dışında kullanabileceği eşsiz bir eylem veya güç.
 
-- If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
-- If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
-- If an ability only affects a single PC, it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
-- If an ability is capable of affecting a group of PCs, it should generally call for an immediate Save.
+- Bir yetenek, geleneksel yollarla anlamlı bir şekilde önlenebiliyor veya savuşturulabiliyorsa, bu bir **Saldırı**dır ve HP ile etkileşir.
+- Bir yetenek, geleneksel yollarla anlamlı bir şekilde önlenemiyor veya savuşturulamıyorsa, bu bir **Yetenek**tir.
+- Bir yetenek yalnızca tek bir PC'yi etkiliyorsa, genellikle o turda (belki de hiç) Kurtarma Zarı şansı olmaksızın anında bir etkiye sahip olmalıdır.
+- Bir yetenek bir grup PC'yi etkileyebiliyorsa, genellikle anında bir Kurtarma Zarı gerektirmelidir.
 
-## Monster Stat Block Format
+## Canavar İstatistik Bloğu Formatı
 
-X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
-- An engaging descriptor of appearance, demeanor, or living habits.
-- A quirk, tactic, or peculiarity that distinguish this creature.
-- Special effect or consequence of critical damage.
+X HP, X Zırh, X STR, X DEX, X WIL, Saldırı (dX, özel eşyalar, _nitelikler_)
+- Görünüm, davranış veya yaşam alışkanlıklarına dair ilgi çekici bir betimleme.
+- Bu yaratığı diğerlerinden ayıran bir tuhaflık, taktik veya özellik.
+- Kritik hasarın özel etkisi veya sonucu.
 
-## Monster Appearance
+## Canavar Görünümü
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |              |             |
 | ------- | ------------ | ----------- |
-| **d20** | **Physique** | **Feature** |
-| **1**   | Albino       | Antennae    |
-| **2**   | Black        | Beak        |
-| **3**   | Crystalline  | Carapace    |
-| **4**   | Emaciated    | Claws       |
-| **5**   | Eyeless      | Fangs       |
-| **6**   | Feathered    | Feathers    |
-| **7**   | Gelatinous   | Fur         |
-| **8**   | Glowing      | Gilled      |
-| **9**   | Hardened     | Horns       |
-| **10**  | Headless     | Markings    |
-| **11**  | Horned       | Scales      |
-| **12**  | Hunched      | Shell       |
-| **13**  | Iridescent   | Snout       |
-| **14**  | Polyocular   | Tail        |
-| **15**  | Scaled       | Talons      |
-| **16**  | Segmented    | Tentacles   |
-| **17**  | Skeletal     | Trunk       |
-| **18**  | Slimy        | Tusks       |
-| **19**  | Translucent  | Voice       |
-| **20**  | Twisted      | Wings       |
+| **d20** | **Fizik**    | **Özellik** |
+| **1**   | Albino       | Anten       |
+| **2**   | Siyah        | Gaga        |
+| **3**   | Kristal      | Sırt Kabuğu |
+| **4**   | Kemik gibi   | Pençe       |
+| **5**   | Gözsüz       | Zehir Dişi  |
+| **6**   | Tüylü        | Tüyler      |
+| **7**   | Jölemsi      | Kürk        |
+| **8**   | Parlak       | Solungaç    |
+| **9**   | Sertleşmiş   | Boynuz      |
+| **10**  | Başsız       | İşaretler   |
+| **11**  | Boynuzlu     | Pul         |
+| **12**  | Kambur       | Kabuk       |
+| **13**  | Yanardöner   | Burun       |
+| **14**  | Çok Gözlü    | Kuyruk      |
+| **15**  | Pullu        | Pençe (büyük)|
+| **16**  | Bölümlü      | Dokunaç     |
+| **17**  | İskeletimsi  | Hortum      |
+| **18**  | Sümüksü      | Diş (fildişi)|
+| **19**  | Yarı Saydam  | Ses         |
+| **20**  | Biçimsiz     | Kanat       |
 
-## Monster Traits
+## Canavar Özellikleri
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                          |                 |
 | ------- | ------------------------ | --------------- |
-| **d20** | **Quirks**               | **Weakness**    |
-| **1**   | Alters Its Size at Will  | Alcohol         |
-| **2**   | Changes Color at Will    | Cold            |
-| **3**   | Collects Rare Flowers    | Conversation    |
-| **4**   | Collects Trophies        | Flattery        |
-| **5**   | Does Not Die of Old Age  | Games           |
-| **6**   | Draws Symbols            | Gifts           |
-| **7**   | Fascinated by Fire       | Iron            |
-| **8**   | Hoards Books             | Loud Noises     |
-| **9**   | Loves a Specific Color   | Mirrors         |
-| **10**  | Reborn Each Day          | Bright Colors   |
-| **11**  | Loves Shiny Objects      | Moonlight       |
-| **12**  | Mimics Voices            | Music           |
-| **13**  | Moves in a Straight Line | Prepared Meals  |
-| **14**  | Narrates Everything      | Puzzles         |
-| **15**  | Obsessively Cleans       | Religious Icons |
-| **16**  | Plants Grow in Its Wake  | Salt            |
-| **17**  | Sleeps Upside Down       | Silver          |
-| **18**  | Speaks in Rhymes         | Sunlight        |
-| **19**  | Sweats Rare Minerals     | True Name       |
-| **20**  | Reproduces Asexually     | Weak Spot       |
+| **d20** | **Tuhaflıklar**          | **Zayıflık**    |
+| **1**   | Boyutunu İstediği Gibi Değiştirir | Alkol   |
+| **2**   | Rengini İstediği Gibi Değiştirir  | Soğuk   |
+| **3**   | Nadir Çiçekler Toplar    | Sohbet          |
+| **4**   | Kupa Toplar              | Dalkavukluk     |
+| **5**   | Yaşlanarak Ölmez         | Oyunlar         |
+| **6**   | Semboller Çizer          | Hediyeler       |
+| **7**   | Ateşten Büyülenir        | Demir           |
+| **8**   | Kitap Biriktirir         | Yüksek Sesler   |
+| **9**   | Belirli Bir Rengi Sever  | Aynalar         |
+| **10**  | Her Gün Yeniden Doğar    | Parlak Renkler  |
+| **11**  | Parlak Nesneleri Sever   | Ay Işığı        |
+| **12**  | Sesleri Taklit Eder      | Müzik           |
+| **13**  | Düz Bir Çizgide Hareket Eder | Hazır Yemek |
+| **14**  | Her Şeyi Anlatır         | Bulmacalar      |
+| **15**  | Takıntılı Şekilde Temizler | Dini Semboller |
+| **16**  | Ardında Bitkiler Büyür   | Tuz             |
+| **17**  | Baş Aşağı Uyur           | Gümüş           |
+| **18**  | Kafiyeli Konuşur         | Güneş Işığı     |
+| **19**  | Nadir Mineraller Terler  | Gerçek İsim     |
+| **20**  | Eşeysiz Ürer             | Zayıf Nokta     |
 
-## Monster Attacks
+## Canavar Saldırıları
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |          |                     |
 | ------- | -------- | ------------------- |
-| **d20** | **Type** | **Critical Damage** |
-| **1**   | Bites    | Asphyxiates         |
-| **2**   | Blunts   | Bleeds              |
-| **3**   | Burns    | Blinds              |
-| **4**   | Freezes  | Breaks              |
-| **5**   | Gases    | Crushes             |
-| **6**   | Kicks    | Decays              |
-| **7**   | Punches  | Dissolves           |
-| **8**   | Shoots   | Ensnares            |
-| **9**   | Slams    | Explodes            |
-| **10**  | Slashes  | Grapples            |
-| **11**  | Slices   | Incapacitates       |
-| **12**  | Smashes  | Lacerates           |
-| **13**  | Sprays   | Liquefies           |
-| **14**  | Squeezes | Paralyzes           |
-| **15**  | Stabs    | Petrifies           |
-| **16**  | Stings   | Poisons             |
-| **17**  | Throws   | Punctures           |
-| **18**  | Touches  | Severs              |
-| **19**  | Whips    | Tramples            |
-| **20**  | Zaps     | Weakens             |
+| **d20** | **Tür**  | **Kritik Hasar**    |
+| **1**   | Isırır   | Boğar               |
+| **2**   | Sert Vuruş | Kanatır           |
+| **3**   | Yakar    | Kör Eder            |
+| **4**   | Dondurur | Kırar               |
+| **5**   | Gaz Verir | Ezer              |
+| **6**   | Tekmeler | Çürütür             |
+| **7**   | Yumruklar | Çözer             |
+| **8**   | Atar      | Tuzağa Düşürür      |
+| **9**   | Vurur     | Patlar              |
+| **10**  | Dilimler  | Kapana Kısar        |
+| **11**  | Keser     | Etkisiz Hale Getirir|
+| **12**  | Parçalar  | Yarar               |
+| **13**  | Püskürtür | Sıvılaştırır        |
+| **14**  | Sıkar     | Felç Eder           |
+| **15**  | Saplar    | Taşlaştırır         |
+| **16**  | Sokar     | Zehirler            |
+| **17**  | Fırlatır  | Deler               |
+| **18**  | Dokunur   | Koparır             |
+| **19**  | Kamçılar  | Çiğner              |
+| **20**  | Çarpar    | Zayıflatır          |
 
-## Monster Abilities
+## Canavar Yetenekleri
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |             |              |
 | ------- | ----------- | ------------ |
-| **d20** | **Ability** | **Target**   |
-| **1**   | Absorbs     | Body         |
-| **2**   | Amplifies   | Dreams       |
-| **3**   | Attracts    | Element      |
-| **4**   | Binds       | Emotions     |
-| **5**   | Camouflages | Energy       |
-| **6**   | Conjures    | Health       |
-| **7**   | Controls    | Hearing      |
-| **8**   | Disables    | Illusions    |
-| **9**   | Duplicates  | Light        |
-| **10**  | Grows       | Memory       |
-| **11**  | Manipulates | Metal        |
-| **12**  | Reflects    | Plants       |
-| **13**  | Regenerates | Spirit       |
-| **14**  | Resists     | Stone        |
-| **15**  | Reverses    | Surroundings |
-| **16**  | Shapes      | Time         |
-| **17**  | Shrinks     | Vision       |
-| **18**  | Transforms  | Water        |
-| **19**  | Traps       | Weather      |
-| **20**  | Zaps        | Weakens      |
+| **d20** | **Yetenek** | **Hedef**    |
+| **1**   | Emme        | Beden        |
+| **2**   | Güçlendirme | Rüyalar      |
+| **3**   | Çekme       | Element      |
+| **4**   | Bağlama     | Duygular     |
+| **5**   | Kamuflaj    | Enerji       |
+| **6**   | Çağırma     | Sağlık       |
+| **7**   | Kontrol     | İşitme       |
+| **8**   | Devre Dışı Bırakma | Yanılsamalar |
+| **9**   | Kopyalama   | Işık         |
+| **10**  | Büyüme      | Hafıza       |
+| **11**  | Manipülasyon| Metal        |
+| **12**  | Yansıtma    | Bitkiler     |
+| **13**  | Yenilenme   | Ruh          |
+| **14**  | Direnme     | Taş          |
+| **15**  | Tersine Çevirme | Çevre    |
+| **16**  | Şekil Verme | Zaman        |
+| **17**  | Küçültme    | Görüş        |
+| **18**  | Dönüştürme  | Su           |
+| **19**  | Tuzağa Düşürme | Hava Durumu |
+| **20**  | Çarpma      | Zayıflatma   |
 
-## Monster Example
+## Canavar Örneği
 
-- **Appearance**: _Hunched_ + _Carapace_.
-- **Traits**: _Moves in a straight line_ + _Weak Spot_
-- **Attack**: _Smashes_ + _Grapples_.
-- **Abilities**: _Disables_ + _Hearing_
+- **Görünüm**: _Kambur_ + _Sırt Kabuğu_.
+- **Özellikler**: _Düz bir çizgide hareket eder_ + _Zayıf Nokta_
+- **Saldırı**: _Parçalar_ + _Kapana Kısar_.
+- **Yetenekler**: _Devre Dışı Bırakma_ + _İşitme_
 
-_A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
+_Sert bir kabuğu olan salyangoz benzeri bir yaratık. Sadece düz çizgilerde hareket eder ve yumuşak bir alt karnı vardır. Rakiplerinin üzerine yuvarlanarak onları vahşi bir yörüngeye çeker. Hareketinin gürültüsü diğer tüm sesleri bastırır._
 
-This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
+Bu yaratık fiziksel olarak dayanıklıdır, ortalamanın üzerinde **STR** ve güçlü zırhı vardır. Muhtemelen hızlıdır ama manevra kabiliyeti düşüktür ve tehlikeden kaçınmak için beceri veya çevikliğe güvenmez. Kaba kuvvetlidir, ama yine de vahşi bir canavardır ve sadece bir sonraki yemeğini arayan herhangi bir yaratık kadar iradelidir. Düz bir çizgide yuvarlanarak saldırır ve birden çok hedefi etkilemelidir.
 
-### Thunder Snail
+### Gök Gürültüsü Salyangozu
 
-6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
+6 HP, 2 Zırh, 14 STR, 6 DEX, 4 WIL, parçalama ve yuvarlanma (d10, _patlama_)
 
-- Thick-shelled beasts that attack by rolling over their opponents in a straight line. The noise of their tumbling shells is deafening.
-- **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
+- Kalın kabuklu canavarlar, rakiplerinin üzerinden düz bir çizgide yuvarlanarak saldırırlar. Yuvarlanan kabuklarının gürültüsü sağır edicidir.
+- **Kritik Hasar**: Hedef, yuvarlanma momentumunun içine çekilir; kurtulana kadar her tur ek olarak 1 STR kaybeder (kurtulmak için STR zarları atar).
 
-## Converting Monsters
+## Canavar Dönüştürme (Diğer Sistemlerden)
 
-There is no perfect system for converting from other systems. Here are some tips that might help with the process!
+Diğer sistemlerden dönüştürmek için kusursuz bir sistem yoktur. İşte sürece yardımcı olabilecek bazı ipuçları!
 
-- **Hit Protection**: A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
-- **Armor**: Look for phrases like "as leather" and "as plate" in the original stat blocks. When converting from B/X style games like Old School Essentials, ignore THAC0 and use descending AC whenever possible (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given, you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3 only.
-- **Strength**: Look at the creature's **HD** and **HP**. If a creature is difficult to kill but _not_ because they are nimble or skilled, give them more **STR** (but _not_ more **HP**). Start with 10 **STR** (the average) and go up or down from there.
-- **Dexterity**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
-- **Willpower**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
+- **İsabet Koruması (HP)**: İyi bir kural, her **HD** (Yaralanma Zarı) için yaratığa +1 HP eklemektir, minimum **3 HP** (ortalama bir kişi) üzerine. Genelde **HD**'yi ortalama 3.5 olan bir d6'ya eşdeğer düşünürüm. Her zaman önce yaratığın **HP**'sini, _sonra_ **STR**'sini belirleyin.
+- **Zırh**: Orijinal istatistik bloklarında "deri gibi" ve "plaka gibi" gibi ifadelere bakın. Old School Essentials gibi B/X tarzı oyunlardan dönüştürürken THAC0'yu yoksayın ve mümkün olduğunda azalan AC kullanın (7 = Deri, 5 = Zincir Zırh, 3 = Plaka Zırh). Eğer sadece artan AC verilmişse (12 = Deri, 14 = Zincir Zırh, 16 = Plaka Zırh) kullanabilirsiniz. Hangi sistemden dönüştürüyor olursanız olun, Zırh değerleri sadece 1-3 arasında değişir.
+- **Güç (STR)**: Yaratığın **HD** ve **HP**'sine bakın. Eğer bir yaratık çevik veya becerikli olduğu için değil de öldürmesi zorsa, ona daha fazla **STR** verin (ancak daha fazla **HP** değil). Ortalama 10 **STR** ile başlayın ve oradan yukarı veya aşağı gidin.
+- **Çeviklik (DEX)**: Temel **10** ile başlayın; eğer yaratık özellikle hızlı (genellikle "hız" veya SP olarak anılır), çevik veya atikse sayıyı yükseltin. Tepkisi yavaşsa, hantal veya sakarsa sayıyı düşürün. Daha fazlası için aşağıdaki [Kurtarma Zarları](#kurtarma-zarları) bölümüne bakın!
+- **İrade (WIL)**: **Morale (ML)** iyi bir yol gösterici olabilir ve tipik olarak 2-12 arasında değişir. Yaratığın kişiliği, ruhu veya duruşu ne kadar büyükse, sahip olması gereken WIL o kadar yüksektir. Aşağıdaki tablo, **ML**'yi **WIL**'e dönüştürmek için iyi bir rehber sunar.
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
 | **WIL** | 6 | 12 | 15 | 18 |
 
-### Saving Throws
+### Kurtarma Zarları (Saving Throws)
 
-- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. 
-- Stat blocks will use a shorthand like (E1) or (F1) (Level 1 Elf or Fighter respectively). These are really helpful for quickly identifying the creature's abilities.
-- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging" based on the saving throws. The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
+- Bir yaratığın yetenekleri, özellikle fiziksel travma, büyü veya zehirden kaçınma yeteneği hakkında daha fazla bilgi edinmek için _kurtarma zarlarına_ güvenebilirsiniz.
+- İstatistik blokları (E1) veya (F1) gibi kısa yazımlar kullanır (sırasıyla Seviye 1 Elf veya Savaşçı). Bunlar yaratığın yeteneklerini hızlıca tanımlamak için gerçekten faydalıdır.
+- Kurtarma zarı sonuçlarına dayanarak "zehirli gaza bağışık" veya "kaçmakta iyi" gibi betimleyici etiketler eklemeyi düşünün. Aşağıdaki tablo, hangi kurtarma zarının ilgili yetenek puanında bir artışa yol açması gerektiğini belirlemeye yardımcı olmalıdır.
 
 |                                |                    |
 | ------------------------------ | ------------------ |
-| **Death or Poison**            | **STR**            |
-| **Wands**                      | **DEX**            |
-| **Paralysis or Petrification** | **WIL** or **STR** |
-| **Breath Attacks**             | **DEX** or **STR** |
-| **Spells, Rods or Staves**     | **WIL**            |
+| **Ölüm veya Zehir**            | **STR**            |
+| **Asalar**                     | **DEX**            |
+| **Felç veya Taşlaşma**         | **WIL** veya **STR** |
+| **Nefes Saldırıları**          | **DEX** veya **STR** |
+| **Büyüler, Çubuklar veya Değnekler** | **WIL**       |
 
-### Combat
+### Çatışma
 
-- **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapons listed in the Marketplace first.
-- **Multiple attacks**: Convert to _blast_ or to multiple dice (e.g. d6+d6).
-- **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or giving the attack multiple dice.
+- **Hasar Zarı**: Genellikle çoğu OSR sisteminden "olduğu gibi" kopyalanabilir, ancak önce Marketplace'te listelenen silahlarla kontrol etmek iyi bir fikirdir.
+- **Birden çok saldırı**: _patlama_ veya çoklu zara dönüştürün (ör. d6+d6).
+- **Yıkıcı Saldırılar**: Hasarı _güçlendirilmiş_ yapmayı, _patlama_ etiketi vermeyi veya saldırıya birden çok zar eklemeyi düşünün.
 
-### Abilities
+### Yetenekler
 
-- Sometimes the mechanics of the original system simply _do not translate_. That's OK! Try to focus on what's most interesting about the creature, and write a "version" of their ability more appropriate to Cairn.
-- Abilities can sometimes be made into attacks (with a damage die), leaving Critical Damage to reveal the real impact. 
-- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise, make it succeed automatically. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
+- Bazen orijinal sistemin mekanikleri _gerçekten çevrilemez_. Sorun değil! Yaratıkla ilgili en ilginç şeye odaklanmaya çalışın ve yeteneğinin Cairn'e daha uygun bir "versiyonunu" yazın.
+- Yetenekler bazen saldırıya (bir hasar zarı ile) dönüştürülebilir, asıl etkiyi ortaya çıkarmak için Kritik Hasar bırakılır.
+- Canavarın saldırısı, PC'lerin bazı yeteneklere karşı kaçmasını veya kurtarma zarı atmasını gerektiriyorsa, yeteneği PC'lerin tetikleyebileceği çatışma dışı bir "tuzak" haline getirmeyi düşünün. Aksi takdirde, otomatik olarak başarılı kılın. Çatışma tehlikelidir ve savaş başlamadan önce tehlikeleri doğru bir şekilde haber vermek Oyun Yöneticisi'ne düşer.
 
-### Magic
+### Büyü
 
-- Magical creatures can "know" a bunch of spells without needing to carry Spellbooks. In this case, make their corpses magical (and dangerous)!
-- Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
-- Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
+- Büyülü yaratıklar, Büyü Kitabı taşımaları gerekmeksizin bir grup büyüyü "bilebilir". Bu durumda, cesetlerini büyülü (ve tehlikeli!) yapın!
+- Büyüler hilelidir; büyü kullanıcılarına Büyü Kitapları verebilirsiniz, ancak unutmayın, yenildiklerinde onları _düşürebilirler_.
+- Düşen Büyü Kitaplarından bazılarının içine patlama etkisi eklemeyi düşünün (hangisini belirlemek için Kader Zarı'nı kullanın).
 
-### Use the Fiction
+### Kurguyu Kullanın
 
-The easiest way to convert a monster from another system is to read the original stat block and any associated text, then write a few sentences about the creature in plain English. Finally, convert what you've written to the Cairn monster stat block.
+Bir canavarı başka bir sistemden dönüştürmenin en kolay yolu, orijinal istatistik bloğunu ve ilgili metni okumak, ardından yaratık hakkında birkaç cümleyi sade Türkçe ile yazmaktır. Son olarak, yazdıklarınızı Cairn canavar istatistik bloğuna dönüştürün.
 
-Take for example this creature:
+Örneğin şu yaratığı ele alalım:
 
-#### Foxwoman
+#### Tilki Kadın (Foxwoman)
 
-Can take the form of a fox or a 7' tall fox-headed woman. 
-_HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
-- Defense: Cannot be harmed by metal
-- Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
+Bir tilki veya 2 metre boyunda tilki başlı bir kadın şeklini alabilir.
+_HD 5, Hız 120', Zırh 14, Moral 11, Saldırı: +4 d8hp (pençe, ısırık veya boğma)_
+- Savunma: Metalle zarar göremez
+- Özel: İstediği zaman tilkiye veya bir tilki bacağı gizli olan bir bakireye dönüşebilir (aynı istatistikler)
 
-_**Using the example above, I can see that she:**_  
-- She appears as a 7-foot tall human woman with the head of a fox.
-- She doesn't have super high HP, and she's quite fast.
-- Her **ML** is pretty high, and she's obviously quite willful.
-- She is agile and lithe.
-- She attacks with teeth and claws (choking her prey if possible).
-- She can transform into a fox at will.
-- She is immune to metal weapons.
+_**Yukarıdaki örneği kullanarak onun hakkında şunları görebilirim:**_
+- 2 metre boyunda, tilki başlı bir insan kadını olarak görünür.
+- Çok yüksek HP'si yoktur ve oldukça hızlıdır.
+- **ML**'si oldukça yüksektir ve belli ki oldukça iradelidir.
+- Çevik ve esnektir.
+- Diş ve pençeleriyle saldırır (mümkünse avını boğarak).
+- İstediği zaman tilkiye dönüşebilir.
+- Metal silahlara karşı bağışıktır.
 
-_**What can we learn from this?**_
-- She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per **HD**, that means she has **8 HP**.
-- I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. A normal human has 10 **STR** and she's a little bigger. **12 STR**.
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
-- For her attacks, I'd go with claws (d6+d6) and bite (d8).
+_**Bundan ne öğrenebiliriz?**_
+- Hızlıdır ve muhtemelen bir dövüşte ustadır. **3 HP**'den başlayıp her **HD** için +1 **HP** eklersek, **8 HP**'si olur.
+- Tilki kürkünün koruyucu olmadığını düşünüyorum; başı dışında insandır. **Zırh yok**.
+- Oldukça güçlüdür. Normal bir insan 10 **STR**'ye sahiptir ve o biraz daha iridir. **12 STR**.
+- Onu karlı tundrada avını kovalarken hayal edebiliyorum. Hızlıdır. **14 DEX**.
+- **ML**'si yüksektir ve tilkiler kurnazlıklarıyla bilinir. **15 WIL**.
+- Saldırıları için pençe (d6+d6) ve ısırık (d8) kullanırdım.
 
-_**This information leaves us with the following:**_
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+_**Bu bilgiler bize şunu verir:**_
+8 HP, 12 STR, 14 DEX, 15 WIL, pençe (d6+d6), ısırık (d8)
 
-_**Now on to her abilities:**_
-This is pretty straightforward. We simply read the fictional stat block we created earlier!
-- She appears as a 7-foot tall human woman with the head of a fox.
-- She can transforms into a fox at will.
-- She is immune to attacks from metal weapons.
-- She chokes her victims into unconsciousness.
+_**Şimdi yeteneklerine geçelim:**_
+Bu oldukça açık. Daha önce oluşturduğumuz kurgusal istatistik bloğunu okumamız yeterli!
+- 2 metre boyunda, tilki başlı bir insan kadını olarak görünür.
+- İstediği zaman tilkiye dönüşebilir.
+- Metal silahlardan gelen saldırılara karşı bağışıktır.
+- Kurbanlarını bayılana kadar boğar.
 
-_**The final result**_:
+_**Nihai sonuç:**_
 
-#### Foxwoman
+#### Tilki Kadın
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, pençe (d6+d6), ısırık (d8)
 
-- Can take the form of a fox or a woman with a hidden fox leg.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- Bir tilki veya gizli bir tilki bacağı olan bir kadın şeklini alabilir.
+- Metal silahlarla yapılan saldırılara karşı bağışıktır.
+- **Kritik hasar**: Kurban boğularak bayıltılır.

@@ -1,170 +1,170 @@
 ---
 layout: default
-title: Saves
+title: Kurtarma Zarları
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
 
-# Saves
+# Kurtarma Zarları (Saves)
 
-## Overview
+## Genel Bakış
 
-## When To Save
+## Ne Zaman Zar Atılmalı
 
-There are three common scenarios in which a player character should save:
--  When avoiding the negative outcome of a risky action.
--  When acting in opposition to another player character, NPC, or creature.
--  When aiding one or more characters in a risky action. 
+Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vardır:
+- Riskli bir eylemin olumsuz sonucundan kaçınırken.
+- Başka bir oyuncu karakterine, NPC'ye veya yaratığa karşı hareket ederken.
+- Bir veya daha fazla karaktere riskli bir eylemde yardım ederken.
 
-## Save Principles
+## Kurtarma Zarı İlkeleri
 
-- When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know," then a roll with the Die of Fate may be necessary.
-- Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
-- Character death should never come as a surprise. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
-- Always provide multiple viable options for the PCs to choose from. The more choices, the more interesting the situation becomes.
-- The outcome of a save need not be a simple binary. You can tailor the results based on the totality of input: the effort, forethought, resources, and skill that went into the roll.
-- Be transparent with players. This doesn't mean revealing all of the world's secrets, but provide each player with the maximum information their character might have.
-- Avoid requiring a dice roll whenever possible. If a PC can solve a problem using purely narrative components, _do not ask for a roll_.
-- Replace multiple dice rolls with a single dice throw. Simplifying results to a single roll can increase tension while maximizing player input. 
+- Şüpheye düştüğünüzde, partinin bir sorunu aşmak için zamana, kaynaklara, beceriye veya avantaja sahip olup olmadığını sorun. Cevap "hayır" ise, genellikle bir kurtarma zarı gerekir. Cevap "bilmiyorum" ise, Kader Zarı ile bir atış gerekebilir.
+- "Hayır" demekten çekinmeyin, ancak bir alternatif sunmayı unutmayın. Eğer ekip, kontrolleri dışındaki koşullar nedeniyle ilerleyemiyorsa, onlara değerlendirmeleri için başka bir seçenek verin.
+- Karakter ölümü asla sürpriz olmamalıdır. Risk o kadar büyükse ve sonuç ölümcül olabilirse, oyuncunun neye bulaştığını anladığından emin olun.
+- PC'lerin seçebileceği birden çok uygulanabilir seçeneği her zaman sunun. Seçenekler arttıkça durum daha ilginç hale gelir.
+- Bir kurtarma zarının sonucu basit bir ikili olmak zorunda değildir. Sonuçları, zar atışına giren çaba, öngörü, kaynaklar ve becerinin bütününe göre şekillendirebilirsiniz.
+- Oyunculara karşı şeffaf olun. Bu, dünyanın tüm sırlarını açığa çıkarmak anlamına gelmez, ancak her oyuncuya karakterinin sahip olabileceği maksimum bilgiyi sağlayın.
+- Mümkün olduğunda zar atışı gerektirmekten kaçının. Bir PC bir sorunu tamamen anlatısal öğeler kullanarak çözebiliyorsa, _zar atışı istemeyin_.
+- Birden çok zar atışını tek bir zar atışıyla değiştirin. Sonuçları tek bir atışa indirgemek, oyuncu katkısını en üst düzeye çıkarırken gerilimi artırabilir.
 
-## Traditional Saves
+## Geleneksel Kurtarma Zarları
 
-### Strength
+### Güç (STR)
 
-> Wolfram dashes through the underground jail cell, a bundle of cloth held tightly to his chest. Lucius and Freya are right behind, fighting off a very large guard and his pet wolf. 
+> Wolfram yeraltı hapishane hücresinde, göğsüne sıkıca bastırdığı bir kumaş bohçayla koşuyor. Lucius ve Freya hemen arkada, iri bir gardiyan ve onun evcil kurduyla dövüşüyorlar.
 
-**Wolfram**: _"Remember, they are innocents! They don't need to die!"_
+**Wolfram**: _"Unutmayın, onlar masum! Ölmeleri gerekmiyor!"_
 
-**Freya**: _"Sorry, I can't hear you through the barks and snarling!"_
+**Freya**: _"Üzgünüm, havlamalar ve hırlamalar arasında seni duyamıyorum!"_
 
-**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
+**Muhafız**: _"Aniden, gardiyan durur ve ıslık çalarak evcil hayvanını geri çağırır. Ardından arkasındaki bir kolu çeker ve Doğu koridorunun diğer ucundan yüksek bir gıcırtı sesi gelmeye başlar. Sonra ne yaptığını görüyorsunuz: tavandan kalın bir demir parmaklık iniş yapıyor. Kapanırsa, hapishanenin bu bölümüne kilitleneceksiniz! Wolfram, muhtemelen hiç risk almadan geçebilirsin. Lucius ve Freya'nın geçebilmek için ÇEV zarları atmaları gerekecek."_
 
-**Wolfram**: _"I'm going to stop and hold the gate for as long as I can. What do I risk?"_
+**Wolfram**: _"Duracağım ve parmaklığı elimden geldiğince tutacağım. Ne risk alıyorum?"_
 
-**Warden**: _"The gate is strong. It might break your bones, or you might get stuck underneath."_
+**Muhafız**: _"Parmaklık çok güçlü. Kemiklerini kırabilir ya da altında sıkışıp kalabilirsin."_
 
-**Wolfram**: _"I toss the bundle through to the other side, then take up a position to grab onto it. Lucius, Freya, you two run ahead. I've got this."_
+**Wolfram**: _"Bohçayı diğer tarafa fırlatıyorum, sonra parmaklığı yakalamak için bir pozisyon alıyorum. Lucius, Freya, siz ikiniz önden koşun. Ben hallederim."_
 
-> Lucius and Freya agree, and Wolfram rolls a 13: a success!
+> Lucius ve Freya kabul eder ve Wolfram 13 atar: başarı!
 
-**Warden**: _"You groan as the iron bars press down against your arms and shoulders. Just as you feel like the gate might crush you in two, Lucius and Freya jog past and into safety. You step back and the gate collapses onto the stone floor with such force that the mechanism itself breaks. There is no going back now! The large guard isn't getting through either, though."_
+**Muhafız**: _"Demir çubuklar kollarına ve omuzlarına baskı yaparken inliyorsun. Parmaklık seni ikiye bölecekmiş gibi hissettiğin anda, Lucius ve Freya yanından geçip güvenli bölgeye varıyor. Geri çekiliyorsun ve parmaklık taş zemine öyle bir kuvvetle çöküyor ki mekanizmanın kendisi kırılıyor. Artık geri dönüş yok! Büyük gardiyan da geçemeyecek yine de."_
 
-**Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway... Hey, wait for me!"_
+**Wolfram**: _"Her zaman söylediğim gibi: 'Güç yoluyla erdem gelir.' Yoksa 'Erdem, güçte midir?' Ah, neyse... Hey, beni bekleyin!"_
 
-### Dexterity
+### Çeviklik (DEX)
 
-> Freya crouches atop the rafters of a decrepit tavern, spying on a gang of heavily-armed thugs below. 
+> Freya, harap bir meyhanenin merteklerinin üzerine çömelmiş, aşağıda ağır silahlı bir haydut çetesini gözetliyor.
 
-**Warden**: _"After twenty minutes of cramped discomfort, the care and caution you put into this venture are finally rewarded as one of the men below speaks aloud the location of their hideout. Your mission is complete! What do you do now?_"
+**Muhafız**: _"Yirmi dakikalık sıkışık rahatsızlıktan sonra, bu girişime harcadığın özen ve dikkat nihayet ödüllendiriliyor; aşağıdaki adamlardan biri saklandıkları yerin konumunu yüksek sesle söylüyor. Görevin tamam! Şimdi ne yapıyorsun?"_
 
-**Freya**: _"I need to skedaddle without these jokers knowing I was ever here. Does it look like they are nearly finished?"_
+**Freya**: _"Bu şaklabanlar benim burada olduğumu bilmeden tüymem gerek. Neredeyse bitirdiler mi?"_
 
-**Warden**: _"Actually, one of them is pulling out a deck of cards, and the others are nodding in approval. It looks like they'll be here for a while yet."_
+**Muhafız**: _"Aslında, içlerinden biri bir deste kağıt çıkarıyor ve diğerleri onaylarcasına başlarını sallıyor. Görünüşe göre bir süre daha burada kalacaklar."_
 
-**Freya**: _"Rats. Well, no time like the present, right? I'm going to sneak back the way I came._"
+**Freya**: _"Tüh. Neyse, bugün yapmazsan yarın daha geç, değil mi? Geldiğim yoldan geri sıvışacağım."_
 
-**Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a DEX save to avoid detection._"
+**Muhafız**: _"Sorun yok, ancak daha önce geçtiğinde burada kimse yoktu. Artık durum böyle değil! Fark edilmemek için bir ÇEV zarları atmalısın."_
 
-> Freya rolls a 16: a fail!
+> Freya 16 atar: başarısız!
 
-**Warden**: _"As you crest the final beam, it creaks. All six of the men look up and see you leap into the crawlspace leading out of the main hall and into the kitchens. They didn't get a bead on your face, but they know you're up there! They shout and draw their weapons."_
+**Muhafız**: _"Son kirişe tırmandığında, kiriş gıcırdıyor. Altı adamın hepsi yukarı bakıyor ve ana salondan mutfaklara çıkan dar geçide atladığını görüyor. Yüzünü net göremediler ama yukarıda biri olduğunu biliyorlar! Bağırışıp silahlarını çekiyorlar."_
 
-**Freya**: _"I have one smoke bomb left, and I plan on using it. I'm going to drop into the kitchens to find a pot. If I recall correctly, water makes the smoke go crazy..."_
+**Freya**: _"Bir duman bombam kaldı ve onu kullanmayı planlıyorum. Mutfağa atlayıp bir tencere bulacağım. Doğru hatırlıyorsam, su dumanın çılgına dönmesine neden oluyor..."_
 
-### WIL
+### İrade (WIL)
 
-> Lucius has been captured after helping a client try to break into the ancient vault of Der Thunn. In a sudden glut of courage, he allowed himself be taken so that the others could escape.
+> Lucius, bir müşterisinin Der Thunn'un kadim kasasına girmesine yardım etmeye çalıştıktan sonra yakalandı. Bir anda gelen cesaretle, diğerlerinin kaçabilmesi için kendisinin yakalanmasına izin verdi.
 
-**Wolfram**: _"Pity about Lucius. But we have to deliver our client to the vault immediately. We can rescue him after."_
+**Wolfram**: _"Lucius'a yazık. Ama müşterimizi derhal kasaya götürmeliyiz. Onu sonra kurtarabiliriz."_
 
-**Freya**: _"I am NOT leaving him behind. You should still go, but I'm going to get him out. I'm a cutpurse, so I have friends everywhere, right? Or perhaps there's some kind of thieves' cant I can use to make connections here?"_
+**Freya**: _"Onu arkada bırakmayacağım. Sen yine de git, ama ben onu çıkaracağım. Ben bir yankesiciyim, her yerde arkadaşlarım vardır, değil mi? Ya da belki burada bağlantı kurmak için kullanabileceğim bir hırsız argosu vardır?"_
 
-**Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
+**Muhafız**: _"Evet. İstersen geceyi kendi türün arasında bağlantı kurmaya çalışarak geçirebilirsin."_
 
-> The party splits up, and Freya learns what she needs to from a local fence. (It costs her one of the Twins, and she is not happy about it). Lucius is awaiting his sentence in a jail beneath the constabulary.
+> Ekip ayrılır ve Freya yerel bir çalıcıdan (fence) ihtiyacı olanı öğrenir. (Bu, İkizler'den birine mal olur ve hiç mutlu olmaz). Lucius, komiserlik binasının altındaki bir hapishanede cezasını beklemektedir.
 
-**Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
+**Muhafız**: _"Sabahın erken saatlerinin loş ışığında, sokak havalandırma deliğinden bir not sıkıştırıldığını fark ediyorsun. Şöyle yazıyor: 'Şunu söyle, özgür olacaksın: "Solgun Adam Ölmeyi Arzuluyor." Tek şansın var.'"_
 
-**Lucius**: _"...What? OK. Someone gave this to me? And I have to speak it aloud... but at the right time, or to the right person?"_
+**Lucius**: _"...Ne? Tamam. Bunu biri mi verdi? Bunu yüksek sesle söylemem gerek... ama doğru zamanda, yoksa doğru kişiye mi?"_
 
-**Warden**: _"You hear footsteps as the jailer approaches. He jingles his keys as if he intends to open your cell. What do you do?_"
+**Muhafız**: _"Gardiyan yaklaşırken ayak sesleri duyuyorsun. Hücrenizi açmak niyetindeymiş gibi anahtarlarını şıngırdatıyor. Ne yapıyorsun?"_
 
-**Lucius**: _"OK! This is not the right person, I think. Perhaps I'll talk to someone higher up?"_
+**Lucius**: _"Tamam! Bu doğru kişi değil sanırım. Belki daha üst düzey biriyle konuşayım?"_
 
-**Warden**: _"He opens your cell and beckons for you to come out."_
+**Muhafız**: _"Hücreni açar ve dışarı çıkman için işaret eder."_
 
-**Lucius**: _"Hello friend! Might I speak to your superior? I have some important news that might be very interesting to them..."_
+**Lucius**: _"Merhaba dostum! Amirine konuşabilir miyim? Onların ilgisini çekebilecek bazı önemli haberlerim var..."_
 
-**Warden**: _"The jailer smirks as he unlocks raises a pair of manacles._"
+**Muhafız**: _"Gardiyan sırıtırken bir çift kelepçeyi kaldırır."_
 
-**Lucius**: _""THE PALE MAN LONGS TO DIE!"_
+**Lucius**: _""SOLGUN ADAM ÖLMEYİ ARZULUYOR!"_
 
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
+**Muhafız**: _"Gardiyan olduğu yerde durur, sonra kelepçeleri indirir. Bir kez başını sallar ve onu takip etmen için işaret eder."_
 
-**Lucius**: _"Well, that was lucky. What is this, some code for jailers? Executioners? Well, whatever it is, I'm following."_
+**Lucius**: _"Bu şanslıydı. Bu nedir, gardiyanlar için bir şifre falan mı? Cellatlar? Her neyse, takip ediyorum."_
 
-**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you and gestures that you sit at the chair across from her."_
+**Muhafız**: _"Gardiyan seni hapishanenin karanlığına, ışıktan uzağa yönlendiriyor. Uzak duvara ulaştığında, başının çok üzerindeki bir taşa üç kez vuruyor. Bir an sonra duvar içe doğru dönüyor ve gardiyan güvenle içeri yürüyor; burada koyu saçlı bir kadın bir masada bekliyor. Kadın sana gülümsüyor ve karşısındaki sandalyeye oturmanı işaret ediyor."_
 
-**Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
+**Lucius**: _"Oha. Hücreme geri dönebilir miyim lütfen? Şaka şaka. Oturuyorum."_
 
-**Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
+**Muhafız**: _Oturduğunda gardiyan ayrılıyor. Oda küçük, kadının diğer tarafında sadece bir kapı var. Kapının dışında çok iri bir adam duruyor, başı kapıdaki küçük pencereden görünüyor. Kadın tekrar gülümsüyor: 'Hoş geldiniz Bay... Neyse fark etmez. Burada olmanızın tek bir nedeni var. Sadece hırsızlar ve haydutlar tarafından bilinen bir şifreyi söylediniz. Peki siz hangisisiniz, merak ediyorum?'_
 
-**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem 'convincing?'"_
+**Lucius**: _"Şimdi ne olacak? Pazarlık edecek hiçbir şeyim yok... Belki gerçek dışında? Ama bu bir İRA zarları atmam gerektiği anlamına geliyor, değil mi? 'İkna edici' görünmek için?"_
 
-**Warden**: _"You'd need to make a WIL save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
+**Muhafız**: _"Doğruyu söylemesen de bir İRA zarları atman gerekirdi. Burada kesinlikle en riskli olan sensin ve bir şarlatan olarak deneyimine rağmen, kadının muhtemelen her yalanı görebileceğini düşünüyorsun. O ve sen o kadar da farklı değilsiniz."_
 
-**Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago. I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
+**Lucius**: _"Tamam. Hanımefendi: Dürüst olacağım. Arkadaşlarım ve ben Der Thunn'un kasasına gizlice girmek için buradayız. Bu sözü birkaç dakika önce öğrendim. Arkadaşlarımdan birinin (Freya adında bir yankesici, tanıyabilirsiniz) bana o notu bıraktığına inanıyorum. Eğer beni salıverirseniz, bahsedeceğim... adınız neydi?"_
 
-**Warden**: _"Katja. And please, tell me everything._"
+**Muhafız**: _"Katja. Ve lütfen, her şeyi anlat."_
 
-> Lucius describes the party's , and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
+> Lucius partinin şimdiye kadarki çabalarını anlatır. Bir İRA zarları atar. 5 atar, başarı! Katja samimiyetine ikna olur.
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
+**Muhafız** _"Hikayeni dinlerken Katja kaşlarını çatar, sonunda gülümser. 'Pekala, pekala, sana inanıyorum. Bir anlaşma yapalım! Beni bu "müşteri" ile tanıştır, zahmetle kasabama kadar getirdiğiniz, ve ben de siz sıvışırken kimsenin bakmadığından emin olayım. Ama şimdi hemen gitmeliyiz, burası patlamadan önce. Ve eğer bu olursa, güvenliğinizi ben bile garanti edemem...'"_
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but says that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> Bir saat sonra Lucius, Freya'yı bulur, ancak diğerlerini bulamaz. Freya, Wolfram ve müşterilerinin çoktan kasaya gitmiş olduğunu açıklar. Onları oraya götürmeyi kabul eder, ancak önce hızlı bir uğrama yapması gerektiğini söyler. Hançerlerinden birini geri almakla ilgili bir şey...
 
-## Opposed Saves
+## Karşıt Kurtarma Zarları (Opposed Saves)
 
-> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
+> Ekip, rakiplerini (iki Haydut ve Hobgoblin şefleri) dik bir uçurum kenarında sıkıştırdı. Lucius ve Wolfram hemen sıralarını alabilirler, ancak Freya ilk ÇEV zarlarını başaramadı ve rakiplerinden sonra hareket etmek zorunda. Arkadaşları daha küçük düşmanlarla uğraşırken, Freya Hobgoblin'in kafasını ezmesinden zor kurtulur!
 
-**Freya**: _"I don't think I can survive another bout with their leader, so I'm going to try and knock him off the cliff!"_
+**Freya**: _"Liderleriyle bir raunt daha kaldırabileceğimi sanmıyorum, bu yüzden onu uçurumdan aşağı itmeyi deneyeceğim!"_
 
-**Warden**: _"You are most at risk in this situation, meaning that if you try and push him, you will need to make the appropriate save!"_
+**Muhafız**: _"Bu durumda en riskli olan sensin, yani onu itmeye çalışırsan uygun kurtarma zarını atman gerekecek!"_
 
-**Freya**: _"And if I fail, I go off the cliff, right? Alright.. I think I can do this. But just in case, I'm going to make sure I'm wearing my Catring!"_
+**Freya**: _"Ve eğer başarısız olursam, ben uçurumdan aşağı inerim, değil mi? Pekala... Bunu yapabileceğimi düşünüyorum. Ama ne olur ne olmaz, Catring'imi taktığımdan emin olacağım!"_
 
-> Freya rolls a STR save to try and grapple the Hobgoblin and toss him off the cliff. She rolls a 17, a fail!
+> Freya, Hobgoblin'i yakalamak ve uçurumdan fırlatmak için bir GÜÇ kurtarma zarı atar. 17 atar, başarısız!
 
-**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
+**Muhafız**: _"Liderleri seni kaldırır ve geriye fırlatır, seni uçurumdan aşağı yollayarak. Neyse ki Catring son yükünü kullanır ve 3 metre aşağıda dağ yamacından fırlamış bir ağaç dalını zarifçe yakalarsın. Geri tırmanman iki turunu alacak, ya da hızlı yapmak için bir ÇEV zarları atman gerekecek."_
 
-**Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
+**Freya**: _"Lanet olsun. Umarım yoldaşlarım ben dönene kadar yeterince iyi idare ederler..."_
 
-## Aiding an Ally
+## Bir Müttefike Yardım Etmek
 
-> The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, with Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
+> Ekip, uzun süredir unutulmuş bir dağ mezarının ikinci katının girişine yeni ulaştı. Freya gruba liderlik ediyor, ardından Lucius geliyor, Wolfram arkayı koruyor. Wolfram yanan bir meşale tutuyor, diğerlerinin elleri serbest.
 
-**Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East, a rocky path leads downward into the murk below. What do you do?"_
+**Muhafız**: _"Kuzeydeki yol, karanlık bir uçurumun üzerinde konumlanmış kıvrımlı bir kemerin üzerinden geçiyor. Doğuya doğru kayalık bir yol aşağıdaki karanlığa doğru iniyor. Ne yapıyorsunuz?"_
 
-**Wolfram**: _"Our quarry is said to be at the top of this blasted place! I think we should press on to the North."_
+**Wolfram**: _"Avımız bu lanet yerin tepesinde söyleniyor! Bence kuzeye devam etmeliyiz."_
 
-**Warden**: _"The rest of you agree? Alright, then. Assuming you continue with the same marching orders..."_
+**Muhafız**: _"Diğerleriniz de aynı fikirde? Pekala öyleyse. Aynı yürüyüş düzeniyle devam ettiğinizi varsayarak..."_
 
-**Wolfram**: _"Wait! Let me go first. My Order can reveal that which is hidden, and I feel something sinister lies ahead in the darkness. I will take the lead, stepping as cautiously as possible, my Voidglass Shard at the ready."_
+**Wolfram**: _"Bekleyin! Önce ben gideyim. Tarikatım gizleneni ortaya çıkarabilir ve karanlıkta ileride uğursuz bir şeyler hissettim. Önden gideceğim, mümkün olduğunca dikkatli adımlayarak, Voidglass Parçam hazır."_
 
-**Warden**: _"Wolfram, you carefully start across the bridge, which moans and creaks with each step. It feels solid beneath your feet, though. As the party reaches the midway point, the ground begins to shudder violently, then blossoms with cracks. It looks like it's going to collapse from behind!"_
+**Muhafız**: _"Wolfram, dikkatlice köprüye adım atmaya başlıyorsun; köprü her adımda inliyor ve gıcırdıyor. Yine de ayaklarının altında sağlam hissettiriyor. Ekip orta noktaya ulaştığında, zemin şiddetle sarsılmaya başlıyor, ardından çatlaklarla doluyor. Arkadan çökecek gibi görünüyor!"_
 
-**Wolfram**: _"If we run to the opposite side, does it look like we can make it safely?"_
+**Wolfram**: _"Diğer tarafa koşarsak, güvenle varabilir miyiz?"_
 
-**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a DEX save to arrive there safely."_
+**Muhafız**: _"Sen ve Lucius en önde olduğunuz için muhtemelen en az risk altındasınız. Ama Freya en arkada ve güvenle oraya varmak için bir ÇEV kurtarma zarı atması gerekecek."_
 
-**Freya**: _"You just had to take the lead, didn't you, Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
+**Freya**: _"Önden gitmek zorundaydın, değil mi Wolfie? Bir ipim var. Başka birine fırlatacak vaktim var mı?"_
 
-**Warden**: _"Yes, you can do that. Wolfram has his hands full, so Lucius is your best bet. You can easily throw a rope to him, but a STR save will be required. As you will be the most at risk, you will need to make the save."_
+**Muhafız**: _"Evet, bunu yapabilirsin. Wolfram'ın elleri dolu, bu yüzden Lucius en iyi şansın. İpi ona kolayca fırlatabilirsin, ancak bir GÜÇ kurtarma zarı gerekli. En riskli sen olacağın için, zarları sen atmalısın."_
 
-**Freya**: _"A friend and a rope still seems like a good deal to me. Let's do it!"_
+**Freya**: _"Bir arkadaş ve bir ip yine de bana iyi bir anlaşma gibi geliyor. Hadi yapalım!"_
 
-> Freya rolls a 5: a success!
+> Freya 5 atar: başarı!
 
-**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet, she tosses Lucius her rope. As the bridge collapses behind her, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
+**Muhafız**: _"Köprü çökerken, Wolfram ve Lucius diğer tarafa doğru fırlıyor, Freya hemen arkada. Zemin ayaklarının altında kaybolduğu anda, ipini Lucius'a atıyor. Köprü arkasında çökerken, duvara çarpıyor, can havliyle ipe tutunuyor. Yavaşça duvar boyunca tırmanıyor, birkaç metre yukarısındaki çıkıntıya ulaşmak için uğraşıyor. Sonunda kendini tozlu zemine çekiyor."_
 
-**Freya**: _"That was fun. What's next?"_
+**Freya**: _"Eğlenceliydi. Sırada ne var?"_

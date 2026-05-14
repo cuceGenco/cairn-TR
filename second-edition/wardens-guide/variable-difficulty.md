@@ -1,171 +1,171 @@
 ---
 layout: default
-title: Variable Difficulty
+title: Değişken Zorluk
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
-# Variable Difficulty
+# Değişken Zorluk
 
-## Introduction
+## Giriş
 
-In Cairn, players are encouraged to overcome problems by asking questions, thinking critically, and working within the fiction of the game world to curry advantage. The following principles and examples should help Wardens create consistent and fair rulings that both challenge and reward players for their effort.
+Cairn'de oyuncular, avantaj sağlamak için soru sorarak, eleştirel düşünerek ve oyun dünyasının kurgusu içinde çalışarak problemleri aşmaya teşvik edilir. Aşağıdaki ilkeler ve örnekler, Muhafızların hem oyuncuları zorlayacak hem de çabaları için onları ödüllendirecek tutarlı ve adil kararlar vermelerine yardımcı olmalıdır.
 
-## Principles For Variable Difficulty 
+## Değişken Zorluk İlkeleri
 
-- Reward thinking outside the box. This may be a simple mitigation of risk, a new piece of knowledge, character growth, and more.
-- Modify outcomes according to the effort that went into them. If the PCs worked really hard to make something succeed despite the danger involved, enhance the result to match their trouble.
-- Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
-- Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
-- Create situations that emphasize non-mechanical solutions. A problem is more interesting when the key to solving it can be understood purely within the fiction.
+- Kalıpların dışında düşünmeyi ödüllendirin. Bu, basit bir risk azaltımı, yeni bir bilgi parçası, karakter gelişimi ve daha fazlası olabilir.
+- Sonuçları, içlerine konan çabaya göre değiştirin. PC'ler tehlikeye rağmen bir şeyi başarmak için gerçekten çok çalıştılarsa, sonucu zahmetleriyle eşleşecek şekilde iyileştirin.
+- Mekanik güçlendirmeler yerine kurgusal sonuçları vurgulayın. Tamamen mekanik ödüller genellikle yüzeyseldir ve dünya içi faydaların potansiyelinden yoksundur.
+- Zaman, çaba ve beceri ile birçok tehlike azaltılabilir veya tamamen ortadan kaldırılabilir. Gerçek bir risk yoksa, zar atışını atlayın!
+- Mekanik olmayan çözümleri vurgulayan durumlar yaratın. Bir problemi çözmenin anahtarı tamamen kurgu içinde anlaşılabildiğinde, problem daha ilginç hale gelir.
 
-## Examples
+## Örnekler
 
-### Evening The Odds
+### Şansı Eşitleme
 
-> Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
+> Freya, partinin geri kalanından ayrıldıktan sonra bir Orman Trolü ile karşı karşıya kalır. Yaratık ile bir mağara duvarı arasında sıkışmış durumda, doğrudan çatışmaya girmekten başka seçeneği yok. İlk ÇEV zarlarını zaten geçmiştir ve bu nedenle rakibinden önce saldırma hakkını kazanmıştır.
 
-**Freya**: _"I know I can't beat this guy fair and square, so I'd like to know if there is anything nearby that might even the odds a bit. I grew up on the streets, which means I know how to fight dirty. I'd like to try and blind him without getting clobbered in the process. What are my options?"_
+**Freya**: _"Bu adamı dürüst bir dövüşte yenemeyeceğimi biliyorum, bu yüzden yakınlarda şansımı biraz eşitleyebilecek bir şey var mı diye bilmek istiyorum. Sokaklarda büyüdüm, yani kurnazca dövüşmeyi bilirim. Dövülme riskine girmeden onu kör etmeyi denemek istiyorum. Seçeneklerim neler?"_
 
-**Warden**: _"I'll roll a Die of Fate to see how dusty things are around here. A 4! Alright, there is definitely some dust between you and your opponent, but you might need to get close to him in order to scoop some up. You'll need to make a DEX save."_ 
+**Muhafız**: _"Buraların ne kadar tozlu olduğunu görmek için bir Kader Zarı atacağım. 4! Pekala, seninle rakibin arasında kesinlikle biraz toz var, ama biraz alabilmek için ona yaklaşman gerekebilir. Bir ÇEV zarları atman gerekecek."_
 
-> Freya rolls a 13: a success!
+> Freya 13 atar: başarı!
 
-**Warden**: _"You grab a fistful of dust off the ground in front of you and toss it straight into your opponent's face. He staggers backward and is unable to defend himself as he fights to clear the grit from his eyes!"_
+**Muhafız**: _"Önündeki yerden bir avuç toz alıp doğruca rakibinin yüzüne fırlatıyorsun. Geriye doğru sendelemeye başlıyor ve gözlerindeki tozu temizlemeye çalışırken kendini savunamıyor!"_
 
-> The Wood Troll loses a turn as he tries to remove the dust from his face. He cannot rely on HP in this state; damage will go directly to STR!
+> Orman Trolü, gözlerindeki tozu temizlemeye çalışırken bir tur kaybeder. Bu durumda HP'sine güvenemez; hasar doğrudan GÜÇ'e gidecektir!
 
-**Freya**: _"I know I should run for it... but I can't help but take advantage of this situation. I'd like to introduce this fellow to the Twins."_
+**Freya**: _"Kaçmam gerektiğini biliyorum... ama bu durumdan faydalanmadan edemeyeceğim. Bu herifi İkizler'le tanıştırmak istiyorum."_
 
-> Freya rolls d6+d6 for her daggers (a 3 and a 5), dealing 5 damage directly to the Wood Troll's STR Attribute. The Warden then makes a Critical Damage save for the Troll, rolling a 19: a fail!
+> Freya hançerleri için d6+d6 atar (3 ve 5 gelir), Orman Trolü'nün GÜÇ Niteliğine doğrudan 5 hasar verir. Muhafız daha sonra Trol için bir Kritik Hasar kurtarma zarı atar, 19 atar: başarısız!
 
-**Warden**: _"You stab him with both blades, green blood gushing from open wounds as the creature roars out in anger. Let's see if it survives the attack! Oooh, it fails its STR save and takes **Critical Damage**! It's down!"_
+**Muhafız**: _"İki bıçağı da ona saplıyorsun, yaratık öfkeyle kükrerken açık yaralardan yeşil kan fışkırıyor. Bakalım saldırıdan kurtulabilecek mi! Ooo, GÜÇ zarlarını başaramıyor ve **Kritik Hasar** alıyor! Yere yığılıyor!"_
 
-**Freya**: _"Alright, I'm taking this as a sign. Time to make my exit!"_
+**Freya**: _"Pekala, bunu bir işaret olarak alıyorum. Defolma vakti!"_
 
-> Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
+> Freya sahneyi terk eder (ÇEV zarları gerekmez), Orman Trolü'nü kan kaybından ölüme terk eder. Sağlığını yavaşça yenileyebildiğini bilseydi, belki kalırdı...
 
-### Teamwork
+### Takım Çalışması
 
-> Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking locals in the Wood. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
+> Wolfram, Lucius ve Freya, Orman'da yerel halka saldıran görünmez bir yaratık hakkındaki söylentileri araştırıyorlar. Yaratığı, zehirli bir gölün kıyısından sadece 12 metre uzaklıktaki bir adadaki inine kadar takip ettiler. Göl, çevredeki ormandan ağır çamur düzlükleriyle ayrılıyor.
 
-**Warden**: _"The creature's footprints end at the shore of a roiling lake that bubbles and swirls violently. Knowing the history of the region, you realize that if the lake water doesn't kill you, the toxic fumes coming from its surface definitely will!"_
+**Muhafız**: _"Yaratığın ayak izleri, kabarcıklanan ve şiddetle dönen bir gölün kıyısında son buluyor. Bölgenin tarihini bildiğiniz için, göl suyu sizi öldürmese bile yüzeyinden çıkan zehirli dumanların kesinlikle öldüreceğini anlıyorsunuz!"_
 
-**Wolfram**: _"We know that the blasted thing makes its home on that pile of rocks out there. Obviously we can't swim across, but I have an idea about how we might draw it out! Lucius, I'm sorry but of the three of us, you're the most... soft. In other words, the perfect bait! Let's make it seem as if your cart is stuck in the mud. I've had a blanket rolled up in my pack for a while now. Perhaps Freya and I can hide under it, then pounce on the creature at just the right moment?"_
+**Wolfram**: _"Lanet olası şeyin evini şuradaki kaya yığınında yaptığını biliyoruz. Açıkçası yüzemeyiz, ama nasıl dışarı çekebileceğimize dair bir fikrim var! Lucius, üzgünüm ama üçümüz içinde en ... yumuşak olanı sensin. Diğer bir deyişle, mükemmel yem! Arabamızın çamura saplandığını gösterelim. Bir süredir çantanda dürülmüş bir battaniye var. Belki Freya ve ben onun altına saklanıp tam doğru anda yaratığa atlayabiliriz?"_
 
-**Lucius**: _"I knew I shouldn't have sported my fancy hat today! Fine, let's proceed."_
+**Lucius**: _"Bugün süslü şapkamı giymemeliydim biliyordum! Peki, devam edelim."_
 
-**Warden**: _"The party executes their plan as described, creating the perfect bait for their unsuspecting quarry. I'm going to roll a Die of Fate to determine whether the creature even takes notice... a 5! Alright, that means that the creature definitely wants to investigate the situation, but there's a wrinkle as well: it's starting to get dark."_
+**Muhafız**: _"Ekip, planlarını anlatıldığı gibi uygular, habersiz avları için mükemmel yemi yaratır. Yaratığın bunu fark edip etmediğini belirlemek için bir Kader Zarı atacağım... 5! Pekala, bu yaratığın kesinlikle durumu araştırmak istediği anlamına geliyor, ancak bir de pürüz var: hava kararmaya başlıyor."_
 
-**Freya**: _"Presumably this means that Wolfram and I are able to spy on the island while we hide, right? And that Lucius is still looking the opposite way, pretending to fuss over a stuck wheel?"_
+**Freya**: _"Muhtemelen bu, Wolfram ve ben saklanırken adayı gözetleyebildiğimiz anlamına geliyor, değil mi? Peki ya Lucius hâlâ ters yöne bakıp sıkışmış bir tekerleği düzeltmekle uğraşıyormuş gibi yapıyor?"_
 
-**Warden**: _"Correct. Both Wolfram and Freya can still see through the cart slats that something clambered out from beneath the pile of rocks on the island, scattering them as it moves towards the water. You can't actually tell what moved the rocks, though. It really is invisible! As you watch, something slips into the toxic waters, making a quiet splash. And its ripples are heading in your direction!"_
+**Muhafız**: _"Doğru. Hem Wolfram hem de Freya, arabanın tahtalarının arasından adadaki kaya yığınının altından bir şeyin tırmandığını, suya doğru hareket ederken kayaları saçtığını görebiliyor. Kayaları neyin hareket ettirdiğini gerçekten söyleyemiyorsunuz, ama. Gerçekten görünmez! İzlerken, bir şey zehirli sulara kayıyor, sessiz bir sıçrama yapıyor. Ve dalgaları sizin yönünüze doğru ilerliyor!"_
 
-**Wolfram**: _"Well, I guess this is as good a time as ever to bring out my Voidglass Shard! It lets me see invisible creatures but packs a wallop! I won't be able to see out of one eye for an hour, during which time my fighting skills will be... less effective. Might I be able to get a shot with the crossbow while looking through the glass?"_
+**Wolfram**: _"Eh, sanırım bu Voidglass Parçamı çıkarmak için her zamankinden daha iyi bir zaman. Görünmez yaratıkları görmemi sağlıyor ama vurucu gücü de yüksek! Bir saat boyunca tek gözüm görmeyecek, bu sırada dövüş becerilerim... daha az etkili olacak. Camdan bakarken arbaletle atış yapabilir miyim?"_
 
-**Warden**: _"You need two hands for the crossbow."_
+**Muhafız**: _"Arbalet için iki el gerekiyor."_
 
-**Freya**: _"I can hold the Voidglass Shard up to his eye."_
+**Freya**: _"Voidglass Parçasını onun gözüne tutabilirim."_
 
-**Warden**: _"That will work, but you won't have an action of your own until after the creature has a chance to react."_
+**Muhafız**: _"Bu işe yarar, ancak yaratığın tepki verme şansı olana kadar kendi eylemin olmayacak."_
 
-**Lucius**: _"Um, what about me? I won't be able to see the creature at all, let alone defend myself! I'd like to prepare an action for the moment Wolfram gets a shot off. I still have the large sack from our last caper. I wonder if I could leap on the creature when it approaches, trapping it like a giant fish?"_
+**Lucius**: _"Ya ben? Yaratığı hiç göremeyeceğim, kendimi savunmak şöyle dursun! Wolfram atışını yaptığı anda bir eylem hazırlamak istiyorum. Son maceramızdan büyük çuval hâlâ duruyor. Acaba yaratık yaklaştığında üzerine atlayıp dev bir balık gibi tuzağa düşürebilir miyim?"_
 
-**Warden**: _"That works! You each prepare yourselves for what is to come. Freya and Wolfram, you wait in silence as the ripples come ever closer. Finally, they stop! Freya places the Voidglass Shard on Wolfram's eye as he raises his crossbow. Wolfram, you see a slimy, fish-like creature climbing out of the water, yellowed scales crisscrossing its multi-limbed body. There is a brief, breathless pause and then a loud TWANG as he lets loose a crossbow bolt."_
+**Muhafız**: _"Bu işe yarar! Her biriniz olacaklara hazırlanıyorsunuz. Freya ve Wolfram, dalgalar gittikçe yaklaşırken sessizce bekliyorsunuz. Sonunda duruyorlar! Freya, Voidglass Parçasını Wolfram'ın gözüne tutarken o da arbaletini kaldırıyor. Wolfram, sümüksü, balık benzeri bir yaratığın sudan çıktığını görüyorsun; sararmış pullar çok bacaklı vücudunda çaprazlama uzanıyor. Kısa, nefessiz bir duraklama ve ardından yüksek bir TANG sesi duyuluyor."_
 
-> Wolfram rolls a d8, resulting in a 6! As the creature was unaware of its attackers, the damage goes directly to STR. It makes a Critical Damage save, and the result is a 3: a success. 
+> Wolfram bir d8 atar, sonuç 6 gelir! Yaratık saldırganlarından habersiz olduğu için hasar doğrudan GÜÇ'e gider. Bir Kritik Hasar kurtarma zarı atar ve sonuç 3 olur: başarı.
 
-**Warden**: _"The creature is impaled by the bolt, green fluid spurting out of its body. Where it lands, the surface hisses as if in contact with acid. It turns towards the cart, but before it can react, Lucius throws his large sack over it. The creature thrashes about inside the sack, twisting in every which way."_
+**Muhafız**: _"Yaratık cıvatayla delinir, vücudundan yeşil sıvı fışkırır. Yere düştüğü yerde, yüzey asitle temas etmiş gibi tıslar. Arabaya doğru döner, ancak tepki vermeden Lucius büyük çuvalı onun üzerine atar. Yaratık çuvalın içinde kıvranarak her yöne sallanır."_
 
-> The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
+> Muhafız, yaratığın çuvaldan hızla kurtulup kurtulamayacağını görmek için bir ÇEV kurtarma zarı atar. Sudan çıktığında sadece 8 ÇEV'si vardır. 12 atar: başarısız. Kendini savunamayan yaratık hızla bağlanır ve yolculuk için bir kavanoz zehirli su ile birlikte arabaya konur. Birlikte çalışan ekip hızla kasabaya geri döner.
 
-### Character History
+### Karakter Geçmişi
 
-> The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town and then into the ancient vault of Der Thunn. As they approach the village, the sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
+> Ekip, Alsace hizbinin bir ajanını düşman topraklarının derinliklerinde korumaktadır. Hedefleri, yüksek ahşap duvarlarla korunan küçük bir köyde gizlidir. Görevleri, müşterilerini ağır korunan kasabaya ve ardından Der Thunn'un kadim kasasına sokmaktır. Köye yaklaştıklarında güneş batmaya başlamıştır ve Lucius, Güney'den gelen bir troubadour kılığında keşif yapmak üzere önden gönderilmiştir.
 
-**Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache sported by one."_
+**Muhafız**: _"Köyün ana kapısına giden toprak patikayı takip ederek duvarlarla çevrili köye yaklaşıyorsunuz. Kapının her iki yanında iki muhafız duruyor, kapı kapalı. Muhafızlar neredeyse aynı, sadece birinin zayıf bir bıyığı var."_
 
-**Lucius**: _"Ho there, fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love to spread some of my good luck!"_
+**Lucius**: _"Hey merhaba, iyi beyler! Benim gibi birinin bu güzel akşamda köyünüze girmesine izin verilip verilmeyeceğini sorabilir miyim? Uzun bir yolculuk yaptım ama altınla doluyum ve biraz şansımı yaymayı çok isterim!"_
 
-**Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
+**Muhafız**: _"Adamlar birbirlerine bakarlar. Bıyıklı muhafız cevap verir: 'Akşamdan sonra giriş yok. Kural bu.'"_
 
-> At this point, Lucius is putting on all his charm and is essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler and have backup besides. If it were required, Lucius would make the WIL save and not the guards.
+> Bu noktada Lucius tüm cazibesini kullanmaktadır ve muhafızları rüşvetle giriş izni almaya çalışmaktadır. Ayrıca bu durumda en riskli olan da odur, çünkü iki adam yalnız bir yolcuyla başa çıkmak için iyi donanımlıdır ve ayrıca yedekleri de vardır. Gerekli olsaydı, kurtarma zarını muhafızlar değil Lucius atardı.
 
-**Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
+**Lucius**: _"Anlıyorum. Ama henüz tamamen karanlık değil, değil mi? Güneş daha yeni batıyor. Lütfen girebilir miyim? Yeni bulduğum zenginliği önce sizinle paylaşmaktan mutluluk duyarım, tabi eğer beni anlıyorsanız. Belki size de hak ettiğiniz birer bira getirebilirim? Takdirimi göstermek için, elbette."_
 
-**Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
+**Muhafız**: _"İki adam bir kez daha birbirlerine bakarlar, ancak bu sefer diğer adam sırıtarak cevap verir. 'Eh... belki bu seferlik. Güneş henüz tam olarak batmadı. Ve sonuçta oldukça susadık.'"_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they love beer. Perhaps with another character, this wouldn't have worked, but Lucius is a Mountebank, and his capacity for winning the confidence of his targets has been well established. The guards let him in. 
+> Muhafız, bu adamlar hakkında bilinenlere dayanarak bir karar verdi: basit köy muhafızlarıydı, uzun bir gün çalışmışlardı ve birayı severlerdi. Belki başka bir karakterle bu işe yaramazdı, ancak Lucius bir Maskara'dır (Mountebank) ve hedeflerinin güvenini kazanma kapasitesi iyi bilinir. Muhafızlar onu içeri alır.
 
-### Greater Risk For Greater Reward 
+### Daha Büyük Risk, Daha Büyük Ödül
 
-> The party has sent Freya under the cover of darkness to spy on an enemy encampment. Her goal is to ascertain their enemy's total number as well as what sort of dangers might await there.
+> Ekip, Freya'yı bir düşman kampını gözetlemesi için karanlığın altında göndermiştir. Amacı, düşmanlarının toplam sayısını ve orada onları ne tür tehlikelerin beklediğini tespit etmektir.
 
-**Warden**: _"Halfway to the camp, you see a light flickering along the trail. Someone is coming toward you! What do you do?"_
+**Muhafız**: _"Kampa yarı yolda, patikada titreyen bir ışık görüyorsun. Biri sana doğru geliyor! Ne yapıyorsun?"_
 
-**Freya**: _"I slip into the foliage on the side of the trail, keeping as quiet as possible. Does that require a save?"_
+**Freya**: _"Patikanın kenarındaki bitki örtüsüne sıvışıyorum, olabildiğince sessiz olmaya çalışıyorum. Bu bir kurtarma zarı gerektirir mi?"_
 
-**Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
+**Muhafız**: _"Hayır, çünkü bu kişiye yeterli mesafen var ve herhangi bir ışık kaynağın yanmıyor. Bulunma riski olmadan saklanabilirsin."_
 
-**Freya**: _"If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to raise the alarm, so I will need to be fast and furious."_
+**Freya**: _"Bana öyle geliyor ki bu kişi düşmanımızla aynı hizbe ait olabilir, onlara pusu kurup kıyafetlerini çalmak istiyorum. Alarm vermek istemiyorum, bu yüzden hızlı ve şiddetli olmam gerek."_
 
-**Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
+**Muhafız**: _"Tamam. Saldırını püskürtmek için zamanında tepki vermeleri için bir ÇEV kurtarma zarı atmaları gerekecek, o zaman. Umduğun kadar temiz gitmeyebilir!"_
 
-**Freya**: _"What if instead I just knock them unconscious by dropping a tree branch on top of them? I have a hand ax in here somewhere."_
+**Freya**: _"Ya onlara bir ağaç dalı düşürerek bayıltırsam? Bir yerde bir balta var."_
 
-**Warden**: _"That might work. You'll need to sprint back a bit, climb a tree, and then save STR to determine if you can cut the branch down at just the right moment, without notifying your target. If you fail, you will come down with the branch as well, potentially taking damage and putting yourself in a very vulnerable position."_
+**Muhafız**: _"Bu işe yarayabilir. Biraz geriye koşman, bir ağaca tırmanman ve ardından dalı tam doğru anda kesip kesemeyeceğini belirlemek için GÜÇ kurtarma zarı atman gerekecek. Başarısız olursan, dal ile birlikte düşer, potansiyel olarak hasar alır ve kendini çok savunmasız bir konuma sokarsın."_
 
-> Freya rushes back down the trail, climbs a tree, and begins hacking at one of the branches with her ax. She rolls a STR save: a 7, a success! She thwacks the branch at just the right moment, and it falls atop the lone traveler below her, knocking them unconscious. Freya steals their clothes and their torch, then sets off down the trail towards the camp. 
+> Freya patikada geriye koşar, bir ağaca tırmanır ve baltasıyla dallardan birini kesmeye başlar. Bir GÜÇ kurtarma zarı atar: 7, başarı! Dalı tam doğru anda keser ve aşağıdaki yalnız yolcunun üzerine düşer, onu bayıltır. Freya kıyafetlerini ve meşalesini çalar, sonra kampa doğru patikada yola koyulur.
 
-## Combat Is War
+## Savaş Savaştır
 
-> **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party has taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
+> **Wolfram**, **Lucius** ve **Freya**, on iki şehir muhafızından oluşan bir _müfrezeden_ [4 HP, 1 Zırh, 11 STR, 14 DEX, 12 WIL, kısa kılıç (d6)] kaçmaktadır ve bir ormanın kenarındaki yanmış eski bir karakola sığınmışlardır. Karakola yalnızca tek bir merdivenle erişilebilmektedir. Askerlerin her biri kısa bir kılıç ve yay taşır, liderleri hariç; omzunda parlak mavi bir apolet olan uzun boylu bir adam. Askerler, ekibin karakola sığındığını bilmektedir ve ekibin saklandığı yerin hemen kuzeyinde, güvenli bir mesafede kendi aralarında konuşmaktadır. _Müfreze_, Kritik Hasar alana kadar tek bir varlık olarak ele alınacaktır.
 
-**Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats, you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. You have less than a minute to act before they reach the open-side of the shield wall! What do you do?"_
+**Muhafız**: _"Karakol kısmen duvarlarından kalanlarla korunuyor ve tahtaların arasından askerlerin ikiye ayrıldığını görüyorsunuz: altısı ağaç sınırına bitişik güneybatıya yönelirken, geri kalanı (uzun boylu adam dahil) duvarların en hasarlı olduğu güneydoğuya hareket ediyor. Görünüşe göre bir tür kıskaç hareketi planlıyorlar. Kalkan duvarının açık tarafına ulaşmalarına bir dakikadan az bir süre kaldı! Ne yapıyorsunuz?"_
 
-**Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going to wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
+**Wolfram**: _"Askerlik yaptım, bunun nasıl olduğunu bilirim. Şu süslü püsküllü adam onların lideri. Onu devirirsek, geri kalanı kaçabilir. Mümkün olduğunca yaklaşmasını bekleyeceğim, sonra arbaletimi ona ateşleyeceğim. Bu beni açığa çıkarırsa, öyle olsun!"_
 
-**Lucius**: _"You're always so direct, Wolfie! I'm going to pour some of my famous Miracle Oil on the ladder leading up here. That should both prove effective and entertaining!"_
+**Lucius**: _"Her zaman çok doğrudansın Wolfie! Yukarı çıkan merdivene ünlü Mucize Yağımdan dökeceğim. Bu hem etkili hem de eğlenceli olmalı!"_
 
-**Freya**: _"And what exactly will stop them from simply firing into our hiding spot from the giant holes on the South side? At the very best, they'll just wait until we run out of food. I have another idea: I'll poke my head through the trapdoor and toss  Smoke Bombs towards each side of the building. That'll give us an advantage for when these other two plans inevitably fail!_
+**Freya**: _"Peki onları tam olarak ne durduracak? Güney tarafındaki dev deliklerden sığınağımıza ateş etmekten? En iyi ihtimalle, yiyeceğimiz bitene kadar beklerler. Başka bir fikrim var: Kapağın arasından kafamı uzatıp binanın her iki tarafına doğru Duman Bombaları atacağım. Bu, diğer iki plan kaçınılmaz olarak başarısız olduğunda bize avantaj sağlayacak!"_
 
-**Lucius**: _"Uh, I guess I’ll use my oil just after she tosses the Smoke Bombs, then?”_
+**Lucius**: _"Şey, sanırım yağımı Duman Bombalarını attıktan hemen sonra kullanayım o zaman?"_
 
-**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Wolfram stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first."_
+**Muhafız**: _"Bu sorun olmaz, evet. Ancak şunu unutmayın, savaş resmen Wolfram ateş etmek için ayağa kalkar kalkmaz başlıyor. Ve hepiniz hazır olduğunuz için ÇEV zarları atmanıza gerek yok: siz önce gidersiniz."_
 
-**Warden**: _"The soldiers continue their trajectory, until finally the leader draws his sword into the air and screams, 'Charge!' And the soldiers rush towards you. Everything happens at once. Wolfram stands and fires his crossbow at the leader. Since the leader is part of a detachment, Wolfram can only roll a d4."_
+**Muhafız**: _"Askerler rotalarına devam eder, sonunda lider kılıcını havaya kaldırarak 'Hücum!' diye bağırır. Ve askerler size doğru koşar. Her şey aynı anda olur. Wolfram ayağa kalkar ve arbaletini lidere ateşler. Lider bir müfrezenin parçası olduğu için Wolfram sadece d4 atabilir."_
 
-> The result of Wofram's attack is a 3, and as the leader's helmet absorbs 1 point of damage, he loses only 2 HP.
+> Wolfram'ın saldırısının sonucu 3'tür ve liderin miğferi 1 hasarı emdiği için sadece 2 HP kaybeder.
 
-**Warden**: _"The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder epaulet. He grimaces and rushes forward towards the East side of the building. Freya, at the same time, you pop your head through the trap door and toss Smoke Bombs on the East and West sides of the building - mark off 2 uses please. Lucius, you stand behind her, and the moment she moves away, you pour some Miracle Oil on the stepladder."_
+**Muhafız**: _"Ok liderin omzunun yanından ıslıkla geçer, rengarenk omuz apoletini yırtar. Yüzünü buruşturur ve binanın Doğu tarafına doğru koşar. Freya, aynı anda, kafanı kapaktan çıkarıp binanın Doğu ve Batı taraflarına Duman Bombaları atıyorsun - lütfen 2 kullanımını işaretle. Lucius, onun arkasında duruyorsun ve o çekilir çekilmez merdivene Mucize Yağından döküyorsun."_
 
-**Warden**: _"As smoke fills either side of the building, it becomes impossible to tell friend from foe. A few of the men try to climb the ladder but immediately slide off, landing at the bottom in a heap. Your enemies have essentially lost their turn, but the smoke is starting to dissipate. Amidst coughing and shouts, you hear a voice cry, 'Burn it to the ground!'"_
+**Muhafız**: _"Binanın her iki tarafını da duman kapladıkça, dostu düşmandan ayırt etmek imkansız hale geliyor. Birkaç adam merdiveni tırmanmaya çalışıyor ama hemen kayıp dibinde yığılıyor. Düşmanlarınız esasen turunu kaybetti, ancak duman dağılmaya başlıyor. Öksürükler ve bağrışmalar arasında bir sesin 'Yerle bir edin!' diye bağırdığını duyuyorsunuz."_
 
-**Wolfram**: _"Well that bought us some time, at least. Hey, Lucius, how flammable is that oil of yours?"_
+**Wolfram**: _"Bu bize en azından biraz zaman kazandırdı. Hey, Lucius, şu yağın ne kadar yanıcı?"_
 
-**Lucius**: _"Very. And it seems we may be running out of options."_
+**Lucius**: _"Çok. Ve görünüşe göre seçeneklerimiz tükeniyor."_
 
-**Freya**: _"Well, it's been fun, but I'd rather die fighting down there than get burned alive up here with you lot! No offense."_
+**Freya**: _"Eğlenceliydi ama aşağıda savaşarak ölmeyi, burada sizinle birlikte canlı canlı yanmaktan tercih ederim! Alınma."_
 
-**Wolfram**: _"None taken. See if you can take out their leader while we try to open up an escape route."_
+**Wolfram**: _"Alınmadım. Bir kaçış yolu açmaya çalışırken bak bakalım liderlerini halledebilecek misin?"_
 
-**Wolfram**: _"I'm going to cast Disassemble on myself, then scream 'he's going to tear my arms off!' I will then drop down to the ground and start running around in circles. Lucius, when my arms are removed, I want you to pick them up and come after me."_
+**Wolfram**: _"Üzerime Sökülme (Disassemble) büyüsünü yapacağım, sonra 'Kollarımı koparacak!' diye bağıracağım. Ardından yere atlayıp daireler çizerek koşmaya başlayacağım. Lucius, kollarım çıktığında onları alıp peşimden gelmeni istiyorum."_
 
-**Lucius**: _"OK. I really hope this works... And if not, well at least we'll go down fighting! Or screaming. Probably the latter."_
+**Lucius**: _"Tamam. Umarım bu işe yarar... Ve eğer yaramazsa, en azından savaşarak düşeriz! Ya da bağırarak. Muhtemelen ikincisi."_
 
-**Warden**: _"Freya, who will be your target and what weapon?"_
+**Muhafız**: _"Freya, hedefin kim ve hangi silah?"_
 
-**Freya**: _"Their leader, and I'll be using the Twins._"
+**Freya**: _"Liderleri ve İkizleri kullanacağım."_
 
-**Warden**: _"Alright. Freya leaps down to the smokey earth, making a beeline for the leader. She draws her twin daggers, but as she is still attacking a detachment, she must still roll only a d4 each dagger."_
+**Muhafız**: _"Pekala. Freya, dumanlı toprağa atlıyor ve lidere doğru hızla ilerliyor. Çift hançerlerini çekiyor, ancak hâlâ bir müfrezeye saldırdığı için her hançer için yine sadece d4 atabilir."_
 
-> Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining 3 damage is enough to trigger a Critical Damage save on the behalf of the detachment. The result is a 15 (a fail), and with the defeat of their leader, the detachment is both broken and routed.
+> Freya iki d4 atar, 4 ve 1. Yüksek olanı alır ve liderin miğferi yine 1 hasarı emer. Kalan 3 hasar, müfreze adına bir Kritik Hasar kurtarma zarını tetiklemeye yeter. Sonuç 15'tir (başarısız) ve liderlerinin yenilgisiyle birlikte müfreze hem dağılır hem de bozguna uğrar.
 
-**Warden**: _"Freya slashes at the leader, but her dagger misses as he takes a lucky step back. He is less fortunate on her second attack, however, as she stabs him in the chest. He slumps over, and those closest to him shout in surprise; some even begin backing away. It is at this moment that you hear a scream, and then see Wolfram leap onto the ground from the outpost and begin running in circles, followed by Lucius, holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'Sorcery!' and 'We weren't trained for this!'"_ 
+**Muhafız**: _"Freya lidere saldırır, ancak hançeri şanslı bir geri adımla ıskalar. İkinci saldırısında şansı yaver gitmez, onu göğsünden bıçaklar. Lider yığılır ve ona en yakın olanlar şaşkınlıkla bağırır; hatta bazıları geri çekilmeye başlar. Tam bu sırada bir çığlık duyarsınız ve ardından Wolfram'ın karakoldan yere atladığını ve ardından arkadaşının kollarını tutan Lucius ile birlikte daireler çizerek koşmaya başladığını görürsünüz. Diğerleri liderlerini alır ve 'Büyücülük!' ve 'Bunun için eğitilmedik!' çığlıkları arasında tepenin kenarına doğru geri kaçışırlar."_
 
-**Wolfram**: _"I knew that would work!"_
+**Wolfram**: _"İşe yarayacağını biliyordum!"_
 
-**Freya**: _"I'm pretty sure this was all me, but whatever._"
+**Freya**: _"Eminim bunun hepsi bendim, ama neyse."_
 
-**Lucius** _"Who cares? Let's just get out of here while the getting's good._"
+**Lucius** _"Kimin umurunda? Fırsat varken hadi buradan kaçalım."_
 
-**Warden** _"You have an opportunity to flee into the nearby Wood, or across the open fields if you think you can run fast enough. What do you do?"_
+**Muhafız** _"Yakındaki Orman'a kaçma fırsatınız var, ya da yeterince hızlı koşabileceğinizi düşünüyorsanız açık tarlalardan. Ne yapıyorsunuz?"_

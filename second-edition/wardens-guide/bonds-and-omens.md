@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Bonds and Omens
+title: Bağlar ve Alametler
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
 
-# Bonds and Omens
+# Bağlar ve Alametler
 
-## Introduction
+## Giriş
 
-Bonds and Omens provide new player characters with adventure hooks, starting gear, and abilities. And while they are distinct from character Backgrounds, they are equally useful for building a setting, or even a complete adventure!
+Bağlar ve Alametler, yeni oyuncu karakterlerine macera kancaları, başlangıç ekipmanları ve yetenekler sunar. Karakter Geçmişleri'nden farklı olsalar da, bir ortam, hatta tam bir macera inşa etmek için onlar kadar kullanışlıdırlar.
 
-## Bonds
+## Bağlar
 
-Bonds can often tie a player character to another PC, the setting, and its characters. A PC can resolve a Bond by discovering the truth behind its mysteries or by solving its root cause. In this case, the character should experience Growth of some kind, and the Warden can optionally create a new Bond for the PC. Player characters are not required to resolve their Bonds. 
+Bağlar çoğu zaman bir oyuncu karakterini başka bir PC'ye, ortama veya ortamın karakterlerine bağlayabilir. Bir PC, gizemlerinin ardındaki gerçeği keşfederek ya da kök nedeni çözerek bir Bağı çözüme kavuşturabilir. Bu durumda karakter bir tür **Gelişim** yaşamalıdır ve isteğe bağlı olarak Koruyucu (Warden) PC için yeni bir Bağ oluşturabilir. Oyuncu karakterlerinin Bağlarını çözmeleri zorunlu değildir.
 
-### Bonds Should...
+### Bağlar'ın Yapması Gerekenler
 
-- Give a character an item (often _petty_) _or_ a unique ability.
-- Encourage character engagement with the implied setting.
-- Flesh out a character's history without relying on events tied to specific Backgrounds. 
-- Provide a character with a quest, opportunity, or plan of action. 
+- Karaktere bir eşya (genellikle _adi_ türden) _veya_ eşsiz bir yetenek vermeli.
+- Karakterin, ima edilen ortamla etkileşimini teşvik etmeli.
+- Belirli Geçmişlere bağlı olaylara dayanmaksızın bir karakterin geçmişini somutlaştırmalı.
+- Karaktere bir görev, fırsat veya eylem planı sunmalı.
 
-## Omens
+## Alametler
 
-Omens are the seeds of an adventure yet to come, premonitions of a future disaster, or the cause of a problem the characters are currently facing. An Omen is resolved when the characters reveal the truth behind its origin or resolve its dangers. Resolving an Omen should yield Growth of some kind, either for the party as a collective or to an entangled individual. If an Omen is ignored, it should come to pass and wreak whatever havoc it may.
+Alametler, henüz gelmemiş bir maceranın tohumları, gelecekteki bir felaketin önsezileri ya da karakterlerin şu an karşı karşıya olduğu bir sorunun nedenidir. Bir Alamet, karakterler onun kökeninin ardındaki gerçeği ortaya çıkardığında veya tehlikelerini çözdüğünde sonuçlanır. Bir Alameti çözümlemek, ister bir grup olarak takım için isterse olaya karışmış bir birey için bir tür **Gelişim** sağlamalıdır. Eğer bir Alamet göz ardı edilirse, gerçekleşmeli ve yol açabileceği her türlü yıkımı savurmalıdır.
 
-### Omens Should...
+### Alametlerin Yapması Gerekenler
 
-- Never rely on a specific player character for relevance.
-- Alway tell the characters something about the setting they did not already know.
-- Reveal a pattern or other obvious indicator that something terrible is going on. 
+- Asla belirli bir oyuncu karakterine bağlı olmamalı (herhangi bir PC için geçerli olmalı).
+- Her zaman karakterlere, ortam hakkında önceden bilmedikleri bir şey söylemeli.
+- Korkunç bir şeyler olmakta olduğuna dair bir örüntüyü veya başka bariz bir göstergeyi açığa çıkarmalı.

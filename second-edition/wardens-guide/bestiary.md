@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bestiary
+title: Bestiary (Canavar Kitabı)
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---

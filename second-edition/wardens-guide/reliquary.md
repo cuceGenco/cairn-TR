@@ -1,209 +1,208 @@
 ---
 layout: default
-title: Reliquary
+title: Emanetlik
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
+# Emanetlik
 
-# Reliquary
+## Umut Denilen Bir Kılıç (d6)
 
-## A Blade Called Hope (d6)
+  - Soluk ışıkla parlayan ince, kavisli bir kılıç; bu ışık yalnızca tam karanlıkta görünür. Yoğun güneş ışığında yıkanırsa, ilk saldırısı _Güçlendirilmiş_ olur.
 
-  - A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight, its first attack is _Enhanced_.
+## Suikastçının Kadehleri
 
-## Assassin's Goblets
+  - Bir çift kırılgan şarap bardağı. Birine dökülen herhangi bir sıvı, diğeriyle değiştirilir.
 
-  - A pair of fragile wine flutes. Any liquid poured into one is swapped with the other.
+## Gevezelik Şişesi (Babbleflask), 2 kullanım
 
-## Babbleflask, 2 uses
+  - Yabancı bir dil otomatik olarak anlaşılır ve akıcı bir şekilde konuşulabilir; ancak içenin ana dili ne konuşuluyor ne de duyuluyorsa.
 
-  - A foreign language is automatically understood and can be spoken back with fluency, so long as the drinker's native tongue is neither spoken nor heard.
+## Dikenli Omuzluklar, +1 Zırh
 
-## Barbed Epaulets, +1 Armor
+  - Onlara dokunan herkesi zehirleyen sivri omuz pedleri (GÜÇ zarları atın veya bilincini kaybeder).
 
-  - Spiked shoulder pads that poison anyone that touches them (STR save or lose consciousness).
+## Daha İyi Asa (Betterwand), 2 yük
 
-## Betterwand, 2 charges
+  - Bir dizi nesne arasında en iyisine doğrultulduğunda artan yoğunlukta titreşir.
+  - **Yeniden Şarj**: Asaya sahipken kötü bir anlaşmayı veya takası isteyerek kabul et.
 
-  - Vibrates with increased intensity when pointed at the best of a series of objects.
-  - **Recharge**: Willingly accept a poor deal or trade while in possession of the wand.
+## Kan Haritası (Bloodmap), 1 yük
 
-## Bloodmap, 1 charge
+  - Yüzeyine dökülen herhangi bir kanı emen, ardından sıkı bir parşömen rulosu haline gelen boş bir deri tomar. Açınca, kalan herhangi bir kanın mevcut konumunu gösteren kaba bir harita ortaya çıkar. Görüntü birkaç dakika sonra kaybolur.
+  - **Yeniden Şarj**: Kendi yaşam özünden bir litre kanı haritaya dök, kan kana. Dinlenip bir Azık yiyene kadar _yoksun_ durumunda kalırsın.
 
-  - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a rough map revealing the current location of any remaining blood. The image disappears after a few minutes.
-  - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
+## Babanın Parası (Coin of the Father), 1 yük, _adi_
 
-## Coin of the Father, 1 charge, _petty_
+  - Değersiz görünen bu yassı metal parçasını havaya fırlat; d100 altın parçasına dönüşür. Yalancı altınlar bir saat sonra kaybolur.
+  - **Yeniden Şarj**: Parayı üç gün boyunca harcamadan veya para kazanmadan taşı.
 
-  - Flip this worthless-looking hunk of flat metal in the air, and it will transform into d100 gold coins. The illusory coins disappear after one hour.
-  - **Recharge**: Carry the coin for three days without spending or earning any money.
+## Dryad'ın Gözyaşı (Dryad's Tear), 1 kullanım
 
-## Dryad's Tear, 1 use
+  - Bu kristali kırarak dokunabildiğin bir ağaçla birleş. O ağacın ait olduğu orman içinde olup bitenleri algılayabilirsin.
 
-  - Shatter this crystal to merge with a tree you can touch. You can perceive the goings-on within whatever forest that tree belongs to.
+## Empati Sırığı (Empathy Rod), 3 yük
 
-## Empathy Rod, 3 charges
+  - İki yaratık aynı anda bu tahta sırığa dokunduğunda, fiziksel ve duygusal durumları tamamen iç içe geçer; ta ki bırakana kadar.
+  - **Yeniden Şarj**: Sırığı eski bir düşmana hediye olarak ver. Bu, tek yönlü bir işlemdir.
 
-  - When two creatures touch this wooden pole at the same time, their physical and emotional states become fully intertwined until they let go.
-  - **Recharge**: Give the rod to a former enemy as a gift. This is a one-way transaction.
+## Göz Taşı (Eyestone), 3 yük
 
-## Eyestone, 3 charges
+  - Canlı yaratıklar tarafından yaratılmış bir nesne seç. En yakın örneği hissedebilirsin.
+  - **Yeniden Şarj**: Bir kova yağmur suyunda gece boyunca beklet.
 
-  - Choose an object created by living creatures. You can sense the nearest example.
-  - **Recharge**: Place in a bucket of rainwater overnight.
+## Doğan Taşı (Falconstone), 3 yük
 
-## Falconstone, 3 charges
+  - Dünyayı yakındaki bir yırtıcı kuşun gözleri ve kulakları aracılığıyla algıla. Kuş ne hissediyorsa onu hissedersin, ancak onun üzerinde hiçbir kontrolün yoktur.
+  - **Yeniden Şarj**: Sıradan bir av hayvanını öldür ve ye; eti taşla birlikte pişir.
 
-  - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control over it.
-  - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
+## Yaya Arkadaşı (Footpad's Friend)
 
-## Footpad's Friend
+  - Her ayak numarasına uyum sağlayan yumuşak deri ayakkabılar. Ardında dağılan ve karışık bir şekilde dönen ayak izleri bırakır, iz sürmeyi neredeyse imkânsız kılar.
 
-  - Soft leather shoes that adapt to fit any foot size. Leave behind footprints that scatter and turn in a confusing manner, making tracking nigh-impossible.
+## Geçit Tebeşiri (Gate Chalk), 1 kullanım, _adi_
 
-## Gate Chalk, 1 use, _petty_
+  - Herhangi bir düz yüzeye bir kapı çizerek Kökler'e (Roots) tek yönlü bir geçit açar. İyi şanslar.
 
-  - Draw a doorway on any flat surface to open a one-way passage to the Roots. Good luck.
+## Altın Buğday Macunu (Golden Wheat Paste), 2 kullanım
 
-## Golden Wheat Paste, 2 uses
+  - Suyla karıştırıldığında, bu madde herhangi iki nesneyi kimyasal olarak birbirine bağlar.
 
-  - When mixed with water, this substance chemically bonds any two objects.
+## Dedikodu Kutusu (Gossip Box), 1 yük
 
-## Gossip Box, 1 charge
+  - Kolu çevirerek bulunduğun yerde son bir gün içinde yapılmış herhangi bir sesi tekrar oynat. Her kol çevrimi bir saat geri gider.
+  - **Yeniden Şarj**: Kutunun varlığında başarılı bir şekilde bir yalan yay.
 
-  - Wind the crank to replay any sound made in the past day in your current location. Each crank goes back one hour.
-  - **Recharge**: Successfully spread one falsehood in the presence of the box.
+## Müjdeci Çanı (Harbinger's Bell), 1 yük
 
-## Harbinger's Bell, 1 charge
+  - Tehlike yaklaştığında çalması için göğüs hizasına as.
+  - **Yeniden Şarj**: Erit ve yeniden döv. Her seferinde bir d6 at. 1-2 gelirse sonsuza dek kırılır.
 
-  - Hang at chest height to ring when danger is imminent.
-  - **Recharge**: Melt and reforge. Each time, roll a d6. On a 1-2, it breaks forever.
+## Homunculus Çivisi (Homunculus Nail), 1 kullanım, _adi_
 
-## Homunculus Nail, 1 use, _petty_
+  - Sivri ucuyla bir parmağını del ve herhangi bir küçük nesneye çak; sana tamamen bağlı sadık bir hizmetkâr [3 HP, 4 STR, 13 DEX, 5 WIL] oluşur. Yok edilmezse, senden uzun yaşar.
 
-  - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to you. If not destroyed, it will outlive you.
+## Dürüst Kulak Kurdu (Honest Earworm), 1 kullanım
 
-## Honest Earworm, 1 use
+  - Kötü kokan, serçe parmak büyüklüğünde bir kurt; uyuyan bir kişinin kulak kanalına girerek kulak kiriyle beslenir. Kurban daha sonra 1d4 saat boyunca yalan söyleme yetisini kaybeder.
 
-  - A foul-smelling, pinky-sized worm that feeds on earwax by crawling into the ear canal of a sleeping person. The victim then loses the ability to lie for 1d4 hours.
+## Kavanoz Dolusu Karınca
 
-## Jar of Ants
+  - Kırarak bir ateş karıncası kolonisi serbest bırak [6 HP, 2 STR, 10 DEX, 1 WIL, ısırık (d10), _müfreze_]. Her iki günde bir azık tüketir.
 
-  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consumes a ration every two days.
+## Son Nefes (Last Breath) (d6), 1 yük
 
-## Last Breath (d6), 1 charge
+  - Şüpheli kalitede, yontulmuş bir kısa kılıç. Toprağa saplayarak kullanıcıyı çevreleyen ve hareketsiz kılan bir kristal kubbe oluşturur. Kubbe sıradan yollarla aşılamaz ve kılıç tekrar kaldırıldığında parçalanır.
+  - **Yeniden Şarj**: Kılıçla öldürücü bir darbe indir; ölen kurbanın ruhunu bıçağa em. İçinde kurnaz bir zekâ vardır ve kullanıcıyla konuşur, sürekli daha fazla ruh ister, daha fazla!
 
-  - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane means, and shatters once the sword is lifted again.
-  - **Recharge**: Deliver a killing blow with the sword, absorbing the dying victim's soul into the blade. There is a cunning intelligence within that speaks to the wielder, forever asking for more souls, more!
+## Işıkemici Mum (Lightsucker Candle), 3 kullanım
 
-## Lightsucker Candle, 3 uses
+  - Bu siyah içyağı mumu yakıldığında, en parlak günde bile ışık yerine karanlık yayar.
 
-  - Once lit, this black tallow wax sheds darkness rather than light, even in the brightest of days.
+## Aşıkların Sözleşmesi (Lover's Covenant), 1 kullanım
 
-## Lover's Covenant, 1 use
+  - Önünde kırık bir kalp amblemi olan, kırmızı renkli bir şişe mürekkep. Herhangi bir uzunlukta bir sözleşme yaz. İmzalayan herkes, ölüm cezasıyla sözleşmeye uymaya bağlanır.
 
-  - A bottle of red-tinted ink, a broken heart emblazoned on the front. Write up a contract of any length. Any who sign are bound to obey by penalty of death.
+## Kralkatili Topuzu (Mace of the Kingslayer) (d8), 2 yük
 
-## Mace of the Kingslayer (d8), 2 charges
+  - Silahı havaya kaldır ve bir emir veya bildiri bağır. İRA zarlarında başarısız olan herkes, daha iyi muhakemelerine rağmen itaat etmelidir.
+  - **Yeniden Şarj**: Bir grup veya hizbin liderine öldürücü bir darbe indir.
 
-  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgment.
-  - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
+## Güve Aynası (Moth Mirror), _hantal_
 
-## Moth Mirror, _bulky_
+  - Çift taraflı, boy aynası. Aynaya adım atarak tanıdığın başka bir aynaya ışınlanırsın. Diğer taraftan vızıldayan dev bir güve sürüsü olarak çıkarsın; etrafındakilere, sana dehşetle bakarken felç verirsin (kaçınmak için İRA zarları). İstediğin zaman normal formuna dönebilirsin. Ayna yalnızca tek yönde çalışır.
 
-  - A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (WIL save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
+## Sessizlik Tozu (Muffle Dust), 2 kullanım
 
-## Muffle Dust, 2 uses
+  - Bir kese ince toz; saçıldığında 12 metre yarıçapında tüm sesleri boğar.
 
-  - A pouch of fine dust that muffles all sound in a 40ft radius when scattered.
+## Gece Taşı (Nightstone), 1 kullanım
 
-## Nightstone, 1 use
+  - Sualtı mağaralarından ve orman dolinlerinden çıkarılan nadir, ay şeklinde taşlar. Bütün olarak yut; iyi bir gece uykusu ve iyi bir yemek yemiş gibi tüm yorgunluk ve yoksunluğu giderir. Taş sonunda vücudundan atılır. Keyifli değildir.
 
-  - Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
+## Yok Etme Parşömeni (Obliteration Scroll), 1 kullanım, _adi_
 
-## Obliteration Scroll, 1 use, _petty_
+  - Anlamsız yazılarla dolu tek sayfalık bir belge. Sayfanın herhangi bir yerine imza atarak varlığına dair tüm bilgiyi bu gerçeklik düzleminden sil. Kimse seni bilmez veya hatırlamaz, adına veya soyuna dair tüm atıflar yok olur. Parşömen, hafif kükürt kokulu bir duman bulutu içinde kaybolur.
 
- - A single-page document filled with gibberish. Sign anywhere on the page to remove any knowledge of your existence from this plane of reality. No one will know or remember you, and any references to your name or lineage will vanish. The scroll disappears in a puff of smoke that smells faintly of sulfur.
+## Meclisin Sözü (Parliament's Promise), +1 Zırh
 
-## Parliament's Promise, +1 Armor
+  - Bir baykuş kafası şeklinde miğfer. Takan kişi başını baykuş gibi çevirebilir ve karanlıkta mükemmel netlikle görebilir. Miğferi takarken konuşma yetisini kaybeder, sadece en basit ötüşme seslerini çıkarabilir.
 
- - A helmet in the form of an owl's head. Its wearer can twist their head around like an owl and can see in darkness with perfect clarity. While wearing the helm, the wearer loses the ability to speak, uttering only the simplest of cooing noises.
+## Anka Külü (Phoenix Ash), 1 kullanım
 
-## Phoenix Ash, 1 use
+  - Bir cesedin üzerine serperek ölüyü dirilt. Tam sağlıkla döner, ancak geçmiş hayatına dair hiçbir anısı yoktur.
 
-  - Sprinkle over a corpse to resurrect the deceased. They return with full health but no memory of their past life.
+## Yılan Yüzüğü (Ring of the Snake), 1 yük, _adi_
 
-## Ring of the Snake, 1 charge, _petty_
+  - Dövme demirden bir yılan yüzüğü. Parmağına tak ve öyle derin bir uykuya dal ki çoğu kişi öldüğünü sanır. Yüzük çıkarılırsa dinç bir şekilde uyanırsın. Aksi takdirde etki bir ay sonra geçer.
+  - **Yeniden Şarj**: Yüzüğü bir cesetle birlikte göm. Bir ay sonra cesedi çıkar ve yüzüğü geri al.
 
-  - A wrought-iron serpent ring. Place it on your finger and fall into a sleep so deep that most will think you are dead. If the ring is removed, you will awaken feeling refreshed. Otherwise, the effect will wear off after one month.
-  - **Recharge**: Bury the ring with a corpse. A month later, exhume the corpse and retrieve it.
+## Roc Tüyü (Roc Feather), 1 kullanım
 
-## Roc Feather, 1 use
+  - Düşerken tut; her yükseklikten güvenli bir şekilde yere süzülürsün.
 
-  - Hold while falling to float safely to the ground from any height.
+## Kafatası Düdüğü (Skull Whistle), 3 yük
 
-## Skull Whistle, 3 charges
+  - Ürpertici bir çığlık üretir; duyan herkes (çalan dahil) geçici olarak etkisiz hale gelmek için İRA zarları atmalıdır.
+  - **Yeniden Şarj**: Bu aleti canlı bir kafatasından çekilmiş bir tutam insan saçıyla besle.
 
-  - Produces a chilling scream that forces any who hear it (including the blower) to make a WIL save or become temporarily incapacitated.
-  - **Recharge**: Feed the instrument a clump of human hair pulled from a living skull.
+## Ruh Topağı (Soul Clump)
 
-## Soul Clump
+  - Sert, yumruk büyüklüğünde, küçük kabarcıklarla kaplı bir top. Düz bir zeminde yuvarlandığında, mevcut kütlesinden daha küçük olan nesneleri toplar; yüzeyine daha fazla nesne yapıştıkça kütlesi artar. Yalnızca canlı yaratıklar bağışıktır.
 
-  - A hard, fist-sized ball covered in small bumps. When rolled on a flat surface, it collects any objects smaller than its current mass, which subsequently increases as more items are attached to its surface. Only living creatures are immune.
+## Casus Taşı (Spystone), 1 yük
 
-## Spystone, 1 charge
+  - Düzgün, yassı bir taş; dokunulduğunda hafifçe ılıktır. Sıkarak 12 metre yarıçapında ses kaydeder. Tekrar sıkarak istediğin kadar oynatırsın.
+  - **Yeniden Şarj**: Yeni bir ses kaydetmek için taşı bir su kütlesinde en az üç kez sektir ve geri al.
 
-  - A smooth, flat stone that is slightly warm to the touch. Squeeze to record audio in a 40ft radius. Squeeze again to play it back, as many times as you like.
-  - **Recharge**: To record a new sound, skip the rock at least three times on a body of water and recover it.
+## Yapışkan İp (Sticky Rope), 1 yük
 
-## Sticky Rope, 1 charge
+  - Her yüzeye yapışabilen 30 metrelik bir ip.
+  - **Yeniden Şarj**: İpin 3 metresini kes, kalan kısım solar yok olur.
 
-  - A 100ft rope that can stick to any surface.
-  - **Recharge**: Cut off 10ft of rope, which then withers away.
+## Taş Yiyen (Stone Eater), 1 kullanım
 
-## Stone Eater, 1 use
+  - Kemirgen boyutlarında bir kırkayak; taşı tüketip sindirir, bir saatten kısa sürede küçük bir tünel kazabilir. Birden fazla kullanılabilir, ancak yalnızca yakalayabilirsen (ÇEV 18).
 
-  - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (DEX 18).
+## Taş Mumu Sakızı (Stonewax Gum), 3 kullanım, _adi_
 
-## Stonewax Gum, 3 uses, _petty_
+  - Çiğne, sonra tükür. Sakız sertleşir ve gerilir, mükemmel ve kırılmaz bir mühür oluşturur.
 
-  - Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
+## Sünger Ordusu (Sponge Army), 1 kullanım
 
-## Sponge Army, 1 use
+  - Oyma deniz süngerinden yapılmış bir düzine minyatür asker. Suyla ıslandıklarında gerçek boyutlarına büyürler [8 HP, 6 STR, 13 DEX, 5 WIL, sertleşmiş sünger (d6), _müfreze_] ve yok olana veya tamamen kuruyana kadar (yaklaşık 10 dakika) gördükleri kişinin emirlerini takip ederler.
 
-  - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 DEX, 5 WIL, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
+## Koçbaşı Tacı (Tupshead Crown), +1 Zırh, _hantal_
 
-## Tupshead Crown, +1 Armor, _bulky_
+  - Sert alpin meşesinden dövme, güzel işlenmiş bir koçbaşı miğferi. Boynuzlar silah olarak kullanılabilir (d6+d6).
 
-  - A beautifully rendered ram's head helm wrought from tough alpine oak. The horns can be used as weapons (d6+d6).
+## Peçe İpeği Kavrama (Veilsilk Grip), 1 yük, _adi_
 
-## Veilsilk Grip, 1 charge, _petty_
+  - Bu eldiveni giyen bir el, katı nesnelerin içinden geçebilir.
+  - **Yeniden Şarj**: Parmaklardan birini kopar.
 
-  - A hand wearing this glove can phase through solid objects.
-  - **Recharge**: Snip off one of the fingers.
+## Dağın Sesi (Voice of the Mountain), 1 kullanım
 
-## Voice of the Mountain, 1 use
+  - Bir dağ ruhunun özüyle yüklenmiş pürüzlü bir çakıl taşı. Ezip bir deprem veya benzeri doğal afet çağırır. Bağışlanmayı bekleme.
 
-  - A rough pebble imbued with the essence of a mountain spirit. Crush to call forth an earthquake or similar natural disaster. Do not expect to be spared.
+## Koruyucu Taş (Ward Stone), 1 kullanım
 
-## Ward Stone, 1 use
+  - Solmuş sembollerle çentiklenmiş, yassı, sıradan bir nehir taşı. Kırarak 6 metre yarıçapında gümüşi bir toz yayar; tozu soluyan herkesi yatıştırır.
 
-  - A flat, unassuming river stone notched with faded symbols. Smash to release a silvery powder in a 20ft radius that pacifies anyone who breathes it.
+## Fısıltı Yeli (Whispergale), 1 kullanım
 
-## Whispergale, 1 use
+  - Bir günlük yürüme mesafesindeki bir konuma sözlü bir mesaj yakalayıp ileten balon şeklinde bir bitki.
 
-  - A balloon-shaped plant that captures a spoken message and delivers it to a location within a day's walk.
+## Islık İpi (Whistle-Rope)
 
-## Whistle-Rope
+  - 4,5 metre yüksek esnek deri. Havada döndürerek vahşi hayvanları uzaklaştıran güçlü bir subsonik etki üretir. Suda da çalışır.
 
-  - 15ft of highly flexible leather. Swirl in the air to generate a powerful subsonic effect that drives away wildlife. Also works underwater.
+## Harika Çubuk (Wonder Bar), 1 yük
 
-## Wonder Bar, 1 charge
+  - Bu demir çubuğun yan tarafındaki düğmeye basmak, çubuğu havada bile olduğu yerde dondurur. Donduktan sonra, düğme tekrar basılana kadar hiçbir kuvvet onu hareket ettiremez.
+  - **Yeniden Şarj**: Çubuğu bir saat boyunca ellerini bırakmadan iki elinle tut (başarı için İRA zarları). Her gün yalnızca bir deneme yapabilirsin.
 
-  - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). You can make only one attempt each day.
+## Hayalet Feneri (Wraith Lantern), 1 yük
 
-## Wraith Lantern, 1 charge
-
-  - Write someone's name onto its glass, and the name will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
-  - **Recharge**: Kill the last person found with the help of the lantern, trapping their spirit inside. The lantern must be nearby when they are killed.
+  - Birinin adını camına yaz; ad kaybolur. Fener, taşıyıcısına (gece veya gündüz) o kişinin şu anki konumuna giden bir yolu gösterir.
+  - **Yeniden Şarj**: Fener yardımıyla bulunan son kişiyi öldür, ruhunu içine hapset. Öldürüldüklerinde fener yakınlarda olmalıdır.

@@ -1,677 +1,676 @@
 ---
 layout: default
-title: Setting Seeds
+title: Ortam Tohumları
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---
+# Ortam Tohumları
 
-# Setting Seeds
+## Genel Bakış
 
-## Overview
+Aşağıdaki prosedür, bir ortamın _tohumunu_ oluşturmaya yardımcı olmak için tasarlanmıştır: bir macera ekibinin bir bölgede seyahat ederken karşılaşabileceği benzersiz topografya, doğal özellikler, insanlar ve yollar. Bölgede yaşayan insanları, onların hırslarını ve kaynaklarını ve onları etkileyen hizipleri geliştirerek başlayacağız. Ardından bölgenizin arazisini, ardından çeşitli ilgi noktalarını, dönüm noktalarını, yolları, patikaları vb. oluşturacağız. Diğer kurallarda olduğu gibi, bir tablo sonucunu beğenmezseniz, tekrar atın veya istediğiniz gibi ayarlayın!
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may encounter as they travel throughout a region. We'll start by developing the people that live there, their ambitions and resources, and the factions that affect them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on. As with any other rule, if you don't like a table result, roll again or tweak as desired!
+## Örnek
 
-## Example
+Başlamadan önce lütfen bu örneği inceleyin (üzerine tıklayın):
 
-Before you begin please check out this example (click on it):
+[![Tıkla Büyüt!](/img/2e/setting-seed-example.webp "Büyütmek için tıkla"){:height="60%" width="60%"}](/img/2e/setting-seed-example.webp)
 
-[![Click Me!](/img/2e/setting-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/setting-seed-example.webp)
+## Diyar (Realm)
 
-## The Realm
+**Diyar**, ilişkili bölgelerin bir koleksiyonu için genel bir terimdir ve potansiyel olarak oyuncu karakterlerinin ziyaret edip etkileşime girebileceği yüzlerce yeri kapsar.
 
-A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with.
+### Gereken Malzemeler
 
-### Materials Required
+- Bir kağıt ve bir defter. A4 boyutu yeterlidir, ancak ne kadar büyük olursa o kadar iyidir. Bundan sonra, kağıda **harita** olarak atıfta bulunacağız.
+- Kalemler ve silgiler. Renkli kalemler (güzel yapmak veya araziyi renklerle belirtmek istiyorsanız).
+- En az bir d6 ve bir d20, ancak 6d6 ve 2d20 ideal olacaktır.
 
-- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better. Going forward, we will refer to the sheet of paper as the **map**.
-- Pencils and erasers. Colored pencils if you want to make it pretty or want to indicate terrain with color.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+## Tema
 
-## Theme
+### İnsanlar
 
-### People
+Bir bölgenin en önemli yönü _insanlarıdır_: karakterleri, hırsları ve onları bu toprağa bağlayan kaynaklar. [Kültür](#kültür) ve [Kaynaklar](#kaynaklar) tablolarında zar atın, ardından sonuçları defterinize not edin.
 
-The most important aspect of a region is its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
+#### Kültür
 
-#### Culture
-
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |                 |
 | ------- | ------------- | --------------- |
-| **d20** | **Character** | **Ambition**    |
-| **1**   | Altruistic    | Bounty          |
-| **2**   | Artistic      | Conquest        |
-| **3**   | Curious       | Control         |
-| **4**   | Devious       | Conversion      |
-| **5**   | Enlightened   | Division        |
-| **6**   | Hardy         | Dominance       |
-| **7**   | Harmonious    | Exploration     |
-| **8**   | Inventive     | Fealty          |
-| **9**   | Mercantile    | Independence    |
-| **10**  | Nomadic       | Knowledge       |
-| **11**  | Reclusive     | Natural Harmony |
-| **12**  | Religious     | Peace           |
-| **13**  | Resilient     | Power           |
-| **14**  | Scholarly     | Purity          |
-| **15**  | Stoic         | Recognition     |
-| **16**  | Struggling    | Return          |
-| **17**  | Traditional   | Security        |
-| **18**  | War-like      | Stability       |
-| **19**  | Wealthy       | Unification     |
-| **20**  | Xenophobic    | Wealth          |
+| **d20** | **Karakter**  | **Hırs**        |
+| **1**   | Fedakar       | Ödül            |
+| **2**   | Sanatsal      | Fetih           |
+| **3**   | Meraklı       | Kontrol         |
+| **4**   | Sinsi         | Dönüştürme      |
+| **5**   | Aydınlanmış   | Bölünme         |
+| **6**   | Dayanıklı     | Tahakküm        |
+| **7**   | Uyumlu        | Keşif           |
+| **8**   | Yaratıcı      | Bağlılık        |
+| **9**   | Tüccar ruhlu  | Bağımsızlık     |
+| **10**  | Göçebe        | Bilgi           |
+| **11**  | Münzevi       | Doğal Uyum      |
+| **12**  | Dindar        | Barış           |
+| **13**  | Dirençli      | Güç             |
+| **14**  | Bilgin        | Saflık          |
+| **15**  | Stoacı        | Tanınma         |
+| **16**  | Mücadele içinde | Geri Dönüş    |
+| **17**  | Geleneksel    | Güvenlik        |
+| **18**  | Savaşçıl      | İstikrar        |
+| **19**  | Zengin        | Birleşme        |
+| **20**  | Yabancı düşmanı | Zenginlik      |
 
-#### Resources
+#### Kaynaklar
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
-| **d20** | **Abundance** | **Scarcity**  |
-| **1**   | Food          | Food          |
-| **2**   | Fuel          | Fuel          |
-| **3**   | Gemstones     | Gemstones     |
-| **4**   | Herbs         | Herbs         |
-| **5**   | Horses        | Horses        |
-| **6**   | Knowledge     | Knowledge     |
-| **7**   | Land          | Land          |
-| **8**   | Livestock     | Livestock     |
-| **9**   | Medicine      | Medicine      |
-| **10**  | Ore           | Ore           |
-| **11**  | Skilled Labor | Skilled Labor |
-| **12**  | Spices        | Spices        |
-| **13**  | Stone         | Stone         |
-| **14**  | Textiles      | Textiles      |
-| **15**  | Tools         | Tools         |
-| **16**  | Trade Goods   | Trade Goods   |
-| **17**  | Vessels       | Vessels       |
-| **18**  | Water         | Water         |
-| **19**  | Weapons       | Weapons       |
-| **20**  | Wood          | Wood          |
+| **d20** | **Bolluk**    | **Kıtlık**    |
+| **1**   | Yiyecek       | Yiyecek       |
+| **2**   | Yakıt         | Yakıt         |
+| **3**   | Kıymetli Taşlar | Kıymetli Taşlar |
+| **4**   | Otlar         | Otlar         |
+| **5**   | At            | At            |
+| **6**   | Bilgi         | Bilgi         |
+| **7**   | Toprak        | Toprak        |
+| **8**   | Hayvan        | Hayvan        |
+| **9**   | İlaç          | İlaç          |
+| **10**  | Cevher        | Cevher        |
+| **11**  | Nitelikli İşgücü | Nitelikli İşgücü |
+| **12**  | Baharat       | Baharat       |
+| **13**  | Taş           | Taş           |
+| **14**  | Tekstil       | Tekstil       |
+| **15**  | Araçlar       | Araçlar       |
+| **16**  | Ticaret Malları | Ticaret Malları |
+| **17**  | Gemiler       | Gemiler       |
+| **18**  | Su            | Su            |
+| **19**  | Silahlar      | Silahlar      |
+| **20**  | Odun          | Odun          |
 
-### Factions
+### Hizipler (Factions)
 
-A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
+Bir bölgeye tipik olarak bir veya daha fazla hizip hakimdir; her biri kendine özgü **Avantajlara**, **Gündeme** ve **Engellere** sahiptir. Her hizbin ayrıca, gündemlerini tamamlamakla görevlendirilmiş bir veya daha fazla temsilcisi veya **Ajanı** olmalıdır. Daha az İN'ye sahip daha küçük bölgeler 1-2 hizip içermeli, daha büyük bölgeler ise 5-6 kadar hizip içerebilir.
 
-Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
+Ajanlar genellikle bir hizbin Gündemindeki hedeflerden birini veya daha fazlasını tamamlamaktan sorumludur. Özellikle büyük hizipler, her biri farklı bir hedeften sorumlu ek ajanlara sahip olabilir. Ajanların, hizbin ana gündeminden farklı kişisel motivasyonları olabilir; bu, kurnaz PC'lerin kendi çıkarları için kullanabileceği bir gerçektir.
 
-#### Advantages
+#### Avantajlar
 
-Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions leverage their advantages as much as possible when trying to achieve their goals, and at the same time continually work to acquire _more_ advantages.
+Hizipler, gündemlerini gerçekleştirmelerine yardımcı olan avantajlara sahiptir. Avantajlar, bir hizbin nüfuzunu, malzemelerini, zenginliğini ve diğer benzersiz özelliklerini yansıtır. Hizipler, hedeflerine ulaşmaya çalışırken avantajlarını mümkün olduğunca kullanır ve aynı zamanda sürekli olarak daha fazla avantaj elde etmek için çalışır.
 
-#### Agendas
+#### Gündemler (Agendas)
 
-Factions will work to complete their agendas independently, enlisting the help of PCs only when that would strengthen their agenda. Agendas are defined by a series of 3-5 goals that build toward a clear objective. Goals are _progressive_, building on the previous successes (or failures) of earlier goals. 
+Hizipler, gündemlerini bağımsız olarak tamamlamak için çalışacak, PC'lerin yardımını yalnızca bu onların gündemini güçlendireceğinde isteyecektir. Gündemler, net bir hedefe doğru ilerleyen 3-5 hedeflik bir diziyle tanımlanır. Hedefler _aşamalıdır_, önceki hedeflerin başarıları (veya başarısızlıkları) üzerine inşa edilir.
 
-Goals should focus on acquiring a distinct advantage in order to proceed to the next goal. At least one goal should deal with the faction's primary obstacle. This may be the first goal, or the last. All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through faction Actions (see below) or through developments in the fiction. 
+Hedefler, bir sonraki hedefe geçmek için belirgin bir avantaj elde etmeye odaklanmalıdır. En az bir hedef, hizbin birincil engeliyle ilgilenmelidir. Bu ilk hedef veya son hedef olabilir. Tüm gündemlerin, tamamlanmalarının önünde duran en az bir engeli vardır. Ek engeller, Hizip Eylemleri (aşağıya bakın) veya kurgudaki gelişmeler yoluyla ortaya çıkabilir.
 
-Completing a faction's agendas should be a significant event, potentially changing the political or natural landscape of a region.
+Bir hizbin gündemlerini tamamlamak önemli bir olay olmalı, potansiyel olarak bir bölgenin politik veya doğal manzarasını değiştirmelidir.
 
-> The region map should continually reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
+> Bölge haritası, hizipler gündemlerini tamamlamak ve daha fazla avantaj elde etmek için çalışırken sürekli olarak hiziplerin etkisini yansıtmalıdır.
 
-#### Creating factions
+#### Hizip Oluşturma
 
-Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](#faction-traits), [Faction Advantages](#faction-advantages) and [Faction Agendas](#faction-agendas) tables.
+[Hizip Türleri](#hizip-türleri), [Hizip Özellikleri](#hizip-özellikleri), [Hizip Avantajları](#hizip-avantajları) ve [Hizip Gündemleri](#hizip-gündemleri) tablolarında bir veya daha fazla zar atın.
 
-#### Faction Types
+#### Hizip Türleri
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                 |             |
 | ------- | --------------- | ----------- |
-| **d20** | **Type**        | **Agent**   |
-| **1**   | Artisans        | Academic    |
-| **2**   | Commoners       | Assassin    |
-| **3**   | Criminals       | Blacksmith  |
-| **4**   | Cultists        | Farmer      |
-| **5**   | Exiles          | General     |
-| **6**   | Explorers       | Gravedigger |
-| **7**   | Industrialists  | Guard       |
-| **8**   | Merchants       | Healer      |
-| **9**   | Military        | Jailer      |
-| **10**  | Nobles          | Laborer     |
-| **11**  | Nomads          | Lord        |
-| **12**  | Pilgrims        | Merchant    |
-| **13**  | Protectors      | Monk        |
-| **14**  | Religious       | Mystic      |
-| **15**  | Revolutionaries | Outlander   |
-| **16**  | Rulers          | Peddler     |
-| **17**  | Scholars        | Politician  |
-| **18**  | Settlers        | Spy         |
-| **19**  | Spies           | Thief       |
-| **20**  | Tribe           | Thug        |
+| **d20** | **Tür**         | **Ajan**    |
+| **1**   | Zanaatkarlar    | Akademisyen |
+| **2**   | Avam            | Suikastçı   |
+| **3**   | Suçlular        | Demirci     |
+| **4**   | Tarikatçılar    | Çiftçi      |
+| **5**   | Sürgünler       | General     |
+| **6**   | Kaşifler        | Mezar Kazıcı|
+| **7**   | Sanayiciler     | Muhafız     |
+| **8**   | Tüccarlar       | Şifacı      |
+| **9**   | Askeri          | Zindancı    |
+| **10**  | Soylular        | İşçi        |
+| **11**  | Göçebeler       | Lord        |
+| **12**  | Hacılar         | Tüccar      |
+| **13**  | Koruyucular     | Keşiş       |
+| **14**  | Dindarlar       | Mistik      |
+| **15**  | Devrimciler     | Yabancı     |
+| **16**  | Yöneticiler     | Seyyar Satıcı|
+| **17**  | Bilginler       | Politikacı  |
+| **18**  | Yerleşimciler   | Casus       |
+| **19**  | Casuslar        | Hırsız      |
+| **20**  | Kabile          | Haydut      |
 
-#### Faction Traits
+#### Hizip Özellikleri
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
-| **d20** | **Trait 1**   | **Trait 2**   |
-| **1**   | Cautious      | Adaptable     |
-| **2**   | Connected     | Bankrupt      |
-| **3**   | Decadent      | Brutal        |
-| **4**   | Disciplined   | Collaborative |
-| **5**   | Discreet      | Corrupt       |
-| **6**   | Dogmatic      | Craven        |
-| **7**   | Enigmatic     | Cruel         |
-| **8**   | Fierce        | Cunning       |
-| **9**   | Incorruptible | Cynical       |
-| **10**  | Intellectual  | Deceptive     |
-| **11**  | Judicious     | Generous      |
-| **12**  | Keen          | Incompetent   |
-| **13**  | Loyal         | Manipulative  |
-| **14**  | Meticulous    | Mercurial     |
-| **15**  | Popular       | Repressed     |
-| **16**  | Pragmatic     | Ruthless      |
-| **17**  | Resourceful   | Selfish       |
-| **18**  | Secretive     | Stealthy      |
-| **19**  | Shrewd        | Threatened    |
-| **20**  | Tenacious     | Xenophobic    |
+| **d20** | **Özellik 1** | **Özellik 2** |
+| **1**   | İhtiyatlı     | Uyumlu        |
+| **2**   | Bağlantılı    | İflas etmiş   |
+| **3**   | Yozlaşmış     | Acımasız      |
+| **4**   | Disiplinli    | İşbirlikçi    |
+| **5**   | İhtiyatlı     | Yozlaşmış     |
+| **6**   | Dogmatik      | Korkak        |
+| **7**   | Esrarengiz    | Zalim         |
+| **8**   | Şiddetli      | Kurnaz        |
+| **9**   | Yozlaşmaz     | Alaycı        |
+| **10**  | Entelektüel   | Aldatıcı      |
+| **11**  | Sağduyulu     | Cömert        |
+| **12**  | Keskin        | Yetersiz      |
+| **13**  | Sadık         | Manipülatif   |
+| **14**  | Titiz         | Kararsız      |
+| **15**  | Popüler       | Baskılanmış   |
+| **16**  | Pratik        | Acımasız      |
+| **17**  | Becerikli     | Bencil        |
+| **18**  | Gizemli       | Gizli         |
+| **19**  | Akıllı        | Tehdit altında|
+| **20**  | Azimli        | Yabancı düşmanı |
 
-#### Faction Advantages
+#### Hizip Avantajları
 
-Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
+Hizbin sahip olduğu avantaj sayısını belirlemek için 1d20 atın, ardından karşılık gelen avantajların her biri için tekrar 1d20 atın. Örneğin, “# of Advantages” sütunundan “2” sonucu geldiyse, “Type” sütununda iki kez zar atar, her sonucu not edersiniz. Tekrar eden sonuçları yeniden atın.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
-| **d20** | **# of Advantages** | **Advantage**  |
-| **1**   | 1                   | Alliances      |
-| **2**   | 1                   | Anonymity      |
-| **3**   | 1                   | Apparatus      |
-| **4**   | 1                   | Beliefs        |
-| **5**   | 1                   | Charisma       |
-| **6**   | 1                   | Conviction     |
-| **7**   | 1                   | Fealty         |
-| **8**   | 2                   | Force          |
-| **9**   | 2                   | Information    |
-| **10**  | 2                   | Lineage        |
-| **11**  | 2                   | Magic          |
-| **12**  | 2                   | Members        |
-| **13**  | 3                   | Popularity     |
-| **14**  | 3                   | Position       |
-| **15**  | 3                   | Renown         |
-| **16**  | 3                   | Resources      |
-| **17**  | 3                   | Ruthlessness   |
-| **18**  | 4                   | Specialization |
-| **19**  | 4                   | Subterfuge     |
-| **20**  | 4                   | Wealth         |
+| **d20** | **Avantaj Sayısı**  | **Avantaj**    |
+| **1**   | 1                   | İttifaklar     |
+| **2**   | 1                   | Anonimlik      |
+| **3**   | 1                   | Aygıt          |
+| **4**   | 1                   | İnançlar       |
+| **5**   | 1                   | Karizma        |
+| **6**   | 1                   | İnanç (Conviction) |
+| **7**   | 1                   | Bağlılık       |
+| **8**   | 2                   | Güç            |
+| **9**   | 2                   | Bilgi          |
+| **10**  | 2                   | Soy            |
+| **11**  | 2                   | Büyü           |
+| **12**  | 2                   | Üyeler         |
+| **13**  | 3                   | Popülerlik     |
+| **14**  | 3                   | Konum          |
+| **15**  | 3                   | Şöhret         |
+| **16**  | 3                   | Kaynaklar      |
+| **17**  | 3                   | Acımasızlık    |
+| **18**  | 4                   | Uzmanlaşma     |
+| **19**  | 4                   | Dolap          |
+| **20**  | 4                   | Zenginlik      |
 
-#### Faction Agendas
+#### Hizip Gündemleri
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
-| **d20** | **Agenda**                 | **Obstacle**                                            |
-| **1**   | Ascend to a Higher Plane   | A geographic barrier or impassable terrain.             |
-| **2**   | Collect Artifacts          | A key piece of information must first be discovered.    |
-| **3**   | Cultivate a Rare Resource  | A particular object or Relic is required.               |
-| **4**   | Defend Something           | A powerful figure or foe must be eliminated.            |
-| **5**   | Destroy Something          | A rare but necessary resource must first be acquired.   |
-| **6**   | Dominate Others            | A serious debt forces the faction to make dire choices. |
-| **7**   | Enrich Themselves          | A well-known prophecy predicts imminent failure.        |
-| **8**   | Establish a Colony         | An alliance with an enemy must first be brokered.       |
-| **9**   | Establish a New Order      | An internal schism threatens to tear the faction apart. |
-| **10**  | Explore Uncharted Lands    | Another faction has the same goal.                      |
-| **11**  | Forge an Alliance          | Another faction stands in opposition.                   |
-| **12**  | Infiltrate Another Faction | Commoners stand openly in opposition.                   |
-| **13**  | Preserve the Status Quo    | Considerable capital is required.                       |
-| **14**  | Protect a Secret           | Contravenes an established code, with a heavy penalty.  |
-| **15**  | Purge the Land             | Hindered by cultural taboos.                            |
-| **16**  | Reveal a Secret            | Many must die, either as a necessity or consequence.    |
-| **17**  | Revenge                    | Must be carried out at a rare or exact moment.          |
-| **18**  | Revive a Former Power      | Must be carried out in absolute secrecy.                |
-| **19**  | Seek New Leadership        | Requires a specialist of an uncommon sort.              |
-| **20**  | Spread a Belief            | The outcome would lead to unavoidable war.              |
+| **d20** | **Gündem**                 | **Engel**                                               |
+| **1**   | Daha Yüksek Bir Düzleme Yükselmek | Coğrafi bir engel veya aşılmaz arazi.                 |
+| **2**   | Eserler Toplamak           | Önce anahtar bir bilgi keşfedilmelidir.                 |
+| **3**   | Nadir Bir Kaynak Yetiştirmek | Belirli bir nesne veya Emanet gereklidir.               |
+| **4**   | Bir Şeyi Savunmak          | Güçlü bir figür veya düşman elenmelidir.                |
+| **5**   | Bir Şeyi Yok Etmek         | Önce nadir fakat gerekli bir kaynak edinilmelidir.      |
+| **6**   | Başkalarına Tahakküm Etmek | Ciddi bir borç, hizbi çaresiz seçimlere zorlar.         |
+| **7**   | Kendilerini Zenginleştirmek| Yakın başarısızlığı öngören iyi bilinen bir kehanet.    |
+| **8**   | Bir Koloni Kurmak          | Önce bir düşmanla ittifak yapılmalıdır.                 |
+| **9**   | Yeni Bir Düzen Kurmak      | İç bölünme, hizbi parçalamakla tehdit eder.             |
+| **10**  | Keşfedilmemiş Toprakları Keşfetmek | Başka bir hizbin aynı hedefi vardır.              |
+| **11**  | Bir İttifak Kurmak         | Başka bir hizip karşı çıkar.                            |
+| **12**  | Başka Bir Hizbe Sızmak     | Avam açıkça karşı çıkar.                                |
+| **13**  | Statükoyu Korumak          | Önemli miktarda sermaye gereklidir.                     |
+| **14**  | Bir Sırrı Korumak          | Yerleşik bir koda aykırıdır, ağır cezası vardır.        |
+| **15**  | Toprağı Arındırmak         | Kültürel tabular tarafından engellenir.                 |
+| **16**  | Bir Sırrı Açığa Çıkarmak   | Birçoğu ölmeli, ya bir zorunluluk ya da sonuç olarak.   |
+| **17**  | İntikam                    | Nadir veya tam bir anda gerçekleştirilmelidir.          |
+| **18**  | Eski Bir Gücü Diriltmek    | Mutlak gizlilik içinde gerçekleştirilmelidir.           |
+| **19**  | Yeni Liderlik Arayışı      | Alışılmadık türden bir uzman gerektirir.                |
+| **20**  | Bir İnancı Yaymak          | Sonuç kaçınılmaz savaşa yol açacaktır.                  |
 
-#### Example Faction
+#### Örnek Hizip
 
-#### Type
+#### Tür
 
-- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the royal family. 
+- **Akademisyenler**: _Kraliyet Haritacılar Loncası_. Kraliyet ailesi tarafından bile saygı duyulan ve korkulan.
 
-### Advantages
+### Avantajlar
 
-- **Apparatus**: A _Map of the Dead_. Legend tells that the map reveals a Gate to the land of the dead.  
-- **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the Cities.
+- **Aygıt**: _Ölülerin Haritası_. Efsane, haritanın ölüler diyarına bir Geçit gösterdiğini söyler.
+- **Şöhret**: Hiç kimse _Lonca_'ya alenen meydan okumaya cesaret edemez. Sesleri Şehirler'de büyük ağırlık taşır.
 
-### Agents
+### Ajanlar
 
-- Horatia Confi, first of her order. Recovered the _Map of the Dead_ for the _Guild_. WIL 15.  
+- Horatia Confi, tarikatının ilki. _Ölülerin Haritası_'nı _Lonca_ için kurtardı. İRA 15.
 
-#### Agenda
+#### Gündem
 
-- Hire a skilled party to escort Horatia to a location written on the map.
-- Travel through the lands of the dead in search of the _Order_'s original founder.
-- Bring the founder back to the Cities. Overthrow the ruler of the Realm.
+- Haritada yazılı bir konuma Horatia'ya eşlik etmesi için yetenekli bir ekip kirala.
+- _Tarikat_'ın orijinal kurucusunu aramak için ölüler diyarında seyahat et.
+- Kurucuyu Şehirler'e geri getir. Diyarın hükümdarını devir.
 
-#### Obstacle
+#### Engel
 
-The _Guild_ has been warned that a well-placed operative moves within their ranks.
+_Lonca_'ya, saflarında iyi konumlanmış bir ajanın hareket ettiği konusunda uyarı yapıldı.
 
-#### Faction Rules
+#### Hizip Kuralları
 
-- By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
-- The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
-- Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate to introduce a new goal after a major event, alliance, or friction between one or more factions, etc.
-- Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
-- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
+- Varsayılan olarak, hizipler oyuncu karakterlerin eylemlerinden bağımsız çalışır. PC'ler hiçbir şey yapmasa bile, hizip hedeflerine ulaşmak için hareket etmelidir.
+- **Muhafız**, bir hizbin gündemini ilerletmek için konumlanıp konumlanmadığını belirlemek için kurguya güvenmelidir.
+- Bazı hedefler zamana duyarlı olabilir veya açık koşullara bağlı olabilir. Diğer zamanlarda, önemli bir olaydan, ittifaktan veya bir veya daha fazla hizip arasındaki sürtüşmeden sonra yeni bir hedef tanıtmak daha uygun olabilir.
+- Bir hizip gündemindeki bir hedefi ilerletmek için konumlandığında, [Hizip Eylemleri](#hizip-eylemleri) tablosunda bir **d6** atın.
+- Eğer iki hizip _karşıt_ ise, _en riskli_ hizip, en yüksek rütbeli ajanının puanını kullanarak bir İRA kurtarma zarı atar. Başarısız olursa, hizip bu sefer Hizip Eylemleri tablosunda zar atmaz.
 
-#### Faction Actions
+#### Hizip Eylemleri
 
 |        |                   |                                                                 |
 | ------ | ----------------- | --------------------------------------------------------------- |
-| **d6** | **Consequence**   | **Impact**                                                      |
-| **1**  | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
-| **2**  | **Setback**       | An **Advantage** is lost.                                       |
-| **3**  | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
-| **4**  | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
-| **5**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.         |
-| **6**  | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.       |
+| **d6** | **Sonuç**         | **Etki**                                                        |
+| **1**  | **Başarısızlık**  | Yeni bir **Engel** tanıtılır ve bir **Avantaj** kaybedilir.     |
+| **2**  | **Aksilik**       | Bir **Avantaj** kaybedilir.                                     |
+| **3**  | **Statüko**       | Hiçbir şey kazanılmaz, hiçbir şey kaybedilmez.                  |
+| **4**  | **Karma Başarı**  | Bir **hedef** gerçekleşir, ancak bir **Avantaj** kaybedilir.    |
+| **5**  | **Başarı**        | Bir **hedef** gerçekleşir ve hiçbir **Avantaj** kaybedilmez.    |
+| **6**  | **Büyük Başarı**  | Bir **hedef** gerçekleşir ve yeni bir **Avantaj** bulunur.      |
 
-> The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
+> PC'lerin eylemleri her zaman bir **hizip** eyleminin gerekliliğini geçersiz kılabilir veya bazı durumlarda zarın sonucunu olumlu veya olumsuz bir yönde değiştirebilir.
 
-### Topography
+### Topografya
 
-A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more.
+Bir bölgenin arazisi ve doğal özellikleri herhangi bir haritanın temel bir parçasıdır; yerel tarihi, kaynakları, yerleşimleri, kültürü ve daha fazlasını etkiler.
 
-#### Landmarks 
+#### Dönüm Noktaları (Landmarks)
 
-**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
+**Dönüm Noktaları**, coğrafi referans noktaları olarak da kullanılabilen benzersiz, görünür İN'lerdir: kuleler, dağlar, yüksek binalar vb. Gezginlerin harita üzerinde yön bulmasına yardımcı olurlar ve özellikle daha yüksek rakımlı veya net görüş açısına sahip alanlardan _görünürler_. Dönüm Noktaları _haritada üçgen ile temsil edilir_.
 
-#### Draw Terrain
+#### Arazi Çiz
 
-1. Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-2. Note the face-up result for each die, then use the [Terrain Die Drop Table](#terrain-die-drop-table) to mark the terrain type on the map. For example, a die showing a 4 would indicate Tough terrain.
-3. Draw long, curvy lines across the page, carving up the map around each die.
-4. Roll on the appropriate table for each result, writing the terrain and landmark results on the map.
-  - Replace the die with a triangle, writing the landmark result on the map.
-  - Roll any dice that fell off the map page, repeating the last step until none remain.
-  - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
+1. **1d6** atın, ardından bu sayıya eşit miktarda zarı harita üzerinde atın. Sayfadan yuvarlanıp düşen zarları toplayıp kenara koyun.
+2. Her zarın üst yüz sonucunu not edin, ardından arazi türünü haritada işaretlemek için [Arazi Zar Düşürme Tablosu](#arazi-zar-düşürme-tablosu) kullanın. Örneğin, 4 gösteren bir zar Zor araziyi belirtir.
+3. Sayfa boyunca uzun, kıvrımlı çizgiler çizin, haritayı her zarın etrafında bölümlere ayırın.
+4. Her sonuç için uygun tabloda zar atın, arazi ve dönüm noktası sonuçlarını haritaya yazın.
+   - Zarı bir üçgenle değiştirin, dönüm noktası sonucunu haritaya yazın.
+   - Harita sayfasından düşen zarları atın, hiç kalmayana kadar son adımı tekrarlayın.
+   - Arazilendirilmeye ihtiyaç duyan boş alanlar varsa, istediğiniz yere bir zar atın ve daha önce olduğu gibi üst yüz sonucunu kullanın.
 
-### Terrain Die Drop Table
+### Arazi Zar Düşürme Tablosu
 
 |         |                |
 | ------- | -------------- |
-| **d6**  | **Difficulty** |
-| **1-3** | Easy           |
-| **4-5** | Tough          |
-| **6**   | Perilous       |
+| **d6**  | **Zorluk**     |
+| **1-3** | Kolay          |
+| **4-5** | Zor            |
+| **6**   | Tehlikeli      |
 
-### Easy
+### Kolay
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |             |                    |
 | ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Landmark**       |
-| **1**   | Bluffs      | Broken Sundial     |
-| **2**   | Dells       | Circle of Menhirs  |
-| **3**   | Farmlands   | Circular Maze      |
-| **4**   | Fells       | Cloud Stairway     |
-| **5**   | Foothills   | Dead Aqueduct      |
-| **6**   | Glens       | Enormous Footprint |
-| **7**   | Grasslands  | Fallen Column      |
-| **8**   | Gulleys     | False Oasis        |
-| **9**   | Heaths      | Giant's Throne     |
-| **10**  | Lowlands    | Glittering Cascade |
-| **11**  | Meadows     | Golden Bridge      |
-| **12**  | Moors       | Great Stone Face   |
-| **13**  | Pampas      | Great Waterwheel   |
-| **14**  | Pastures    | Heart Tree         |
-| **15**  | Plains      | Opaque Lake        |
-| **16**  | Plateaus    | Petrified Forest   |
-| **17**  | Prairies    | Pit of Cold Fire   |
-| **18**  | Savannas    | Silver Face        |
-| **19**  | Steppes     | Sinkhole           |
-| **20**  | Valleys     | Titanic Gate       |
+| **d20** | **Arazi**   | **Dönüm Noktası**  |
+| **1**   | Sarp Kayalar| Kırık Güneş Saati  |
+| **2**   | Küçük Vadiler| Menhir Çemberi    |
+| **3**   | Tarım arazisi| Dairesel Labirent |
+| **4**   | Yaylalar    | Bulut Merdiveni    |
+| **5**   | Etekler     | Ölü Su Kemeri      |
+| **6**   | Vadiler     | Devasa Ayak İzi    |
+| **7**   | Çayırlıklar | Düşmüş Sütun       |
+| **8**   | Oluklar     | Sahte Vaha         |
+| **9**   | Fundalıklar | Dev'in Tahtı       |
+| **10**  | Alçak araziler| Parıldayan Şelale|
+| **11**  | Çayırlar    | Altın Köprü        |
+| **12**  | Bozkırlar   | Büyük Taş Yüz      |
+| **13**  | Pampalar    | Büyük Su Çarkı     |
+| **14**  | Otlaklar    | Kalp Ağacı         |
+| **15**  | Ovalar      | Opak Göl           |
+| **16**  | Platolar    | Taşlaşmış Orman    |
+| **17**  | Preriler    | Soğuk Ateş Çukuru  |
+| **18**  | Savanlar    | Gümüş Yüz          |
+| **19**  | Bozkırlar   | Dolin              |
+| **20**  | Vadiler     | Devasa Geçit       |
 
-### Tough
+### Zor
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |             |                     |
 | ------- | ----------- | ------------------- |
-| **d20** | **Terrain** | **Landmark**        |
-| **1**   | Barrens     | Algae Falls         |
-| **2**   | Canyons     | Basalt Columns      |
-| **3**   | Chaparral   | Behemoth Graveyard  |
-| **4**   | Coral Reefs | Canyon Bridge       |
-| **5**   | Deserts     | Cinder Cones        |
-| **6**   | Dunes       | Flame Pits          |
-| **7**   | Estuaries   | Forest of Arrows    |
-| **8**   | Fens        | Frozen Waterfall    |
-| **9**   | Forests     | Fungal Forest       |
-| **10**  | Heathlands  | Half-Buried Ark     |
-| **11**  | Hills       | Hanging Valley      |
-| **12**  | Mangroves   | Inverted Lighthouse |
-| **13**  | Marshlands  | Leviathan Bones     |
-| **14**  | Moorlands   | Massive Crater      |
-| **15**  | Rainforests | Massive Dung Ball   |
-| **16**  | Scrublands  | Salt Flat Mirrors   |
-| **17**  | Taiga       | Shrouded Ziggurat   |
-| **18**  | Thickets    | Stalagmite Forest   |
-| **19**  | Tundra      | Sunken Colossus     |
-| **20**  | Woodlands   | Titan's Table       |
+| **d20** | **Arazi**   | **Dönüm Noktası**   |
+| **1**   | Çorak araziler| Alg Şelaleleri     |
+| **2**   | Kanyonlar   | Bazalt Sütunlar     |
+| **3**   | Çalılıklar  | Dev Mezarlığı       |
+| **4**   | Mercan Resifleri| Kanyon Köprüsü    |
+| **5**   | Çöller      | Kül Konileri        |
+| **6**   | Kumullar    | Alev Çukurları      |
+| **7**   | Haliçler    | Oklar Ormanı        |
+| **8**   | Bataklıklar | Donmuş Şelale       |
+| **9**   | Ormanlar    | Mantar Ormanı       |
+| **10**  | Fundalıklar | Yarı Gömülü Gemi    |
+| **11**  | Tepeler     | Asılı Vadi          |
+| **12**  | Mangrovlar  | Ters Deniz Feneri   |
+| **13**  | Bataklıklar | Leviathan Kemikleri |
+| **14**  | Bozkırlar   | Devasa Krater       |
+| **15**  | Yağmur Ormanları| Devasa Gübre Topu|
+| **16**  | Çalılıklar  | Tuz Düzlüğü Aynaları|
+| **17**  | Tayga       | Gizemli Ziggurat    |
+| **18**  | Sık çalılıklar| Diktaş Ormanı     |
+| **19**  | Tundra      | Batık Dev           |
+| **20**  | Ağaçlık araziler| Dev'in Masası    |
 
-### Perilous
+### Tehlikeli
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                |                     |
 | ------- | -------------- | ------------------- |
-| **d20** | **Terrain**    | **Landmark**        |
-| **1**   | Alpine Meadows | Active Volcano      |
-| **2**   | Bogs           | Ammonia Caves       |
-| **3**   | Boulders       | Bone Mountain       |
-| **4**   | Caverns        | Crystalline Forest  |
-| **5**   | Cliffs         | Dome of Darkness    |
-| **6**   | Craters        | Enormous Hive       |
-| **7**   | Crevasses      | Floating Object     |
-| **8**   | Geysers        | Inactive Automaton  |
-| **9**   | Glaciers       | Land Scar           |
-| **10**  | Gorges         | Large Vents         |
-| **11**  | Hollows        | Magma Sculptures    |
-| **12**  | Ice Fields     | Man on the Mountain |
-| **13**  | Jungles        | Meteor Garden       |
-| **14**  | Lava Fields    | Obsidian Needle     |
-| **15**  | Mountains      | Reverse Waterfall   |
-| **16**  | Peatlands      | River of Sulfur     |
-| **17**  | Quagmires      | Siren Stones        |
-| **18**  | Ravine         | Sky-Root            |
-| **19**  | Swamps         | Titanic Ribcage     |
-| **20**  | Wastelands     | Weeping Bubble      |
+| **d20** | **Arazi**      | **Dönüm Noktası**   |
+| **1**   | Alp Çayırları  | Aktif Volkan        |
+| **2**   | Bataklıklar    | Amonyak Mağaraları  |
+| **3**   | Kayalar        | Kemik Dağı          |
+| **4**   | Mağaralar      | Kristal Orman       |
+| **5**   | Uçurumlar      | Karanlık Kubbesi    |
+| **6**   | Kraterler      | Devasa Kovan        |
+| **7**   | Yarıklar       | Yüzen Nesne         |
+| **8**   | Gayzerler      | Atıl Otomat         |
+| **9**   | Buzullar       | Toprak Yara İzi     |
+| **10**  | Boğazlar       | Büyük Bacalar       |
+| **11**  | Oyuklar        | Magma Heykelleri    |
+| **12**  | Buz Alanları   | Dağdaki Adam        |
+| **13**  | Cangıllar      | Meteor Bahçesi      |
+| **14**  | Lav Alanları   | Obsidyen İğnesi     |
+| **15**  | Dağlar         | Ters Şelale         |
+| **16**  | Turba arazileri| Kükürt Nehri        |
+| **17**  | Bataklıklar    | Siren Taşları       |
+| **18**  | Yarma          | Gökyüzü Kökü        |
+| **19**  | Bataklıklar    | Devasa Göğüs Kafesi |
+| **20**  | Çorak araziler | Ağlayan Kabarcık    |
 
-#### Rivers, Seas, and Lakes
+#### Nehirler, Denizler ve Göller
 
-Every region should have some kind of water source. Otherwise, where would the locals get their drinking water or receive news from the rest of the realm? 
-- To create waterways, draw a wiggly line from the highest elevation point (e.g. Mountains) to the lowest (e.g. Grassways). 
-- If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
+Her bölgede bir tür su kaynağı bulunmalıdır. Aksi takdirde, yerel halk içme suyunu nereden alır veya diyarın geri kalanından haberleri nasıl ulaşır?
+- Su yolları oluşturmak için, en yüksek rakımlı noktadan (ör. Dağlar) en alçak noktaya (ör. Çayırlar) kıvrımlı bir çizgi çizin.
+- Nehir, rakımı daha yüksek bir araziden geçiyorsa, bir **gölde** sonlanabilir. Haritanızda bir deniz varsa, orada sonlanabilir. Aksi takdirde nehir harita sayfasının dışına devam edebilir.
 
-### Weather
+### Hava Durumu
 
-The weather can have a great impact on the people, culture, and terrain of a region. It impacts what kinds of clothes the adventurers need to wear, what sorts of tools they'll have to bring, and how tough the journey might be. To determine the average weather of a region, roll on the [Seasonal Weather](#seasonal-weather) table once for each season. Optionally, you may also roll on the [Unusual Weather](#unusual-weather) table around particular landmarks or terrain.
+Hava durumu, bir bölgenin insanları, kültürü ve arazisi üzerinde büyük bir etkiye sahip olabilir. Maceracıların ne tür giysiler giymesi gerektiğini, ne tür araçlar getirmeleri gerektiğini ve yolculuğun ne kadar zor olabileceğini etkiler. Bir bölgenin ortalama hava durumunu belirlemek için, her mevsim için bir kez [Mevsimlik Hava Durumu](#mevsimlik-hava-durumu) tablosunda zar atın. İsteğe bağlı olarak, belirli dönüm noktaları veya araziler etrafında [Sıra Dışı Hava Durumu](#sıra-dışı-hava-durumu) tablosunda da zar atabilirsiniz.
 
-#### Seasonal Weather
+#### Mevsimlik Hava Durumu
 
 |        |                  |                      |                   |                      |
 | ------ | ---------------- | -------------------- | ----------------- | -------------------- |
-| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
-| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
-| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
-| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
-| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
-| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
-| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
+| **d6** | **İlkbahar**     | **Yaz**              | **Sonbahar**      | **Kış**              |
+| **1**  | Ilık ve güneşli  | Sıcak ve güneşli     | Güzel ve esintili | Ilık ve açık         |
+| **2**  | Güzel ve çiseli  | Güzel ve bulutlu     | Ilık ve rüzgarlı  | Serin ve rüzgarlı    |
+| **3**  | Serin ve esintili| Ilık ve yağmurlu     | Serin ve sisli    | Soğuk ve yağmurlu    |
+| **4**  | Ilık ve bulutlu  | Serin ve fırtınalı   | Soğuk ve bulutlu  | Dondurucu ve fırtınalı|
+| **5**  | Soğuk ve rüzgarlı| Sıcak ve nemli       | Serin ve yağmurlu | Dondurucu ve karlı   |
+| **6**  | Soğuk ve yağmurlu| Bunaltıcı ve nemli   | Soğuk ve fırtınalı| Dondurucu ve dolu    |
 
-#### Unusual Weather
+#### Sıra Dışı Hava Durumu
 
 |         |                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------- |
-| **d20** | **Weather**                                                                                                 |
-| **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
-| **2**   | An aurora that is visible even during the day.                                                              |
-| **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
-| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets in.           |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind blows in from the West.                              |
-| **6**   | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
-| **7**   | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
-| **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
-| **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.             |
-| **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
-| **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
-| **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
-| **15**  | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **16**  | The moon appears larger and softly hums at night.                                                           |
-| **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **18**  | The stars rearrange themselves in intricate patterns, making navigation difficult.                          |
-| **19**  | The winds carry whispers. Some say they tell hints of the future.                                 |
-| **20**  | When it snows, the flakes are warm and dry.                                                                 |
+| **d20** | **Hava Durumu**                                                                                             |
+| **1**   | Yıllık bir sis rastgele belirir, temastaki metal yüzeyleri altına çevirir.                                   |
+| **2**   | Gündüzleri bile görülebilen bir aurora.                                                                     |
+| **3**   | Kuşlar geriye doğru uçar, ancak yine de bir şekilde ileriye doğru hareket ederler.                          |
+| **4**   | Günler düzensizdir. Güneş bir süre geri gider, sonra gece hızla çökerken ileri atlar.                       |
+| **5**   | Gök gürültüsü yerine uzak çan sesleri. Batıdan dumanlı, tatlı bir rüzgar eser.                              |
+| **6**   | Gökyüzünden aşağı devasa, etli gözler bakar; göz bebekleri gece gökyüzünü aydınlatır.                       |
+| **7**   | Çevrede her zaman hiçbir şeye dönüşmeyen hareket flaşları.                                                  |
+| **8**   | Karnı dolduran sis (azığa gerek yok). Yarın, kusma.                                                         |
+| **9**   | Göller ve dereler dakikalar içinde buharlaşır, manzarayı sırılsıklam eden fırtına bulutlarını doldurur.     |
+| **10**  | Periyodik küçük su canlıları (iribaş, kurbağa, küçük balık) yağmurları. Nereden geldiklerini kimse bilmez. |
+| **11**  | Gökkuşakları renklerinin çoğundan yoksundur ve zamanla titreşir. Yağmur damlaları çeşitli renklerde düşer. |
+| **12**  | Tarçın kokan yuvarlanan toz bulutları. Üzerinden geçtikten sonra uzun süre öksürük devam eder.              |
+| **13**  | Gölgeler rastgele kaybolur. Hayvanlar daha isteksiz hale gelir.                                             |
+| **14**  | Hava normalden daha kalındır ve nefes almak zordur.                                                         |
+| **15**  | Bulutlar yüz şeklindedir. Gülüyor gibi görünürler.                                                          |
+| **16**  | Ay daha büyük görünür ve geceleri yumuşak bir şekilde uğultu yapar.                                        |
+| **17**  | Yağmur geceleyin hafifçe parlar. Toplanabilir, ancak ışık sonunda solar.                                   |
+| **18**  | Yıldızlar karmaşık desenlerde yeniden düzenlenir, yön bulmayı zorlaştırır.                                 |
+| **19**  | Rüzgarlar fısıltılar taşır. Bazıları geleceğe dair ipuçları söylediğini iddia eder.                         |
+| **20**  | Kar yağdığında, tanecikler sıcak ve kurudur.                                                                |
 
-## Points of Interest
+## İlgi Noktaları (Points of Interest - İN)
 
-Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
-- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions.
-- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
-- **Lairs**: An enemy encampment, hive, or source of heightened monster activity.
-- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
+Haritadaki İlgi Noktaları genellikle aşağıdaki kategorilere ayrılır:
+- **Kalp (Heart)**: Bir bölgedeki birincil yerleşim. Mutlaka en büyük veya en önemli yer olması gerekmez, ancak bölgenin tarihi ve insanları için her zaman önemli olmalıdır.
+- **Yerleşimler**: Kalıcı, büyük ölçüde kendi kendine yeterli nüfus merkezleri, tipik olarak bir siyasi organ veya hizip tarafından yönetilir.
+- **Ara Noktalar (Waypoints)**: Malzeme doldurmak, iyi bir gece uykusu çekmek veya yol tarifi almak için güvenli bir yer.
+- **Meraklar (Curiosities)**: Dikkat çekici veya tuhaf bir vahşi doğa konumu. Tehlikeli olabilir, ancak yalnızca PC'ler onunla etkileşime girerse.
+- **İnler (Lairs)**: Bir düşman kampı, kovan veya artan canavar aktivitesinin kaynağı.
+- **Zindanlar**: Açıkça tehlikeli bir konum, zindan veya macera alanı.
 
-### Draw Points of Interest
+### İlgi Noktalarını Çiz
 
-- Draw the letter **H** close to a water source on the map. 
-- Roll 3-8 d6 dice on the map, collecting any dice that roll off the page and setting them aside.
-- Note the face-up result for each die, then use the [POI Die Drop Table](#poi-die-drop-table) to mark the type of POI on the map. For example, a die showing a 4 would indicate a Lair, denoted by the letter "L" on the page.
-- Roll any dice that fell off the map page, repeating the last step until none remain.
-- Starting with the Heart, number each POI on the map.
-- Roll on the relevant tables for each POI, including the Heart (usually a Waypoint or Settlement). Note the results for each in your notebook.
+- Haritada bir su kaynağına yakın bir yere **H** harfini çizin.
+- Harita üzerinde 3-8 d6 zar atın, sayfadan yuvarlanıp düşen zarları toplayıp kenara koyun.
+- Her zarın üst yüz sonucunu not edin, ardından İN türünü haritada işaretlemek için [İN Zar Düşürme Tablosu](#i̇n-zar-düşürme-tablosu) kullanın. Örneğin, 4 gösteren bir zar bir İn'i belirtir; sayfada "İ" harfi ile gösterilir.
+- Harita sayfasından düşen zarları atın, hiç kalmayana kadar son adımı tekrarlayın.
+- Kalp'ten başlayarak, haritadaki her İN'yi numaralandırın.
+- Her İN için ilgili tablolarda zar atın, Kalp (genellikle bir Ara Nokta veya Yerleşim) dahil. Her biri için sonuçları defterinize not edin.
 
-> Some POIs may allow the PCs to see more of the world than what appears on their map.
+> Bazı İN'ler, PC'lerin haritalarında görünenden daha fazlasını görmesine izin verebilir.
 
-### POI Die Drop Table
+### İN Zar Düşürme Tablosu
 
 |         |                        |
 | ------- | ---------------------- |
-| **d6**  | **POI**                |
-| **1**   | Waypoint or Settlement |
-| **2-3** | Curiosity              |
-| **4**   | Lair                   |
-| **5-6** | Dungeon                |
- 
-### Settlements
+| **d6**  | **İN**                 |
+| **1**   | Ara Nokta veya Yerleşim |
+| **2-3** | Merak                  |
+| **4**   | İn                     |
+| **5-6** | Zindan                 |
 
-Roll 1d20 for each column and combine the results.
+### Yerleşimler
+
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                 |                               |
 | ------- | --------------- | ----------------------------- |
-| **d20** | **Settlements** | **Feature**                   |
-| **1**   | Academy         | Built Atop Ruins              |
-| **2**   | Caravan         | Built on Bones of Giants      |
-| **3**   | Citadel         | Center of Learning            |
-| **4**   | City            | Close-Knit                    |
-| **5**   | Commune         | Divided                       |
-| **6**   | Compound        | Emits a Mysterious Hum        |
-| **7**   | Convent         | Famous for its Artisans       |
-| **8**   | Farmstead       | Famous for its Festivals      |
-| **9**   | Fortress        | Guarded by Trained Beasts     |
-| **10**  | Garrison        | Hides a Dangerous Portal      |
-| **11**  | Hamlet          | High Population Density       |
-| **12**  | Keep            | Impregnable                   |
-| **13**  | Monastery       | Integrated with Nature        |
-| **14**  | Outpost         | Known for its Hospitality     |
-| **15**  | Plantation      | Location of a Legendary Forge |
-| **16**  | Prison          | Moves or Revolves             |
-| **17**  | Stronghold      | Protected by a Great Warrior  |
-| **18**  | Town            | Ruled by a Powerful Faction   |
-| **19**  | Villa           | Steeped in Tradition          |
-| **20**  | Village         | Trading Hub                   |
+| **d20** | **Yerleşim**    | **Özellik**                   |
+| **1**   | Akademi         | Harabeler Üzerine İnşa Edilmiş |
+| **2**   | Kervan          | Devlerin Kemikleri Üzerine İnşa Edilmiş |
+| **3**   | Hisar           | Öğrenim Merkezi               |
+| **4**   | Şehir           | Sıkı Sıkıya Bağlı              |
+| **5**   | Komün           | Bölünmüş                      |
+| **6**   | Bileşik         | Gizemli Bir Uğultu Yayar       |
+| **7**   | Manastır        | Zanaatkarlarıyla Ünlü         |
+| **8**   | Çiftlik evi     | Festivalleriyle Ünlü          |
+| **9**   | Kale            | Eğitilmiş Canavarlarca Korunur |
+| **10**  | Garnizon        | Tehlikeli Bir Portal Saklar   |
+| **11**  | Kasaba          | Yüksek Nüfus Yoğunluğu        |
+| **12**  | İç kale         | Aşılmaz                      |
+| **13**  | Manastır        | Doğayla Bütünleşmiş           |
+| **14**  | Karakol         | Misafirperverliğiyle Bilinir  |
+| **15**  | Plantasyon      | Efsanevi Bir Demirhanenin Yeri |
+| **16**  | Hapishane       | Hareket Eder veya Döner       |
+| **17**  | Kuvvetli nokta  | Büyük Bir Savaşçı Tarafından Korunur |
+| **18**  | İlçe            | Güçlü Bir Hizip Tarafından Yönetilir |
+| **19**  | Villa           | Geleneklere Doymuş            |
+| **20**  | Köy             | Ticaret Merkezi               |
 
-### Waypoints
+### Ara Noktalar (Waypoints)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |                                  |
 | ------- | ------------- | -------------------------------- |
-| **d20** | **Waypoints** | **Feature**                      |
-| **1**   | Archive       | A Haven for Outcasts             |
-| **2**   | Asylum        | Built on Sacred Grounds          |
-| **3**   | Bazaar        | Contains a Powerful Artifact     |
-| **4**   | Beacon Tower  | Cursed By Previous Occupants     |
-| **5**   | Bunker        | Decrepit Buildings               |
-| **6**   | Cabin         | Distrustful Occupants            |
-| **7**   | Campground    | Does Not Appear on Any Map       |
-| **8**   | Guildhall     | Front for Illegal Operations     |
-| **9**   | Hospice       | Host to a Renowned Artisan       |
-| **10**  | Hunting Lodge | Known for its Elaborate Defenses |
-| **11**  | Inn           | Occupants Are Lawful to a Fault  |
-| **12**  | Observatory   | Occupants Are Overly Formal      |
-| **13**  | Reservoir     | Outsiders Are Barred             |
-| **14**  | Sanatorium    | Outsiders Cannot Carry Weapons   |
-| **15**  | Sanctuary     | Part of an Illegal Trade Route   |
-| **16**  | Shrine        | Popular Pilgrim Destination      |
-| **17**  | Temple        | Protects a Powerful Object       |
-| **18**  | Trading Post  | Reclusive Occupants              |
-| **19**  | Watchtower    | Sits on Natural Deposits         |
-| **20**  | Work Camp     | Technologically Advanced         |
+| **d20** | **Ara Nokta** | **Özellik**                      |
+| **1**   | Arşiv         | Dışlanmışlar İçin Bir Sığınak    |
+| **2**   | Akıl Hastanesi| Kutsal Topraklar Üzerine İnşa Edilmiş |
+| **3**   | Pazar         | Güçlü Bir Eser İçerir            |
+| **4**   | İşaret Kulesi | Önceki Sakinler Tarafından Lanetlenmiş |
+| **5**   | Sığınak       | Harap Binalar                   |
+| **6**   | Kulübe        | Güvensiz Sakinler               |
+| **7**   | Kamp Alanı    | Hiçbir Haritada Görünmez        |
+| **8**   | Lonca Binası  | Yasadışı Operasyonlar İçin Cephe |
+| **9**   | Darülaceze    | Ünlü Bir Zanaatkara Ev Sahipliği Yapar |
+| **10**  | Av Köşkü      | Ayrıntılı Savunmalarıyla Bilinir |
+| **11**  | Han           | Sakinleri Kusur Derecesinde Kanunidir |
+| **12**  | Gözlemevi     | Sakinleri Aşırı Derecede Resmidir |
+| **13**  | Rezervuar     | Dışarıdakilere Yasaktır         |
+| **14**  | Sanatoryum    | Dışarıdakiler Silah Taşıyamaz  |
+| **15**  | Sığınak       | Yasadışı Bir Ticaret Yolunun Parçası |
+| **16**  | Tapınak       | Popüler Hac Destinasyonu        |
+| **17**  | Mabed         | Güçlü Bir Nesneyi Korur         |
+| **18**  | Ticaret Merkezi| Münzevi Sakinler               |
+| **19**  | Gözetleme Kulesi| Doğal Yatakların Üzerinde Oturur |
+| **20**  | Çalışma Kampı | Teknolojik Olarak Gelişmiş      |
 
-### Curiosities
+### Meraklar (Curiosities)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                    |                        |
 | ------- | ------------------ | ---------------------- |
-| **d20** | **Curiosities**    | **Feature**            |
-| **1**   | Ancient Tree       | Abandoned Vessel       |
-| **2**   | Broken Tower       | Ancient Trash Heap     |
-| **3**   | Buried Megalith    | Buried Ley Line        |
-| **4**   | Collapsed Mill     | Buried Library         |
-| **5**   | Cracked Bell       | Carnivorous Plants     |
-| **6**   | Crystal Spire      | Celestial Mirror       |
-| **7**   | Dripping Archway   | Cult Ritual Site       |
-| **8**   | Echoing Fields     | Edible Fungus          |
-| **9**   | Enormous Fist      | Floating Debris        |
-| **10**  | Enormous Footprint | Hidden Market          |
-| **11**  | Floating Island    | Illusory               |
-| **12**  | Frozen Graveyard   | Impossible Music       |
-| **13**  | Hanging Bridges    | Infested With Vermin   |
-| **14**  | Illegible Signpost | Irregular Gravity      |
-| **15**  | Leviathan Skeleton | Isolated Weather       |
-| **16**  | Oddly-Shaped Lake  | Only Appears at Night  |
-| **17**  | Petrified Trees    | Perpetual Mist         |
-| **18**  | Purple Geysers     | Perpetual Shadows      |
-| **19**  | Singing Stones     | Site of Ancient Battle |
-| **20**  | Sunken City        | Unstable Ground        |
+| **d20** | **Merak**          | **Özellik**            |
+| **1**   | Kadim Ağaç         | Terk Edilmiş Gemi      |
+| **2**   | Kırık Kule         | Kadim Çöp Yığını       |
+| **3**   | Gömülü Megalit     | Gömülü Ley Hattı       |
+| **4**   | Çökmüş Değirmen    | Gömülü Kütüphane       |
+| **5**   | Çatlak Çan         | Etçil Bitkiler         |
+| **6**   | Kristal Kule       | Göksel Ayna            |
+| **7**   | Damlayan Kemer     | Tarikat Ritüel Alanı   |
+| **8**   | Yankılanan Tarlalar| Yenilebilir Mantar     |
+| **9**   | Devasa Yumruk      | Yüzen Enkaz           |
+| **10**  | Devasa Ayak İzi    | Gizli Pazar            |
+| **11**  | Yüzen Ada          | Yanılsamalı            |
+| **12**  | Donmuş Mezarlık    | İmkansız Müzik         |
+| **13**  | Asılı Köprüler     | Haşere İstilası        |
+| **14**  | Okunaksız Yön Levhası| Düzensiz Yerçekimi   |
+| **15**  | Leviathan İskeleti | İzole Hava Durumu      |
+| **16**  | Tuhaf Şekilli Göl  | Sadece Geceleri Görünür|
+| **17**  | Taşlaşmış Ağaçlar  | Sürekli Sis            |
+| **18**  | Mor Gayzerler      | Sürekli Gölgeler       |
+| **19**  | Şarkı Söyleyen Taşlar| Kadim Savaş Alanı     |
+| **20**  | Batık Şehir        | Dengesiz Zemin         |
 
-### Lairs
+### İnler (Lairs)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                     |                     |
 | ------- | ------------------- | ------------------- |
-| **d20** | **Lair**            | **Feature**         |
-| **1**   | Abandoned Tower     | Abandoned           |
-| **2**   | Ancient Prison      | At Crossroads       |
-| **3**   | Collapsed Mine      | Baited Entrance     |
-| **4**   | Colossal Hive       | Bioluminescence     |
-| **5**   | Crashed Ship        | Constant Screaming  |
-| **6**   | Crumbling Fort      | Entry Forbidden     |
-| **7**   | Dry Aqueduct        | Faction Hideout     |
-| **8**   | Enormous Stump      | Hidden Exit         |
-| **9**   | Forgotten Graveyard | Odd Machinery       |
-| **10**  | Hidden Burrow       | Piles of Bones      |
-| **11**  | Hollow Obelisk      | Previously Occupied |
-| **12**  | Overgrown Garden    | Religious Graffiti  |
-| **13**  | Primeval Menhirs    | Scattered Traps     |
-| **14**  | Primitive Bridge    | Scavengers Prowl    |
-| **15**  | Rotted Mill         | Signs Posted        |
-| **16**  | Ruined Town         | Something Sleeps    |
-| **17**  | Rusted Construct    | Symbiotic Entity    |
-| **18**  | Spiked Cave         | Training Camp       |
-| **19**  | Sunken Grotto       | Underwater          |
-| **20**  | Unruly Copse        | Waste Pit           |
+| **d20** | **İn**              | **Özellik**         |
+| **1**   | Terk Edilmiş Kule   | Terk Edilmiş        |
+| **2**   | Kadim Hapishane     | Kavşak Noktasında   |
+| **3**   | Çökmüş Maden        | Yemli Giriş         |
+| **4**   | Devasa Kovan        | Biyolüminesans      |
+| **5**   | Düşmüş Gemi         | Sürekli Çığlık      |
+| **6**   | Yıkılmakta Olan Kale| Giriş Yasak         |
+| **7**   | Kuru Su Kemeri      | Hizip Saklanma Yeri |
+| **8**   | Devasa Kütük        | Gizli Çıkış         |
+| **9**   | Unutulmuş Mezarlık  | Garip Makineler     |
+| **10**  | Gizli Oyuk          | Kemik Yığınları     |
+| **11**  | İçi Boş Dikilitaş   | Önceden İşgal Edilmiş|
+| **12**  | Aşırı Büyümüş Bahçe | Dini Grafitiler     |
+| **13**  | İlkel Menhirler     | Dağınık Tuzaklar    |
+| **14**  | İlkel Köprü         | Leşçiler Sinsi Gezer|
+| **15**  | Çürümüş Değirmen    | Tabelalar Asılı     |
+| **16**  | Harap Şehir         | Bir Şey Uyuyor      |
+| **17**  | Paslı Yapı         | Simbiyotik Varlık   |
+| **18**  | Sivri Mağara        | Eğitim Kampı        |
+| **19**  | Batık Obruk         | Sualtı              |
+| **20**  | Asi Koruluk         | Atık Çukuru         |
 
-### Dungeons
+### Zindanlar (Dungeons)
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
-| **d20** | **Type**      | **Feature**  |
-| **1**   | Burial Ground | Abandoned    |
-| **2**   | Cave          | Buried       |
-| **3**   | Cellar        | Burnt        |
-| **4**   | Crypt         | Clockwork    |
-| **5**   | Den           | Collapsed    |
-| **6**   | Estate        | Crumbling    |
-| **7**   | Fort          | Crystalline  |
-| **8**   | Great Hall    | Floating     |
-| **9**   | Laboratory    | Flooded      |
-| **10**  | Manor         | Fungal       |
-| **11**  | Mine          | Inverted     |
-| **12**  | Outpost       | Isolated     |
-| **13**  | Palace        | Mirrored     |
-| **14**  | Prison        | Otherworldly |
-| **15**  | Ruined City   | Overgrown    |
-| **16**  | Stronghold    | Petrified    |
-| **17**  | Temple        | Remote       |
-| **18**  | Tomb          | Sealed       |
-| **19**  | Tower         | Toxic        |
-| **20**  | Workshop      | Warped       |
+| **d20** | **Tür**       | **Özellik**  |
+| **1**   | Mezar Alanı   | Terk Edilmiş  |
+| **2**   | Mağara        | Gömülü        |
+| **3**   | Mahzen        | Yanmış        |
+| **4**   | Kripta        | Mekanik       |
+| **5**   | İn            | Çökmüş        |
+| **6**   | Malikane      | Yıkılmakta    |
+| **7**   | Kale          | Kristal       |
+| **8**   | Büyük Salon   | Yüzen         |
+| **9**   | Laboratuvar   | Sular Altında |
+| **10**  | Köşk          | Mantarlı      |
+| **11**  | Maden         | Ters         |
+| **12**  | Karakol       | İzole         |
+| **13**  | Saray         | Aynalı        |
+| **14**  | Hapishane     | Başka Dünyaya Ait |
+| **15**  | Harap Şehir   | Aşırı Büyümüş |
+| **16**  | Kuvvetli nokta| Taşlaşmış     |
+| **17**  | Tapınak       | Uzak          |
+| **18**  | Mezar         | Mühürlü       |
+| **19**  | Kule          | Zehirli       |
+| **20**  | Atölye        | Çarpıtılmış   |
 
-> See the [Dungeon Seeds](/second-edition/wardens-guide/dungeon-seeds) chapter for how to flesh out each Dungeon POI for your setting.
+> Ortamınız için her Zindan İN'yi nasıl detaylandıracağınızı görmek için [Zindan Tohumları](/second-edition/wardens-guide/dungeon-seeds) bölümüne bakın.
 
-## Paths
+## Yollar (Paths)
 
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, where factors such as safety, speed, and travel difficulty must be weighed. 
+**Yollar**, harita üzerinde coğrafi bağlayıcılar olarak işlev görür; sık kullanılan yollardan ve patikalardan zorlu vahşi doğa rotalarına kadar uzanır. Yollar, güvenlik, hız ve seyahat zorluğu gibi faktörlerin tartılması gereken İN'ler arasında ilgi çekici seçimler sunmalıdır.
 
-### Path Types
+### Yol Türleri
 
-- **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
-- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked or require specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **Standart** yollar, iki İN arasındaki bariz veya sık kullanılan rotalardır. _Kalın bir çizgi ile temsil edilir._
+- **Gizli** yollar, bilinen haritaların hiçbirinde görünmez. Keşfedilmeleri her zaman bir tür bedel gerektirir. _Kesikli çizgi ile temsil edilir._
+- **Koşullu** yollar engellenmiş olabilir veya geçmek için özel araçlar (tekneler, tırmanış ekipmanı vb.) gerektirir. Diğerleri bir harita veya rehber olmadan gezinmek imkansız bile olabilir. _Üzeri çizili çizgi ile temsil edilir._
 
-### Draw Paths
+### Yolları Çiz
 
-- Starting with the Heart, create 1-4 paths between each location. 
-  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. Indicate this in your notebook under the originating POI or in a separate section.  
-- Decide whether a path represents a road, a trail, or a wilderness route, and write the results in your notebook.
-- Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
-- Determine the path distances between POIs, and note the duration on the map:
-  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
-  - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
-  - For Trails, add 1 more Watch, and for Wilderness routes, add 2 additional Watches.
+- Kalp'ten başlayarak, her konum arasında 1-4 yol oluşturun.
+  - İN'ler arasında döngüler, dallanan yollar, çıkmaz sokaklar ve kestirmeler oluşturun.
+  - Bazı yollar bir zincirin parçası olabilir ve belirli bir araziye (dağ geçitleri, nehirler vb.) bağlı olabilir.
+  - Bazı yollar Koşulludur, üzeri çizili çizgi ile temsil edilir.
+  - Bazı yollar Gizlidir, kesikli çizgi ile temsil edilir.
+- Her yolu, bir İN'nin numarasını ve bağlantı noktasını kullanarak belirtin, örn. 1 &harr; 3. Bunu, kaynak İN'nin altında veya ayrı bir bölümde defterinizde belirtin.
+- Bir yolun bir yolu, bir patikayı veya bir vahşi doğa rotasını temsil edip etmediğine karar verin ve sonuçları defterinize yazın.
+- Her yol için [Yol Özellikleri](#yol-özellikleri) tablosunda zar atın, sonuçları defterinize yazın.
+- İN'ler arasındaki yol mesafelerini belirleyin ve süreyi haritada not edin:
+  - Bir Nöbet (Watch) 8 saat uzunluğundadır. Mümkün olduğunda İN'ler arasındaki günleri belirtin (tipik olarak iki Nöbet ve seyahat günü başına bir dinlenme).
+  - İN'ler arasında kısa mesafe bir Nöbet, orta mesafe iki Nöbet ve uzun mesafe üç Nöbet sürer.
+  - Patikalar için +1 Nöbet, Vahşi Doğa rotaları için +2 Nöbet ekleyin.
 
-### Path Features
+### Yol Özellikleri
 
-Roll 1d20 for each column and combine the results.
+Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                       |                              |
 | ------- | --------------------- | ---------------------------- |
-| **d20** | **Feature**           | **Condition**                |
-| **1**   | Abandoned Fields      | Bandit Ambushes              |
-| **2**   | Blood-Red             | Blocked by Giant Boulder     |
-| **3**   | Buried Charms         | Collapsed Bridge             |
-| **4**   | Cattle Prints         | Confusing to Navigate        |
-| **5**   | Constant Patrols      | Dense Bramble                |
-| **6**   | Dead Vegetation       | Divided by Political Dispute |
-| **7**   | Disappearing          | Erratic Weather              |
-| **8**   | Diseased Animals      | Frequent Flash Floods        |
-| **9**   | Follows the Stars     | Gets Extremely Cold          |
-| **10**  | Frequent Pilgrims     | Heavy Toll Required          |
-| **11**  | Massive Grooves       | Labyrinthine Canyons         |
-| **12**  | Mile Markers          | Night Predators              |
-| **13**  | Mineral Flecks        | Occasional Stampedes         |
-| **14**  | Newly Made            | Overcrowded                  |
-| **15**  | Overgrown             | Passes over Rapids           |
-| **16**  | Rusted Tools          | Poisonous Fruit              |
-| **17**  | Shriveled Away        | Smoke-filled                 |
-| **18**  | Shredded              | Steep Climb                  |
-| **19**  | Twisted               | Thick Evening Mist           |
-| **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
+| **d20** | **Özellik**           | **Koşul**                    |
+| **1**   | Terk Edilmiş Tarlalar | Haydut Pusuları              |
+| **2**   | Kan Kırmızısı         | Dev Kaya Tarafından Engellenmiş|
+| **3**   | Gömülü Tılsımlar      | Çökmüş Köprü                 |
+| **4**   | Sığır İzleri          | Gezinmesi Kafa Karıştırıcı   |
+| **5**   | Sürekli Devriyeler    | Yoğun Dikenlik               |
+| **6**   | Ölü Bitki Örtüsü      | Siyasi Anlaşmazlıkla Bölünmüş|
+| **7**   | Kaybolan              | Düzensiz Hava Durumu         |
+| **8**   | Hastalıklı Hayvanlar  | Sık Şiddetli Seller          |
+| **9**   | Yıldızları Takip Eder | Çok Soğuk Olur               |
+| **10**  | Sık Hacılar           | Ağır Geçiş Ücreti Gerekli    |
+| **11**  | Devasa Oluklar        | Labirentimsi Kanyonlar       |
+| **12**  | Mil İşaretleri        | Gece Yırtıcıları             |
+| **13**  | Mineral Parçacıkları  | Ara Sıra İzdiham            |
+| **14**  | Yeni Yapılmış         | Aşırı Kalabalık              |
+| **15**  | Aşırı Büyümüş         | Akıntıların Üzerinden Geçer  |
+| **16**  | Paslı Araçlar         | Zehirli Meyve                |
+| **17**  | Kuruyup Kaybolmuş     | Dumanla Dolu                 |
+| **18**  | Parçalanmış           | Dik Tırmanış                 |
+| **19**  | Bükülmüş              | Kalın Akşam Sisi             |
+| **20**  | Her Yerde Ayak İzi    | Engebeli, Sulu Zemin         |
 
-### Put It All Together
+### Hepsini Bir Araya Getirin
 
-Ask yourself the following questions:
+Kendinize şu soruları sorun:
 
-- What would draw people to this region? What keeps them here?
-- How do the people here think of outsiders? How do outsiders think of them?
-- What power do the Factions have over the people who live here?
-- Who or what threatens their agendas?
-- How would a faction interact with any newcomers (e.g. an adventuring party)?
-- How does the region's terrain and weather affect the people that live here? 
+- İnsanları bu bölgeye çekecek olan nedir? Onları burada tutan nedir?
+- Buradaki insanlar dışarıdakileri nasıl düşünüyor? Dışarıdakiler onları nasıl düşünüyor?
+- Hiziplerin burada yaşayan insanlar üzerinde ne gücü var?
+- Onların gündemlerini kim veya ne tehdit ediyor?
+- Bir hizip, herhangi bir yeni gelenle (örneğin bir macera ekibi) nasıl etkileşime girerdi?
+- Bölgenin arazisi ve hava durumu burada yaşayan insanları nasıl etkiliyor?
 
-You should now have a sufficient idea about the people and terrain of this region, and your first region is now complete. To expand your realm, repeat the process as many times as you wish.
+Artık bu bölgenin insanları ve arazisi hakkında yeterli bir fikriniz olmalı ve ilk bölgeniz tamamlanmıştır. Diyarınızı genişletmek için süreci istediğiniz kadar tekrarlayın.
 
-For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
+Örneğin, sonuçlarım dindar ve dönüştürmeyi amaçlayan bir halkı tanımlıyorsa, bunların gururlu, dini aşırılıklara ve misyonerliğe yatkın bir halk olduğunu varsayardım. Ve birincil kaynakları toprak iken baharatlar nadirse, kendi yiyeceklerini yetiştirdiklerini, ancak dini bir yasak nedeniyle mutfaklarının genellikle tatsız olduğunu varsayardım.
 
-Presume that for a faction the result was a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
- 
-Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in an important place such as the region's **Heart**.
+Bir hizip için sonucun Göçebeler, birincil avantajlarının ise inanç olduğunu varsayalım. O zaman seçkinlerinin bir sınıf dini şef olduğunu varsayabilirim. Hizbin gündemi nadir bir kaynak yetiştirmek olsaydı, ancak kültürel tabular tarafından engellenselerdi, bunun yerine bu görevi partiye yaptırmak için onları işe aldıklarına karar verebilirdim. Belki de görevlerinin nesnesi, yalnızca uzak bir yerde yetişen eşsiz bir bitkiydi ve görevin gizli kalması gerekiyordu!
+
+Son olarak, parti hizip ajanlarından biriyle karşılaşacaktı: seyyar satıcı kılığına girmiş bir casus. Bitkinin nerede yetiştiğini ve nasıl yetiştirileceğini ancak o söyleyebilirdi. Bu kişinin bölgenin **Kalp**'i gibi önemli bir yerde görünmesi gerektiğini aklımda tutuyorum.
