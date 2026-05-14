@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dungeon Exploration
+title: Zindan Keşfi
 parent: Warden's Guide 
 grand_parent: Second Edition
 ---

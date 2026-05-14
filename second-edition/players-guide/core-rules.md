@@ -17,31 +17,31 @@ grand_parent: Second Edition
 
 ## Zarlar
 
-- Zar, riskli seçimlerden kaynaklanan olumsuz sonuçlardan kaçınmak için yapılan bir atıştır. Karakterler bir z20 atar ve sonucu uygun nitelikle karşılaştırır. Eğer nitelik değerine eşit veya altında bir sayı gelirse başarılı olur. Aksi halde başarısız olur. 1 her zaman başarı, 20 her zaman başarısızlıktır.
+- Zar, riskli seçimlerden kaynaklanan olumsuz sonuçlardan kaçınmak için yapılan bir atıştır. Karakterler bir z20 atar ve sonucu uygun nitelikle karşılaştırır. Eğer nitelik değerine eşit veya altında bir sayı gelirse başarılı olur. Aksi halde başarısız olur. 1 her zaman başarı, 20 her zaman başarısızlıktır karakterin istatistiklerinden ve durumlardan bağımsız olarak.
 - İki rakip birbirini alt etmeye çalışıyorsa, en çok risk altında olan zar atmalıdır.
-- İki karakterin birlikte bir eylem yapması gerekiyorsa, en çok risk altında olan zar atmalıdır (genellikle ilgili niteliği en düşük olan karakter).
+- İki karakterin birlikte bir eylem yapması gerekiyorsa, en çok risk altında olan zar atmalıdır (genellikle ilgili Niteliği en düşük olan karakter).
 
 ## İyileşme & Kurtarma
 
-- Birkaç an dinlenmek ve bir yudum su içmek kaybedilen HK'yı geri kazandırır ancak grubu riske atabilir. Sargı bezleri, kritik hasar almış bir karakteri stabilize edebilir.
-- Nitelik kaybı (bkz. **Kritik Hasar**) genellikle bir şifacı veya uygun başka bir uzmanlık kaynağı tarafından kolaylaştırılan bir haftalık dinlenme ile geri kazanılabilir.
+- Biraz dinlenmek ve bir yudum su içmek kaybedilen HK'yı geri kazandırır ancak grubu riske atabilir. Sargı bezleri, kritik hasar almış bir karakteri stabilize edebilir.
+- Nitelik kaybı (bkz. **Kritik Hasar**) genellikle bir şifacı veya uygun başka bir uzmanlık kaynağı tarafından kolaylaştırılan bir haftalık dinlenme ile geri kazanılabilir. Bunu seans sonlarına denklemek isteyebilirsiniz.
 - Bazı iyileştirme hizmetleri ücretsizdir, ancak büyülü veya daha hızlı kurtarma yöntemleri bir bedel gerektirebilir.
 
 ## Bitkinlik & Yorgunluk
 
-- Kritik bir ihtiyaçtan (yiyecek veya dinlenme gibi) yoksun olan bir PC **Bitkin** durumundadır. **Bitkin** olan herhangi biri bir günden fazla süreyle, her gün için envanterine **Yorgunluk** ekler. **Bitkin** bir PC, HP'sini, Niteliklerini veya **Yorgunluk**tan kaynaklanan eşya yuvalarını geri kazanamaz.
+- Kritik bir ihtiyaçtan (yiyecek veya dinlenme gibi) yoksun olan bir PC **Bitkin** durumundadır. **Bitkin** geçen hergün için PC envaterine **Yorgunluk** ekler. **Bitkin** bir PC, HK'sını, Niteliklerini veya **Yorgunluk**tan kaynaklanan eşya yuvalarını geri kazanamaz. 
 - Bir PC ayrıca büyü yaptıktan sonra veya kurguda meydana gelen olaylar nedeniyle **Yorgunluk** eklemek zorunda kalabilir. Her Yorgunluk bir yuva kaplar ve PC iyileşene kadar (örneğin güvenli bir yerde tam bir gece uykusuyla) sürer.
 - Bir karakter envanterine **Yorgunluk** eklemek zorunda kalırsa ancak boş yuvası yoksa, envanterinden bir eşya düşürmelidir.
 
 ## Zırh
 
-- HK'ya hasar hesaplanmadan önce, hasar zarlarının sonucundan hedefin **Zırh** değerini çıkar.
+- HK'ya hasar hesaplanmadan önce, hasar zarlarının sonucundan hedefin **Zırh** değerini çıkart.
 - Kalkanlar ve benzeri zırhlar ekstra bir savunma bonusu sağlar (örneğin +1 Zırh), ancak yalnızca eşya tutulduğu veya giyildiği sürece. Bazıları ayrıca kurguya bağlı olarak ek avantajlar da sağlayabilir.
 - Bir PC, NPC veya canavar 3'ten fazla Zırha sahip olamaz.
 
 ## Tepkiler
 
-PC'ler, partiye tepkisi belli olmayan bir NPC ile karşılaştığında, Muhafız 2z6 atar ve aşağıdaki tabloya bakabilir:
+PC'ler, partiye tepkisi belli olmayan bir NPC ile karşılaştığında, Muhafız 2d6 atar ve aşağıdaki tabloya bakabilir:
 
 |          |        |         |        |           |
 | :------: | :----: | :-----: | :----: | :-------: |
@@ -50,18 +50,18 @@ PC'ler, partiye tepkisi belli olmayan bir NPC ile karşılaştığında, Muhafı
 
 ## Moral
 
-- Düşmanlar, ilk zayiatı verdiklerinde ve sayılarının yarısını kaybettiklerinde kaçmaktan kaçınmak için bir İRADE zarı atmalıdır.
-- Bazı gruplar kendi liderlerinin İRADE'ini kendi İRADE'leri yerine kullanabilir. Yalnız düşmanlar, 0 HP'ye düştüklerinde zar atmalıdır.
+- Düşmanlar, ilk zayiatı verdiklerinde ve sayılarının yarısını kaybettiklerinde savaşmaya devam etmek ve kaçmamak için bir İRADE zarı atmalıdır.
+- Bazı gruplar kendi liderlerinin İRADE'ini kendi İRADE'leri yerine kullanabilir. Yalnız savaşan düşmanlar, 0 HK'ya düştüklerinde zar atmalıdır.
 - Moral, PC'leri etkilemez.
 ## Paralı Askerler
 
 - Maceracı grupları, seferlerde yardımcı olmaları için paralı askerler tutabilir, onların benzersiz becerilerine, bilgilerine ve eğitimlerine güvenebilir.
-- Bir paralı asker oluşturmak için, Pazar'daki [Paralı Askerler](/second-edition/players-guide/marketplace#paralı-askerler-günlük) tablosundan uygun bir rol seçin. Her nitelik için 3z6 ve HK'ları için 1z6 atın. Konumlarına uygun **ekipman** verin, ardından onları daha da detaylandırmak için Karakter Özellikleri tablolarında zar atın.
+- Bir paralı asker oluşturmak için, Pazar'daki [Paralı Askerler](/second-edition/players-guide/marketplace#paralı-askerler-günlük) tablosundan uygun bir rol seçin. Her nitelik için 3d6 ve HK'ları için 1d6 atın. Konumlarına uygun **ekipman** verin, ardından onları daha da detaylandırmak için Karakter Özellikleri tablolarında zar atın.
 - Alternatif olarak, [Karakter Yaratım](/second-edition/players-guide/character-creation) kılavuzundan uygun bir [**geçmiş**](/second-edition/players-guide/character-creation#geçmişler) ve **isim** seçin. O geçmişe ait tablolarda zar atın (veya seçim yapın). Ardından Konsantre Yiyecek, Altın Sikke, Nitelikler, HK ve yaş için zar atın.
 
 ## Kader Zarı
 
-- Bir olayın sonucunun belirsiz olduğu durumlarda veya rastlantı ve şans unsurunu simüle etmek için isteğe bağlı olarak 1z6 atın.
+- Bir olayın sonucunun belirsiz olduğu durumlarda veya rastlantı ve şans unsurunu oyuna dahil etmek için isteğe bağlı olarak 1d6 atın.
 - 4 veya daha yüksek bir atış genellikle PC'lerin lehineyken, 3 veya altı bir atış genellikle PC'ler için kötü şans anlamına gelir.
 
 ## Çatışma
@@ -74,25 +74,25 @@ PC'ler, partiye tepkisi belli olmayan bir NPC ile karşılaştığında, Muhafı
 
 ### Eylemler
 
-Bir karakter kendi sırasında, 12 metreye kadar hareket edebilir ve en fazla bir eylem gerçekleştirebilir. Bu bir büyü yapmak, saldırmak, ikinci kez hareket etmek veya başka makul bir eylem olabilir. Her turda, PC'ler zar atılmadan önce ne yapacaklarını beyan ederler. Bir karakter riskli bir şey denerse, Muhafız uygun oyuncular veya NPC'ler için zar atmalarını ister.
+Bir karakter kendi sırasında, 12 metreye kadar hareket edebilir ve en fazla bir eylem gerçekleştirebilir. Bu bir büyü yapmak, saldırmak, ikinci kez hareket etmek veya başka makul bir eylem olabilir. Her turda, PC'ler zar atılmadan önce ne yapacaklarını beyan ederler. Bir karakter riskli bir şey denerse, Muhafız uygun oyuncular veya NPC'ler için kurtarma zarı atmalarını ister.
 
 ### Saldırı ve Hasar
 
-- Saldırgan, silah zarını atar ve hedefin zırhını çıkarır, ardından kalan toplamı rakibinin HK'sına verir. Çatışmadaki saldırılar otomatik olarak isabet eder.
+- Saldırgan, silah zarını atar ve hedefin zırh değerini attığı zardar çıkartır, ardından kalan toplamı rakibinin HK'sına verir. Çatışmadaki saldırılar otomatik olarak isabet eder. Yani hasarın alınıp alınmadığına dair bir zar atılmaz.
 - Birden fazla saldırgan aynı düşmanı hedef alırsa, tüm hasar zarlarını atın ve en yüksek tek sonucu tutun. Tüm eylemler, çözümlenmeden önce beyan edilir.
-- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, nasıl benzersiz şekilde etkilendiklerini görmek için [Yaralar](#yaralar-tablosu) tablosuna bakın.
+- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, nasıl etkilendiklerini görmek için [Yaralar](#yaralar-tablosu) tablosuna bakın.
 
-### Saldırı Değiştiricileri
+### Saldırı Niteleyicileri
 
-- Zayıf bir konumdan savaşıyorsanız (örneğin siper arkasından veya elleri bağlıyken), saldırı _Zayıflamış_ olur ve saldırgan, saldırının hasar zarı ne olursa olsun 1z4 hasar atmalıdır. Silahsız saldırılar her zaman d4 hasar verir.
-- Avantajlı bir konumdan savaşıyorsanız (örneğin çaresiz bir düşmana karşı veya cesur bir manevrayla), saldırı _Güçlenmiş_ olur ve saldırganın normal zarı yerine 1z12 hasar atmasına izin verir.
+- Zayıf bir konumdan savaşıyorsanız (örneğin siper arkasından veya elleri bağlıyken), saldırı _Zayıflamış_ olur ve saldırgan, saldırının hasar zarı ne olursa olsun 1d4 hasar atmalıdır. Silahsız saldırılar her zaman 1d4 hasar verir.
+- Avantajlı bir konumdan savaşıyorsanız (örneğin çaresiz bir düşmana karşı veya cesur bir manevrayla), saldırı _Güçlenmiş_ olur ve saldırganın normal zarı yerine 1d12 hasar atmasına izin verir.
 - _Patlama_ özelliğine sahip saldırılar, belirtilen alandaki tüm hedefleri etkiler ve etkilenen her karakter için ayrı ayrı zar atılır. Bu, patlamalardan bir ejderhanın nefesine veya bir göktaşının çarpmasına kadar her şey olabilir. Kaç hedefin etkilenebileceğinden emin değilseniz, _bir sonuç için ilgili hasar zarını atın_.
 - Aynı anda iki silahla saldırıyorsanız, her iki hasar zarını da atın ve en yüksek tek sonucu tutun (artı sembolüyle gösterilir, örn. d8+d8).
 
 ### Kritik Hasar
 
-- Bir hedefin HK'sını sıfırın altına düşüren hasar, kalan hasar miktarı kadar _GÜÇ'ünden çıkarılır_. Hedef, _yeni GÜÇ puanını_ kullanarak **Kritik Hasar** almaktan kaçınmak için hemen bir GÜÇ zarı atmalıdır. Başarılı olursa, hedef hâlâ dövüştedir (daha düşük bir GÜÇ puanıyla olsa da) ve hasar aldığında kritik hasar zarları atmaya devam etmelidir.
-- Kritik Hasar alan herhangi bir PC, zayıfça sürünerek hayata tutunmaktan başka bir şey yapamaz. Yardım alırsa (sargı bezi gibi) stabilize olur. Tedavi edilmezse, bir saat içinde ölür. Kritik Hasar zarını başarısız kılan NPC'ler ve canavarlar, **Muhafız**'ın takdirine bağlı olarak ölü sayılır. Ek olarak, bazı düşmanlar, hedefleri kritik hasar zarını başarısız kıldığında tetiklenen özel yeteneklere veya etkilere sahiptir.
+- Bir hedefin HK'sını sıfırın altına düşüren hasar, kalan hasar miktarı kadar _GÜÇ'ünden çıkarılır_. Hedef, _yeni GÜÇ puanını_ kullanarak **Kritik Hasar** almaktan kaçınmak için hemen bir GÜÇ kurtarma zarı atmalıdır. Başarılı olursa, hedef hâlâ dövüştedir (daha düşük bir GÜÇ puanıyla olsa da) ve hasar aldığında kritik hasar zarları atmaya devam etmelidir.
+- **Kritik Hasar** alan herhangi bir PC, zayıfça sürünerek hayata tutunmaktan başka bir şey yapamaz. Yardım alırsa (sargı bezi gibi) stabilize olur. Tedavi edilmezse, bir saat içinde ölür. Kritik Hasar zarını başarısız kılan NPC'ler ve canavarlar, **Muhafız**'ın takdirine bağlı olarak ölü sayılır. Ek olarak, bazı düşmanlar, hedefleri kritik hasar zarını başarısız kıldığında tetiklenen özel yeteneklere veya etkilere sahiptir.
 
 ### Nitelik Kaybı
 
@@ -101,7 +101,7 @@ Bir karakter kendi sırasında, 12 metreye kadar hareket edebilir ve en fazla bi
 
 ### Karakter Ölümü
 
-- Bir karakter öldüğünde, oyuncu yeni bir karakter oluşturmalı veya bir paralı askerin kontrolünü almalıdır. Bekleme süresini azaltmak için hemen partiye katılırlar.
+- Bir karakter öldüğünde, oyuncu yeni bir karakter oluşturmalıdır ancak isterse partide bulunan paralı askerlerden birinin kontrolünü alabilir. 
 ### Müfrezeler
 
 - Birlikte savaşan büyük benzer savaşçı grupları tek bir _Müfreze_ olarak ele alınır. Bir _müfreze_ **Kritik Hasar** aldığında, bozguna uğrar veya önemli ölçüde zayıflar. STR’si 0’a ulaştığında yok edilir.
@@ -122,33 +122,8 @@ Bir PC’ye gelen hasar HK’sını tam olarak 0’a indiriyorsa, saldırıda _k
 
 ### Yaralar Tablosu
 
-|                |                                                                                                                                                                                                                                                                           |
-| -------------- | ------------------------
-## Magic
-
-### Spellbooks 
-
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
-
-### Casting Spells
-
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
-
-### Scrolls
-
-**Scrolls** are similar to Spellbooks, however:
-
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
-
-### Relics
-
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             |                                                                                                                                                                                                                                                      |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Kaybedilen HK** | **Sonuç**                                                                                                                                                                                                                                                                 |
 | 1              | Kalıcı Yara: 1d6 at. 1: Boyun, 2: Eller, 3: Göz, 4: Göğüs, 5: Bacaklar, 6: Kulak. 1d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                                                                                                             |
 | 2              | Sarsıcı Darbe: Şaşkın ve sarsılmış durumdasın. Nasıl yeniden odaklandığını betimle. 1d6 at. Toplam, maksimum HK’ndan yüksekse, yeni sonucu al.                                                                                                                           |
@@ -174,12 +149,12 @@ Bir PC’ye gelen hasar HK’sını tam olarak 0’a indiriyorsa, saldırıda _k
 ### Büyü Yapmak
 
 - Herkes, bir Büyü Kitabını iki eliyle tutarak ve içindekileri yüksek sesle okuyarak büyü yapabilir. Ardından envanterine bir **Yorgunluk** eklemelidir.
-- Zaman ve güvenlik verildiğinde, PC'ler bir büyünün etkisini _güçlendirebilir_ (örneğin birden fazla hedefi etkilemek, gücünü artırmak vb.) herhangi bir ek maliyet olmadan.
+- Güvenli bir yerde zaman verildiğinde, PC'ler bir büyünün etkisini _güçlendirebilir_ (örneğin birden fazla hedefi etkilemek, gücünü artırmak vb.) herhangi bir ek maliyet olmadan.
 - PC _bitkin_ ise veya tehlikedeyse (örneğin çatışma sırasında), Muhafız, PC'den büyüyü yapmanın olumsuz etkilerinden kaçınmak için bir İRADE zarı atmasını isteyebilir. Başarısızlığın sonuçları, amaçlanan etkiyle aynı düzeydedir ve ek **Yorgunluk**, Büyü Kitabının yok olması, yaralanma ve hatta ölümle sonuçlanabilir.
 
-### Tomarlar
+### Parşömenler
 
-**Tomarlar** Büyü Kitaplarına benzer, ancak:
+**Parşömenler** Büyü Kitaplarına benzer, ancak:
 
 - _Önemsizdirler_.
 - **Yorgunluk**a neden olmazlar.
@@ -187,4 +162,4 @@ Bir PC’ye gelen hasar HK’sını tam olarak 0’a indiriyorsa, saldırıda _k
 
 ### Kalıntılar
 
-**Kalıntılar**, büyülü bir büyü veya güçle yüklenmiş eşyalardır. Yorgunluğa neden olmazlar. Kalıntılar genellikle sınırlı kullanıma ve bir **Şarj etme** koşuluna sahiptir.
+**Kalıntılar**, büyülü veya güçle yüklenmiş eşyalardır. Yorgunluğa neden olmazlar. Kalıntılar genellikle sınırlı kullanıma ve bir **Şarj etme** koşuluna sahiptir.

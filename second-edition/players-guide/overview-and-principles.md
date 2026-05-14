@@ -15,17 +15,17 @@ Muhafız'ın rolü, tarafsız bir hakem gibi davranarak kuralları, durumları, 
 
 ### Sınıfsızlık
 
-Bir karakterin rolü veya becerileri tek bir sınıfla sınırlı değildir. Bunun yerine, taşıdıkları ekipman ve deneyimleri uzmanlık alanlarını tanımlar.
+Bir karakterin rolü veya becerileri tek bir sınıfla sınırlı değildir. Bunun yerine, taşıdıkları ekipman ve deneyimleri uzmanlık alanlarını tanımlar. Deneyimlerin içeriği hem karakterin **Geçmişi** hem de seanslarda yaşananlardır. 
 
 ### Ölüm
 
-Karakterler güçlü olabilir, ancak aynı zamanda hasarın birçok şekline karşı savunmasızdırlar. Ölüm her zaman köşeyi dönünce bekler, ancak asla rastgele veya uyarısız değildir.
+Karakterler güçlü olabilir, ancak aynı zamanda hasarın birçok şekline karşı savunmasızdırlar. Ölüm her zaman köşede bekler, ancak asla rastgele veya uyarısız değildir.
 
-### Kurgu Öncelikli
+### Önce Kurgu
 
 Zarlar her zaman bir engelin zorluğunu veya sonucunu yansıtmaz. Bunun yerine, başarı ve başarısızlık, dünya içi unsurlara dayanır ve Muhafız tarafından oyuncularla diyalog halinde karara bağlanır.
 
-### Büyüme
+### Gelişim
 
 Karakterler, tehlikeli olaylardan sağ kurtularak ve engelleri aşarak yeni beceriler ve yetenekler kazanarak, dünya içi ilerleme yoluyla değişirler.
 
@@ -62,13 +62,13 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 ### Konuşma
 
-- NPC'lere gerçek insanlarmış gibi davran ve güvenli bir şekilde bilgi edinmek ve sorunları çözmek için merakına güven.
+- NPC'lere gerçek insanlarmış gibi davran ve güvenli bir şekilde bilgi edinmek ve sorunları çözmek için merakının seni çıkaracağı yere güven.
 - Çoğu insanın ilginç olduğunu ve şiddete başvurmadan önce konuşarak işleri halletmek isteyeceğini göreceksin.
 
 ### Dikkat
 
-- Dövüşmek bir seçimdir ve nadiren akıllıca olandır; şiddetin hedeflerine ulaşmanın en iyi yolu olup olmadığını düşün.
-- Oranları kendi lehine çevirmeye çalış ve işler kötü göründüğünde geri çekil.
+- Dövüşmek verilen bir karardır, genellikle de mantıklı olan değildir; şiddetin hedeflerine ulaşmanın en iyi yolu olup olmadığını düşün.
+- Şansını kendi lehine çevirmeye çalış ve işler kötü göründüğünde geri çekil.
 
 ### Planlama
 
@@ -77,9 +77,9 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 ### Hırs
 
-- Hedefler belirle ve ilerlemek için kıt imkanlarını kullan.
-- Hiçbir şey bekleme. İtibarını kazan.
-- İşleri ileriye taşı ve ne olacağını görmek için oyna.
+- Hedefler belirle ve ilerlemek için az olan imkanlarını kullan.
+- Hiçbir şey bekleme. İtibarını kendin kazan.
+- İşleri ileriye taşı ve ne olacağını görmek için oynamaya başla.
 
 ## Muhafızlar için İlkeler
 
@@ -94,15 +94,15 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 - Sayılar ve mekanikler yerine bağlam ve gerçekçiliği temel al.
 - Oyuncuların yapmak istediği bir şey gerçekten imkansızsa, hiçbir zar onu yapmalarına izin vermez.
-- Oyuncunun betimlediği şey ve durumu nasıl kullandığı mantıklı mı? Gerçekleşmesine izin ver.
+- Oyuncunun betimlediği şey ve durumu nasıl kullandığı mantıklı mı? Gerçekleşmesine izin ver. Herhangi bir zar isteme onlardan.
 - Zarlar, çok sayıda belirsiz durumu kapsar ve genellikle riskli eylemler için gereken tek şeydir.
 
 ### Hazırlık
 
 - Oyun dünyası organik, esnek ve rastgeledir. Sezgiseldir ve keskin dönüşler yapar.
-- Hikayeler veya olay örgüleri değil, durumlar geliştirmek için rastgele tablolar ve oluşturucular kullan.
+- Hikayeler veya olay örgüleri değil, durumlar geliştirmek için Muhafız Rehberi ve bu kitaptaki rastgele tabloları kullan.
 - NPC'ler, PC'lerin ne söyleyip yaptığını ve dünyayı nasıl etkilediklerini hatırlar.
-- NPC'ler ölmek istemez. Her kişiliğe kendi çıkarlarını ve yaşama isteklerini aşıla.
+- NPC'ler ölmek istemez. Her kişiliğe kendi çıkarlarını ve yaşama isteklerini oluştur.
 
 ### Anlatı Odaklılık
 
@@ -112,10 +112,10 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 ### Tehlike
 
-- Oyun dünyası, oyuncu karakterleri için gerçek acı ve ölüm riski üretir.
+- Oyun dünyası, oyuncu karakterleri için gerçek acı ve ölüm riski demektir.
 - Mevcut olduğunda oyunculara ciddi tehlikeyi bildir. Ne kadar tehlikeliyse, o kadar belirgin olsun.
-- Tuzakları göz önüne koy ve oyuncuların bir çözüm bulmak için zaman ayırmasına izin ver.
-- Oyunculara sorunları çözmeleri ve dünyayla etkileşime girmeleri için fırsatlar ver.
+- Tuzakları oyuncularının gözlerinin önüne koy ve oyuncuların bir çözüm bulmak için zaman ayırmasına izin ver.
+- Oyunculara sorunları çözmeleri ve dünyayla etkileşime girmeleri için fırsatlar tanı.
 
 ### Hazine
 
@@ -128,11 +128,11 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 - Durum durağanlaştığında sonuçları zorlamak için oyunculara kesin bir seçim ver.
 - Niyetleri belirsiz olduğunda ikili "öyleyse A mı yoksa B mi?" yanıtlarını kullan.
-- Oyunu hareketli tutmak için bu konuşma yöntemini birlikte kullanın.
-- Oyuncu karakterlerinin eylemlerinin oyun dünyasında iz bırakmasını sağla.
+- Oyunu hareketli tutmak için bu ikili konuşma yöntemini birlikte kullanın.
+- Oyuncu karakterlerinin eylemlerinin oyun dünyasında iz bıraktığından emin ol.
 
 ### Kader Zarı
 
 - Zaman zaman rastgele bir unsur isteyeceksin (örneğin hava durumu, benzersiz karakter bilgisi vb.).
-- Bu durumlarda, 1z6 at. 4 veya daha yüksek bir atış genellikle oyuncuların lehinedir.
+- Bu durumlarda, 1d6 at. 4 veya daha yüksek bir atış genellikle oyuncuların lehinedir.
 - 3 veya altı bir atış ise genellikle PC'ler veya müttefikleri için kötü şans anlamına gelir.

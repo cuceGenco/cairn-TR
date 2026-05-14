@@ -20,11 +20,11 @@ grand_parent: Second Edition
 
 1. **Muhafız**, partinin çevresini ve acil tehlikeleri (çatışma, tuzaklar, sürprizler vb.) betimler. Oyuncular daha sonra karakterlerinin amaçlanan hareketlerini ve **eylemlerini** bildirir.
 2. Muhafız, her karakterin **eylemlerini** halihazırda devam eden **eylemlerle** birlikte eş zamanlı olarak çözer. Unutmayın, Kader Zarı Muhafız'ın kararsız kaldığı her an kullanışlı bir araç olabilir!
-3. Oyuncular herhangi bir kaynak kaybını ve yeni durumları (yani eşya kullanımı, _bitkinlik_ vb.) kaydeder. Döngü daha sonra yeniden başlar. Uygunsa, **Muhafız** [**Zindan Olayları**](#zindan-olayları) tablosunda zar atmalıdır. Sonuçları yorumlarken sağduyuyu elden bırakmayın!
+3. Oyuncular herhangi bir kaynak kaybını ve yeni durumları (yani eşya kullanımı, _bitkinlik_ vb.) kaydeder. Döngü daha sonra yeniden başlar. Eğer gerekli ise, **Muhafız** [**Zindan Olayları**](#zindan-olayları) tablosunda zar atmalıdır. Sonuçları yorumlarken sağduyuyu elden bırakmayın!
 
 ### Zindan Olayları
 
-Bir zindanı keşfetmek her zaman tehlikelidir ve zaman, her zaman mekanın sakinlerini, doğal tehlikeleri ve daha kötüsünü uyandırma riskine karşı tartılmalıdır.
+Bir zindanı keşfetmek her zaman tehlikelidir ve zaman, mekanın sakinlerini, doğal tehlikeleri ve daha kötüsünü uyandırma riskine karşı akılda tutulmalıdır.
 Parti:
 
 - Tek bir odada veya konumda bir zindan döngüsünden fazla zaman harcarsa
@@ -36,10 +36,10 @@ Parti:
 
 |       |                 |                                                                                                                       |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **1** |  **Karşılaşma** | Bir karşılaşma tablosunda zar at. Muhtemelen **düşmanca**. (Bkz. [Tepkiler](/second-edition/players-guide/core-rules#tepkiler).) |
+| **1** |  **Karşılaşma** | Bir karşılaşma tablosunda zar at. Muhtemelen **düşmanca**. (Bkz. [Tepkiler](/second-edition/players-guide/core-rules##Tepkiler).) |
 | **2** |    **İşaret**   | Bir ipucu, iz, patika, terk edilmiş in, koku, kurban vb. keşfedilir.                                                 |
-| **3** | **Çevre**       | Çevre değişir veya yükselir. Sular yükselir, tavanlar çöker, bir ritüel tamamlanmaya yaklaşır vb.                    |
-| **4** |    **Kayıp**    | Meşaleler söner, devam eden bir büyü söner vb. Parti devam etmeden önce etkiyi çözmelidir.                           |
+| **3** | **Çevre**       | Çevre değişir. Sular yükselir, tavanlar çöker, bir ritüel tamamlanmaya yaklaşır vb.                    |
+| **4** |    **Kayıp**    | Meşaleler söner, devam eden bir büyü sona erer vb. Parti devam etmeden önce etkiyi çözmelidir.                           |
 | **5** | **Tükenme**     | Parti dinlenmeli (bu tabloda başka bir zarı tetikler), bir **Yorgunluk** eklemeli veya bir konsantre yiyecek tüketmelidir. |
 | **6** |    **Sessizlik**| Parti bir süreliğine yalnız (ve güvende) bırakılır.                                                                   |
 
@@ -53,7 +53,7 @@ Parti:
 
 - Bir karakter, bir alandaki **bir** nesneyi veya konumu _kapsamlı_ bir şekilde aramak için bir **tur** harcayabilir ve ilgili gizli hazineleri, tuzakları, gizli kapıları vb. ortaya çıkarabilir.
 - Daha büyük odalar ve zorlu veya karmaşık zindan arazilerinin düzgün bir şekilde aranması birkaç **tur** alabilir.
-- Bir odayı _önce_ aramak, zindanı keşfetmenin daha güvenli bir yoludur, ancak dik bir bedeli vardır: zaman.
+- Bir odayı _önce_ aramak, zindanı keşfetmenin daha güvenli bir yoludur, ancak vahim bir bedeli vardır: zaman.
 
 #### Dinlenme
 
@@ -63,14 +63,10 @@ Parti:
 
 ## Panik
 
-<<<<<<< HEAD
-### Panic
-=======
 - Düşmanlarla çevrili, karanlığa gömülmüş veya en büyük korkularıyla yüzleşen bir karakter _panik_ yaşayabilir. Kontrolü kaybetmemek ve _panik_ olmamak için tipik olarak bir **İRADE** **zarı** gereklidir.
 - _Panik_ olan bir karakter, kendi **turunda** bir **eylem** olarak durumunun üstesinden gelmek için bir **İRADE** **zarı** atmalıdır.
-- _Panik_ olan bir karakterin **HP**'si 0'dır, çatışmanın ilk turunda hareket etmez ve tüm saldırıları _zayıflamıştır_.
+- _Panik_ olan bir karakterin **HK**'sı 0'dır, çatışmanın ilk turunda hareket etmez ve tüm saldırıları _zayıflamıştır_.
 ### Zindan Unsurları
->>>>>>> bd023327 (players guide done)
 
 #### Işık
 - Meşaleler ve diğer dairesel ışık kaynakları, 12 metrelik zindanı aydınlatır ve bunun ötesinde sadece nesnelerin loş bir taslağını gösterir. Meşaleler, bir karakter veya çevre tarafından söndürülene kadar dayanır.
@@ -79,7 +75,7 @@ Parti:
 
 #### Kapılar
 - Kapılar ve girişler kilitli, sıkışmış veya tamamen tıkalı olabilir. Karakterler mevcut kaynakları (sivri uçlar, tutkal) veya ham yeteneklerini kullanarak bir kapıyı zorla açmayı (veya kapatmayı) deneyebilir.
-- Partinin yürüyüş düzeni, bir kapının ardında ne olduğundan en çok kimin etkileneceğini belirler.
+- Partinin yürüyüş düzeni, kapının ardında ne olandan en çok kimin etkileneceğini belirler.
 - Bir karakter, dikkatli gözlem (dinleme, koklama vb.) yoluyla yakındaki kapı ve duvarların ardındaki yaşam belirtilerini ve diğer tehlikeleri tespit edebilir.
 
 #### Tuzaklar
@@ -94,15 +90,15 @@ Parti:
 - Her karakter, **nöbet** başına _bir_ [**Vahşi Doğa Eylemi**](#vahşi-doğa-eylemleri) seçebilir.
 - Karakterler ayrılırsa, her grup bağımsız bir varlık olarak ele alınır.
 
-### Noktalar
-- Haritadaki potansiyel varış noktalarına **nokta** denir.
-- Bir haritada iki **nokta** arasında seyahat etmek için, rotaya, araziye, havaya ve parti durumuna bağlı olarak bir veya daha fazla **nöbet** gerekebilir.
+### Konumlar
+- Haritadaki potansiyel varış noktalarına **konum** denir.
+- Bir haritada iki **konum** arasında seyahat etmek için, rotaya, araziye, havaya ve parti durumuna bağlı olarak bir veya daha fazla **nöbet** gerekebilir.
 - Parti, hedeflerine ulaşmak için gereken zorluklar hakkında kabaca bir fikre sahiptir, ancak nadiren ayrıntılı bilgiye sahiptir.
 
 ### Seyahat Süresi
 Cairn'de seyahat süresi, günde üç sekiz saatlik dilime bölünmüş nöbetlerle hesaplanır. Bununla birlikte, çoğu parti günün üçüncü nöbetini dinlenmeye ayırdığından, seyahat süresi için kısa olarak "gün" kullanılabilir.
 
-İki nokta arasındaki mesafeyi belirlemek için, rota boyunca bu unsurlardaki değişiklikleri dikkate alarak yol, arazi ve hava durumu zorluk tablolarındaki tüm cezaları birleştirin. Su yollarıyla seyahat için çevredeki arazi zorluğuna bakın. Özellikle geniş araziler için yolculuğa +2 nöbete kadar ceza ekleyin.
+İki konum arasındaki mesafeyi belirlemek için, rota boyunca bu unsurlardaki değişiklikleri dikkate alarak yol, arazi ve hava durumu zorluk tablolarındaki tüm cezaları birleştirin. Su yollarıyla seyahat için çevredeki arazi zorluğuna bakın. Özellikle geniş araziler için yolculuğa +2 nöbete kadar ceza ekleyin.
 
 Hava durumu, arazi, karanlık, yaralı parti üyeleri ve diğer engeller seyahati etkileyebilir, hatta imkansız hale getirebilir! Bazı durumlarda, partinin tempolarını sürdürmek için **Yorgunluk** eklemesi veya kaynaklarını harcaması gerekebilir. Binek hayvanları, rehberler ve haritalar partinin seyahat hızını artırabilir veya hatta belirli cezaları geçersiz kılabilir.
 
@@ -129,7 +125,7 @@ Hava durumu, arazi, karanlık, yaralı parti üyeleri ve diğer engeller seyahat
 | **Zorluk**     | **Arazi**                     | **Ceza**    | **Faktörler**                                                                                                     |
 | **Kolay**      | **Ovalar, platolar, vadiler** | Yok         | _Dinlenmek için güvenli alanlar, yol arkadaşları, iyi görüş_                                                        |
 | **Zorlu**      | **Ormanlar, çöller, tepeler** | +1 Nöbet    | _Vahşi hayvanlar, su baskınları, kırık ekipmanlar, düşen kayalar, güvensiz barınaklar, avcı tuzakları_             |
-| **Tehlikeli**  | **Dağlar, ormanlar, bataklık**| +2 Nöbet    | _Bataklık, emici çamur, boğucu asmalar, kirli su, zehirli bitkiler ve hayvanlar, zayıf navigasyon_                |
+| **Tehlikeli**  | **Dağlar, sık ormanlar, bataklık**| +2 Nöbet    | _Bataklık, emici çamur, boğucu asmalar, kirli su, zehirli bitkiler ve hayvanlar, zayıf navigasyon_                |
 ### Hava Durumu
 
 Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "**Aşırı**" hava sonucu arka arkaya iki kez gelirse, hava "**Felaket**" seviyesine döner. Bir fırtına kasırgaya dönüşür, bir sağanak vadiyi su altında bırakır, vb.
@@ -160,7 +156,7 @@ Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "*
 
 ### Vahşi Doğa Keşif Döngüsü
 
-1. **Muhafız**, haritadaki mevcut **noktayı** veya **bölgeyi** ve yol, hava durumu, arazi veya parti durumunun **seyahat hızını** nasıl etkileyebileceğini betimler. Parti, hedeflerine doğru bir rota çizer veya mevcut rotayı ayarlar.
+1. **Muhafız**, haritadaki mevcut **konumu** veya **bölgeyi** ve yol, hava durumu, arazi veya parti durumunun **seyahat hızını** nasıl etkileyebileceğini betimler. Parti, hedeflerine doğru bir rota çizer veya mevcut rotayı ayarlar.
 2. Her parti üyesi tek bir **Vahşi Doğa Eylemi** seçer. **Muhafız** sonuçları anlatır ve ardından [**Vahşi Doğa Olayları**](#vahşi-doğa-olayları) tablosunda zar atar. Parti sonuçlara yanıt verir.
 3. **Oyuncular** ve **Muhafız** herhangi bir kaynak kaybını ve yeni durumları (yani meşale kullanımı, _bitkinlik_ vb.) kaydeder ve döngü tekrarlanır.
 
@@ -227,16 +223,16 @@ Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "*
 - Partinin rahatsız edilmeden uyuyabilmesi için bir **nöbetçi sırası** belirlenir. Daha küçük bir partinin korumasız uyuma riskini alması veya birkaç güne yayılmış şekilde nöbet değiştirmesi gerekebilir.
 - Dinlenebilen parti üyeleri, envanterlerindeki tüm **Yorgunluk**ları kaldırır.
 
-## Aşağı Zaman
+## Durgun Zaman
 
-Oyun oturumları arasında, oyuncular araştırma yapmak, ipuçlarını takip etmek, becerilerini geliştirmek veya ilişkiler kurmak gibi çeşitli faaliyetlerde bulunabilir. Bir PC, aynı anda yalnızca bir **Aşağı Zaman Eylemi** ile sınırlıdır. Bu eylemler güvenli olmayan koşullarda veya bir karakter iyileşme sürecindeyken yapılamaz. Bir karakter, eylem güvenliğini riske atacaksa bir eylem gerçekleştiremez.
+Oyun oturumları arasında, oyuncular araştırma yapmak, ipuçlarını takip etmek, becerilerini geliştirmek veya ilişkiler kurmak gibi çeşitli faaliyetlerde bulunabilir. Bir PC, aynı anda yalnızca bir **Durgun Zaman Eylemi** ile sınırlıdır. Bu eylemler güvenli olmayan koşullarda veya bir karakter iyileşme sürecindeyken yapılamaz. Bir karakter, eylem güvenliğini riske atacaksa bir eylem gerçekleştiremez.
 
 ### Kilometre Taşları
 
 Birden fazla adım gerektiren faaliyetler için **Muhafız**, oyuncuların ilerlemeyi takip etmesi için 1-5 **Kilometre Taşı** belirler. Her **Kilometre Taşı**, kapsamlı, etkileşimsiz bir görevi temsil eder. **Muhafız**, bu hedeflere ulaşmak için her biri farklı **Kilometre Taşlarına** sahip farklı stratejiler sunabilir. Oyunda gelişen olaylara bağlı olarak, **Muhafız** ayrıca yeni **Kilometre Taşları** ekleme veya mevcut olanları atma yetkisine sahiptir.
 ### Bedeller
 
-PC'ler, bir **Aşağı Zaman Eylemi** yaparak ve ilgili **Bedel**i ödeyerek bireysel **Kilometre Taşlarını** tamamlayabilir. Bir karakter **Bedel**i ödeyemezse, hedefine ulaşmak için başka bir yol bulması gerekebilir. **Bedel** için birkaç örnek:
+PC'ler, bir **Durgun Zaman Eylemi** yaparak ve ilgili **Bedel**i ödeyerek bireysel **Kilometre Taşlarını** tamamlayabilir. Bir karakter **Bedel**i ödeyemezse, hedefine ulaşmak için başka bir yol bulması gerekebilir. **Bedel** için birkaç örnek:
 - **Altın**: Bir karakterin envanterinden doğrudan altın ödemesi.
 - **Kaynaklar**: Malzemeler, belirli yaygın eşyalar vb. gibi parasal olmayan maliyetler.
 - **İtibar**: Bir karakterin şöhreti, kişiliği, varlığı, sosyal bağlantıları vb. üzerine bahse girmek.
@@ -250,7 +246,7 @@ Aşağıdaki faaliyetler, oyuncuların seçebileceği en yaygın **Aşağı Zama
 
 ### Araştırma
 
-Bir PC, kayıp veya unutulmuş bir bilgi parçası, kayıp bir eşyanın konumu, önemli bir NPC'nin nerede olduğu vb. hakkında bir soruyu araştırır. Bu eylemi gerçekleştirmek için oyuncunun yanıtlamak istediği açıkça formüle edilmiş bir sorusu ve karakterinin etkileşime girebileceği oyun dünyasında bir **Kaynak** bilgisi olmalıdır. PC'nin bir **Kaynağı** yoksa, bir tane bulmaya çalışmak için bir **Aşağı Zaman Eylemi** harcayabilir. Başarılı olacağının garantisi yoktur. Bir soru sorulduktan ve uygun bir **Kaynak** belirlendikten sonra, **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
+Bir PC, kayıp veya unutulmuş bir bilgi parçası, kayıp bir eşyanın konumu, önemli bir NPC'nin nerede olduğu vb. hakkında bir soruyu araştırır. Bu eylemi gerçekleştirmek için oyuncunun yanıtlamak istediği açıkça formüle edilmiş bir sorusu ve karakterinin etkileşime girebileceği oyun dünyasında bir **Kaynak** bilgisi olmalıdır. PC'nin bir **Kaynağı** yoksa, bir tane bulmaya çalışmak için bir **Durgun Zaman Eylemi** harcayabilir. Başarılı olacağının garantisi yoktur. Bir soru sorulduktan ve uygun bir **Kaynak** belirlendikten sonra, **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
 
 #### Sorular
 
@@ -274,14 +270,14 @@ Bir **Kaynak**, karakterin aradığı cevabın bir kısmını veya tamamını el
 
 ### Eğitim
 
-Bir karakter, net bir anlatı veya mekanik sonuçla, bir eşya veya yetenek konusundaki becerilerini geliştirebilir. Belirli bir silahla daha fazla hasar vermek, sert havalarda kaybolma şansını azaltmak veya eskilerin dillerini okumayı öğrenmek isteyebilir. Bir PC, belirli bir silahla çalışarak, becerilerini haftalar içinde geliştirerek birden fazla **Aşağı Zaman Eylemi** harcayabilir. Veya uzak bir bilgenin evine seyahat etmeleri, kısa ama yoğun bir çalışmayla kendilerini geliştirmeleri gerekebilir.
+Bir karakter, net bir anlatı veya mekanik sonuçla, bir eşya veya yetenek konusundaki becerilerini geliştirebilir. Belirli bir silahla daha fazla hasar vermek, sert havalarda kaybolma şansını azaltmak veya eskilerin dillerini okumayı öğrenmek isteyebilir. Bir PC, belirli bir silahla çalışarak, becerilerini haftalar içinde geliştirerek birden fazla **Durgun Zaman Eylemi** harcayabilir. Veya uzak bir bilgenin evine seyahat etmeleri, kısa ama yoğun bir çalışmayla kendilerini geliştirmeleri gerekebilir.
 
 Oyuncu, tam olarak neyi geliştirmek istediğini ve birlikte eğitim alabileceği bir **Usta**yı tanımlamalıdır. Ve tabii ki, karakterin gelişme ilhamı oyundaki bir deneyimden gelmelidir. **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
 
 **Örnekler:**
 
 - **İki Elli Savuşturma**: Bir eli boşken savaşırken, bir PC'nin HP'si geçici olarak 1d4 artar. Parti, **Kraterli Topraklar**'dan bir paralı asker tuttu; bu toprakların savaşçıları düşman saldırılarından kaçınmaya önem verir. Kadın, kendisini göğüs göğüse dövüşte yenebilecek herkese eğitim vermeyi kabul etti.
-- **Bitki Bilimi**: Doğru malzemeler verildiğinde, bir PC bir **Aşağı Zaman Eylemi** olarak bir **İyileştirici Merhem** (4 GÜÇ onarır) yapabilir. **Yeşil Koruluklar**'daki yaşlı bir bitkici kadından bakım aldıktan sonra, yaralı PC şifa sanatlarında eğitilmek istedi. **Usta** kabul etti, ancak eğitime başlamadan önce üç nadir bitki toplamalarını istedi.
+- **Bitki Bilimi**: Doğru malzemeler verildiğinde, bir PC bir **Durgun Zaman Eylemi** olarak bir **İyileştirici Merhem** (4 GÜÇ onarır) yapabilir. **Yeşil Koruluklar**'daki yaşlı bir bitkici kadından bakım aldıktan sonra, yaralı PC şifa sanatlarında eğitilmek istedi. **Usta** kabul etti, ancak eğitime başlamadan önce üç nadir bitki toplamalarını istedi.
 - **Alabalık Ustası**: Tedarik etme **Eylemi** yaparken, soğuk tatlı su kaynaklarının yakınında toplanan **Konsantre Yiyecek**ler bir kademe artar (örn. 1z4, 1z6 olur). Parti, ünlü korkunç **Gümüş Atıklar**'dan mahsur kalmış bir doğa bilimciyi güvenli bir şekilde şehre geri getirdi. Teşekkür olarak, soğuk sularda sıkça bulunan yaygın bir göl balığını tanımlamak ve yakalamak için bir PC'ye eğitim vermeyi teklif etti.
 
 
