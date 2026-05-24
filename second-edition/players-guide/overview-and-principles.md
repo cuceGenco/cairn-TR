@@ -62,7 +62,7 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 ### Konuşma
 
-- NPC'lere gerçek insanlarmış gibi davran ve güvenli bir şekilde bilgi edinmek ve sorunları çözmek için merakının seni çıkaracağı yere güven.
+- NPC'lere (non-playable character: Oyuncuların yönlendirmediği kararkterler) gerçek insanlarmış gibi davran ve güvenli bir şekilde bilgi edinmek ve sorunları çözmek için merakının seni çıkaracağı yere güven.
 - Çoğu insanın ilginç olduğunu ve şiddete başvurmadan önce konuşarak işleri halletmek isteyeceğini göreceksin.
 
 ### Dikkat
@@ -101,7 +101,7 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 
 - Oyun dünyası organik, esnek ve rastgeledir. Sezgiseldir ve keskin dönüşler yapar.
 - Hikayeler veya olay örgüleri değil, durumlar geliştirmek için Muhafız Rehberi ve bu kitaptaki rastgele tabloları kullan.
-- NPC'ler, PC'lerin ne söyleyip yaptığını ve dünyayı nasıl etkilediklerini hatırlar.
+- NPC'ler, PC'lerin (**P**layer **C**haracter: Oyuncuların karakterleri) ne söyleyip yaptığını ve dünyayı nasıl etkilediklerini hatırlar.
 - NPC'ler ölmek istemez. Her kişiliğe kendi çıkarlarını ve yaşama isteklerini oluştur.
 
 ### Anlatı Odaklılık

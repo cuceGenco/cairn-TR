@@ -140,6 +140,7 @@ grand_parent: Second Edition
 | **3** | Korkak      | **8**  | Kaba       |
 | **4** | Hilekâr     | **9**  | Kibirli    |
 | **5** | Açgözlü     | **10** | Kindar     |
+
 ## Bağlar
 
 |         |                                                                                                                                                                                                                                                                                                  |

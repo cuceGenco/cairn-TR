@@ -17,14 +17,14 @@ grand_parent: Second Edition
 
 ## Zarlar
 
-- Zar, riskli seçimlerden kaynaklanan olumsuz sonuçlardan kaçınmak için yapılan bir atıştır. Karakterler bir z20 atar ve sonucu uygun nitelikle karşılaştırır. Eğer nitelik değerine eşit veya altında bir sayı gelirse başarılı olur. Aksi halde başarısız olur. 1 her zaman başarı, 20 her zaman başarısızlıktır karakterin istatistiklerinden ve durumlardan bağımsız olarak.
-- İki rakip birbirini alt etmeye çalışıyorsa, en çok risk altında olan zar atmalıdır.
-- İki karakterin birlikte bir eylem yapması gerekiyorsa, en çok risk altında olan zar atmalıdır (genellikle ilgili Niteliği en düşük olan karakter).
+- Zar, riskli seçimlerden kaynaklanan olumsuz sonuçlardan kaçınmak için yapılan bir atıştır. Karakterler bir d20 atar ve sonucu uygun nitelikle karşılaştırır. Eğer nitelik değerine eşit veya altında bir sayı gelirse başarılı olur. Aksi halde başarısız olur. Karakterin istatistiklerinden ve durumlardan bağımsız olarak 1 her zaman başarı, 20 her zaman başarısızlıktır.
+- İki rakip birbirini alt etmeye çalışıyorsa, en çok risk altında olan (genellikle ilgili Niteliği en düşük olan karakter) zar atmalıdır. 
+- İki karakterin birlikte bir eylem yapması gerekiyorsa, en çok risk altında olan zar atmalıdır .
 
 ## İyileşme & Kurtarma
 
 - Biraz dinlenmek ve bir yudum su içmek kaybedilen HK'yı geri kazandırır ancak grubu riske atabilir. Sargı bezleri, kritik hasar almış bir karakteri stabilize edebilir.
-- Nitelik kaybı (bkz. **Kritik Hasar**) genellikle bir şifacı veya uygun başka bir uzmanlık kaynağı tarafından kolaylaştırılan bir haftalık dinlenme ile geri kazanılabilir. Bunu seans sonlarına denklemek isteyebilirsiniz.
+- Nitelik kaybı (bkz. **Kritik Hasar**) genellikle bir şifacı veya uygun başka bir uzmanlık kaynağı tarafından kolaylaştırılan bir haftalık dinlenme ile geri kazanılabilir. Bunu seans sonlarınızda hikayeye dahil etmek isteyebilirsiniz.
 - Bazı iyileştirme hizmetleri ücretsizdir, ancak büyülü veya daha hızlı kurtarma yöntemleri bir bedel gerektirebilir.
 
 ## Bitkinlik & Yorgunluk
