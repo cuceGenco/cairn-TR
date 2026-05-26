@@ -75,7 +75,7 @@ grand_parent: Second Edition
 
 |       |              |        |             |
 | ----- | ------------ | ------ | ----------- |
-| **1** | Benli        | **6**  | Yumuşak     |
+| **1** | Doğum Lekeli        | **6**  | Yumuşak     |
 | **2** | İzli         | **7**  | Bronzlaşmış |
 | **3** | Yağlı        | **8**  | Dövmeli     |
 | **4** | Pembe        | **9**  | Yıpranmış   |
@@ -97,7 +97,7 @@ grand_parent: Second Edition
 | ----- | ---------- | ------ | --------- |
 | **1** | Kemikli    | **6**  | Kusursuz  |
 | **2** | Kırık      | **7**  | Çapkın    |
-| **3** | Yontulmuş  | **8**  | Keskin    |
+| **3** | Yontulmuş  | **8**  | Net    |
 | **4** | Uzamış     | **9**  | Kare      |
 | **5** | Solgun     | **10** | Çökmüş    |
 
