@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Genel Bakış ve İlkeler
-parent: Player's Guide
-grand_parent: Second Edition
+parent: Oyuncunun Rehberi
+grand_parent: İkinci Edisyon
 ---
 
 # Genel Bakış ve İlkeler

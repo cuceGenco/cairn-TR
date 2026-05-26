@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Print Copies
-parent: Second Edition
+parent: İkinci Edisyon
 nav_order: 5
 ---
 

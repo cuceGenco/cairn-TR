@@ -2,7 +2,7 @@
 layout: page
 title: Character Generator
 parent: Tools
-grand_parent: Second Edition
+grand_parent: İkinci Edisyon
 ---
 
 <div style="height:80vh; width:100%;">

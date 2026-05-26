@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Karakter Yaratma
-parent: Player's Guide
+parent: Oyuncunun Rehberi
 grand_parent: Second Edition
 ---
 

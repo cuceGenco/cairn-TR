@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Vald
-parent: Player's Guide
-grand_parent: Second Edition
+parent: Oyuncunun Rehberi
+grand_parent: İkinci edisyon
 ---
 
 # Vald

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Pazar
-parent: Player's Guide
-grand_parent: Second Edition
+parent: Oyuncunun Rehberi
+grand_parent: İkinci Edisyon
 ---
 
 # Pazar

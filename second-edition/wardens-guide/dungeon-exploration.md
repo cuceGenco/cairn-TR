@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Zindan Keşfi
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: Muhafızın Rehberi
+grand_parent: İkinci Edisyon
 ---
 
 # Zindan Keşfi

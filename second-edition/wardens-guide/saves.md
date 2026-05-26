@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kurtarma Zarları
-parent: Warden's Guide 
-grand_parent: Second Edition
+parent: Muhafızın Rehberi
+grand_parent: İkinci Edisyon
 ---
 
 # Kurtarma Zarları
