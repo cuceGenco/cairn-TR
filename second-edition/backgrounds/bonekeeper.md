@@ -1,8 +1,8 @@
 ---
 title: Kemik Bekçisi
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Geçmişler
+grand_parent: İkinci Edisyon
 ---
 
 # Kemik Bekçisi

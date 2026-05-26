@@ -1,8 +1,8 @@
 ---
 title: Yarı Cadı
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: Geçmişler
+grand_parent: İkinci Edisyon
 ---
 
 # Yarı Cadı
