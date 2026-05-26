@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Warden's Guide
+title: Muhafızın Rehberi
 parent: Second Edition
 has_children: true
 nav_order: 3
