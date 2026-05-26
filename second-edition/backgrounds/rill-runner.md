@@ -15,7 +15,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 ## Başlangıç Ekipmanı
 
-- 3z6 Altın Sikke
+- 3d6 Altın Sikke
 - Konsantre Yiyecek (3 kullanım)
 - Meşale (3 kullanım)
 - Su Ayakkabısı

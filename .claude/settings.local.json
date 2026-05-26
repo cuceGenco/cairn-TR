@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:cucegenco.github.io)",
+      "Bash(git -C /home/simurgaligenco/Games/cairn/cairn-TR diff _config.yml)",
+      "Bash(git -C /home/simurgaligenco/Games/cairn/cairn-TR add _config.yml)",
+      "Bash(git -C /home/simurgaligenco/Games/cairn/cairn-TR commit -m ' *)",
+      "Bash(git -C /home/simurgaligenco/Games/cairn/cairn-TR push)",
+      "Bash(git -C /home/simurgaligenco/Games/cairn/cairn-TR remote -v)",
+      "Bash(ssh -T git@github.com)"
+    ]
+  }
+}
