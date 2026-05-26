@@ -15,7 +15,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
 ## Başlangıç Ekipmanı
 
-- 3d6 Altın 
+- 3d6 Altın Sikke
 - Yiyecek (3 kullanım)
 - Meşale (3 kullanım)
 - Branda
