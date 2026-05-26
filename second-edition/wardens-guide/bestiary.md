@@ -11,7 +11,7 @@ grand_parent: Second Edition
 
 |         |               |                                                                                           |
 | ------- | ------------- | ----------------------------------------------------------------------------------------- |
-| **z20** | **Grup**      | **Canavarlar**                                                                            |
+| **d20** | **Grup**      | **Canavarlar**                                                                            |
 | **1**   | Kuş            | Anka Kuşu, Roc, Vajra                                                                     |
 | **2**   | Canavar        | Kan Geyiği, Boz Ayı, Öldürücü Arılar, Gece Kedisi, Engerek, Kurt                          |
 | **3**   | Dev            | Yeşil Ejderha, Mor Solucan                                                               |

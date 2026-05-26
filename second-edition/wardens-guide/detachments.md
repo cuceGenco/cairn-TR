@@ -5,7 +5,7 @@ parent: Warden's Guide
 grand_parent: Second Edition
 ---
 
-# Müfrezeler (Detachments)
+# Müfrezeler 
 
 ## Giriş
 
@@ -13,7 +13,7 @@ Müfrezeler, tek bir varlık olarak ele alınan büyük düşman gruplarıdır. 
 
 ## Örnek
 
-> Ekip, ormanın derinliklerinde, küçük bir şelalenin yanında kamp kuruyor. Neredeyse gece olmak üzere ve herkes yüksek alarmda. Ekibin haberi olmadan, bir Hain-Sıçan [3 HP, 5 STR, 15 DEX, 4 WIL, ısırık (d6), _müfreze_] kolonisi burasını yurt edinmiştir.
+> Ekip, ormanın derinliklerinde, küçük bir şelalenin yanında kamp kuruyor. Neredeyse gece olmak üzere ve herkes yüksek alarmda. Ekibin haberi olmadan, bir Hain-Sıçan [3 HP, 5 GÜÇ, 15 ÇEV, 4 İRA, ısırık (d6), _müfreze_] kolonisi burasını yurt edinmiştir.
 
 **Muhafız**: _"Güneş nihayet ağaçların arkasına saklanırken, her biriniz alışılmadık bir ses duyuyorsunuz, tıpkı aksi bir amcanın 'tsk tsk tsk' sesine benziyor. Dinledikçe, ses hem şiddet hem de tempoda artmaya başlıyor, sonra kısa sürede dinlemesi rahatsız edici bir hale geliyor. Kamp alanının çevresini incelerken, kocaman gözlü, küçük, sıçan benzeri düzinelerce yaratığın partinizi izlediğini görüyorsunuz. Garip sesin kaynağı onlar gibi görünüyor ve yaklaşıyorlar! Bu arada, aksi belirtilene kadar bu yaratıkları bir müfreze olarak ele alacağız."_
 

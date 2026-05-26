@@ -80,7 +80,7 @@ Bir karakter kendi sırasında, 12 metreye kadar hareket edebilir ve en fazla bi
 
 - Saldırgan, silah zarını atar ve hedefin zırh değerini attığı zardar çıkartır, ardından kalan toplamı rakibinin HK'sına verir. Çatışmadaki saldırılar otomatik olarak isabet eder. Yani hasarın alınıp alınmadığına dair bir zar atılmaz.
 - Birden fazla saldırgan aynı düşmanı hedef alırsa, tüm hasar zarlarını atın ve en yüksek tek sonucu tutun. Tüm eylemler, çözümlenmeden önce beyan edilir.
-- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, nasıl etkilendiklerini görmek için [Yaralar](#yaralar-tablosu) tablosuna bakın.
+- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, nasıl etkilendiklerini görmek için [Yara İzleri](#Yara-İzleri-Tablosu) tablosuna bakın.
 
 ### Saldırı Niteleyicileri
 
@@ -116,11 +116,11 @@ Bir karakter kendi sırasında, 12 metreye kadar hareket edebilir ve en fazla bi
 - Menzilli silahlar, gözlerinin akını görecek kadar yakındaki herhangi bir düşmanı hedef alabilir. Özellikle uzaktaki hedeflere yapılan saldırılar _Zayıflamıştır_.
 - Aksi belirtilmedikçe mühimmat takibi yapılmaz.
 
-## Yaralar
+## Yara İzleri
 
 Bir PC’ye gelen hasar HK’sını tam olarak 0’a indiriyorsa, saldırıda _kaybedilen HK miktarına_ göre aşağıdaki tablodan sonuca bakın. Örneğin, bir PC 3 HK’dan 0 HK’ya düşerse, #3 (Sarsılmış) girişine bakarlar.
 
-### Yaralar Tablosu
+### Yara İzleri Tablosu
 
 |             |                                                                                                                                                                                                                                                      |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

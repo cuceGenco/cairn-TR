@@ -8,7 +8,7 @@ grand_parent: Second Edition
 
 ## Giriş
 
-Cairn, bilgi veya uzmanlık için mekanikler içermeyerek birçok modern rol yapma oyunundan ayrılır. Bunun yerine, bir karakterin gerekli bilgiye, kurguda gerekçelendirilebildiği sürece sahip olduğu varsayılır. Benzer şekilde, bir karakterin çevresindeki önemli detayları "algılama" yeteneğini veya algısını yöneten herhangi bir mekanik yoktur. Bunun yerine, Muhafız, bir karakterin temel duyularıyla algılayabileceği her detay hakkında sınırsız ilgili bilgi sağlamalıdır.
+Cairn, bilgi veya uzmanlık için mekanikler içermeyerek birçok modern rol yapma oyunundan ayrılır. Bunun yerine, bir karakterin gerekli bilgiye, kurguda gerekçelendirilebildiği sürece sahip olduğu varsayılır. Benzer şekilde, bir karakterin çevresindeki önemli detayları "algılama" yeteneğini veya algısını yöneten herhangi bir mekanik yoktur. Bunun yerine, Muhafız, bir karakterin temel duyularıyla algılayabileceği her detay hakkında sınırsız bilgi sağlamalıdır. Oyuncular bütün duyu organlarını kullanarak bilgi talep edebilir. 
 
 ## Bilgi
 

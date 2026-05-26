@@ -5,7 +5,7 @@ parent: Warden's Guide
 grand_parent: Second Edition
 ---
 
-# Kurtarma Zarları (Saves)
+# Kurtarma Zarları
 
 ## Genel Bakış
 
@@ -29,7 +29,7 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 ## Geleneksel Kurtarma Zarları
 
-### Güç (STR)
+### Güç 
 
 > Wolfram yeraltı hapishane hücresinde, göğsüne sıkıca bastırdığı bir kumaş bohçayla koşuyor. Lucius ve Freya hemen arkada, iri bir gardiyan ve onun evcil kurduyla dövüşüyorlar.
 
@@ -51,7 +51,7 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 **Wolfram**: _"Her zaman söylediğim gibi: 'Güç yoluyla erdem gelir.' Yoksa 'Erdem, güçte midir?' Ah, neyse... Hey, beni bekleyin!"_
 
-### Çeviklik (DEX)
+### Çeviklik 
 
 > Freya, harap bir meyhanenin merteklerinin üzerine çömelmiş, aşağıda ağır silahlı bir haydut çetesini gözetliyor.
 
@@ -71,7 +71,7 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 **Freya**: _"Bir duman bombam kaldı ve onu kullanmayı planlıyorum. Mutfağa atlayıp bir tencere bulacağım. Doğru hatırlıyorsam, su dumanın çılgına dönmesine neden oluyor..."_
 
-### İrade (WIL)
+### İrade 
 
 > Lucius, bir müşterisinin Der Thunn'un kadim kasasına girmesine yardım etmeye çalıştıktan sonra yakalandı. Bir anda gelen cesaretle, diğerlerinin kaçabilmesi için kendisinin yakalanmasına izin verdi.
 
@@ -123,7 +123,7 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 > Bir saat sonra Lucius, Freya'yı bulur, ancak diğerlerini bulamaz. Freya, Wolfram ve müşterilerinin çoktan kasaya gitmiş olduğunu açıklar. Onları oraya götürmeyi kabul eder, ancak önce hızlı bir uğrama yapması gerektiğini söyler. Hançerlerinden birini geri almakla ilgili bir şey...
 
-## Karşıt Kurtarma Zarları (Opposed Saves)
+## Karşıt Kurtarma Zarları 
 
 > Ekip, rakiplerini (iki Haydut ve Hobgoblin şefleri) dik bir uçurum kenarında sıkıştırdı. Lucius ve Wolfram hemen sıralarını alabilirler, ancak Freya ilk ÇEV zarlarını başaramadı ve rakiplerinden sonra hareket etmek zorunda. Arkadaşları daha küçük düşmanlarla uğraşırken, Freya Hobgoblin'in kafasını ezmesinden zor kurtulur!
 

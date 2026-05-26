@@ -9,7 +9,7 @@ grand_parent: Second Edition
 
 ## Giriş
 
-Cairn'de bir PC'nin Geçmişi, karakterin en önemli unsurudur; hem geçmişini hem de bugününü temsil eder. Geçmişler; bir karakterin bilgisini, uzmanlığını, ortamla bağını ve çok daha fazlasını etkileyebilir. Geçmişler ayrıca bir zar atışının sonuçlarını yorumlamak için bir filtre ya da hiç zar atmamak için bir nedendir. Bir Yeşilbilir'in zehirli bir bitkiden yaprak keserken ÇEV zarları atması gerekmediği gibi, bir Yazman da yerel bir dilin eski biçimini okumayı bilir. En önemlisi, Geçmişler karakterin başlangıç ekipmanı ve eşsiz geçmişi aracılığıyla bir hikâye anlatır; PC'yi bir ortama ve onun temalarına bağlar.
+Cairn'de bir PC'nin Geçmişi, karakterin en önemli unsurudur; hem geçmişini hem de bugününü temsil eder. Geçmişler; bir karakterin bilgisini, uzmanlığını, ortamla bağını ve çok daha fazlasını etkileyebilir. Geçmişler ayrıca bir zar atışının sonuçlarını yorumlamak için bir filtre ya da hiç zar atmamak için bir nedendir. Bir _Yeşil Bilge_ zehirli bir bitkiden yaprak keserken **ÇEV** zarları atması gerekmediği gibi, bir _Yazman_ da yerel bir dilin eski biçimini okumayı bilir. En önemlisi, Geçmişler karakterin başlangıç ekipmanı sağlar. Eşsiz geçmişi aracılığıyla bir hikâye anlatır; PC'yi bir ortama ve onun temalarına bağlar.
 
 ## İlkeler
 
@@ -27,7 +27,7 @@ Yeni Geçmişinizi tanımlayan yaygın sıfatların bir listesini hazırlayın. 
 ### Başlangıç Ekipmanı
 
 Cairn'deki karakterler büyük ölçüde envanterleriyle tanımlanır, bu nedenle başlangıç ekipmanı bir Geçmişin eşsiz tuvalini boyamaya başlamak için ilk yer olmalıdır. Her Geçmiş şunlara sahiptir:
-- Altın, yiyecek ve bir tür ışık kaynağı. Bunlar yine de eşsiz olmalıdır; bir Geçmiş sıra dışı Azıklarla, bir mum kaskı vb. ile başlayabilir.
+- Altın, yiyecek ve bir tür ışık kaynağı. Bunlar yine de eşsiz olmalıdır; bir Geçmiş sıra dışı şeylerle dolu olabilir, bir mum kaskı vb.
 - Genel temayı pekiştiren en fazla dört _eşsiz_ eşya. Bu eşyalardan en az biri bir tür silah olmalıdır.
 - Başlangıç eşyaları toplamda yedi envanter yuvasını geçmemelidir, böylece karakterin envanteri aşırı yüklenmez.
 
