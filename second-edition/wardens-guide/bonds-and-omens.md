@@ -13,21 +13,21 @@ Bağlar ve Alametler, yeni oyuncu karakterlerine macera kancaları, başlangıç
 
 ## Bağlar
 
-Bağlar çoğu zaman bir oyuncu karakterini başka bir PC'ye, ortama veya ortamın karakterlerine bağlayabilir. Bir PC, gizemlerinin ardındaki gerçeği keşfederek ya da kök nedeni çözerek bir Bağı çözüme kavuşturabilir. Bu durumda karakter bir tür **Gelişim** yaşamalıdır ve isteğe bağlı olarak Koruyucu (Warden) PC için yeni bir Bağ oluşturabilir. Oyuncu karakterlerinin Bağlarını çözmeleri zorunlu değildir.
+Bağlar çoğu zaman bir oyuncu karakterini başka bir PC'ye, ortama veya ortamın karakterlerine bağlayabilir. Bir PC, gizemlerinin ardındaki gerçeği keşfederek ya da kök nedeni çözerek bir Bağı çözüme kavuşturabilir. Bu durumda karakter bir tür **Gelişim** yaşamalıdır ve isteğe bağlı olarak Koruyucu PC için yeni bir Bağ oluşturabilir. Oyuncu karakterlerinin Bağlarını çözmeleri zorunlu değildir.
 
 ### Bağlar'ın Yapması Gerekenler
 
-- Karaktere bir eşya (genellikle _adi_ türden) _veya_ eşsiz bir yetenek vermeli.
+- Karaktere bir eşya (genellikle _önemsiz_ türden) _veya_ eşsiz bir yetenek vermeli.
 - Karakterin, ima edilen ortamla etkileşimini teşvik etmeli.
 - Belirli Geçmişlere bağlı olaylara dayanmaksızın bir karakterin geçmişini somutlaştırmalı.
 - Karaktere bir görev, fırsat veya eylem planı sunmalı.
 
 ## Alametler
 
-Alametler, henüz gelmemiş bir maceranın tohumları, gelecekteki bir felaketin önsezileri ya da karakterlerin şu an karşı karşıya olduğu bir sorunun nedenidir. Bir Alamet, karakterler onun kökeninin ardındaki gerçeği ortaya çıkardığında veya tehlikelerini çözdüğünde sonuçlanır. Bir Alameti çözümlemek, ister bir grup olarak takım için isterse olaya karışmış bir birey için bir tür **Gelişim** sağlamalıdır. Eğer bir Alamet göz ardı edilirse, gerçekleşmeli ve yol açabileceği her türlü yıkımı savurmalıdır.
+Alametler, henüz gelmemiş bir maceranın tohumları, gelecekteki bir felaketin önsezileri ya da karakterlerin şu an karşı karşıya olduğu bir sorunun nedenidir. Bir Alamet, karakterler onun kökeninin ardındaki gerçeği ortaya çıkardığında veya tehlikelerini çözdüğünde sonuçlanır.Bir Alamet çözümlendiğinde, bunun mutlaka bir karşılığı olmalıdır. Bu karşılık, tüm takımın ilerlemesini sağlayan bir **Gelişim** olmalıdır. Eğer Alamet dikkate alınmazsa yol açabileceği tüm yıkıcı sonuçlar etkisini gösterir. 
 
 ### Alametlerin Yapması Gerekenler
 
-- Asla belirli bir oyuncu karakterine bağlı olmamalı (herhangi bir PC için geçerli olmalı).
+- Asla belirli bir oyuncu karakterine bağlı olmamalı.
 - Her zaman karakterlere, ortam hakkında önceden bilmedikleri bir şey söylemeli.
 - Korkunç bir şeyler olmakta olduğuna dair bir örüntüyü veya başka bariz bir göstergeyi açığa çıkarmalı.

@@ -8,7 +8,7 @@ grand_parent: İkinci Edisyon
 
 ## Genel Bakış
 
-Aşağıdaki prosedür, bir ortamın _tohumunu_ oluşturmaya yardımcı olmak için tasarlanmıştır: bir macera ekibinin bir bölgede seyahat ederken karşılaşabileceği benzersiz topografya, doğal özellikler, insanlar ve yollar. Bölgede yaşayan insanları, onların hırslarını ve kaynaklarını ve onları etkileyen hizipleri geliştirerek başlayacağız. Ardından bölgenizin arazisini, ardından çeşitli ilgi noktalarını, dönüm noktalarını, yolları, patikaları vb. oluşturacağız. Diğer kurallarda olduğu gibi, bir tablo sonucunu beğenmezseniz, tekrar atın veya istediğiniz gibi ayarlayın!
+Aşağıdaki prosedür, bir ortamın _tohumunu_ oluşturmaya yardımcı olmak için tasarlanmıştır: bir macera ekibinin bir bölgede seyahat ederken karşılaşabileceği benzersiz topografya, doğal özellikler, insanlar ve yollar. Bölgede yaşayan insanları, onların hırslarını ve kaynaklarını ve onları etkileyen Kliklerin geliştirerek başlayacağız. Ardından bölgenizin arazisini, ardından çeşitli ilgi noktalarını, dönüm noktalarını, yolları, patikaları vb. oluşturacağız. Diğer kurallarda olduğu gibi, bir tablo sonucunu beğenmezseniz, tekrar atın veya istediğiniz gibi ayarlayın!
 
 ## Örnek
 
@@ -88,31 +88,31 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **19**  | Silahlar      | Silahlar      |
 | **20**  | Odun          | Odun          |
 
-### Hizipler (Factions)
+### Klikler 
 
-Bir bölgeye tipik olarak bir veya daha fazla hizip hakimdir; her biri kendine özgü **Avantajlara**, **Gündeme** ve **Engellere** sahiptir. Her hizbin ayrıca, gündemlerini tamamlamakla görevlendirilmiş bir veya daha fazla temsilcisi veya **Ajanı** olmalıdır. Daha az İN'ye sahip daha küçük bölgeler 1-2 hizip içermeli, daha büyük bölgeler ise 5-6 kadar hizip içerebilir.
+Bir bölgeye tipik olarak bir veya daha fazla Klik hakimdir; her biri kendine özgü **Avantajlara**, **Gündeme** ve **Engellere** sahiptir. Her hizbin ayrıca, gündemlerini tamamlamakla görevlendirilmiş bir veya daha fazla temsilcisi veya **Ajanı** olmalıdır. Daha az İN'ye sahip daha küçük bölgeler 1-2 Klik içermeli, daha büyük bölgeler ise 5-6 kadar Klik içerebilir.
 
-Ajanlar genellikle bir hizbin Gündemindeki hedeflerden birini veya daha fazlasını tamamlamaktan sorumludur. Özellikle büyük hizipler, her biri farklı bir hedeften sorumlu ek ajanlara sahip olabilir. Ajanların, hizbin ana gündeminden farklı kişisel motivasyonları olabilir; bu, kurnaz PC'lerin kendi çıkarları için kullanabileceği bir gerçektir.
+Ajanlar genellikle bir hizbin Gündemindeki hedeflerden birini veya daha fazlasını tamamlamaktan sorumludur. Özellikle büyük Klikler, her biri farklı bir hedeften sorumlu ek ajanlara sahip olabilir. Ajanların, hizbin ana gündeminden farklı kişisel motivasyonları olabilir; bu, kurnaz PC'lerin kendi çıkarları için kullanabileceği bir gerçektir.
 
 #### Avantajlar
 
-Hizipler, gündemlerini gerçekleştirmelerine yardımcı olan avantajlara sahiptir. Avantajlar, bir hizbin nüfuzunu, malzemelerini, zenginliğini ve diğer benzersiz özelliklerini yansıtır. Hizipler, hedeflerine ulaşmaya çalışırken avantajlarını mümkün olduğunca kullanır ve aynı zamanda sürekli olarak daha fazla avantaj elde etmek için çalışır.
+Klikler, gündemlerini gerçekleştirmelerine yardımcı olan avantajlara sahiptir. Avantajlar, bir hizbin nüfuzunu, malzemelerini, zenginliğini ve diğer benzersiz özelliklerini yansıtır. Klikler, hedeflerine ulaşmaya çalışırken avantajlarını mümkün olduğunca kullanır ve aynı zamanda sürekli olarak daha fazla avantaj elde etmek için çalışır.
 
-#### Gündemler (Agendas)
+#### Gündemler 
 
-Hizipler, gündemlerini bağımsız olarak tamamlamak için çalışacak, PC'lerin yardımını yalnızca bu onların gündemini güçlendireceğinde isteyecektir. Gündemler, net bir hedefe doğru ilerleyen 3-5 hedeflik bir diziyle tanımlanır. Hedefler _aşamalıdır_, önceki hedeflerin başarıları (veya başarısızlıkları) üzerine inşa edilir.
+Klikler, gündemlerini bağımsız olarak tamamlamak için çalışacak, PC'lerin yardımını yalnızca bu onların gündemini güçlendireceğinde isteyecektir. Gündemler, net bir hedefe doğru ilerleyen 3-5 hedeflik bir diziyle tanımlanır. Hedefler _aşamalıdır_, önceki hedeflerin başarıları (veya başarısızlıkları) üzerine inşa edilir.
 
-Hedefler, bir sonraki hedefe geçmek için belirgin bir avantaj elde etmeye odaklanmalıdır. En az bir hedef, hizbin birincil engeliyle ilgilenmelidir. Bu ilk hedef veya son hedef olabilir. Tüm gündemlerin, tamamlanmalarının önünde duran en az bir engeli vardır. Ek engeller, Hizip Eylemleri (aşağıya bakın) veya kurgudaki gelişmeler yoluyla ortaya çıkabilir.
+Hedefler, bir sonraki hedefe geçmek için belirgin bir avantaj elde etmeye odaklanmalıdır. En az bir hedef, hizbin birincil engeliyle ilgilenmelidir. Bu ilk hedef veya son hedef olabilir. Tüm gündemlerin, tamamlanmalarının önünde duran en az bir engeli vardır. Ek engeller, Klik Eylemleri (aşağıya bakın) veya kurgudaki gelişmeler yoluyla ortaya çıkabilir.
 
 Bir hizbin gündemlerini tamamlamak önemli bir olay olmalı, potansiyel olarak bir bölgenin politik veya doğal manzarasını değiştirmelidir.
 
-> Bölge haritası, hizipler gündemlerini tamamlamak ve daha fazla avantaj elde etmek için çalışırken sürekli olarak hiziplerin etkisini yansıtmalıdır.
+> Bölge haritası, Klikler gündemlerini tamamlamak ve daha fazla avantaj elde etmek için çalışırken sürekli olarak Kliklerin etkisini yansıtmalıdır.
 
-#### Hizip Oluşturma
+#### Klik Oluşturma
 
-[Hizip Türleri](#hizip-türleri), [Hizip Özellikleri](#hizip-özellikleri), [Hizip Avantajları](#hizip-avantajları) ve [Hizip Gündemleri](#hizip-gündemleri) tablolarında bir veya daha fazla zar atın.
+[Klik Türleri](#klik-türleri), [Klik Özellikleri](#klik-özellikleri), [Klik Avantajları](#klik-avantajları) ve [Klik Gündemleri](#klik-gündemleri) tablolarında bir veya daha fazla zar atın.
 
-#### Hizip Türleri
+#### Klik Türleri
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
@@ -140,7 +140,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **19**  | Casuslar        | Hırsız      |
 | **20**  | Kabile          | Haydut      |
 
-#### Hizip Özellikleri
+#### Klik Özellikleri
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
@@ -168,7 +168,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **19**  | Akıllı        | Tehdit altında|
 | **20**  | Azimli        | Yabancı düşmanı |
 
-#### Hizip Avantajları
+#### Klik Avantajları
 
 Hizbin sahip olduğu avantaj sayısını belirlemek için 1d20 atın, ardından karşılık gelen avantajların her biri için tekrar 1d20 atın. Örneğin, “# of Advantages” sütunundan “2” sonucu geldiyse, “Type” sütununda iki kez zar atar, her sonucu not edersiniz. Tekrar eden sonuçları yeniden atın.
 
@@ -196,24 +196,24 @@ Hizbin sahip olduğu avantaj sayısını belirlemek için 1d20 atın, ardından 
 | **19**  | 4                   | Dolap          |
 | **20**  | 4                   | Zenginlik      |
 
-#### Hizip Gündemleri
+#### Klik Gündemleri
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
 | **d20** | **Gündem**                 | **Engel**                                               |
-| **1**   | Daha Yüksek Bir Düzleme Yükselmek | Coğrafi bir engel veya aşılmaz arazi.                 |
-| **2**   | Eserler Toplamak           | Önce anahtar bir bilgi keşfedilmelidir.                 |
+| **1**   | Mertebe Atlamak | Coğrafi bir engel veya aşılmaz arazi.                 |
+| **2**   | Eser Toplamak           | Önce anahtar bir bilgi keşfedilmelidir.                 |
 | **3**   | Nadir Bir Kaynak Yetiştirmek | Belirli bir nesne veya Emanet gereklidir.               |
 | **4**   | Bir Şeyi Savunmak          | Güçlü bir figür veya düşman elenmelidir.                |
 | **5**   | Bir Şeyi Yok Etmek         | Önce nadir fakat gerekli bir kaynak edinilmelidir.      |
-| **6**   | Başkalarına Tahakküm Etmek | Ciddi bir borç, hizbi çaresiz seçimlere zorlar.         |
+| **6**   | Başkalarına Tahakküm Kurmak | Ciddi bir borç, hizbi çaresiz seçimlere zorlar.         |
 | **7**   | Kendilerini Zenginleştirmek| Yakın başarısızlığı öngören iyi bilinen bir kehanet.    |
 | **8**   | Bir Koloni Kurmak          | Önce bir düşmanla ittifak yapılmalıdır.                 |
 | **9**   | Yeni Bir Düzen Kurmak      | İç bölünme, hizbi parçalamakla tehdit eder.             |
 | **10**  | Keşfedilmemiş Toprakları Keşfetmek | Başka bir hizbin aynı hedefi vardır.              |
-| **11**  | Bir İttifak Kurmak         | Başka bir hizip karşı çıkar.                            |
+| **11**  | Bir İttifak Kurmak         | Başka bir Klik karşı çıkar.                            |
 | **12**  | Başka Bir Hizbe Sızmak     | Avam açıkça karşı çıkar.                                |
 | **13**  | Statükoyu Korumak          | Önemli miktarda sermaye gereklidir.                     |
 | **14**  | Bir Sırrı Korumak          | Yerleşik bir koda aykırıdır, ağır cezası vardır.        |
@@ -224,7 +224,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **19**  | Yeni Liderlik Arayışı      | Alışılmadık türden bir uzman gerektirir.                |
 | **20**  | Bir İnancı Yaymak          | Sonuç kaçınılmaz savaşa yol açacaktır.                  |
 
-#### Örnek Hizip
+#### Örnek Klik
 
 #### Tür
 
@@ -237,11 +237,11 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 ### Ajanlar
 
-- Horatia Confi, tarikatının ilki. _Ölülerin Haritası_'nı _Lonca_ için kurtardı. İRA 15.
+- Zeynep Aslan, tarikatının ilk üyelerinden. _Ölülerin Haritası_'nı _Lonca_ için geri aldı. İRA 15.
 
 #### Gündem
 
-- Haritada yazılı bir konuma Horatia'ya eşlik etmesi için yetenekli bir ekip kirala.
+- Haritada yazılı bir konuma Zeynep'e eşlik etmesi için yetenekli bir ekip kirala.
 - _Tarikat_'ın orijinal kurucusunu aramak için ölüler diyarında seyahat et.
 - Kurucuyu Şehirler'e geri getir. Diyarın hükümdarını devir.
 
@@ -249,15 +249,15 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 _Lonca_'ya, saflarında iyi konumlanmış bir ajanın hareket ettiği konusunda uyarı yapıldı.
 
-#### Hizip Kuralları
+#### Klik Kuralları
 
-- Varsayılan olarak, hizipler oyuncu karakterlerin eylemlerinden bağımsız çalışır. PC'ler hiçbir şey yapmasa bile, hizip hedeflerine ulaşmak için hareket etmelidir.
-- **Muhafız**, bir hizbin gündemini ilerletmek için konumlanıp konumlanmadığını belirlemek için kurguya güvenmelidir.
-- Bazı hedefler zamana duyarlı olabilir veya açık koşullara bağlı olabilir. Diğer zamanlarda, önemli bir olaydan, ittifaktan veya bir veya daha fazla hizip arasındaki sürtüşmeden sonra yeni bir hedef tanıtmak daha uygun olabilir.
-- Bir hizip gündemindeki bir hedefi ilerletmek için konumlandığında, [Hizip Eylemleri](#hizip-eylemleri) tablosunda bir **d6** atın.
-- Eğer iki hizip _karşıt_ ise, _en riskli_ hizip, en yüksek rütbeli ajanının puanını kullanarak bir İRA kurtarma zarı atar. Başarısız olursa, hizip bu sefer Hizip Eylemleri tablosunda zar atmaz.
+- Varsayılan olarak, Klikler oyuncu karakterlerin eylemlerinden bağımsız çalışır. PC'ler hiçbir şey yapmasa bile, Klik hedeflerine ulaşmak için hareket etmelidir.
+- **Muhafız**, bir hizbin ajandasına hizmet edip etmediğini belirlemek için kurgudaki gelişmelere bakmalıdır. 
+- Bazı hedefler zamana duyarlı olabilir veya açık koşullara bağlı olabilir. Bazen de önemli bir olaydan, ittifaktan veya bir veya birden fazla klik arasındaki sürtüşmeden sonra yeni bir hedef tanıtmak daha uygun olabilir.
+- Bir Klik gündemindeki bir hedefi ilerletmek için konumlandığında, [Klik Eylemleri](#klik-eylemleri) tablosunda bir **d6** atın.
+- Eğer iki Klik _rakip_ ise, _en riskli_ klik, en yüksek rütbeli ajanının puanını kullanarak bir İRA kurtarma zarı atar. Başarısız olursa, Klik bu sefer Klik Eylemleri tablosunda zar atmaz.
 
-#### Hizip Eylemleri
+#### Klik Eylemleri
 
 |        |                   |                                                                 |
 | ------ | ----------------- | --------------------------------------------------------------- |
@@ -269,7 +269,7 @@ _Lonca_'ya, saflarında iyi konumlanmış bir ajanın hareket ettiği konusunda 
 | **5**  | **Başarı**        | Bir **hedef** gerçekleşir ve hiçbir **Avantaj** kaybedilmez.    |
 | **6**  | **Büyük Başarı**  | Bir **hedef** gerçekleşir ve yeni bir **Avantaj** bulunur.      |
 
-> PC'lerin eylemleri her zaman bir **hizip** eyleminin gerekliliğini geçersiz kılabilir veya bazı durumlarda zarın sonucunu olumlu veya olumsuz bir yönde değiştirebilir.
+> PC'lerin eylemleri her zaman bir **klik** eyleminin gerekliliğini geçersiz kılabilir veya bazı durumlarda zarın sonucunu olumlu veya olumsuz bir yönde değiştirebilir.
 
 ### Topografya
 
@@ -434,7 +434,7 @@ Hava durumu, bir bölgenin insanları, kültürü ve arazisi üzerinde büyük b
 
 Haritadaki İlgi Noktaları genellikle aşağıdaki kategorilere ayrılır:
 - **Kalp (Heart)**: Bir bölgedeki birincil yerleşim. Mutlaka en büyük veya en önemli yer olması gerekmez, ancak bölgenin tarihi ve insanları için her zaman önemli olmalıdır.
-- **Yerleşimler**: Kalıcı, büyük ölçüde kendi kendine yeterli nüfus merkezleri, tipik olarak bir siyasi organ veya hizip tarafından yönetilir.
+- **Yerleşimler**: Kalıcı, büyük ölçüde kendi kendine yeterli nüfus merkezleri, tipik olarak bir siyasi organ veya Klik tarafından yönetilir.
 - **Ara Noktalar (Waypoints)**: Malzeme doldurmak, iyi bir gece uykusu çekmek veya yol tarifi almak için güvenli bir yer.
 - **Meraklar (Curiosities)**: Dikkat çekici veya tuhaf bir vahşi doğa konumu. Tehlikeli olabilir, ancak yalnızca PC'ler onunla etkileşime girerse.
 - **İnler (Lairs)**: Bir düşman kampı, kovan veya artan canavar aktivitesinin kaynağı.
@@ -485,7 +485,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **15**  | Plantasyon      | Efsanevi Bir Demirhanenin Yeri |
 | **16**  | Hapishane       | Hareket Eder veya Döner       |
 | **17**  | Kuvvetli nokta  | Büyük Bir Savaşçı Tarafından Korunur |
-| **18**  | İlçe            | Güçlü Bir Hizip Tarafından Yönetilir |
+| **18**  | İlçe            | Güçlü Bir Klik Tarafından Yönetilir |
 | **19**  | Villa           | Geleneklere Doymuş            |
 | **20**  | Köy             | Ticaret Merkezi               |
 
@@ -558,7 +558,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **4**   | Devasa Kovan        | Biyolüminesans      |
 | **5**   | Düşmüş Gemi         | Sürekli Çığlık      |
 | **6**   | Yıkılmakta Olan Kale| Giriş Yasak         |
-| **7**   | Kuru Su Kemeri      | Hizip Saklanma Yeri |
+| **7**   | Kuru Su Kemeri      | Klik Saklanma Yeri |
 | **8**   | Devasa Kütük        | Gizli Çıkış         |
 | **9**   | Unutulmuş Mezarlık  | Garip Makineler     |
 | **10**  | Gizli Oyuk          | Kemik Yığınları     |
@@ -662,15 +662,15 @@ Kendinize şu soruları sorun:
 
 - İnsanları bu bölgeye çekecek olan nedir? Onları burada tutan nedir?
 - Buradaki insanlar dışarıdakileri nasıl düşünüyor? Dışarıdakiler onları nasıl düşünüyor?
-- Hiziplerin burada yaşayan insanlar üzerinde ne gücü var?
+- Klikler burada yaşayan insanlar üzerinde ne gücü var?
 - Onların gündemlerini kim veya ne tehdit ediyor?
-- Bir hizip, herhangi bir yeni gelenle (örneğin bir macera ekibi) nasıl etkileşime girerdi?
+- Bir Klik, herhangi bir yeni gelenle (örneğin bir macera ekibi) nasıl etkileşime girerdi?
 - Bölgenin arazisi ve hava durumu burada yaşayan insanları nasıl etkiliyor?
 
 Artık bu bölgenin insanları ve arazisi hakkında yeterli bir fikriniz olmalı ve ilk bölgeniz tamamlanmıştır. Diyarınızı genişletmek için süreci istediğiniz kadar tekrarlayın.
 
 Örneğin, sonuçlarım dindar ve dönüştürmeyi amaçlayan bir halkı tanımlıyorsa, bunların gururlu, dini aşırılıklara ve misyonerliğe yatkın bir halk olduğunu varsayardım. Ve birincil kaynakları toprak iken baharatlar nadirse, kendi yiyeceklerini yetiştirdiklerini, ancak dini bir yasak nedeniyle mutfaklarının genellikle tatsız olduğunu varsayardım.
 
-Bir hizip için sonucun Göçebeler, birincil avantajlarının ise inanç olduğunu varsayalım. O zaman seçkinlerinin bir sınıf dini şef olduğunu varsayabilirim. Hizbin gündemi nadir bir kaynak yetiştirmek olsaydı, ancak kültürel tabular tarafından engellenselerdi, bunun yerine bu görevi partiye yaptırmak için onları işe aldıklarına karar verebilirdim. Belki de görevlerinin nesnesi, yalnızca uzak bir yerde yetişen eşsiz bir bitkiydi ve görevin gizli kalması gerekiyordu!
+Bir Klik için sonucun Göçebeler, birincil avantajlarının ise inanç olduğunu varsayalım. O zaman seçkinlerinin bir sınıf dini şef olduğunu varsayabilirim. Hizbin gündemi nadir bir kaynak yetiştirmek olsaydı, ancak kültürel tabular tarafından engellenselerdi, bunun yerine bu görevi partiye yaptırmak için onları işe aldıklarına karar verebilirdim. Belki de görevlerinin nesnesi, yalnızca uzak bir yerde yetişen eşsiz bir bitkiydi ve görevin gizli kalması gerekiyordu!
 
-Son olarak, parti hizip ajanlarından biriyle karşılaşacaktı: seyyar satıcı kılığına girmiş bir casus. Bitkinin nerede yetiştiğini ve nasıl yetiştirileceğini ancak o söyleyebilirdi. Bu kişinin bölgenin **Kalp**'i gibi önemli bir yerde görünmesi gerektiğini aklımda tutuyorum.
+Son olarak, parti Klik ajanlarından biriyle karşılaşacaktı: seyyar satıcı kılığına girmiş bir casus. Bitkinin nerede yetiştiğini ve nasıl yetiştirileceğini ancak o söyleyebilirdi. Bu kişinin bölgenin **Kalp**'i gibi önemli bir yerde görünmesi gerektiğini aklımda tutuyorum.
