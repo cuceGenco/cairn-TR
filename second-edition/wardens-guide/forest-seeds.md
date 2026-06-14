@@ -7,9 +7,9 @@ grand_parent: İkinci Edisyon
 
 # Orman Tohumları
 
-## Orman Keşfi (Forestcrawls)
+## Orman Keşfi 
 
-Orman keşfi, geniş bir ormanlık alanı keşfetmek için basit bir yöntemdir; genellikle dağınık ilgi noktalarını birbirine bağlayan dallanan patikalardan oluşur. Bir orman keşfi, geleneksel bir zindan derinlikleriyle aynı özelliklerin bazılarına sahip olsa da, taş duvarlar ve tavanları yoğun, doğrusal olmayan bir tasarıma sahip ağırlıklı olarak ağaçlık bir alanla değiştirir. Odalar yerine, ilgi noktaları açıklıklar veya ormanlık manzaradaki büyük değişiklikler olarak tanımlanır. Ancak bir zindanı keşfetmekten farklı olarak, karakterler kestirmeler yapabilir, "patika dışına çıkabilir" veya etrafı daha iyi görmek için ağaçlara tırmanabilir (tabii ki bir bedel karşılığında).
+Orman keşfi, geniş bir ormanlık alanı keşfetmek için basit bir yöntemdir; genellikle dağınık ilgi noktalarını birbirine bağlayan dallanan patikalardan oluşur. Orman keşfi, geleneksel bir zindanın bazı özelliklerini taşıyabilir. Fakat burada taş duvarlar ve tavanların yerini, yoğun ağaçlarla kaplı, doğrusal olmayan bir keşif alanı alır. Odalar yerine, ilgi noktaları açıklıklar veya ormanlık manzaradaki büyük değişiklikler olarak tanımlanır. Ancak bir zindanı keşfetmekten farklı olarak, karakterler kestirmeler yapabilir, "patika dışına çıkabilir" veya etrafı daha iyi görmek için ağaçlara tırmanabilir (tabii ki bir bedel karşılığında).
 
 ### Ormanı Keşfetmek
 
@@ -20,7 +20,7 @@ Orman keşfi, geniş bir ormanlık alanı keşfetmek için basit bir yöntemdir;
 
 ## Bir Orman Oluşturmak
 
-Bir bölgedeki herhangi bir ormanlık arazi için bu prosedürü izleyin. Bir çatışma veya ilginç bir örüntü ortaya çıkarsa, önceki sonuçları yeniden ifade etmeye veya değiştirmeye açık olun!
+Bu prosedürü, bölgedeki her ormanlık alan için uygulayın. Sonuçlar arasında bir çelişki ya da ilginç bir örüntü fark ederseniz, önceki sonuçları yeniden değerlendirmekten veya değiştirmekten çekinmeyin
 
 ### Gereken Malzemeler
 
@@ -159,7 +159,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 - **Standart** patikalar, iki nokta arasındaki bariz veya sık kullanılan rotalardır. _Kalın bir çizgi ile temsil edilir._
 - **Gizli** patikalar, bilinen haritaların hiçbirinde görünmez. Keşfedilmeleri her zaman bir tür bedel gerektirir. _Kesikli çizgi ile temsil edilir._
-- **Koşullu** patikalar engellenmiş olabilir veya geçmek için özel araçlar (tekneler, tırmanış ekipmanı vb.) gerektirir. Diğerleri bir harita veya rehber olmadan gezinmek imkansız bile olabilir. _Üzeri çizili çizgi ile temsil edilir._
+- **Koşullu** patikaların geçişi engellenmiş olabilir ya da ilerlemek için tekne, tırmanış ekipmanı gibi özel araçlar gerektirebilir. Bazılarında harita veya rehber olmadan yön bulmak neredeyse imkânsızdır. Haritada üzeri _çizili bir çizgiyle temsil edilirler_.
 
 ### Patikaları Çizin
 
@@ -203,7 +203,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 > Bazı sonuçlar uyumsuz görünüyorsa, sorun değil! Bu yan yana gelmeleri "Neden haydutların saklandığı yere çıkan _eski bir kereste yolu_ var?" gibi sorulara dönüştürün. Yine de, işe yaramasını sağlamakta zorlanıyorsanız daha uygun bir sonuç seçmekten çekinmeyin!
 
-#### Canavar (Monster)
+#### Canavar
 
 Canavarlar, ormanda karşılaşılabilecek tehlikeli yaratıklardır. Bu, varsayılan olarak davetsiz misafirlere saldıracakları anlamına gelmez! Canavarlar, karakterlerin onlara rastlamasını "bekleyen" varlıklar değildir; kendi istekleri ve hedefleri vardır. Bazı canavarlar konuşabilir, mantık yürütebilir ve hatta merhamet dileyebilir. _İnsanlar da canavar olabilir._
 
@@ -235,7 +235,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 #### Harabeler (Ruins)
 
-Ormanlar vahşi yerlerdir, ancak bu insanların onları evcilleştirmeye çalışmadığı anlamına gelmez. Bu girişimlerin kalıntıları hâlâ zaman zaman ortaya çıkar ve Orman'a karşı durmaya çalışanların aptallığını ima eder.
+Ormanlar vahşi yerlerdir, ancak bu insanların onları evcilleştirmeye çalışmadığı anlamına gelmez. Bu girişimlerin ardında bıraktığı izler zaman zaman gün yüzüne çıkar ve Orman’a karşı koymaya çalışanların ne kadar akılsızca davrandığını herkese hatırlatır.
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
@@ -265,7 +265,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 #### Barınak (Shelter)
 
-Vahşi ve öngörülemez doğasına rağmen, Orman'da bir hayat kurmaya çalışacak kadar cesur, yetenekli veya aptal olanlar her zaman olmuştur. Ve bazıları başarır, tüten bir kamp ateşi veya gri bir kule ile izlerini bırakır, yorgun gezginlere hoş bir dinlenme sunar.
+Vahşi ve öngörülemez doğasına rağmen, Orman'da bir hayat kurmaya çalışacak kadar cesur, yetenekli veya aptal olanlar her zaman olmuştur. Ve bazıları başarır, tüten bir kamp ateşi veya gri bir kule ile izlerini bırakır, yorgun gezginlere hoş bir dinlenme fırsatı sunar.
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
@@ -343,11 +343,13 @@ Bir zamanlar bildikleri istikrara dönmek istiyorlar, ancak kadim orman sınırl
 
 **Orman Gündemi**: Arınma, İstila
 
-Ormanın ruhu, ele geçiren hastalıktan kendini arındırmaktan başka bir şey istemiyor. Dev Örümceklerden (**9**) oluşan bir istila her yere ağlarını örmüş, çok fazla yaratığı öldürmüş ve ekosistemi baltalamıştır.
+Ormanın ruhu, kendisini saran hastalıktan arınmaktan başka şey istemez. Dev Örümceklerin (**9**) istilası ile her yeri ağlar kaplamış, sayısız yaratık ölmüş ve ekosistemin dengesi bozulmuştur.
 
 ### Orman Teması
 
-Onlarca yıl boyunca, ormanın düzeni ve istikrarı, orman cadısı **Anglwyst** ile Orman'ın şampiyonu **Sweeney** arasındaki bir anlaşma ile sağlandı. Cadı, ağaçları ve hayvanları sağlıklı tutmak için büyüsünü kullanırken, şampiyon avcıların Orman için gerekli görülen herhangi bir yaratığı (kürklerindeki beyazlıkla belirtilir) asla öldürmemesini sağlardı. Anlaşmaları kalıcı ve değişmezdi ve orman, hem cadıyı hem de şampiyonu sınırını geçmekten alıkoyarak bölünmüştü.
+Onlarca yıl boyunca ormanın düzeni ve istikrarı, orman cadısı **Anglwyst** ile Orman’ın şampiyonu **Sweeney** arasındaki anlaşma sayesinde korundu. Anglwyst, büyüsüyle ağaçları ve hayvanları sağlıklı tutar; Sweeney ise avcıların, Orman için yaşaması gereken ve  kürklerindeki beyaz izlerden tanınan yaratıklara dokunmamasını sağlardı.
+
+Aralarındaki anlaşma kesin ve değişmezdi. Orman, cadı ile şampiyonun bölgelerini ayıran görünmez bir sınırla ikiye bölünmüş; bu sınır, ikisinin de kendi tarafının ötesine geçmesini engellemişti.
 
 Yaşlı cadı öldükten sonra, büyülerinden biri vahşileşti, sonra tehlikeli hale geldi. Şimdi büyülü bir hastalık ağaçları ve yaratıkları enfekte etmeye başladı ve tüm ormanı tüketmekle tehdit ediyor. Avcılar buna _Soldurma_ diyor, çünkü dokunduğu her şeyin yaşamını emiyor.
 
@@ -355,7 +357,7 @@ Yaşlı cadı öldükten sonra, büyülerinden biri vahşileşti, sonra tehlikel
 
 ### Eski Kereste Yolu, Ağaç Oymaları
 
-**1** ve **5** arasındaki patika, geniş bir uçurum yüzü tarafından engellenmiştir, çıkmak için tırmanış ekipmanı gerekir. Bu ormanın orijinal kerestecilerinden kalma oymalar hâlâ bazı ağaçların yüzeyini kirletiyor.
+**1** ile **5** arasındaki patika, sarp bir uçurumla kesintiye uğrar; geçebilmek için tırmanış ekipmanı gerekir. Ormanın eski kerestecilerinden kalma oymaları hâlâ kimi ağaçların gövdelerinde görebilirsiniz.
 
 ### Ağaç Sınırı Yükseklikleri, Taş Yığınları
 
@@ -371,7 +373,7 @@ Bir zamanlar ormanın Batı ucundan bir nehir akardı, ancak bir kuraklıktan so
 
 ### Avcı Yolu, Hasarlı Bitki Örtüsü
 
-Sweeney, dışarıdakilerin avlarını bu patikada ve başka hiçbir yerde avlamasına izin verir, yeter ki kürklerinde beyaz olan herhangi bir yaratığı asla öldürmesinler.
+Sweeney, dışarıdan gelenlerin avlarını bu patikada ve başka hiçbir yerde avlamasına izin verir, yeter ki kürklerinde beyaz olan herhangi bir yaratığı asla öldürmesinler.
 
 ### İN'ler
 
@@ -379,11 +381,11 @@ Sweeney, dışarıdakilerin avlarını bu patikada ve başka hiçbir yerde avlam
 
 **Harabe**: _Taşlaşmış Kamp Alanı_, _Sıra Dışı Bitki Örtüsüyle İstila Edilmiş_
 
-Orman kenarında ölü bir **kamp ateşi** ve yakınlarda yayılmış koyu gri **yatak takımları** var. Bitkiler, çiçekler ve diğer **bitki örtüsü** kamp alanını kalınca kaplamış. **Kuzey'e** giden bir **patika** ormana doğru uzanıyor.
+Orman kenarında ölü bir **kamp ateşi** ve yakınlarda yayılmış koyu gri **Kamp Yatağı** var. Bitkiler, çiçekler ve diğer **bitki örtüsü** kamp alanını kaplamış. **Kuzey'e** giden bir **patika** ormana doğru uzanıyor.
 
 - **Kamp Ateşi**: Kalan odunlar koyu gri lekeli, dokunulamayacak kadar soğuk ve demir gibi sert.
-- **Yatak Takımları**: Beze gri odun kıymıkları batmış.
-  - Dokunulduğunda buz gibi. Bezin altındaki alan kısmen mavi ve kırmızı, ancak odun parçacıklarından gri daireler büyüyor.
+- **Kamp Yatağı**: Beze gri odun kıymıkları batmış.
+  - Dokunulduğunda buz gibi soğuk. Bezin altındaki alan kısmen mavi ve kırmızı, ancak odun parçacıklarından gri daireler büyüyor.
 - **Bitki Örtüsü**: Bu bölgelere özgü olmayan nadir ve eşsiz türler.
   - Yetenekli budama ve birkaç dakikalık dikkatli çalışma, bir **Şifa Merhemi** üretir (1d4 STR geri kazandırır, 1 kullanım).
 - **Patika**: Yerde kabaca bir ağaç gövdesi şeklinde kesilmiş uzun oluklar.
@@ -416,7 +418,7 @@ Yuvarlak bir koru oluşturan kırmızı **ağaçlar**, fokurdayan bir özsu **bi
 Küçük bir tepenin üzerinde ahşap bir **kulübe** var. Binanın Batı tarafında küçük **kütükler** sıralar halinde dizilmiş, Doğu duvarına ise uzun bir **raflık** monte edilmiştir.
 
 - **Kulübe**: Sweeney'nin burada olma ihtimali 3'te 1'dir. Aksi halde avdadır. Kapı aralığına bir halka beyaz toz serpilmiştir.
-  - Toz rahatsız edilirse, Sweeney bunu anlayacak ve gelip inceleyecektir.
+  - Toz yerinden oynarsa, Sweeney bunu fark edecek ve gelip inceleyecektir.
 - **Kütükler**: Dörde dört sıralar halinde dizilmiş.
   - Her birinin üzerinde bir hayvanın (ayı, tavşan, kunduz vb.) lekeli bir taslağı çizilidir. Tavşanın üzerine bir damla beyaz boyanmıştır. Yeni görünüyor.
 - **Raf**: Üzerine gergin şekilde çeşitli hayvan derileri gerilmiş, kuruyor.
@@ -454,7 +456,7 @@ Küçük bir açıklığın kenarında, kalın **yapraklarla** kaplı silindirik
   - Kapının anahtar deliği yoktur ve sadece Anglwyst, Sweeney veya Gundersnatch'in arkadaşlarına açılır.
   - Kapı zorla açılırsa veya kulübe tehdit edilirse, altından iki bacak çıkacak ve kulübe hızla ormana kaçacaktır.
 - **Yapraklar**: Hem çatı hem de pencereler kalın yapraklı sarmaşıklarla kaplıdır.
-  - Sarmaşıkların hiçbiri yere değmez, aksi takdirde kulübe ayağa kalktığında yırtılırlardı.
+  - Hiçbir sarmaşık yere kadar uzanmaz; aksi hâlde kulübe ayağa kalktığında kopup giderlerdi.
 - **Tabela**: Sarmaşıklarla kaplı. Kırmızı harflerle: "Burada Av Yok. Ağır Cezalar." yazıyor.
   - Cadı burayı koruma büyüsü yapmış. Burada konuşabilen biri tarafından bir hayvan öldürülürse, katili anında taşa dönüşür (kurtarma zarı yok).
   - Ormanın bu kısmında partiyi hiçbir tehlikeli şey takip etmeyecektir.
@@ -476,13 +478,13 @@ Gösterişli bir şekilde dekore edilmiştir. Kuzey şöminenin yanında uzun ah
 
 **Canavar**: _Boz Ayı_, _Koruma_
 
-Uzun bir **ağaç**, iki **patikanın** kesiştiği küçük bir açıklığın üzerinde uzanıyor. Güneydeki keskin bir **uçurum**, dibe dik bir tırmanış sunuyor.
+İki **patikanın** kesiştiği küçük açıklığın üzerinde uzun bir **ağaç** yükselir. Güneyde ise sarp bir **uçurum**, aşağıdaki derinliğe dik bir inişle uzanır.
 
 - **Ağaç**: Devasa ve en azından kısmen kovuk. Doğu girişinde ayı izleri var.
   - Bir Boz Ayı ve üç yavrusu bu ağacı ini yapmış. Kışın kış uykusuna yatarlar, ancak başka zamanlarda uyanıktırlar. Anne, ağaca giren herkese saldıracaktır (tepki zarını atla).
 - **Patikalar**: Patikadaki kırık yapraklar ve ağaç sürtünmeleri, ayının varlığının açık kanıtıdır.
 - **Uçurum**: Metal halkalar uçurum yüzüne çakılmıştır.
-  - Orman hâlâ kesiliyorken monte edilmiş, ancak hâlâ sağlam. İpler için mükemmel.
+  - Orman hâlâ kesiliyorken monte edilmiş ancak hâlâ sağlam. İpler için mükemmel.
 
 #### Boz Ayı
 
@@ -503,14 +505,14 @@ Dört patikanın kesiştiği noktada gri bir orman **tapınağı** duruyor. Merk
   - _Soldurma_ etkisi, açıklığa girmeden önce bile belirgindir, çünkü _Soldurma_ her yöne yayılmaya başlamıştır.
   - Açıklığa getirilen bitki maddesi, doğrudan temas olmasa bile yakında taşlaşmaya başlayacaktır.
 - **Heykeller**: İki orman trolü, ikisinden daha büyüğünün havada tuttuğu parlak bir nesne için dövüşüyor.
-  - Nesne bir **Eski Cam**dır (Yore Glass), bir ayna Emanetidir ve büyüsü, bir zamanlar burayı orman yaşamı için yemyeşil bir cennet yapan hassas büyüyü bozmuştur.
-  - Cadının büyüsü, aynayı alandan çıkararak veya tamamen yok ederek bozulabilir. Heykel tarafından sıkıca tutulur, ancak gres uygulanarak veya trolün kolunu kırarak çıkarılabilir.
+  - Nesne bir **Eski Cam**dır bir ayna Emanetidir ve büyüsü, bir zamanlar burayı orman yaşamı için yemyeşil bir cennet yapan hassas büyüyü bozmuştur.
+  - Cadının büyüsü, aynayı alandan çıkararak veya tamamen yok ederek bozulabilir. Heykel tarafından sıkıca tutulur, ancak pres uygulanarak veya trolün kolunu kırarak çıkarılabilir.
   - Büyü bozulursa, büyülü etki sona erecek ve troller yavaşça uyanacaktır. Hemen aynayı geri almaya çalışacaklardır.
 
-#### Eski Cam (Yore Glass)
+#### Eski Cam 
 
 - Günde bir kez, taşıyan kişi hayatının 5 dakikasını üçüncü şahıs gözüyle tekrar izleyebilir. Uzun süreli kullanım bağımlılık yapabilir. Düzenli kullanılmazsa _yoksun_ durumu yaşayın.
-- **Yeniden Şarj**: Bir başkasının yansımasını onlar habersizken camda yakalayın.
+- **Şarj Doldurma**: Bir başkasının yansımasını onlar habersizken camda yakalayın.
 
 #### Orman Trolü
 
@@ -526,7 +528,7 @@ Dört patikanın kesiştiği noktada gri bir orman **tapınağı** duruyor. Merk
 
 Küçük bir göletin merkezinde sular altında kalmış üç **bina** yükseliyor, **konik** çatıları suyun altından görünüyor. Kuzey tarafında, kuru bir nehir yatağı doğrudan gölete giriyor. Doğu patikası, düzinelerce yığılmış **taş** ile kaplı.
 
-- **Binalar**: Arkaik, incelikle güzel dini ikonografi. Açıkça bir manastır.
+- **Binalar**: Arkaik, incelikli ve güzel dini ikonografi. Açıkça bir manastır.
   - **8**'deki baraj yıkıldıktan sonra sular altında kalmış.
 - **Çatılar**: Üç binanın en uzun olanı, suyun oldukça yukarısında bir cam pencereye sahip.
   - Pencere paslanmış ve kapalıdır, ancak manastırın Bölüm Evi'ne (Chapter House) girmek için zorlanabilir veya kırılabilir.
@@ -551,13 +553,13 @@ Küçük bir göletin merkezinde sular altında kalmış üç **bina** yükseliy
 
 **Tehlike**: _Dev Örümcek Yuvası_, _Yaralı Yaratık_
 
-Siyah bir **domuz**, siyah iplik ve ağaçlardan oluşan büyük bir **kütlenin** yakınında gürültüyle topallıyor. Ağaç tepelerinde ipekten asılı şişman, kurumuş **leşler** var. Güneydeki kuru bir **nehir yatağı** tahta yığınlarıyla dolu.
+Siyah bir **domuz**, siyah iplik ve ağaçlardan oluşan büyük bir **kütlenin** yakınında gürültüyle topallıyor. Ağaç tepelerinde, ipek ağlarla asılı duran şişkin ve kurumuş **leşler** vardır.. Güneydeki kuru bir **nehir yatağı** tahta yığınlarıyla dolu.
 
-- **Domuz**: Kalın siyah ipeğe yarı sarılmış, acıklı bir şekilde miyavlıyor.
+- **Domuz**: Kalın siyah ipeğe yarısı sarılmış, acıklı bir şekilde miyavlıyor.
   - Arka kısmındaki örümcek ısırığıyla zehirlenmiş. Ekip yardımına gelirse, Orman bunu hatırlayacaktır.
 - **Kütle**: Kalın siyah ipek iplikleri, 3 metre yüksekliğinde bir odun yığınını bir arada tutuyor.
   - Yuva, 3 **Kara İpek Örümceği**'ne ev sahipliği yapıyor. Yiyecekleriyle etkileşime giren veya yuvalarına çok yaklaşan herkese saldırırlar.
-  - Yuvadan dikkatlice 200 altın değerinde siyah ipek toplanabilir. Mükemmel bir ip (yaklaşık 18 metre) yapar; inanılmaz derecede güçlüdür ve su itici özellikleri nedeniyle aranır.
+  - Yuvadan dikkatlice toplanan siyah ipek, 200 altın değerindedir. Yaklaşık 18 metre uzunluğundaki bu mükemmel ip son derece güçlüdür ve su itici özelliği nedeniyle çok rağbet görür.
 - **Leşler**: Çoğunlukla hayvan cesetleri. Siyah ağın içinden bir insan şekli görülebiliyor.
   - İnsan, Sweeney'nin uyarılarını dikkate almayıp _Avcı Yolu_'nun Kuzeyinde avlanan bir avcıydı. Cesette Azıklar (2 kullanım kaldı), 33 altın ve bir bel bıçağı (d6) var.
 - **Nehir Yatağı**: Etrafa saçılmış büyük odun yığınları. Uzun parçalara siyah ipek bağlandığı görülebiliyor.
@@ -581,8 +583,8 @@ Kuzeyde küçük bir **gölün** yanına inşa edilmiş derme çatma bir **kulü
 
 - **Kulübe**: İple birbirine bağlanmış basit kütüklerden inşa edilmiş, ip yeni görünüyor. Kuzey tarafından çıkan ve göle uzanan bir olta ipi görülebiliyor.
 - **Göl**: Sakin, ancak böcek dolu. Batı tarafındaki bir patika ormandan uzaklaşıyor.
-  - Gölde bir süredir balık tutulmamış ve aşırı nüfus oluşmuş. Balık tutmak kolay av.
-- **Duman**: Kızarmış balık yığınının (4 x Azık, her biri 3 kullanım) yanındaki ahşap pişirme rafından dökülüyor.
+  - Gölde bir süredir balık tutulmamış ve aşırı nüfus oluşmuş. Dolayısıyla balık tutmak kolay.
+- **Duman**: Ahşap pişirme rafından duman tütüyor. Rafın yanında, her biri 3 kullanımlık olan 4 Azık değerinde kızarmış balık yığını duruyor.
 - **Sesler**: Gülüşme ve boğuk konuşma. İçeriden en az iki ses duyulabiliyor.
   - Bu kulübede izinsiz yaşayan üç eski asker var. Bunlar, zorla askerlik hizmetine alınmış pasifistler. **7**'deki manastıra sığınmak istiyorlar ama henüz o kadar uzağa gidemediler. Neşeli ve iyi kalpliler, ancak tam birer korkaklar.
   - Orman hakkında, gölden Güneye doğru akan ve bir zamanlar bir manastırın yakınlarında sona eren bir nehir olduğu dışında çok az şey biliyorlar.
@@ -597,4 +599,4 @@ Kuzeyde küçük bir **gölün** yanına inşa edilmiş derme çatma bir **kulü
 | **3**   | Bir cep bataklığı, yumuşak zemin kılığına girmiş. Yakınlarda kırık bir ip makarası yatıyor. |
 | **4**   | Hırlayan bir kurt sürüsü taze bir avı çevrelemiş. Paylaşmaya pek niyetli değiller.          |
 | **5**   | Yabani meyveler burada bolca yetişiyor. Hiçbiri yenmemiş, kuşlar tarafından bile.          |
-| **6**   | Aceleyle kurulmuş ve kötü gizlenmiş bir tuzak. Güçlü idrar kokuyor.                         |
+| **6**   | Aceleyle kurulmuş ve kötü gizlenmiş bir tuzak. Güçlü idrar kokusu var.                         |

@@ -90,21 +90,21 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 ### Klikler 
 
-Bir bölgeye tipik olarak bir veya daha fazla Klik hakimdir; her biri kendine özgü **Avantajlara**, **Gündeme** ve **Engellere** sahiptir. Her hizbin ayrıca, gündemlerini tamamlamakla görevlendirilmiş bir veya daha fazla temsilcisi veya **Ajanı** olmalıdır. Daha az İN'ye sahip daha küçük bölgeler 1-2 Klik içermeli, daha büyük bölgeler ise 5-6 kadar Klik içerebilir.
+Bir bölgeye tipik olarak bir veya daha fazla Klik hakimdir; her biri kendine özgü **Avantajlara**, **Gündeme** ve **Engellere** sahiptir. Her kliğin ayrıca, gündemlerini tamamlamakla görevlendirilmiş bir veya daha fazla temsilcisi veya **Ajanı** olmalıdır. Daha az İN'ye sahip daha küçük bölgeler 1-2 Klik içermeli, daha büyük bölgeler ise 5-6 kadar Klik içerebilir.
 
-Ajanlar genellikle bir hizbin Gündemindeki hedeflerden birini veya daha fazlasını tamamlamaktan sorumludur. Özellikle büyük Klikler, her biri farklı bir hedeften sorumlu ek ajanlara sahip olabilir. Ajanların, hizbin ana gündeminden farklı kişisel motivasyonları olabilir; bu, kurnaz PC'lerin kendi çıkarları için kullanabileceği bir gerçektir.
+Ajanlar genellikle bir kliğin Gündemindeki hedeflerden birini veya daha fazlasını tamamlamaktan sorumludur. Özellikle büyük Klikler, her biri farklı bir hedeften sorumlu ek ajanlara sahip olabilir. Ajanların, kliğin ana gündeminden farklı kişisel motivasyonları olabilir; bu, kurnaz PC'lerin kendi çıkarları için kullanabileceği bir gerçektir.
 
 #### Avantajlar
 
-Klikler, gündemlerini gerçekleştirmelerine yardımcı olan avantajlara sahiptir. Avantajlar, bir hizbin nüfuzunu, malzemelerini, zenginliğini ve diğer benzersiz özelliklerini yansıtır. Klikler, hedeflerine ulaşmaya çalışırken avantajlarını mümkün olduğunca kullanır ve aynı zamanda sürekli olarak daha fazla avantaj elde etmek için çalışır.
+Klikler, gündemlerini gerçekleştirmelerine yardımcı olan avantajlara sahiptir. Avantajlar, bir kliğin nüfuzunu, malzemelerini, zenginliğini ve diğer benzersiz özelliklerini yansıtır. Klikler, hedeflerine ulaşmaya çalışırken avantajlarını mümkün olduğunca kullanır ve aynı zamanda sürekli olarak daha fazla avantaj elde etmek için çalışır.
 
 #### Gündemler 
 
 Klikler, gündemlerini bağımsız olarak tamamlamak için çalışacak, PC'lerin yardımını yalnızca bu onların gündemini güçlendireceğinde isteyecektir. Gündemler, net bir hedefe doğru ilerleyen 3-5 hedeflik bir diziyle tanımlanır. Hedefler _aşamalıdır_, önceki hedeflerin başarıları (veya başarısızlıkları) üzerine inşa edilir.
 
-Hedefler, bir sonraki hedefe geçmek için belirgin bir avantaj elde etmeye odaklanmalıdır. En az bir hedef, hizbin birincil engeliyle ilgilenmelidir. Bu ilk hedef veya son hedef olabilir. Tüm gündemlerin, tamamlanmalarının önünde duran en az bir engeli vardır. Ek engeller, Klik Eylemleri (aşağıya bakın) veya kurgudaki gelişmeler yoluyla ortaya çıkabilir.
+Hedefler, bir sonraki hedefe geçmek için belirgin bir avantaj elde etmeye odaklanmalıdır. En az bir hedef, kliğin birincil engeliyle ilgilenmelidir. Bu ilk hedef veya son hedef olabilir. Tüm gündemlerin, tamamlanmalarının önünde duran en az bir engeli vardır. Ek engeller, Klik Eylemleri (aşağıya bakın) veya kurgudaki gelişmeler yoluyla ortaya çıkabilir.
 
-Bir hizbin gündemlerini tamamlamak önemli bir olay olmalı, potansiyel olarak bir bölgenin politik veya doğal manzarasını değiştirmelidir.
+Bir kliğin gündemlerini tamamlamak önemli bir olay olmalı, potansiyel olarak bir bölgenin politik veya doğal manzarasını değiştirmelidir.
 
 > Bölge haritası, Klikler gündemlerini tamamlamak ve daha fazla avantaj elde etmek için çalışırken sürekli olarak Kliklerin etkisini yansıtmalıdır.
 
@@ -170,7 +170,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 #### Klik Avantajları
 
-Hizbin sahip olduğu avantaj sayısını belirlemek için 1d20 atın, ardından karşılık gelen avantajların her biri için tekrar 1d20 atın. Örneğin, “# of Advantages” sütunundan “2” sonucu geldiyse, “Type” sütununda iki kez zar atar, her sonucu not edersiniz. Tekrar eden sonuçları yeniden atın.
+kliğin sahip olduğu avantaj sayısını belirlemek için 1d20 atın, ardından karşılık gelen avantajların her biri için tekrar 1d20 atın. Örneğin, “# of Advantages” sütunundan “2” sonucu geldiyse, “Type” sütununda iki kez zar atar, her sonucu not edersiniz. Tekrar eden sonuçları yeniden atın.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
@@ -212,7 +212,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **7**   | Kendilerini Zenginleştirmek| Yakın başarısızlığı öngören iyi bilinen bir kehanet.    |
 | **8**   | Bir Koloni Kurmak          | Önce bir düşmanla ittifak yapılmalıdır.                 |
 | **9**   | Yeni Bir Düzen Kurmak      | İç bölünme, hizbi parçalamakla tehdit eder.             |
-| **10**  | Keşfedilmemiş Toprakları Keşfetmek | Başka bir hizbin aynı hedefi vardır.              |
+| **10**  | Keşfedilmemiş Toprakları Keşfetmek | Başka bir kliğin aynı hedefi vardır.              |
 | **11**  | Bir İttifak Kurmak         | Başka bir Klik karşı çıkar.                            |
 | **12**  | Başka Bir Hizbe Sızmak     | Avam açıkça karşı çıkar.                                |
 | **13**  | Statükoyu Korumak          | Önemli miktarda sermaye gereklidir.                     |
@@ -252,7 +252,7 @@ _Lonca_'ya, saflarında iyi konumlanmış bir ajanın hareket ettiği konusunda 
 #### Klik Kuralları
 
 - Varsayılan olarak, Klikler oyuncu karakterlerin eylemlerinden bağımsız çalışır. PC'ler hiçbir şey yapmasa bile, Klik hedeflerine ulaşmak için hareket etmelidir.
-- **Muhafız**, bir hizbin ajandasına hizmet edip etmediğini belirlemek için kurgudaki gelişmelere bakmalıdır. 
+- **Muhafız**, bir kliğin ajandasına hizmet edip etmediğini belirlemek için kurgudaki gelişmelere bakmalıdır. 
 - Bazı hedefler zamana duyarlı olabilir veya açık koşullara bağlı olabilir. Bazen de önemli bir olaydan, ittifaktan veya bir veya birden fazla klik arasındaki sürtüşmeden sonra yeni bir hedef tanıtmak daha uygun olabilir.
 - Bir Klik gündemindeki bir hedefi ilerletmek için konumlandığında, [Klik Eylemleri](#klik-eylemleri) tablosunda bir **d6** atın.
 - Eğer iki Klik _rakip_ ise, _en riskli_ klik, en yüksek rütbeli ajanının puanını kullanarak bir İRA kurtarma zarı atar. Başarısız olursa, Klik bu sefer Klik Eylemleri tablosunda zar atmaz.
@@ -282,14 +282,14 @@ Bir bölgenin arazisi ve doğal özellikleri herhangi bir haritanın temel bir p
 #### Arazi Çiz
 
 1. **1d6** atın, ardından bu sayıya eşit miktarda zarı harita üzerinde atın. Sayfadan yuvarlanıp düşen zarları toplayıp kenara koyun.
-2. Her zarın üst yüz sonucunu not edin, ardından arazi türünü haritada işaretlemek için [Arazi Zar Düşürme Tablosu](#arazi-zar-düşürme-tablosu) kullanın. Örneğin, 4 gösteren bir zar Zor araziyi belirtir.
+2. Her zarın sonucunu not edin, ardından arazi türünü haritada işaretlemek için [Arazi Zoruluk Tablosu](#arazi-zorluk-tablosu) kullanın. Örneğin, 4 gösteren bir zar Zor Araziyi belirtir.
 3. Sayfa boyunca uzun, kıvrımlı çizgiler çizin, haritayı her zarın etrafında bölümlere ayırın.
 4. Her sonuç için uygun tabloda zar atın, arazi ve dönüm noktası sonuçlarını haritaya yazın.
    - Zarı bir üçgenle değiştirin, dönüm noktası sonucunu haritaya yazın.
    - Harita sayfasından düşen zarları atın, hiç kalmayana kadar son adımı tekrarlayın.
    - Arazilendirilmeye ihtiyaç duyan boş alanlar varsa, istediğiniz yere bir zar atın ve daha önce olduğu gibi üst yüz sonucunu kullanın.
 
-### Arazi Zar Düşürme Tablosu
+### Arazi Zoruluk Tablosu
 
 |         |                |
 | ------- | -------------- |
@@ -603,9 +603,9 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 > Ortamınız için her Zindan İN'yi nasıl detaylandıracağınızı görmek için [Zindan Tohumları](/second-edition/wardens-guide/dungeon-seeds) bölümüne bakın.
 
-## Yollar (Paths)
+## Yollar 
 
-**Yollar**, harita üzerinde coğrafi bağlayıcılar olarak işlev görür; sık kullanılan yollardan ve patikalardan zorlu vahşi doğa rotalarına kadar uzanır. Yollar, güvenlik, hız ve seyahat zorluğu gibi faktörlerin tartılması gereken İN'ler arasında ilgi çekici seçimler sunmalıdır.
+**Yollar**, harita üzerinde coğrafi bağlayıcılar olarak işlev görür; sık kullanılan yollardan ve patikalardan zorlu vahşi doğa rotalarına kadar uzanır. Yollar, güvenlik, hız ve seyahat zorluğu gibi bileşenlerden oluşur. Yollar İN'ler arasında olmalıdır. 
 
 ### Yol Türleri
 
@@ -669,8 +669,8 @@ Kendinize şu soruları sorun:
 
 Artık bu bölgenin insanları ve arazisi hakkında yeterli bir fikriniz olmalı ve ilk bölgeniz tamamlanmıştır. Diyarınızı genişletmek için süreci istediğiniz kadar tekrarlayın.
 
-Örneğin, sonuçlarım dindar ve dönüştürmeyi amaçlayan bir halkı tanımlıyorsa, bunların gururlu, dini aşırılıklara ve misyonerliğe yatkın bir halk olduğunu varsayardım. Ve birincil kaynakları toprak iken baharatlar nadirse, kendi yiyeceklerini yetiştirdiklerini, ancak dini bir yasak nedeniyle mutfaklarının genellikle tatsız olduğunu varsayardım.
+Örneğin çıkan sonuçlar dindar ve tebliğci bir halkı işaret ediyorsa, bu halkın gururlu, dini aşırılıklara açık ve misyonerliğe yatkın bir halk olduğunu varsayardım. Ve birincil kaynakları toprak iken baharatlar nadirse, kendi yiyeceklerini yetiştirdiklerini, ancak dini bir yasak nedeniyle mutfaklarının genellikle tatsız olduğunu varsayardım.
 
-Bir Klik için sonucun Göçebeler, birincil avantajlarının ise inanç olduğunu varsayalım. O zaman seçkinlerinin bir sınıf dini şef olduğunu varsayabilirim. Hizbin gündemi nadir bir kaynak yetiştirmek olsaydı, ancak kültürel tabular tarafından engellenselerdi, bunun yerine bu görevi partiye yaptırmak için onları işe aldıklarına karar verebilirdim. Belki de görevlerinin nesnesi, yalnızca uzak bir yerde yetişen eşsiz bir bitkiydi ve görevin gizli kalması gerekiyordu!
+Bir Klik için sonucun Göçebeler, birincil avantajlarının ise inanç olduğunu varsayalım. O zaman seçkinlerinin bir sınıf dini şef olduğunu varsayabilirim. klikin gündemi nadir bir kaynak yetiştirmek olsaydı, ancak kültürel tabular tarafından engellenselerdi, bunun yerine bu görevi partiye yaptırmak için onları işe aldıklarına karar verebilirdim. Belki de görevlerinin nesnesi, yalnızca uzak bir yerde yetişen eşsiz bir bitkiydi ve görevin gizli kalması gerekiyordu!
 
 Son olarak, parti Klik ajanlarından biriyle karşılaşacaktı: seyyar satıcı kılığına girmiş bir casus. Bitkinin nerede yetiştiğini ve nasıl yetiştirileceğini ancak o söyleyebilirdi. Bu kişinin bölgenin **Kalp**'i gibi önemli bir yerde görünmesi gerektiğini aklımda tutuyorum.
