@@ -8,73 +8,73 @@ grand_parent: İkinci Edisyon
 
 ## Giriş
 
-Cairn'in ima edilen ortamı olan **Vald**, gelişmiş veya yerleşik tüm toprakları, şehirleri, kasabaları, ormanları vb. kapsar. Belirli bir hükümdar önemsizdir, çünkü çoğu macera daha küçük kasaba ve köylerde, ormanda ve diyarın kıyılarında geçer. Çoğu sakin (bölgeden bağımsız olarak) yerel güç merkezlerinden _Şehirler_ olarak söz eder, bazen aşağılayıcı bir anlamda.
+Cairn'in ima edilen ortamı olan **Vald**, gelişmiş veya yerleşik tüm toprakları, şehirleri, kasabaları, ormanları vs. kapsar. Tek bir hükümdar, çünkü çoğu macera daha küçük kasaba ve köylerde, ormanda ve diyarın kıyılarında geçer. Çoğu sakin yerel güç merkezlerinden _Şehirler_ olarak söz eder, bazen aşağılayıcı bir anlamda.
 
-Çoğu kasaba ve köy, birbirine bir günlük yürüme mesafesinde, su ve kereste kaynaklarına yakın inşa edilmiştir. Daha büyük köyler kendi kendine yeterli olmaya çalışır, ancak yine de yiyecek için yakındaki çiftliklere ve yerel avcılara güvenebilir. Çoğu yerleşim başlangıçta kerestecilik, biracılık, balıkçılık veya madencilik gibi belirli bir endüstri etrafında örgütlenmiştir ve genellikle bir topluluğun en değerli varlıklarını korumak için bir Tarla Bekçisi (Fieldwarden) veya Canavar Terbiyecisi (Beast Handler) görevlendirilir.
+Çoğu kasaba ve köy, birbirine bir günlük yürüme mesafesinde, su ve kereste kaynaklarına yakın inşa edilmiştir. Daha büyük köyler kendi kendine yeterli olmaya çalışır, ancak yine de yiyecek için yakındaki çiftliklere ve yerel avcılara güvenebilir. Çoğu yerleşim başlangıçta kerestecilik, biracılık, balıkçılık veya madencilik gibi belirli bir endüstri etrafında örgütlenmiştir ve genellikle bir topluluğun en değerli varlıklarını korumak için bir Tarla Bekçisi veya Canavar Terbiyecisi görevlendirilir.
 
-Daha büyük kasabalar, topluluğun refahından ve dış ilişkilerinden sorumlu bir _Müfettiş (Reeve)_ seçer. Bir suç veya şiddet olayında, bir _komiser (constable)_ yerel yasaları uygulamakla yetkilidir. Ticaret yollarına yakın köylerde meyhaneler ve hanlar yaygındır, büyük yerleşimler ise genellikle en az bir mabet veya tapınağa sahiptir.
+Daha büyük kasabalar, topluluğun refahından ve dış ilişkilerinden sorumlu bir _Müfettiş_ seçer. Bir suç veya şiddet olayında, bir _komiser_ yerel yasaları uygulamakla yetkilidir. Ticaret yollarına yakın köylerde meyhaneler ve hanlar yaygındır, büyük yerleşimler ise genellikle en az bir mabet veya tapınağa sahiptir.
 
-Büyük kasabalar arasında belirlenmiş patikalar oldukça yaygındır, oysa bakımlı yollar uzaktaki şehirler dışında neredeyse yoktur. Seyyar tüccarlar, Kazan Yazıcıları (Kettlewrights) ve çeşitli seyyar satıcılar, yerleşimlerden yarı-düzenli olarak geçer; bazen daha büyük kervanları korumak ve eskortluk yapmak için Öncü Biniciler (Outriders) veya Nehir Toprakları'nda yolcu taşımaya yardımcı olması için Irmak Koşucuları (Rill Runners) kiralarlar.
+Büyük kasabalar arasında belirlenmiş patikalar oldukça yaygındır, oysa bakımlı yollar uzaktaki şehirler dışında neredeyse yoktur. Seyyar tüccarlar, Kazancılar ve çeşitli seyyar satıcılar, yerleşimlerden geçer bazen daha büyük kervanları korumak ve eskortluk yapmak için Öncü Süvari veya Nehir Toprakları'nda yolcu taşımaya yardımcı olması için Irmak OzanI kiralarlar.
 
-En küçük köy bile şehirlerden gelen bilgin tiplere ev sahipliği yapabilir: bir Yazman (Scrivener), Aurifex veya Yeşilbilir (Greenwise) yakındaki mezarlar, höyükler ve Geçitlerle yakından ilgilenir. Genellikle bir Kemik Bekçisi (Bonekeeper) veya Mantar Toplayıcısı (Fungal Forager) uzmanlıkları için tutulur, zeki maceracılar ise bir Berber-Cerrah'ın (Barber-Surgeon) asla uzakta olmamasını sağlar veya yapılması gereken kötü işler varsa bir Yankesici (Cutpurse) bulundurur. Tabii ki, Maskaralar (Mountebanks) ve Ozanlar (Jongleurs) genellikle bu tiplere eşlik eder, bir sonraki büyük keşiften onlar da faydalanacakları umuduyla eteklerinde sürüklenirler.
+En küçük köy bile şehirlerden gelen bilgin tiplere ev sahipliği yapabilir: bir Yazman, Simyacı veya Yeşil Bilge yakındaki mezarlar, höyükler ve Geçitlerle yakından ilgilenir. Genellikle bir Kemik Bekçisi veya Mantar Toplayıcısı uzmanlıkları için tutulur, zeki maceracılar ise bir Berber-Cerrah'ın asla uzakta olmamasını sağlar veya yapılması gereken kötü işler varsa bir Yankesici bulundurur. Tabii ki, Şarlatan ve Jonglör genellikle bu tiplere eşlik eder, bir sonraki büyük keşiften onlar da faydalanacakları umuduyla eteklerinde sürüklenirler.
 
-Orman'a (Wood) girenler, bölgeye aşina bir rehber kiralar, örneğin bir Sinsi (Prowler) veya Ok Yapımcısı (Fletchwind) gibi; gerçekten kararlı yolcular ise daha karanlık sırlarına bağlantısı olan bir Yarı Cadı (Half Witch) veya Buluntu (Foundling) bilgeliğine başvurur. Sınıra daha yakın yerlerde, Sınır Muhafızları (Marchguard) diyarı dış etkilerden uzak tutmak için çalışırken, Hexenbane onu içerideki güçlerden korumaya çalışır.
+Orman'a girenler, bölgeye aşina bir rehber kiralar, örneğin bir Pusucu veya Ok Tüygar gibi; gerçekten kararlı yolcular ise daha karanlık sırlarına bağlantısı olan bir Yarı Cadı veya Buluntu bilgeliğine başvurur. Sınıra daha yakın yerlerde, Sınır Muhafızları diyarı dış etkilerden uzak tutmak için çalışırken, Hexenbane onu içerideki güçlerden korumaya çalışır.
 
 ## İnanç
 
 Küçük halk arasında popüler olan birkaç büyük din ve ruhani inanç vardır.
 
-### Gelgit Doğumlular (Tideborn)
+### Nehrin Evlatları
 
-Nehirlerin ve göllerin küçük tanrısı _Rivulus_'a tapan hiyerarşik bir dini mezhep. Üye olmayanlar bile grubun inisiyasyon törenine aşinadır; bu, bazen katılımcıları öldüren ritüel bir boğulmadır. Hayatta kalanlara _Gelgit Doğumlu (Tideborn)_ denir ve suyla ilgili yeni bir takma ad alırlar (Sazan, Saz, Menderes vb.). Sadece din adamlarının ritüele katılması gerekir; ancak son yıllarda, özellikle su kütlelerine yakın köylerde, kırsal halk arasındaki takipçileri artmıştır. Din adamları içinde, _Aqua Primaris_ dışında çok az hiyerarşi vardır; herkes ona sorgusuz sualsiz itaat eder.
+Nehirlerin ve göllerin küçük tanrısı _Rivulus_'a tapan hiyerarşik bir dini mezhep. Üye olmayanlar bile grubun kabul törenine törenine aşinadır. Bu, bazen katılımcıları öldüren, ritüel bir boğulmadır. Hayatta kalanlara _Nehrin Evlatları_ denir ve suyla ilgili yeni bir takma ad alırlar (Sazan, Saz, Menderes vb.). Sadece din adamlarının ritüele katılması gerekir; ancak son yıllarda, özellikle su kütlelerine yakın köylerde, kırsal halk arasındaki takipçileri artmıştır. Din adamları içinde, _Aqua Primaris_ dışında çok az hiyerarşi vardır; herkes ona sorgusuz sualsiz itaat eder.
 
-Gelgit Doğumlular diyardaki tek inançtan çok uzaktır, ancak istikrarlı büyümeleri ve fanatizmleri onlara diğer bazı hiziplerin, özellikle de _Burjuva Meclisi_'nin (House of Burgesses) saygısını kazandırmıştır. Üyeliklerinin devam eden genişlemesi, özellikle diğer hiziplerden onlara düşman kazandırmıştır. Düşmanlıkları öyle bir noktadadır ki, bugün Gelgit Doğumlu din adamları, dayak yeme veya daha kötüsü riskini göze almak istemediklerinden asla ağırlıklı ormanlık alanlarda yalnız seyahat etmeye kalkışmazlar.
+Nehrin Evlatları diyardaki tek inanç değildir. Ancak istikrarlı büyümeleri ve fanatizmleri onlara diğer bazı Kliklerin, özellikle de _Burjuva Meclisi_'nin saygısını kazandırmıştır. Üyeliklerinin durmadan artmaya devam ediyor olması özellikle diğer hiziplerden onlara düşman kazandırmıştır. Düşmanlıkları öyle bir noktadadır ki, bugün Nehrin Evlatarı, dayak yeme veya daha kötüsü riskini göze almak istemediklerinden asla ağırlıklı ormanlık alanlarda yalnız seyahat etmeye kalkışmazlar.
 
-### Ak Karga (White Raven)
+### Beyaz Karga
 
-Orman'a yakın yaşayanlar arasında popüler olan _Ak Karga_ takipçileri (veya tercih ettikleri adla "Sürü"), Orman'ın gücüne ve onun ormanlarını ve yaratıklarını sağlıklı tutmanın önemine şiddetle inanırlar. Orman Adamı'na (Woodwose) hayranlık duyarlar ve Orman'ın iradesine sorgusuz sualsiz itaat ederler. Bileklerinde, boyunlarında veya sırtlarında beyaz bir kuş dövmesiyle tanınabilirler. Her yerleşimin kendi topluluğuna özgü bir Sürüsü vardır ve takipçileri örgütlü dinin tamamına güvenmez.
+Orman'a yakın yaşayanlar arasında popüler olan _Beyaz Karga_ takipçileri (veya tercih ettikleri adla "Sürü"), Orman'ın gücüne ve onun ormanlarını ve yaratıklarını sağlıklı tutmanın önemine şiddetle inanırlar. **Orman Vasisi'ne** hayranlık duyarlar ve Orman'ın iradesine sorgusuz sualsiz itaat ederler. Bileklerinde, boyunlarında veya sırtlarında beyaz bir kuş dövmesiyle tanınabilirler. Her yerleşimin kendi topluluğuna özgü bir Sürüsü vardır ve takipçileri örgütlü dinlere güvenmez.
 
-### Beş Köşeli Yıldız (The Five-Pointed Star)
+### Yıldız 
 
-Kökenini diyarın ilk halklarına borçlu olan, yıldızları ve takımyıldızları haritalamak için taş yapılar inşa eden daha eski bir din. İbadet edenleri, diğer tüm inançların meşruiyetini reddeden bir dizi dini ilkeye sıkı sıkıya bağlıdır ve yerel tarih, onun savaşları ve zorla din değiştirmeleriyle işaretlenmiştir. Bugün, _Beş Köşeli Yıldız_ her büyük yerleşimde mabetler bulundurur; bunlar genellikle özellikle yoksullar için gerekli hizmetleri sağlar. Son yıllarda, diğer inançların yükselmesiyle önemi azalmış ve bu durum, bazı üyelerinin _Kanayan Yıldız (Bleeding Star)_ adlı gerici bir tarikata katılmasına neden olmuştur.
+Kökenini diyarın ilk halklarına borçlu olan, yıldızları ve takımyıldızları haritalamak için taş yapılar inşa eden daha eski bir din. İbadet edenleri, diğer tüm inançların meşruiyetini reddeden bir dizi dini ilkeye sıkı sıkıya bağlıdır ve yerel tarih, onun savaşları ve zorla din değiştirmeleriyle işaretlenmiştir. Bugün, _Yıldız_ her büyük yerleşimde mabetler bulundurur; bunlar genellikle özellikle yoksullar için gerekli hizmetleri sağlar. Son yıllarda, diğer inançların yükselmesiyle önemi azalmış ve bu durum, bazı üyelerinin _Kanayan Yıldız_ adlı gerici bir tarikata katılmasına neden olmuştur.
 
 ## Vald İlkeleri
 
 - Küçük tutun. Maceralar daha küçük kasabalarda, köylerde, ormanlarda ve diyarın kıyılarında geçer.
 - Yerel tutun. Büyük hükümdarlar (krallar, kraliçeler vb.) uzaktır, neredeyse ilgisiz varlıklardır. Güçleri vardır, ancak mesafe etkilerini azaltır.
-- Çoğu insan insandır. Bazılarının bir damla Peri kanı vardır veya iki dünyanın çocuğu olarak doğarlar. Ancak çoğunlukla, herkes tanıdık bir şekilde görünür, konuşur ve davranır.
+- Sakinlerinin çoğu insandır. Bazılarının bir damla Peri kanı vardır veya iki dünyanın çocuğu olarak doğarlar. Ancak çoğunlukla, herkes tanıdık bir şekilde görünür, konuşur ve davranır.
 - Mesafe önemlidir. Çoğu köy, gezginlerin güvenliğini sağlamak için birbirine bir günlük yürüme mesafesindedir. Kamp yapmak son çaredir ve uzaklara yolculuk edenler nadiren geri döner.
-- Dil önemlidir. Çoğu kasaba ve köy ortak bir dil konuşur, ancak kişi ne kadar uzağa giderse dil o kadar az anlaşılır hale gelir. İnsanların artık adım atmadığı yerlerde yazılı, daha eski biçimler yaygındır.
+- Dil önemlidir. Çoğu kasaba ve köy ortak bir dil konuşur, ancak kişi ne kadar uzağa giderse dil o kadar az anlaşılır hale gelir. 
 - Yalnızca bir Orman vardır. Tek bir orman değil, _tüm_ ormanlardır. Ne İyi ne de Kötü'dür; sadece büyümek, özgür olmak ve kendini korumak ister.
-- Orman gözenekli bir zindandır. Odaları, tuzakları ve tehlikeleri vardır, ancak aynı zamanda farklı şekillerde de geçilebilir: kişi her zaman bir ağaca tırmanabilir. Bu, onu daha az tehlikeli yapmaz.
-- Kökler (Roots) yabancı bir diyardır. Zaman, mantık ve madde, onları bilinemez kılacak kadar yabancı ilkelerle işler.
+- Orman bol gözenekli bir zindan gibidir. Odaları, tuzakları ve tehlikeleri vardır, ancak aynı zamanda farklı şekillerde de geçilebilir: karakterler her zaman bir ağaca tırmanabilir ancak bu onu daha az tehlikeli yapmaz.
+- Kökler yabancı bir diyardır. Zaman, mantık ve madde, onları bilinemez kılacak kadar yabancı ilkelerle işler.
 - Büyü nadir ve tehlikelidir. Emanetler ve Büyü Kitapları iyi anlaşılmamıştır ve güçlerini manipüle etmeye çalışmak kendini yok etmeye yol açabilir.
 - Emanetler Kökler'de ortaya çıkar. İnsanlar tarafından yaratılamazlar, sadece bulunabilirler. Kadimdirler, ancak yine de enkazdan sanki orada yetiştirilmiş gibi filizlenirler.
 - Canavarlar ve diğer yaratıklar kurallara uymaz. PC'lerden farklı konuşur ve davranırlar ve normal karakterlerin erişemeyeceği yeteneklere ve büyüye sahiptirler.
 
-## Orman (Wood)
+## Orman 
 
-**Orman**, diyarı çevreler ve böler; yalnızca bir ormanı değil, _tüm_ ormanları temsil eder. Orman'ın sakinleri şiddetle bağımsızdır ve yalnızca onun kurallarına tabi olduklarına inanırlar. Onun çeşitli halkları, yaratıkları ve amansız doğal unsurları, çok eski zamanlardan beri dış dünyayı uzak tutmuştur. Orman, tüm ormanların ruhudur ve onlar da sırasıyla onun etidir ve destekledikleri yaşam onun sağlığının bir işaretidir.
+**Orman**, diyarı çevreler ve böler; yalnızca bir ormanı değil, _tüm_ ormanları temsil eder. Orman'ın sakinleri bağımsızdır ve yalnızca onun kurallarına tabi olduklarına inanırlar. Onun çeşitli halkları, yaratıkları ve amansız doğal unsurları, çok eski zamanlardan beri dış dünyayı uzak tutmuştur. Orman, tüm ormanların ruhudur ve onlar da sırasıyla onun etidir ve destekledikleri yaşam onun sağlığının bir işaretidir.
 
-Her ormanın özünde bir _Kalp Ağacı_ (Heart Tree) ve ormanın hem en güçlü hem de en tehlikeli olduğu yer vardır. Her Kalp Ağacı, ölmekte olan veya ölü bir Kalp Ağacı'ndan özel olarak elde edilen tek bir _Kalp Tohumu'ndan (Heartseed)_ doğar. Kalp Ağacı, etrafındaki bitkilere, ağaçlara ve hayvanlara bir mil görevi görür, kendi bölgesindeki sorunlu izinsiz girişleri gözlemler ve tepki verir. Özellikle, Kalp Ağaçları _insanlardan korkar_.
+Her ormanın özünde bir _Kalp Ağacı_ ve ormanın hem en güçlü hem de en tehlikeli olduğu yer vardır. Her Kalp Ağacı, ölmekte olan veya ölü bir Kalp Ağacı'ndan özel olarak elde edilen tek bir _Kalp Tohumu'ndan_ doğar. Kalp Ağacı, etrafındaki bitkilere, ağaçlara ve hayvanlara bir mil görevi görür, kendi bölgesindeki sorunlu izinsiz girişleri gözlemler ve tepki verir. Özellikle, Kalp Ağaçları _insanlardan korkar_.
 
-Ormanlar asla yalnız yaşamaz ve uyarı veya yardım istemek için birbirleriyle iletişim kurarlar. Yardım birçok biçimde gelebilir, çünkü Kalp Tohumu'nun geniş bir erişimi vardır. Kuzgun Halkı savunucuları başıboş avcıları yakalamak için özsu tuzakları kurabilirken, Dryad'lar oduncunun alet kutusundan baltayı çalar. Ancak ormanın gerçek koruyucusu olan Orman Adamı'ndan (Woodwose) daha güçlü (ve korkulan) hiçbir şey yoktur. Hem bitki hem de kemikten yapılmış bir yaratık olan Orman Adamı, yalnızca tek bir amaç için yaşar: ormanı ve sınırları içinde yaşayan herkesi korumak.
+Ormanlar asla yalnız yaşamaz ve uyarı veya yardım istemek için birbirleriyle iletişim kurarlar. Yardım birçok biçimde gelebilir, çünkü Kalp Tohumu'nun geniş bir erişimi vardır. Kuzgun Halkı savunucuları başıboş avcıları yakalamak için özsu tuzakları kurabilirken, Dryad'lar oduncunun alet kutusundan baltayı çalar. Ancak ormanın gerçek koruyucusu olan Orman Vasisinden daha güçlü ve korkulan hiçbir şey yoktur. Hem bitki hem de kemikten yapılmış bir yaratık olan Orman Vasisi, yalnızca tek bir amaç için yaşar: ormanı ve sınırları içinde yaşayan herkesi korumak.
 
-Korkunç ününe rağmen, birçok kişi ormanın iyiliğine dair hikayeler de anlatır. Bir çocuğu aniden meydana gelen bir toprak kaymasından kurtaran yeşil, kaslı kollar. Kaybolduğu sanılan gizli bir yolu ortaya çıkaran Will-o'-Wisps. Bir ağaçtaki kargadan söylenen uyarı sözleri. Bu nedenle, korucular ve diğer dışarıdakiler, saygı ve hayranlıklarının bir kanıtı olarak büyük taş yığınlarının yanına meyve ve fındık dolu kaseler bırakırlar, korunan bir Orman'dan özgürce geçmelerine izin verileceği umuduyla.
+Korkulmasına rağmen, birçok kişi ormanın iyiliğine dair hikayeler de anlatır. Bir çocuğu aniden meydana gelen bir toprak kaymasından kurtaran yeşil, kaslı kollar. Kaybolduğu sanılan gizli bir yolu ortaya çıkardığı anlatılan hikayeler. Bir ağaçtaki kargadan söylenen uyarı sözleri. Bu nedenle, korucular ve ormanlarda gezen diğerleri, saygı ve hayranlıklarının bir kanıtı olarak büyük taş yığınlarının yanına meyve ve fındık dolu kaseler bırakırlar, korunan bir Orman'dan özgürce geçmelerine izin verileceği umuduyla.
 
-Elbette, Orman insanlardan yoksun değildir. Dalların arasında ve boş açıklıklarda, nüfuslu köyler, rustik kulübeler ve tuhaf kuleler gizlidir. Bu tür yerlerde hayatta kalabilen (ve hatta gelişebilen) kişiler, ormanın kurallarına göre yaşamayı öğrenirler, çünkü bu kuralları görmezden gelen veya aptalca karşı çıkanlar genellikle korkunç sonlarla karşılaşır. Orman, Goblins, Ruhlar, Treantlar, Troller, Kurt Adamlar, Cadılar ve hatta konuşan bitkiler ve hayvanlar gibi tuhaf ve harika yaratıklarla doludur. Çoğu dışarıdakilere (özellikle insanlara) açıkça düşmandır, ancak diğerleri (zaman zaman) Orman'a saygı gösterenlerle müzakere eder. Tabii ki, hepsi Perilere (bazen Solgun Halk veya _Komşular_ olarak adlandırılır) tam bir saygı gösterir.
+Elbette, Orman insanlardan yoksun değildir. Dalların arasında ve boş açıklıklarda, nüfusu çok da az olmayan köyler, rustik kulübeler ve tuhaf kuleler gizlidir. Bu tür yerlerde hayatta kalabilen (ve hatta gelişebilen) kişiler, ormanın kurallarına göre yaşamayı öğrenirler, çünkü bu kuralları görmezden gelen veya aptalca karşı çıkanlar genellikle korkunç sonlarla karşılaşır. Orman, Goblinler, Ruhlar, Treantlar, Troller, Kurt Adamlar, Cadılar ve hatta konuşan bitkiler ve hayvanlar gibi tuhaf ve harika yaratıklarla doludur. Dışında olan çoğuna (özellikle insanlara) açıkça düşmandır, ancak diğerleri (zaman zaman) Orman'a saygı gösterenlerle müzakere eder. Tabii ki, hepsi Perilere (bazen Solgun Halk veya _Komşular_ olarak adlandırılır) tam bir saygı gösterir.
 
-## Komşular (The Neighbors)
+## Komşular 
 
-Dikenliklerin arasında ve çalıların üzerinden geçerken, ölümlüler diyarı ile Peri diyarının dokunduğu bir liminal alan vardır. Onu ararsanız, bulamazsınız. Ama geçmeniz gerekiyorsa, geçersiniz. Bu yerde yaşayan yaratıklar tanıdık görünüp ses çıkarabilir, ancak şüpheniz olmasın: onlar bizim gibi değil. Uzun, narin, buz gibi solgun ve ürkütücü derecede güzel olan Periler, hiçbir ölümlü yasasına uymaz, ne de onun ahlakına boyun eğer. Ancak yine de kısırlıkla sakatlanmışlardır, kendi soyundan olanları yaratma yeteneğinden yoksundurlar. Bu eylem için, ölümlülerle anlaşmak üzere eşiği geçmeli ve ölümlü diyarına girmelidirler. Türleri için birçok isim vardır, ancak dudaklarından kaçan tek bir isim vardır: Komşular (Neighbors).
+Dikenliklerin arasında ve çalıların üzerinden geçerken, ölümlüler diyarı ile Peri diyarının dokunduğu bir eşik alan vardır. Onu ararsanız, bulamazsınız. Ama geçmeniz gerekiyorsa, geçersiniz. Bu yerde yaşayan yaratıklar tanıdık görünüp ses çıkarabilir, ancak şüpheniz olmasın: onlar bizim gibi değil. Uzun, narin, buz gibi solgun ve ürkütücü derecede güzel olan Periler, hiçbir ölümlü yasasına uymaz, ne de onun ahlakına boyun eğer. Ancak yine de kısırlıkla lanetlenmişlerdir, kendi soyundan olanları yaratma yeteneğinden yoksundurlar. Bu eylem için, ölümlülerle anlaşmak üzere eşiği geçmeli ve ölümlü diyarına girmelidirler. Türleri için birçok isim kullanılır, ancak dudaklarından kaçan tek bir tanesi yayıngınlık kazanmıştır: Komşular.
 
-Komşular sürekli olarak gizemle örtülüdür ve çoğu zaman gerçeği söylentiden ayırmak zor olabilir. Kimileri Komşuların bebekleri beşiklerinden çalıp yerine bir Değiştirme (Changeling) çocuğu bıraktığını söyler. Diğerleri, kendi kanını ve canını vermeye istekli olanlara büyük servetler ödeyeceklerini veya muazzam bir güç bahşedeceklerini iddia eder. Herkesin üzerinde hemfikir olduğu tek gerçek vardır: onların türüyle anlaşma yapmak, sadece kendi hayatınıza değil, soyunuzun hayatına da kötü şans getirir.
+Komşular sürekli olarak gizemle örtülüdür ve çoğu zaman gerçeği söylentiden ayırmak zor olabilir. Kimileri Komşuların bebekleri beşiklerinden çalıp yerine bir Değiştirme çocuğu bıraktığını söyler. Diğerleri, kendi kanını ve canını vermeye istekli olanlara büyük servetler ödeyeceklerini veya muazzam bir güç bahşedeceklerini iddia eder. Herkesin üzerinde hemfikir olduğu tek gerçek vardır: onların türüyle anlaşma yapmak, sadece kendi hayatınıza değil, bütün soyunuza kötü şans getirir.
 
 Avcılar, zaman zaman Peri dünyasından gelen hayvanların bizimkine geçtiğine yemin eder; kürklerinde yanmış beyaz bir iz bulunur. Etlerinin tadacağınız en tatlı et olduğunu ve sonrasında onun yokluğundan dolayı açlıktan öleceğinizi söylerler. Daha da kötüsü, bu yaratıkları kaçak avlarken yakalanmak ölümden beter bir kadere davetiye çıkarır. Bilginler, Komşuların büyüyü su gibi dökebildiklerini, Büyü Kitaplarına ve hatta Emanetlere ihtiyaç duymadıklarını yazmıştır. Ayrıca tüm büyünün kökeninin Solgun Halk'ın diyarında olduğunu ve her Büyü Kitabı'nın içinde onların en korkak kanun kaçaklarının hapsedilmiş ruhlarının bulunduğunu iddia ederler.
 
 Orman'da hayatını sürdürenler, olası bir karşılaşma durumunda tılsım, hediye ve benzeri eşyalar taşımayı bilirler. Komşular krallıklarının sınırlarını nadiren rahatsız etse de, davetsiz sınırlarını geçenlere sert cezalar verdikleri bilinmektedir. Bununla birlikte, Komşuların Kökler'den dehşete düştüğü ve mümkün olduğunda Geçitler'den kaçındığı herkesçe malumdur.
 
-## Kökler (The Roots)
+## Kökler 
 
 **Kökler**, yeraltında bir gizem ve dehşet diyarıdır; yukarıdaki medeniyetlerin keyfi bölünmelerine kayıtsızdır. Aşağıda, ölçülemez mesafelere uzanan labirentimsi oyuklar, mütevazı kasaba lağımlarını sınırların ötesindeki uzak harabelere bağlar. Yalnızca cesur veya aptal olanlar, unutulmuş Emanetler veya büyük zenginlikler arayışıyla Kökler'e girmeye cüret eder ve geri dönen birkaç kişi, bu kayıp hazineleri koruyan tarifsiz dehşetler ve kötü niyetli zekâ hakkında fısıldarır. Hikayeler, derinliklerde yüzyıllarca kaybolan, sadece birkaç saatin geçtiğini iddia ederek ortaya çıkan maceracılardan bahseder. Diğerleri, alttaki tünellerde seyahat ederek bir günde yer üstünde bir haftalık yolculuk yaptıklarını iddia eder.
 
@@ -86,13 +86,13 @@ _Bilinen_ şudur ki, Kökler, boşaltılmış bir okyanus kadar büyük, hiçbir
 
 Bugün, çoğu Geçitlerden, anahtarlardan veya ilgili simyadan bahsetmekten kaçınmayı bilir. Ama elbette, her zaman onun çekimine direnemeyenler vardır...
 
-## Hizipler (Factions)
+## Klikler
 
-### Burjuva Meclisi (House of Burgesses)
+### Burjuva Meclisi 
 
 Zengin, toprak sahibi lordların ve leydilerin bir meclisi. Kurnaz, iddialı ve kendi üstünlüklerine ikna olmuşlardır; tek bir beden olarak hareket ettiklerinde büyük işler başarabilirler. Ne yazık ki, çabaları genellikle bireysel kavgalar, küçük anlaşmazlıklar ve sonsuz güç ve prestij iştahı tarafından baltalanır. Meclis'te _Dokuzlar Tarikatı'na (Order of Nine)_ karşı sağlıklı bir güvensizlik olmasına rağmen, bir _Burjuva_ nadiren onlardan herkese açık bir şekilde kötü söz eder. Kendi paylarına, Meclis Gelgit Doğumlulara açıkça arkadaşça davranır, ancak dahili olarak, küstah dinin son zamanlardaki popülerlik artışı konusunda çok fazla endişe vardır.
 
-### Dokuzlar Tarikatı (Order of Nine)
+### Dokuz Baş Tarikatı 
 
 Tüccarlar, bilginler ve çok güçlü kişilerden oluşan bir konsorsiyum olan Tarikat, hedeflerine ulaşmak için önemli servetlerine ve geniş bir casus ağına güvenir. Birincil odakları Emanetlerin keşfi, tanımlanması ve düzenlenmesidir. Son yıllarda, odaklarını Kökler'e çevirmişlerdir, çünkü bunun çoğu Emanet'in kökeni olduğuna inanırlar ve Geçitler hakkında her türlü bilgi için cömertçe ödeme yaparlar. Organizasyon adını, isimleri ve unvanları gizli tutulan Tarikat'ın kurucu üyelerine borçludur. Tarikat, Büyü Kitaplarından ve onları taşıyan herkesten nefret eder. Siyasetle açıkça ilgilenmek için çok az neden görürler, ancak neredeyse her hizpte casus bulundururlar.
 
@@ -117,40 +117,40 @@ Muhafızlar, diğer hiziplerle siyasete veya diğer bu tür kısa görüşlü ka
 
 ### Genel Bakış
 
-Bir günde 24 saat ve bir haftada 6 gün vardır. Her ay 24 gündür (4 hafta), bir yılda 12 ay vardır. Yıl, her biri 72 gün süren 4 mevsime (Ölü, Kuru, Islak ve Hasat) ayrılır. Her 10 yılda bir, hiçbir aya ait olmayan 6 günlük bir "Artık Hafta" (_Yeniden Kazanım - Reclamation_) eklenir. Bu, on yıl üzerinden bir yılın ortalama uzunluğunu 288.6 gün yapar. Her yıl, _Kuru_ mevsim başlamadan hemen önce başlar. İçinde bulunduğumuz yıl 7728'dir.
+Bir günde 24 saat ve bir haftada 6 gün vardır. Her ay 24 gündür (4 hafta), bir yılda 12 ay vardır. Yıl, her biri 72 gün süren 4 mevsime (Ölü, Kuru, Islak ve Hasat) ayrılır. Her 10 yılda bir, hiçbir aya ait olmayan 6 günlük bir "Artık Hafta" (_Yeniden Kazanım_) eklenir. Bu, on yıl üzerinden bir yılın ortalama uzunluğunu 288.6 gün yapar. Her yıl, _Kuru_ mevsim başlamadan hemen önce başlar. İçinde bulunduğumuz yıl 7728'dir.
 
 ### Haftanın Günleri
 
-1. Pazar Günü (Market Day)
-2. Bahçe Günü (Garden Day)
-3. Şarkı Günü (Song Day)
-4. Aşar Günü (Tithe Day)
-5. Yıkanma Günü (Bathing Day)
-6. Dinlenme Günü (Resting Day)
+1. Pazar Günü 
+2. Bahçe Günü 
+3. Şarkı Günü 
+4. Aşar Günü 
+5. Yıkanma Günü 
+6. Dinlenme Günü 
 
 ### Aylar
 
-1. Yas (Mourning)
-2. Sessizlik (Silence)
-3. Peçe (Veil)
-4. Gündoğumu (Sunrise)
-5. Aydınlık (Bright)
-6. Kül Düşüşü (Ashfall)
-7. Sel (Flood)
-8. Yüksek Su (Highwater)
-9. Yükseliş (Rise)
-10. Dindirme (Quell)
-11. Bela (Bane)
-12. Günbatımı (Sunset)
+1. Yas 
+2. Sessizlik 
+3. Peçe 
+4. Gündoğumu 
+5. Aydınlık 
+6. Kül Düşüşü
+7. Sel 
+8. Yüksek Su
+9. Yükseliş 
+10. Dindirme 
+11. Bela 
+12. Günbatımı 
 
 ### Yeniden Kazanım Haftası (On yılda bir)
 
-1. Tanı (Recognize)
-2. Hatırla (Remember)
-3. Ödüllendir (Reward)
-4. Sevin (Rejoice)
-5. Vazgeç (Relinquish)
-6. Yenile (Renew)
+1. Tanı 
+2. Hatırla 
+3. Ödüllendir 
+4. Sevin 
+5. Vazgeç
+6. Yenile 
 
 ### Tarihe Göre Sıralanmış Tatiller, Festivaller ve Etkinlikler
 
@@ -202,7 +202,7 @@ Bir günde 24 saat ve bir haftada 6 gün vardır. Her ay 24 gündür (4 hafta), 
 
 |        |                 |                     |                    |                 |
 | ------ | --------------- | ------------------- | ------------------ | --------------- |
-| **d6** | **Ölü (Dead)**  | **Kuru (Dry)**      | **Islak (Wet)**    | **Hasat (Harvest)** |
+| **d6** | **Ölü**  | **Kuru**      | **Islak**    | **Hasat** |
 | **1**  | Soğuk ve açık   | Sıcak ve güneşli    | Hafif yağmur       | Ilık ve güneşli |
 | **2**  | Ayazlı sabahlar | Ilık ve güneşli     | Bulutlu            | Serin ve açık   |
 | **3**  | Bulutlu gökyüzü | Ilık ve esintili    | Esintili           | Ilık ve güneşli |
