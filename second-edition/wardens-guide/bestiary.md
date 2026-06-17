@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bestiary (Canavar Kitabı)
+title: Bestiary (Canavar Listesi)
 parent: Muhafızın Rehberi
 grand_parent: İkinci Edisyon
 ---
