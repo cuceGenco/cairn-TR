@@ -79,23 +79,23 @@ grand_parent: İkinci Edisyon
 | **19**  | Taros    |
 | **20**  | Thaddeus |
 
-## Tuhaflıklar (Quirks)
+## Tuhaflıklar 
 
 |         |                |
 | ------- | -------------- |
 | **d20** | **Tuhaflık 1** |
-| **1**   | Dikkatli       |
+| **1**   | Panik       |
 | **2**   | Kel            |
 | **3**   | Parlak Gözler  |
 | **4**   | Geniş Yüz      |
 | **5**   | Çarpık Dişler  |
 | **6**   | Sıska / Kemikli |
-| **7**   | İyi Duruş      |
+| **7**   | İyi Postür      |
 | **8**   | Kirli          |
 | **9**   | Sert Ses       |
-| **10**  | Ağır Kaş       |
+| **10**  | Çıkık Kaş       |
 | **11**  | Topallar       |
-| **12**  | Kulak Kayıp    |
+| **12**  | Kulağı Yok     |
 | **13**  | Kaslı          |
 | **14**  | Dikkat Çekici Saç |
 | **15**  | Hoş Ses        |
@@ -105,7 +105,7 @@ grand_parent: İkinci Edisyon
 | **19**  | Yorgun         |
 | **20**  | Genç           |
 
-## Geçmiş (Background)
+## Geçmiş 
 
 |         |                |
 | ------- | -------------- |
@@ -131,7 +131,7 @@ grand_parent: İkinci Edisyon
 | **19**  | Hırsız         |
 | **20**  | Haydut         |
 
-## Hedefler (Goals)
+## Hedefler 
 
 |         |              |
 | ------- | ------------ |
@@ -149,7 +149,7 @@ grand_parent: İkinci Edisyon
 | **11**  | Adalet       |
 | **12**  | Barış        |
 | **13**  | Güç          |
-| **14**  | Muhafaza     |
+| **14**  | Koruma     |
 | **15**  | Arınma       |
 | **16**  | Kefaret      |
 | **17**  | İntikam      |
@@ -157,7 +157,7 @@ grand_parent: İkinci Edisyon
 | **19**  | Birlik       |
 | **20**  | Zenginlik    |
 
-## Özellikler (Traits)
+## Özellikler 
 
 |         |               |
 | ------- | ------------- |
@@ -167,7 +167,7 @@ grand_parent: İkinci Edisyon
 | **3**   | Bağlantılı    |
 | **4**   | Cesur         |
 | **5**   | Disiplinli    |
-| **6**   | İhtiyatlı (discreet) |
+| **6**   | İhtiyatlı |
 | **7**   | Dürüst        |
 | **8**   | Zeki          |
 | **9**   | Sağduyulu     |
@@ -179,7 +179,7 @@ grand_parent: İkinci Edisyon
 | **15**  | Pratik        |
 | **16**  | Becerikli     |
 | **17**  | Hoşsohbet     |
-| **18**  | Akıllı (shrewd) |
+| **18**  | Yaman |
 | **19**  | Azimli        |
 | **20**  | Nüktedan      |
 
@@ -201,7 +201,7 @@ grand_parent: İkinci Edisyon
 | **13**  | Saf          |
 | **14**  | Pedantik     |
 | **15**  | Acımasız     |
-| **16**  | Alaycı (sarkastik) |
+| **16**  | Alaycı |
 | **17**  | Bencil       |
 | **18**  | İnatçı       |
 | **19**  | Kibirli      |

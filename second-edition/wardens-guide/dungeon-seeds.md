@@ -479,7 +479,7 @@ Bir Basilisk, odanın Doğu tarafında bir **duvar** üzerine yapılmış bir yu
 
 ### Basilisk
 
-10 HP, 1 Zırh, 12 STR, 13 DEX, 13 WIL, ısırık (d10)
+10 HK, 1 Zırh, 12 STR, 13 DEX, 13 WIL, ısırık (d10)
 
 - Yerin derinliklerinde veya ayak altındaki çalılıklarda yuva yapan uzun, yılanımsı kertenkeleler.
 - Bir **Basilisk** ile onun bakışlarından kaçınarak dövüşmek zordur (heykele bakan saldırılar _kusurludur_).
@@ -525,7 +525,7 @@ Dönen **duman** havayı durmak bilmeyen bir kül ve kor fırtınasıyla dolduru
 
 #### Druid Tarikat Üyesi
 
-5 HP, 11 STR, 12 DEX, 8 WIL, taşlaşmış kısa kılıç (d8)
+5 HK, 11 STR, 12 DEX, 8 WIL, taşlaşmış kısa kılıç (d8)
 
 - Hizip bağlılığını belirtmek için kırmızı veya mavi cüppe giyer. Aksi halde ayırt edilemezler.
 
@@ -548,12 +548,12 @@ Zemin ağır hasarlıdır, taşlaşmış döşeme **karoları** ile bölünmüş
 
 - **Karolar**: Kırık parçalardan oluşan bir labirent. Batı çıkışı karolar tarafından tamamen gizlenmiştir.
 - **Delikler**: Bir _Oyuk Açan Dehşet (Burrowing Horror)_ tarafından oluşturulmuştur.
-  - Parti tavanı görmezden gelirse, bir deliğin altında yürüyen ilk PC'ye saldırır (HP'yi yoksayar).
+  - Parti tavanı görmezden gelirse, bir deliğin altında yürüyen ilk PC'ye saldırır (HK'yi yoksayar).
   - Batı tarafındaki bir delik, aslında **9**'a çıkan 9 metrelik bir tüneldir. Tünel boyunca küçük oluklar tırmanışı kolaylaştırır, yeter ki onlara ulaşılabilsin.
 
 #### Oyuk Açan Dehşet 
 
-6 HP, 1 Zırh, 16 STR, 11 DEX, 4 WIL, ısırık (d10), asit püskürtme (d8, _patlama_)
+6 HK, 1 Zırh, 16 STR, 11 DEX, 4 WIL, ısırık (d10), asit püskürtme (d8, _patlama_)
 
 - Çok bacaklı ve parlak siyah gözlü dev böceğimsiler. Kir, kök ve etle beslenir.
 - Şaşırtmak için yüzeyin hemen altında yuva açar.

@@ -15,7 +15,7 @@ Orman keşfi, geniş bir ormanlık alanı keşfetmek için basit bir yöntemdir;
 
 - Oyuncu Kılavuzu'nda bulunan _Zindan_ keşif prosedürlerini izleyin, ancak Zindan Olayları için zar atmak yerine Vahşi Doğa Olayları tablosunu kullanın.
 - Ekip patikadan çıkıp ormanın içinden geçmeye çalışırsa, Muhafız ilişkili bedelleri netleştirmelidir: artan seyahat süresi, efor, gerekebilecek özel araçlar ve bariz tehlikeler. Patika dışına çıkmak ayrıca otomatik olarak Vahşi Doğa Olayları tablosunda zar atılmasını tetikler.
-- Bir orman keşfindeki noktalar birbirine yakındır. Açıkça işaretlenmiş patikalarda seyahat ederken, küçük bir orman (10-15 İN) tek bir Nöbet'te (Watch) keşfedilebilir.
+- Bir orman keşfindeki noktalar birbirine yakındır. Açıkça işaretlenmiş patikalarda seyahat ederken, küçük bir orman (10-15 İN) tek bir Nöbet'te keşfedilebilir.
 - Ne kadar gün ışığı olduğunu, dinlenme için uygun bir alan olup olmadığını ve ormanın karanlıkta barındırabileceği bedelleri veya tehlikeleri belirlemek için kurguya ve sağduyuya güvenin.
 
 ## Bir Orman Oluşturmak
@@ -42,7 +42,7 @@ Bu prosedürü, bölgedeki her ormanlık alan için uygulayın. Sonuçlar arası
 
 ## Orman Betimlemesi
 
-[Orman Betimlemesi](#orman-betimlemesi) tablosunda zar atın ve sonuçları defterinize yazın. Bu tablo hem dışarıdakilerin ormanı nasıl algıladığını hem de sahip olabileceği eşsiz doğal özellikleri belirtir. Eğer ormanlık arazi, Ortam Tohumları bölümünde açıklanan yöntemler kullanılarak oluşturulduysa, ilişkili Dönüm Noktası'nın (Landmark) onu nasıl etkilediğini de düşünün.
+[Orman Betimlemesi](#orman-betimlemesi) tablosunda zar atın ve sonuçları defterinize yazın. Bu tablo hem dışarıdakilerin ormanı nasıl algıladığını hem de sahip olabileceği eşsiz doğal özellikleri belirtir. Eğer ormanlık arazi, Ortam Tohumları bölümünde açıklanan yöntemler kullanılarak oluşturulduysa, ilişkili Dönüm Noktası'nın onu nasıl etkilediğini de düşünün.
 
 > Dönüm Noktaları, gezginlerin yoğun bitki örtüsünde yol bulmalarına yardımcı olur ve coğrafi referans noktaları işlevi görür: alışılmadık derecede uzun ağaçlar, gözetleme kuleleri vb. Çoğu orman dönüm noktası sadece bir ağaca tırmanarak görülebilir, ancak birkaçı yeşillikten sıyrılacak kadar büyüktür. Bazı dönüm noktaları görülmekten ziyade _duyulur_.
 
@@ -62,9 +62,9 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **9**   | Karanlık        | Mantarlı        |
 | **10**  | Tehlikeli       | Gizli           |
 | **11**  | Taşlaşmış       | İstila Edilmiş  |
-| **12**  | Kirli           | Sisi            |
+| **12**  | Kirli           | Sisli          |
 | **13**  | İlkel           | Yosunlu         |
-| **14**  | Yanmış/kavrulmuş | Aşırı Büyümüş  |
+| **14**  | Yanmış | Aşırı Büyümüş  |
 | **15**  | İzole           | Kutsal          |
 | **16**  | Boğucu          | İzole           |
 | **17**  | Zamansız        | Sessiz          |
@@ -92,7 +92,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **7**   | Dayanıklı   | İstilacı       |
 | **8**   | Zarif       | Yargılayıcı    |
 | **9**   | Sağlam      | Saf            |
-| **10**  | Uyumlu      | Engelleyici/Gizleyici |
+| **10**  | Uyumlu      | Engelleyici |
 | **11**  | Bağımsız    | Aşırı Hevesli  |
 | **12**  | Bilgili     | Parazitik      |
 | **13**  | Besleyici   | Pasif          |
@@ -130,7 +130,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **17**  | Arınma         | Durağanlık    |
 | **18**  | Yeniden Doğuş  | Kargaşa       |
 | **19**  | Huzur          | Kırılganlık   |
-| **20**  | Birlik         | Kırılganlık   |
+| **20**  | Birlik         | Güçsüzlük   |
 
 ## Haritayı Oluşturun
 
@@ -140,7 +140,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 - [Orman Zar Düşürme Tablosu](#orman-zar-düşürme-tablosu) kullanılarak, üst yüze gelen sonuçları sayfaya yazın. Örneğin, **4** sayısı bir **Barınak** belirtir; bunu "B" harfiyle belirtebilirsiniz.
 - İki zıt nokta seçin, tercihen sayfa kenarına yakın. Bunlar ormanın girişi ve çıkışıdır.
 - Girişten başlayıp çıkışta bitirerek, haritadaki her İN'yi numaralandırın.
-- Her nokta için ilgili tablolarda zar atın, sonuçları defterinize yazın.
+- Her konum için ilgili tablolarda zar atın, sonuçları defterinize yazın.
 - Tablo sonuçlarını, bu süreçte daha önce oluşturduğunuz tablo sonuçlarına göre filtreleyin.
 
 #### Orman Zar Düşürme Tablosu
@@ -159,7 +159,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 - **Standart** patikalar, iki nokta arasındaki bariz veya sık kullanılan rotalardır. _Kalın bir çizgi ile temsil edilir._
 - **Gizli** patikalar, bilinen haritaların hiçbirinde görünmez. Keşfedilmeleri her zaman bir tür bedel gerektirir. _Kesikli çizgi ile temsil edilir._
-- **Koşullu** patikaların geçişi engellenmiş olabilir ya da ilerlemek için tekne, tırmanış ekipmanı gibi özel araçlar gerektirebilir. Bazılarında harita veya rehber olmadan yön bulmak neredeyse imkânsızdır. Haritada üzeri _çizili bir çizgiyle temsil edilirler_.
+- **Koşullu** patikaların geçişi engellenmiş olabilir ya da ilerlemek için tekne, tırmanış ekipmanı gibi özel araçlar gerektirebilir. Bazılarında harita veya rehber olmadan yön bulmak neredeyse imkânsızdır. Haritada üzeri _çarpılarla çizilmiş rotalar şeklinde ifade edilir_.
 
 ### Patikaları Çizin
 
@@ -167,7 +167,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
   - Döngüler, dallanan yollar, çıkmaz sokaklar ve noktalar arasında kestirmeler oluşturun.
   - Bazı yollar Koşulludur, üzeri çizili çizgi ile temsil edilir.
   - Bazı yollar Gizlidir, kesikli çizgi ile temsil edilir.
-  - Mümkünse, aralarında nokta bulunmayan kesişim noktaları (çapraz çizgiler) oluşturun.
+  - Mümkünse, aralarında İN bulunmayan kesişim noktaları (çapraz çizgiler) oluşturun.
 - 3-4 noktayı bariz, tutarlı veya ilginç bir şekilde birbirine bağlayan yolların üzerinden çizerek patikalar oluşturun.
   - Gizli yollar ve kısa, izole rotalar genellikle bir patikanın parçası değildir.
   - Farklı patikaları ayırt etmeye yardımcı olması için renkli kalemler veya pastel boyalar kullanın.
@@ -180,8 +180,8 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 |         |                    |                    |
 | ------- | ------------------ | ------------------ |
 | **d20** | **Tür**            | **İşaret**         |
-| **1**   | Hayvan Yolu        | Ayı Sürtünmeleri   |
-| **2**   | Haydut Koşusu      | Bükülmüş Ağaçlar   |
+| **1**   | Hayvan Yolu        | Ayı İzleri   |
+| **2**   | Haydut Rotası      | Bükülmüş Ağaçlar   |
 | **3**   | Kayalık Yol        | Pençe İzleri       |
 | **4**   | Kapanmış Koruluk   | Hasarlı Bitki Örtüsü |
 | **5**   | Geyik Geçidi       | Geyik İzleri       |
@@ -190,18 +190,18 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **8**   | Çiftlik Patikası   | Tilki Ayak İzleri  |
 | **9**   | Yiyecek Toplama Yolu | Taze Örümcek Ağları |
 | **10**  | Avcı Yolu          | Dev Tüyler         |
-| **11**  | Kralın Yürüyüşü    | Parlak Mantarlar   |
+| **11**  | Kralın Rotası    | Parlak Mantarlar   |
 | **12**  | Tüccar Yolu        | Boğuk Çan Sesleri  |
 | **13**  | Eski Kereste Yolu  | Çevresel Görüntüler |
 | **14**  | Bahçe Yolu         | Tavşan Pislikleri  |
 | **15**  | Hacı Patikası      | Yılan İzleri       |
-| **16**  | Spor Doygun        | Duman              |
+| **16**  | Sporcu Olan Patikalar        | Duman              |
 | **17**  | Yapışkan Özsu Yolu | Durgunluk          |
 | **18**  | Patika Ağacı       | Taş Yığınları      |
 | **19**  | Ağaç Sınırı Yükseklikleri | Sallanan Bitkiler |
 | **20**  | Savaş Rotası       | Ağaç Oymaları      |
 
-> Bazı sonuçlar uyumsuz görünüyorsa, sorun değil! Bu yan yana gelmeleri "Neden haydutların saklandığı yere çıkan _eski bir kereste yolu_ var?" gibi sorulara dönüştürün. Yine de, işe yaramasını sağlamakta zorlanıyorsanız daha uygun bir sonuç seçmekten çekinmeyin!
+> Bazı sonuçlar uyumsuz görünüyorsa, sorun değil! Bu yan yana gelmeleri "Neden haydutların saklandığı yere çıkan _eski bir kereste yolu_ var?" gibi sorulara dönüştürün. Yine de anlamlı bir hikaye yaratmakta zorlanıyorsanız daha uygun bir sonuç seçmekten çekinmeyin!
 
 #### Canavar
 
@@ -213,7 +213,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | ------- | ------------ | ------------ |
 | **d20** | **Canavar**  | **Aktivite** |
 | **1**   | Haydut       | Oyuk Açma    |
-| **2**   | Kırpışan Köpek (Blink Dog) | Gömme |
+| **2**   | Kırpışan Köpek | Gömme |
 | **3**   | Kan Geyiği   | Yok Etme     |
 | **4**   | Sentor      | Yutma        |
 | **5**   | Dryad       | Ölme         |
@@ -224,7 +224,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **10**  | Öldürücü Arılar | Avlanma   |
 | **11**  | Naga        | Öldürme      |
 | **12**  | Gece Kedisi | Çiftleşme    |
-| **13**  | Baykuş Ayı (Owlbear) | Yas Tutma |
+| **13**  | Ayı Baykuş | Yas Tutma |
 | **14**  | Pixie       | Devriye Gezme |
 | **15**  | İskelet     | Sinsi Gezinme |
 | **16**  | Treant      | İyileşme     |
@@ -233,7 +233,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **19**  | Kurt        | İşkence      |
 | **20**  | Orman Trolü | Tuzağa Düşmüş |
 
-#### Harabeler (Ruins)
+#### Harabeler
 
 Ormanlar vahşi yerlerdir, ancak bu insanların onları evcilleştirmeye çalışmadığı anlamına gelmez. Bu girişimlerin ardında bıraktığı izler zaman zaman gün yüzüne çıkar ve Orman’a karşı koymaya çalışanların ne kadar akılsızca davrandığını herkese hatırlatır.
 
@@ -244,8 +244,8 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **d20** | **Harabe**          | **Özellik**                            |
 | **1**   | Terk Edilmiş Malikane | Ölmeye Hazır Bir Orman Ruhu           |
 | **2**   | Kırık Güneş Saati   | Malzeme Toplayan Bir Cadı              |
-| **3**   | Yontulmuş Çan Kulesi | Kendisinin Bir Yansıması               |
-| **4**   | Çökmüş Megalit     | Kendine Takıntılı Bir Cin (Sprite)     |
+| **3**   | Yontulmuş Çan Kulesi | Oyuncuların Bir Yansıması               |
+| **4**   | Çökmüş Megalit     | Kendine Takıntılı Bir Cin      |
 | **5**   | Yıkılmış Gözetleme Kulesi | Sessiz, Hayaletimsi Bir Konser     |
 | **6**   | Ayrışmış Kanolar   | Çok Küçük, Harap Olmuş Bir Köy        |
 | **7**   | Dolanmış Köşk      | Kırılmaz Bir Lanetle Bağlı             |
@@ -254,16 +254,16 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **10**  | Küflenen Çiftlik Evi | Taze Cesetler                        |
 | **11**  | Bakımsız Tapınak    | Gizli Önbellek                        |
 | **12**  | İstila Edilmiş Malikane | Bir Ritüeli Tamamlayan Kapüşonlu Adamlar |
-| **13**  | Taşlaşmış Kamp Alanı | Her Yönden Duyulmayan Fısıltılar      |
+| **13**  | Taşlaşmış Kamp Alanı | Her Yönden Duyulan Sessiz Fısıltılar      |
 | **14**  | Çürümüş Değirmen    | Geçmiş Savaşların İzleri               |
 | **15**  | Yıkılmış Manastır   | Sıra Dışı Bitki Örtüsüyle İstila Edilmiş |
 | **16**  | Paslanmış Pazar     | Gerçekçi Oyuncak Askerler              |
 | **17**  | Parçalanmış Köprü   | Başarısız Bir Ritüelin Kalıntıları     |
-| **18**  | Parçalanmış Dikilitaş | Dünyalar Arasındaki Peçe İncedir      |
+| **18**  | Parçalanmış Dikilitaş | Dünyalar Arasındaki İnce Peçe      |
 | **19**  | Batık Çardak        | Geçmişin Vizyonları                    |
 | **20**  | Devrilmiş Heykel    | Korunaklı Topraklar                    |
 
-#### Barınak (Shelter)
+#### Barınak
 
 Vahşi ve öngörülemez doğasına rağmen, Orman'da bir hayat kurmaya çalışacak kadar cesur, yetenekli veya aptal olanlar her zaman olmuştur. Ve bazıları başarır, tüten bir kamp ateşi veya gri bir kule ile izlerini bırakır, yorgun gezginlere hoş bir dinlenme fırsatı sunar.
 

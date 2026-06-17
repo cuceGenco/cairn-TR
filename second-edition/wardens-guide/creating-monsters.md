@@ -20,7 +20,7 @@ Eşsiz bir canavar yaratmak için şu adımları izleyin:
 ## İlkeler
 
 - Agresif bir NPC'nin tehdidini veya tuhaflığını vurgulamak için **Kritik Hasar**'ı kullanın.
-- Canavarların öne çıkması için tat ve tarz kullanın. Oyuncular, sıradan bir goblin okçudan ziyade kayıp koyunlarını arayan domuz suratlı bir insansıyı daha kolay hatırlayacaktır.
+- Canavarların öne çıkması için ona karakter kazandırın ve akılda kalıcı olması adına onlara bir hava vermeye çalışın. Oyuncular, sıradan bir goblin okçudan ziyade kayıp koyunlarını arayan domuz suratlı bir insansıyı daha kolay hatırlayacaktır.
 - Canavar istatistiklerini her zaman eğlenceli ve ilginç olmalarını önceleyerek oluşturun.
 
 ## ** Hasar Koruması (HK)**
@@ -35,15 +35,15 @@ Bazı canavarlar için bu onların doğal sertliğini temsil eder; diğerleri i�
 
 3 yetersiz, 6 zayıf, 10 ortalama, 14 dikkate değer ve 18 efsanevidir.
 
-## Güç (STR)
+## Güç
 
 Genel sağlığı, fiziksel gücü ve zehirlere karşı direnci izler. Bir canavarın doğrudan bir darbeden kurtulma yeteneğidir, tehlikeden kaçınma yeteneği değil!
 
-## Çeviklik (DEX)
+## Çeviklik 
 
 **10** temel alınır; eğer canavar özellikle hızlı, çevik veya atikse sayıyı gerektiği gibi artırın. Tepkisi yavaşsa, hantal veya sakarsa sayıyı düşürün.
 
-## İrade (WIL)
+## İrade 
 
 Bir canavarın başka birinin etkisine dayanma yeteneğini ve başkaları üzerindeki gücünü belirler. Ayrıca büyülü veya ruhani konulardaki savunmalarının bir ölçüsü olarak işlev görür.
 
@@ -58,11 +58,11 @@ Canavarın hem çatışma içinde hem de dışında kullanabileceği eşsiz bir 
 - Bir yetenek, geleneksel yollarla anlamlı bir şekilde önlenebiliyor veya savuşturulabiliyorsa, bu bir **Saldırı**dır ve HK ile etkileşir.
 - Bir yetenek, geleneksel yollarla anlamlı bir şekilde önlenemiyor veya savuşturulamıyorsa, bu bir **Yetenek**tir.
 - Bir yetenek yalnızca tek bir PC'yi etkiliyorsa, genellikle o turda (belki de hiç) Kurtarma Zarı şansı olmaksızın anında bir etkiye sahip olmalıdır.
-- Bir yetenek bir grup PC'yi etkileyebiliyorsa, genellikle anında bir Kurtarma Zarı gerektirmelidir.
+- Bir yetenek bir grup PC'yi etkileyebiliyorsa, genellikle anında bir Kurtarma Zarı gerektirir.
 
 ## Canavar İstatistik Bloğu Formatı
 
-X HK, X Zırh, X STR, X DEX, X WIL, Saldırı (dX, özel eşyalar, _nitelikler_)
+X HK, X Zırh, X GÜÇ, X ÇEV, X İRA, Saldırı (dX, özel eşyalar, _nitelikler_)
 - Görünüm, davranış veya yaşam alışkanlıklarına dair ilgi çekici bir betimleme.
 - Bu yaratığı diğerlerinden ayıran bir tuhaflık, taktik veya özellik.
 - Kritik hasarın özel etkisi veya sonucu.
@@ -78,7 +78,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **2**   | Siyah        | Gaga        |
 | **3**   | Kristal      | Sırt Kabuğu |
 | **4**   | Kemik gibi   | Pençe       |
-| **5**   | Gözsüz       | Zehir Dişi  |
+| **5**   | Gözsüz       | Zehirli Diş  |
 | **6**   | Tüylü        | Tüyler      |
 | **7**   | Jölemsi      | Kürk        |
 | **8**   | Parlak       | Solungaç    |
@@ -134,7 +134,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **2**   | Sert Vuruş | Kanatır           |
 | **3**   | Yakar    | Kör Eder            |
 | **4**   | Dondurur | Kırar               |
-| **5**   | Gaz Verir | Ezer              |
+| **5**   | Gaz  | Ezer              |
 | **6**   | Tekmeler | Çürütür             |
 | **7**   | Yumruklar | Çözer             |
 | **8**   | Atar      | Tuzağa Düşürür      |
@@ -188,31 +188,31 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 _Sert bir kabuğu olan salyangoz benzeri bir yaratık. Sadece düz çizgilerde hareket eder ve yumuşak bir alt karnı vardır. Rakiplerinin üzerine yuvarlanarak onları vahşi bir yörüngeye çeker. Hareketinin gürültüsü diğer tüm sesleri bastırır._
 
-Bu yaratık fiziksel olarak dayanıklıdır, ortalamanın üzerinde **STR** ve güçlü zırhı vardır. Muhtemelen hızlıdır ama manevra kabiliyeti düşüktür ve tehlikeden kaçınmak için beceri veya çevikliğe güvenmez. Kaba kuvvetlidir, ama yine de vahşi bir canavardır ve sadece bir sonraki yemeğini arayan herhangi bir yaratık kadar iradelidir. Düz bir çizgide yuvarlanarak saldırır ve birden çok hedefi etkilemelidir.
+Bu yaratık fiziksel olarak dayanıklıdır, ortalamanın üzerinde **GÜÇ** ve güçlü zırhı vardır. Muhtemelen hızlıdır ama manevra kabiliyeti düşüktür ve tehlikeden kaçınmak için beceri veya çevikliğe güvenmez. Kaba kuvveti güç olarak kullanır ama yine de vahşi bir canavardır ve sadece bir sonraki yemeğini arayan herhangi bir yaratık kadar iradelidir. Düz bir çizgide yuvarlanarak saldırır ve birden çok hedefi etkilemektedir.
 
 ### Gök Gürültüsü Salyangozu
 
-6 HK, 2 Zırh, 14 STR, 6 DEX, 4 WIL, parçalama ve yuvarlanma (d10, _patlama_)
+6 HK, 2 Zırh, 14 GÜÇ, 6 ÇEV, 4 İRA, parçalama ve yuvarlanma (d10, _patlama_)
 
 - Kalın kabuklu canavarlar, rakiplerinin üzerinden düz bir çizgide yuvarlanarak saldırırlar. Yuvarlanan kabuklarının gürültüsü sağır edicidir.
-- **Kritik Hasar**: Hedef, yuvarlanma momentumunun içine çekilir; kurtulana kadar her tur ek olarak 1 STR kaybeder (kurtulmak için STR zarları atar).
+- **Kritik Hasar**: Hedef, yuvarlanma momentumunun içine çekilir; kurtulana kadar her tur ek olarak 1 GÜÇ kaybeder (kurtulmak için GÜÇ zarları atar).
 
 ## Canavar Dönüştürme (Diğer Sistemlerden)
 
 Diğer sistemlerden dönüştürmek için kusursuz bir sistem yoktur. İşte sürece yardımcı olabilecek bazı ipuçları!
 
-- **Hasar Koruması (HK)**: İyi bir kural, her **HD** (Yaralanma Zarı) için yaratığa +1 HK eklemektir, minimum **3 HK** (ortalama bir kişi) üzerine. Genelde **HD**'yi ortalama 3.5 olan bir d6'ya eşdeğer düşünürüm. Her zaman önce yaratığın **HK**'sini, _sonra_ **STR**'sini belirleyin.
+- **Hasar Koruması (HK)**: İyi bir kural, her **HP** (Yaralanma Zarı) için yaratığa +1 HK eklemektir, minimum **3 HK** (ortalama bir kişi) üzerine. Genelde **HP**'yi ortalama 3.5 olan bir d6'ya eşdeğer düşünürüm. Her zaman önce yaratığın **HK**'sını, _sonra_ **GÜÇ**'ünü belirleyin.
 - **Zırh**: Orijinal istatistik bloklarında "deri gibi" ve "plaka gibi" gibi ifadelere bakın. Old School Essentials gibi B/X tarzı oyunlardan dönüştürürken THAC0'yu yoksayın ve mümkün olduğunda azalan AC kullanın (7 = Deri, 5 = Zincir Zırh, 3 = Plaka Zırh). Eğer sadece artan AC verilmişse (12 = Deri, 14 = Zincir Zırh, 16 = Plaka Zırh) kullanabilirsiniz. Hangi sistemden dönüştürüyor olursanız olun, Zırh değerleri sadece 1-3 arasında değişir.
-- **Güç (STR)**: Yaratığın **HD** ve **HK**'sine bakın. Eğer bir yaratık çevik veya becerikli olduğu için değil de öldürmesi zorsa, ona daha fazla **STR** verin (ancak daha fazla **HK** değil). Ortalama 10 **STR** ile başlayın ve oradan yukarı veya aşağı gidin.
-- **Çeviklik (DEX)**: Temel **10** ile başlayın; eğer yaratık özellikle hızlı (genellikle "hız" veya SP olarak anılır), çevik veya atikse sayıyı yükseltin. Tepkisi yavaşsa, hantal veya sakarsa sayıyı düşürün. Daha fazlası için aşağıdaki [Kurtarma Zarları](#kurtarma-zarları) bölümüne bakın!
-- **İrade (WIL)**: **Morale (ML)** iyi bir yol gösterici olabilir ve tipik olarak 2-12 arasında değişir. Yaratığın kişiliği, ruhu veya duruşu ne kadar büyükse, sahip olması gereken WIL o kadar yüksektir. Aşağıdaki tablo, **ML**'yi **WIL**'e dönüştürmek için iyi bir rehber sunar.
+- **Güç**: Yaratığın **HP** ve **HK**'sına bakın. Eğer bir yaratık çevik veya becerikli olduğu için değil de öldürmesi zorsa, ona daha fazla **GÜÇ** verin (ancak daha fazla **HK** değil). Ortalama 10 **GÜÇ** ile başlayın ve oradan yukarı veya aşağı gidin.
+- **Çeviklik**: Temel **10** ile başlayın; eğer yaratık özellikle hızlı (genellikle "hız" veya SP olarak anılır), çevik veya atikse sayıyı yükseltin. Tepkisi yavaşsa, hantal veya sakarsa sayıyı düşürün. Daha fazlası için aşağıdaki [Kurtarma Zarları](#kurtarma-zarları) bölümüne bakın!
+- **İrade**: **Morale (ML)** iyi bir yol gösterici olabilir ve tipik olarak 2-12 arasında değişir. Yaratığın kişiliği, ruhu veya duruşu ne kadar büyükse, sahip olması gereken İRA o kadar yüksektir. Aşağıdaki tablo, **ML**'yi **İRA**'ye dönüştürmek için iyi bir rehber sunar.
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
-| **WIL** | 6 | 12 | 15 | 18 |
+| **İRA** | 6 | 12 | 15 | 18 |
 
-### Kurtarma Zarları (Saving Throws)
+### Kurtarma Zarları 
 
 - Bir yaratığın yetenekleri, özellikle fiziksel travma, büyü veya zehirden kaçınma yeteneği hakkında daha fazla bilgi edinmek için _kurtarma zarlarına_ güvenebilirsiniz.
 - İstatistik blokları (E1) veya (F1) gibi kısa yazımlar kullanır (sırasıyla Seviye 1 Elf veya Savaşçı). Bunlar yaratığın yeteneklerini hızlıca tanımlamak için gerçekten faydalıdır.
@@ -220,11 +220,11 @@ Diğer sistemlerden dönüştürmek için kusursuz bir sistem yoktur. İşte sü
 
 |                                |                    |
 | ------------------------------ | ------------------ |
-| **Ölüm veya Zehir**            | **STR**            |
-| **Asalar**                     | **DEX**            |
-| **Felç veya Taşlaşma**         | **WIL** veya **STR** |
-| **Nefes Saldırıları**          | **DEX** veya **STR** |
-| **Büyüler, Çubuklar veya Değnekler** | **WIL**       |
+| **Ölüm veya Zehir**            | **GÜÇ**            |
+| **Asalar**                     | **ÇEV**            |
+| **Felç veya Taşlaşma**         | **İRA** veya **GÜÇ** |
+| **Nefes Saldırıları**          | **ÇEV** veya **GÜÇ** |
+| **Büyüler, Çubuklar veya Değnekler** | **İRA**       |
 
 ### Çatışma
 
@@ -240,9 +240,9 @@ Diğer sistemlerden dönüştürmek için kusursuz bir sistem yoktur. İşte sü
 
 ### Büyü
 
-- Büyülü yaratıklar, Büyü Kitabı taşımaları gerekmeksizin bir grup büyüyü "bilebilir". Bu durumda, cesetlerini büyülü (ve tehlikeli!) yapın!
+- Büyülü yaratıklar, Büyü Kitabı taşımaları gerekmeksizin bir grup büyüyü "bilebilir". Bu durumda, cesetlerini büyülü (ve tehlikeli!) yapın.
 - Büyüler hilelidir; büyü kullanıcılarına Büyü Kitapları verebilirsiniz, ancak unutmayın, yenildiklerinde onları _düşürebilirler_.
-- Düşen Büyü Kitaplarından bazılarının içine patlama etkisi eklemeyi düşünün (hangisini belirlemek için Kader Zarı'nı kullanın).
+- Düşen Büyü Kitaplarından bazılarının içine patlama etkisi eklemeyi düşünün (hangisi olduğunu belirlemek için Kader Zarı'nı kullanın).
 
 ### Kurguyu Kullanın
 
@@ -250,12 +250,12 @@ Bir canavarı başka bir sistemden dönüştürmenin en kolay yolu, orijinal ist
 
 Örneğin şu yaratığı ele alalım:
 
-#### Tilki Kadın (Foxwoman)
+#### Tilki Kadın 
 
 Bir tilki veya 2 metre boyunda tilki başlı bir kadın şeklini alabilir.
-_HD 5, Hız 120', Zırh 14, Moral 11, Saldırı: +4 d8HK (pençe, ısırık veya boğma)_
+_HP 5, Hız 120', Zırh 14, Moral 11, Saldırı: +4 d8HK (pençe, ısırık veya boğma)_
 - Savunma: Metalle zarar göremez
-- Özel: İstediği zaman tilkiye veya bir tilki bacağı gizli olan bir bakireye dönüşebilir (aynı istatistikler)
+- Özel: İstediği zaman tilkiye veya bir tilki bacağı gizli olan bir bakire kadına dönüşebilir (aynı istatistikler)
 
 _**Yukarıdaki örneği kullanarak onun hakkında şunları görebilirim:**_
 - 2 metre boyunda, tilki başlı bir insan kadını olarak görünür.
@@ -267,15 +267,15 @@ _**Yukarıdaki örneği kullanarak onun hakkında şunları görebilirim:**_
 - Metal silahlara karşı bağışıktır.
 
 _**Bundan ne öğrenebiliriz?**_
-- Hızlıdır ve muhtemelen bir dövüşte ustadır. **3 HK**'den başlayıp her **HD** için +1 **HK** eklersek, **8 HK**'si olur.
+- Hızlıdır ve muhtemelen bir dövüşte ustadır. **3 HK**'den başlayıp her **HP** için +1 **HK** eklersek, **8 HK**'sı olur.
 - Tilki kürkünün koruyucu olmadığını düşünüyorum; başı dışında insandır. **Zırh yok**.
-- Oldukça güçlüdür. Normal bir insan 10 **STR**'ye sahiptir ve o biraz daha iridir. **12 STR**.
-- Onu karlı tundrada avını kovalarken hayal edebiliyorum. Hızlıdır. **14 DEX**.
-- **ML**'si yüksektir ve tilkiler kurnazlıklarıyla bilinir. **15 WIL**.
+- Oldukça güçlüdür. Normal bir insan 10 **GÜÇ**'ye sahiptir ve o biraz daha iridir. **12 GÜÇ**.
+- Onu karlı tundrada avını kovalarken hayal edebiliyorum. Hızlıdır. **14 ÇEV**.
+- **ML**'si yüksektir ve tilkiler kurnazlıklarıyla bilinir. **15 İRA**.
 - Saldırıları için pençe (d6+d6) ve ısırık (d8) kullanırdım.
 
 _**Bu bilgiler bize şunu verir:**_
-8 HK, 12 STR, 14 DEX, 15 WIL, pençe (d6+d6), ısırık (d8)
+8 HK, 12 GÜÇ, 14 ÇEV, 15 İRA, pençe (d6+d6), ısırık (d8)
 
 _**Şimdi yeteneklerine geçelim:**_
 Bu oldukça açık. Daha önce oluşturduğumuz kurgusal istatistik bloğunu okumamız yeterli!
@@ -288,7 +288,7 @@ _**Nihai sonuç:**_
 
 #### Tilki Kadın
 
-8 HK, 12 STR, 14 DEX, 15 WIL, pençe (d6+d6), ısırık (d8)
+8 HK, 12 GÜÇ, 14 ÇEV, 15 İRA, pençe (d6+d6), ısırık (d8)
 
 - Bir tilki veya gizli bir tilki bacağı olan bir kadın şeklini alabilir.
 - Metal silahlarla yapılan saldırılara karşı bağışıktır.

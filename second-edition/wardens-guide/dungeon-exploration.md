@@ -23,18 +23,18 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 ### Avlu
 
-**Açık havaya** maruz kalmış geniş bir avlu. **Zemin** kumlu ve engebeli. Odanın merkezine yakın bir yerde **moloz** yığılı. Tam ortada, bir çatal mızrak tutan, gerçek boyutlarda bir **heykel** yerleştirilmiş. Doğuya bakan ahşap bir **kapı**, demir bir zincirle kilitlenmiş. Batıya doğru açık bir taş kemer geçit veriyor.
+**Açık havaya** açılan geniş bir avlu. **Zemin** kumlu ve engebeli. Odanın merkezine yakın bir yerde **moloz** yığılı. Tam ortada, bir çatal mızrak tutan, gerçek boyutlarda bir **heykel** yerleştirilmiş. Doğuya bakan ahşap bir **kapı**, demir bir zincirle kilitlenmiş. Batıya doğru açık bir taş kemer geçit veriyor.
 
 - **Hava**: Çatı çökmüş, dışarıdan gelen ışık odayı aydınlatıyor.
-- **Zemin**: Işıkta parıldıyor. Hızlı bir inceleme, "kum"un aslında toz haline getirilmiş kemikler olduğunu ortaya çıkaracaktır.
-- **Moloz**: İnsanlara benzeyen heykellerden kopmuş taş parçaları.
+- **Zemin**: Işık üzerine söyleniyor. Hızlı bir inceleme, "kum"un aslında toz haline getirilmiş kemikler olduğunu ortaya çıkaracaktır.
+- **Moloz**: İnsanlara benzeyen heykellerden oluşan taş parçaları.
   - Sıkı bir taş yumruğun içinde kırmızı bir mücevher parıldıyor.
 - **Heykel**: Bir göz çukuru boş, diğerinde kırmızı bir mücevher var.
-  - Tarikatın Ölüm Tanrıçası, zamanla bozulmuş. Kalan göz çıkarılırsa, heykel canlanır ve çatal mızrağı bir yay şeklinde savurarak d6 STR hasar verir. Mızrakla temasa geçen kişi taşa dönüşür.
+  - Tarikatın Ölüm Tanrıçası, zamanla bozulmuş. Kalan göz çıkarılırsa, heykel canlanır ve çatal mızrağı bir yay şeklinde savurarak d6 GÜÇ hasarı verir. Mızrakla temasa geçen kişi taşa dönüşür.
   - Yakındaki molozdaki mücevher heykele yerleştirilirse hiçbir şey olmaz. Tekrar çıkarılırsa, heykel buna göre tepki verir.
 - **Kapı**: Eriye Odası'nın kapısı neredeyse tamamen çürümüş, ahşapta çatlaklar bırakmış. Demir zincir açıkça paslanmış.
 
-**Muhafız**: _"Çökmüş tavandan süzülen ay ışığının aydınlattığı geniş bir avluya giriyorsunuz. Zemin kumlu ve ay ışığında tebeşir beyazı parlıyor. Merkeze yakın bir yerde, çatal mızraklı bir kadın heykelinin etrafı moloz yığınlarıyla çevrili. Doğuda ahşap bir kapı zincirle kapatılmış, batıda ise açık bir taş kemer karanlık bir tünele doğru uzanıyor. Ne yapmak istersiniz?"_
+**Muhafız**: _"Çökmüş tavandan süzülen ay ışığının aydınlattığı geniş bir avluya giriyorsunuz. Zemin kumlu ve ay ışığında bembeyaz parlıyor. Merkeze yakın bir yerde, çatal mızraklı bir kadın heykelinin etrafı moloz yığınlarıyla çevrili. Doğuda ahşap bir kapı zincirle kapatılmış, batıda ise açık bir taş kemer karanlık bir tünele doğru uzanıyor. Ne yapmak istersiniz?"_
 
 > **Karakterler daha sonra yapmak istedikleri eylemleri beyan ederler.**
 
@@ -52,7 +52,7 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 **Muhafız**: _"Bakalım **Lucius** ne yapıyor."_
 
-**Muhafız**: _"**Lucius**, **kapı** kilitli, kadim ve kısmen çürümüş. Paslı bir demir kilit taşıyor. Şimdi ne yapıyorsun?"_
+**Muhafız**: _"**Lucius**, **kapı** kilitli, kadim ama kısmen çürümüş. Paslı bir demir kilit taşıyor. Şimdi ne yapıyorsun?"_
 
 **Lucius**: _"Maymuncuğum olmadığı için, sanırım kulağımı kapıya dayayıp diğer tarafta ne olduğunu dinleyeceğim."_
 
@@ -72,7 +72,7 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 **Freya**: _"Doğru, sadece bakmak istediğimi ama çok yaklaşmak istemediğimi hatırla."_
 
-**Muhafız**: _"Heykelden yaklaşık beş adım kalana kadar yaklaşıyorsun. Yüzü yontulmuş ve gözlerinden biri tamamen eksik. Ancak diğerine güzel bir kırmızı mücevher yerleştirilmiş! Heykel elinde beyaz bir çatal mızrak tutuyor. Heykelle daha fazla etkileşime geçiyor musun yoksa devam mı ediyorsun?"_
+**Muhafız**: _"Heykelden yaklaşık beş adım kalana kadar yaklaşıyorsun. Yüzü yontulmuş ve gözlerinden biri yok. Ancak diğerine güzel bir kırmızı mücevher yerleştirilmiş! Heykel elinde beyaz bir çatal mızrak tutuyor. Heykelle daha fazla etkileşime geçiyor musun yoksa devam mı ediyorsun?"_
 
 **Freya**: _"Bu çok ürkütücü! Bu işin içinde olmak istemiyorum, en azından bu odanın ne işe yaradığını daha fazla öğrenene kadar. Daha önce bahsettiğin molozu incelemek istiyorum."_
 
@@ -92,7 +92,7 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 > **Muhafız daha sonra Zindan Olayları tablosunda zar atar: Çevre.**
 
-**Muhafız**: _"**Freya'nın** tıngırdatma çalışması avlunun duvarlarında yankılanıyor. Sessizlik, doğu duvarından düşen bir kiremitin taş zeminde takırdamasıyla bozuluyor. Lucius, kapının arkasından yaklaşan hışırtı sesleri duyuyorsun! Tam o anda mücevher gevşeyip çıkıyor."_
+**Muhafız**: _"**Freya'nın** hırsızlık çalışması avlunun duvarlarında yankılanıyor. Sessizlik, doğu duvarından düşen bir kiremitin taş zeminde takırdamasıyla bozuluyor. Lucius, kapının arkasından yaklaşan hışırtı sesleri duyuyorsun! Tam o anda mücevher gevşeyip çıkıyor."_
 
 **Muhafız**: _"Ve bu döngü burada sona eriyor. Hepiniz şimdi ne yapıyorsunuz?"_
 
