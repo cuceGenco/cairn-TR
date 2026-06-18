@@ -5,7 +5,7 @@ parent: Muhafızın Rehberi
 grand_parent: İkinci Edisyon
 ---
 
-# Bestiary (Canavar Kitabı)
+# Bestiary (Canavar Listesi)
 
 ## Canavar Kategorileri
 

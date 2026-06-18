@@ -102,7 +102,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **17**  | Mantıklı    | Katı           |
 | **18**  | Keskin      | Dağınık        |
 | **19**  | İstikrarlı  | Bencil         |
-| **20**  | Güvenen     | Bölgeci        |
+| **20**  | Güvenen     | Yerel        |
 
 #### Orman Gündemi
 
@@ -265,7 +265,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 
 #### Barınak
 
-Vahşi ve öngörülemez doğasına rağmen, Orman'da bir hayat kurmaya çalışacak kadar cesur, yetenekli veya aptal olanlar her zaman olmuştur. Ve bazıları başarır, tüten bir kamp ateşi veya gri bir kule ile izlerini bırakır, yorgun gezginlere hoş bir dinlenme fırsatı sunar.
+Vahşi ve öngörülemez doğasına rağmen, Orman'da bir hayat kurmaya çalışacak kadar cesur, yetenekli veya aptal olanlar her zaman olmuştur ve bazıları başarır, tüten bir kamp ateşi veya gri bir kule ile izlerini bırakır, yorgun gezginlere hoş bir dinlenme fırsatı sunar.
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
@@ -273,7 +273,7 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | ------- | ----------------- | ---------------------------------- |
 | **d20** | **Barınak**       | **Özellik**                        |
 | **1**   | Haydut İni        | Şimdilik Terk Edilmiş              |
-| **2**   | Doğancı Kulesi    | Vahşi Canavarları Çeker            |
+| **2**   | Şahin Yetiştiricinin Kulesi    | Vahşi Canavarları Çeker            |
 | **3**   | Balıkçı Kulübesi  | Geleneklere Meydan Okuyarak İnşa Edilmiş |
 | **4**   | Unutulmuş Harabeler | Dev Bir Ağacın İçine İnşa Edilmiş |
 | **5**   | Münzevi Kulübesi  | Orman Şövalyesi Bir Mücadele Sunar  |
@@ -288,14 +288,14 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **14**  | Manastır İnzivası | Parazit Yapraklar                   |
 | **15**  | Yosunlu Havuz     | Domuz Halkının Av Sahası            |
 | **16**  | Gece Pazarı       | Kaçakçılar Arasında Popüler          |
-| **17**  | Solgun Halk Ahırı | Hazır Bir Yemek Sunar               |
+| **17**  | Solgun Ahırı | Hazır Bir Yemek Sunar               |
 | **18**  | Korucu Karakolu   | Oyunbaz Bir Ruh Tarafından Korunur  |
 | **19**  | Dumanlı Kulübe    | Kadim Bir Cinayetin Yeri            |
 | **20**  | Yıpranmış Yel Değirmeni | Hırsız Kampı                  |
 
-#### Tehlike (Hazard)
+#### Tehlike
 
-Orman tehlikeli bir yerdir ve hafife alınmamalıdır. Orman ve sakinleri hayatta kalmak için ne gerekiyorsa yapar ve tok olsalar bile bir sonraki yemekleri için hazırlık yaparlar. Ağaçlar, bitkiler ve toprağın kendisi, dallar altından geçmeye layık olmayanları ayıklamak için ölümcül tuzaklar ve tehlikeler bırakacaktır.
+Orman tehlikeli bir yerdir ve hafife alınmamalıdır. Orman sakinleriyle birlikte hayatta kalmak için ne gerekiyorsa yapar ve tok olsalar bile bir sonraki yemekleri için hazırlık yaparlar. Ağaçlar, bitkiler ve toprağın kendisi, dallar altından geçmeye layık olmayanları ayıklamak için ölümcül tuzaklar ve tehlikeler bırakacaktır.
 
 Her sütun için 1d20 atın ve sonuçları birleştirin.
 
@@ -305,17 +305,17 @@ Her sütun için 1d20 atın ve sonuçları birleştirin.
 | **1**   | Hayvan Tuzağı     | Bir Evcil Basilisk            |
 | **2**   | Bataklık Gölgeleri | Yanlış Giden Bir Büyü        |
 | **3**   | Kemik Bahçesi     | Canlandırılmış Zırh           |
-| **4**   | Dikenli Çalı Tünelleri | Kuş Casusları            |
+| **4**   | Dikenli Çalı Tünelleri | Casus Kuşlar            |
 | **5**   | Donmuş Trol       | Kanayan Ağaçlar              |
 | **6**   | Dev Örümcek Yuvası | Kristale Hapsedilmiş Hayaletler |
 | **7**   | Böcek Sürüsü      | Dev Kemirgen Beslenme Alanları |
-| **8**   | Hareketli Çalılıklar | Yüksek Düzeyde Yerelleştirilmiş Hava Durumu |
+| **8**   | Hareketli Çalılıklar | Kendini Belli Eden Hava Durumu |
 | **9**   | Zehirli Bitkiler  | Uluyan Taşlar                |
 | **10**  | Psişik Sis        | Yaralı Yaratık               |
 | **11**  | Özsu Tuzağı       | Görünmez Ağlar               |
 | **12**  | Uyuyan Dev        | Yaşayan Korkuluklar          |
 | **13**  | Kaygan Yosun      | Hafıza Hırsızları            |
-| **14**  | Yavaş Bataklık (Quicksand) | Taklit Asmalar |
+| **14**  | Bataklık  | Taklit Asmalar |
 | **15**  | Sivri Kazıklı Çukur | Rastgele Değişen Yollar     |
 | **16**  | Yakan Isırgan    | Bekleyen Leşçiller            |
 | **17**  | Dikenli Çalılıklar | Tetikteki Ölüler           |
@@ -337,9 +337,9 @@ Hastalık ve çürüme ile enfekte olmuş yoğun bir orman. Bazı kısımları d
 
 ### Sakinler
 
-**Özellikler**: İstikrarlı, Bölgeci
+**Özellikler**: İstikrarlı, Yerel
 
-Bir zamanlar bildikleri istikrara dönmek istiyorlar, ancak kadim orman sınırları tarafından tehdit ediliyorlar.
+Bir zamanlar sahip oldukları istikrarlı günlere dönmek istiyorlar, ancak kadim orman sınırları tarafından tehdit ediliyorlar.
 
 **Orman Gündemi**: Arınma, İstila
 
@@ -347,11 +347,11 @@ Ormanın ruhu, kendisini saran hastalıktan arınmaktan başka şey istemez. Dev
 
 ### Orman Teması
 
-Onlarca yıl boyunca ormanın düzeni ve istikrarı, orman cadısı **Anglwyst** ile Orman’ın şampiyonu **Sweeney** arasındaki anlaşma sayesinde korundu. Anglwyst, büyüsüyle ağaçları ve hayvanları sağlıklı tutar; Sweeney ise avcıların, Orman için yaşaması gereken ve  kürklerindeki beyaz izlerden tanınan yaratıklara dokunmamasını sağlardı.
+Onlarca yıl boyunca ormanın düzeni ve istikrarı, orman cadısı **Angelwyst** ile Orman’ın temsilcisi **Sweeney** arasındaki anlaşma sayesinde korundu. Angelwyst, büyüsüyle ağaçları ve hayvanları sağlıklı tutar; Sweeney ise avcıların, Orman için yaşaması gereken yaratıklara dokunmamasını sağlardı. Bu yaratıklar kürklerindeki beyaz izlerden tanınırlar.
 
-Aralarındaki anlaşma kesin ve değişmezdi. Orman, cadı ile şampiyonun bölgelerini ayıran görünmez bir sınırla ikiye bölünmüş; bu sınır, ikisinin de kendi tarafının ötesine geçmesini engellemişti.
+Aralarındaki anlaşma kesin ve değişmezdi. Orman, cadı ile temsilcisin bölgelerini ayıran görünmez bir sınırla ikiye bölünmüş; bu sınır, ikisinin de kendi tarafının ötesine geçmesini engellemişti.
 
-Yaşlı cadı öldükten sonra, büyülerinden biri vahşileşti, sonra tehlikeli hale geldi. Şimdi büyülü bir hastalık ağaçları ve yaratıkları enfekte etmeye başladı ve tüm ormanı tüketmekle tehdit ediyor. Avcılar buna _Soldurma_ diyor, çünkü dokunduğu her şeyin yaşamını emiyor.
+Yaşlı cadı öldükten sonra ve büyülerinden biri vahşileşti, sonra tehlikeli hale geldi. Şimdi büyülü bir hastalık ağaçları ve yaratıkları enfekte etmeye başladı ve tüm ormanı yok oluşla tehdit etmekte. Avcılar buna _Soldurma_ diyor, çünkü dokunduğu her şeyin yaşamını emiyor.
 
 ## Patikalar
 
@@ -365,7 +365,7 @@ Yaşlı cadı öldükten sonra, büyülerinden biri vahşileşti, sonra tehlikel
 
 ### Yiyecek Toplama Yolu, Uzak Şarkı Sesi
 
-Anglwyst, bu patikada bulunan bol meyveyle hayatta kalmıştır. Büyüsü o kadar güçlüydü ki varlığının yankıları hâlâ patikayı işaretler: bu yolda seyahat edenler onun cılız, neşeli şarkısını hâlâ duyabilir.
+Angelwyst, bu patikada bulunan bol meyveyle hayatta kalmıştır. Büyüsü o kadar güçlüydü ki varlığının yankıları hâlâ patikayı işaretler: bu yolda seyahat edenler onun cılız, neşeli şarkısını hâlâ duyabilir.
 
 ### Kuru Nehir Yatağı, Taze Örümcek Ağları
 
@@ -373,7 +373,7 @@ Bir zamanlar ormanın Batı ucundan bir nehir akardı, ancak bir kuraklıktan so
 
 ### Avcı Yolu, Hasarlı Bitki Örtüsü
 
-Sweeney, dışarıdan gelenlerin avlarını bu patikada ve başka hiçbir yerde avlamasına izin verir, yeter ki kürklerinde beyaz olan herhangi bir yaratığı asla öldürmesinler.
+Sweeney, dışarıdan gelenlerin avlarını sadece bu patikada avlamasına izin verir yeter ki kürklerinde beyaz olan herhangi bir yaratığı asla öldürmesinler.
 
 ### İN'ler
 
@@ -386,8 +386,8 @@ Orman kenarında ölü bir **kamp ateşi** ve yakınlarda yayılmış koyu gri *
 - **Kamp Ateşi**: Kalan odunlar koyu gri lekeli, dokunulamayacak kadar soğuk ve demir gibi sert.
 - **Kamp Yatağı**: Beze gri odun kıymıkları batmış.
   - Dokunulduğunda buz gibi soğuk. Bezin altındaki alan kısmen mavi ve kırmızı, ancak odun parçacıklarından gri daireler büyüyor.
-- **Bitki Örtüsü**: Bu bölgelere özgü olmayan nadir ve eşsiz türler.
-  - Yetenekli budama ve birkaç dakikalık dikkatli çalışma, bir **Şifa Merhemi** üretir (1d4 STR geri kazandırır, 1 kullanım).
+- **Bitki Örtüsü**: Bu bölgelere pek görülmeyen nadir cinsten.
+  - Yetenekli budama ve birkaç dakikalık dikkatli çalışma, bir **Şifa Merhemi** üretir (1d4 GÜÇ geri kazandırır, 1 kullanım).
 - **Patika**: Yerde kabaca bir ağaç gövdesi şeklinde kesilmiş uzun oluklar.
   - İnce örümcek ağları orman girişini kapatıyor, sanki uzun süredir kimse geçmemiş gibi.
 
@@ -400,16 +400,16 @@ Yuvarlak bir koru oluşturan kırmızı **ağaçlar**, fokurdayan bir özsu **bi
 - **Ağaçlar**: Her ağacın dibinden altın renkli özsu akar ve aşağıdaki birikintiye dökülür. Hastalıklı görünmüyorlar.
 - **Birikinti**: 4 metre yapışkan özsu.
   - Ayak bileği yüksekliğinde ve son derece yapışkan. Cildi tahriş eder.
-- **Nesne**: Doğada kristalimsi görünüyor.
-  - Çok kaygan. Yeterli aletler (eldiven, sırık vb.) olmadan çıkarmak zor ve zaman alıcıdır.
-  - Kristalin içinde **Gundersnatch** adında bir familiyarın ruhu hapsolmuştur.
-  - Kırılırsa, büyük bir kuşun gölgesi partinin üzerinde yükselir, sonra kaybolur. _Yoksun_ durumundaki herhangi bir karakter bu durumdan kurtulur.
+- **Nesne**: Kristalimsi görünüyor.
+  - Çok kaygan. Doğru aletler (eldiven, sırık vb.) olmadan çıkarmak zor ve zaman alıcıdır.
+  - Kristalin içinde **Gundersnatch** adında bir koruyucu ruh hapsolmuştur.
+  - Kırılırsa, büyük bir kuşun gölgesi partinin üzerinde yükselir, sonra kaybolur. _Bitkin_ durumundaki herhangi bir karakter bu durumdan kurtulur.
 
 #### Gundersnatch
 
 - Kristali tutan herkesle telepatik olarak iletişim kurabilir.
   - Kristali yok etmesi için herkese yalvarır. (Sert bir şeyle iyi bir vuruş yeterlidir.)
-  - Özgürlüğü karşılığında partiye siyah bir tüy vereceğini söyler ve bununla Anglwyst'in Tavuk Kulübesi'ne (**4**) girebileceklerini anlatır.
+  - Özgürlüğü karşılığında partiye siyah bir tüy vereceğini söyler ve bununla Angelwyst'in Tavuk Kulübesi'ne (**4**) girebileceklerini anlatır.
 
 ### 3 - Sweeney'nin Kulübesi
 
@@ -430,47 +430,47 @@ Küçük bir tepenin üzerinde ahşap bir **kulübe** var. Binanın Batı taraf�
 
 - **Karyola**: Yeşil yosun ve dallarla beneklenmiş. Hafif yağmur kokuyor.
   - Karyolanın altındaki zemin yeşil yosunla kaplıdır. Sweeney ellerini yosuna koyarsa, yosun düşer ve **4**'e giden bir yeraltı tünelini ortaya çıkarır. Bu geçidi yalnızca Sweeney etkinleştirebilir.
-- **Masa**: Masada tamamen hazırlanmış bir yemek var: kızarmış ördek ve kök sebzeler, 2 kişilik tam bir yemeğe eşdeğer.
-  - Anglwyst'ten bir hediye. Yenilirse, yemek d12 saat sonra yeniden oluşur.
+- **Masa**: Masada hazırlanmış bir yemek var: kızarmış ördek ve sebzeler, 2 kişilik tam bir yemeğe eşdeğer.
+  - Angelwyst'ten bir hediye. Yenilirse, yemek d12 saat sonra yeniden oluşur.
 
 #### Sweeney
 
-12 HP, 2 Zırh, 13 STR, 15 DEX, 17 WIL, porsuk yayı (d8)
+12 HK, 2 Zırh, 13 GÜÇ, 15 ÇEV, 17 İRA, porsuk yayı (d8)
 
-- Aksili, yosunlu yaşlı bir adam. Yaralanırsa, Orman onu koruyacak ve hatta iyileştirecektir. Her ölüşünde, eskisinden daha yeşil bir halde geri döner.
-- _Soldurma'yı_ durdurmak ister, ancak Anglwyst ile olan anlaşması nedeniyle **6**'ya giremez. Onurunu ve becerisini sınamak için partiden **9**'daki Dev Örümcekleri kovmasına yardım etmesini isteyecektir.
+- Aksi ve yosunlu yaşlı bir adam. Yaralanırsa, Orman onu koruyacak ve hatta iyileştirecektir. Her ölüşünde, eskisinden daha yeşil bir halde geri döner.
+- _Soldurma'yı_ durdurmak ister, ancak Angelwyst ile olan anlaşması nedeniyle **6**'ya giremez. Onurunu ve becerisini sınamak için partiden **9**'daki Dev Örümcekleri kovmasına yardım etmesini isteyecektir.
   - Ekip ilk görevi başarıyla tamamlarsa, partiye bir **Karnon Kolyesi** ve ayrıca **6**'daki ormanı kasıp kavuran büyüyü bozabilirlerse daha fazla zenginlik sözü verecektir.
   - Ekip _Soldurma_'yı bozabilirse, **4**'e giden gizli yolu açacak ve oradaki kulübeye girebileceklerini söyleyecektir.
 
 #### Karnon Kolyesi
 
-- Sakallı, boynuzlu bir adam figürü olan ahşap bir muska. Ormandayken, yakındaki herhangi bir yaratığın duyularını ödünç almak için bir Yorgunluk ekleyin. _Adi (Petty)_.
+- Sakallı, boynuzlu bir adam figürü olan ahşap bir muska. Ormandayken, yakındaki herhangi bir yaratığın duyularını ödünç almak için bir Yorgunluk ekleyin. _Önemsiz_.
 
-### 4 - Anglwyst'in Tavuk Kulübesi
+### 4 - Angelwyst'in Tavuk Kulübesi
 
 **Barınak**: _Bacaklı Kulübe_, _Avlanmak Yasaktır_
 
-Küçük bir açıklığın kenarında, kalın **yapraklarla** kaplı silindirik, bacalı bir **kulübe** duruyor. Batı girişinde toprağa çakılmış ahşap bir **tabela** var. Kuzey tarafında uzun bir makara **tavuk teli** monte edilmiştir.
+Küçük bir açıklığın kenarında, kalın **yapraklarla** kaplı silindirik, uzun bacalı bir **kulübe** duruyor. Batı girişinde toprağa çakılmış ahşap bir **tabela** var. Kuzey tarafında uzun bir makara **tavuk teli** monte edilmiştir.
 
 - **Kulübe**: Ön camlar karanlık, içeriden ışık veya duman gelmiyor.
-  - Kapının anahtar deliği yoktur ve sadece Anglwyst, Sweeney veya Gundersnatch'in arkadaşlarına açılır.
+  - Kapının anahtar deliği yoktur ve sadece Angelwyst, Sweeney veya Gundersnatch'in arkadaşlarına açılır.
   - Kapı zorla açılırsa veya kulübe tehdit edilirse, altından iki bacak çıkacak ve kulübe hızla ormana kaçacaktır.
 - **Yapraklar**: Hem çatı hem de pencereler kalın yapraklı sarmaşıklarla kaplıdır.
   - Hiçbir sarmaşık yere kadar uzanmaz; aksi hâlde kulübe ayağa kalktığında kopup giderlerdi.
-- **Tabela**: Sarmaşıklarla kaplı. Kırmızı harflerle: "Burada Av Yok. Ağır Cezalar." yazıyor.
+- **Tabela**: Sarmaşıklarla kaplı. Kırmızı harflerle: "Burada Avlanmak Yasaktır. Cezaya tabiidir." yazıyor.
   - Cadı burayı koruma büyüsü yapmış. Burada konuşabilen biri tarafından bir hayvan öldürülürse, katili anında taşa dönüşür (kurtarma zarı yok).
-  - Ormanın bu kısmında partiyi hiçbir tehlikeli şey takip etmeyecektir.
+  - Ormanın bu kısmında partiyi hiçbir tehlike takip etmeyecektir.
 - **Tel**: Küçük, kurumuş bir bahçeyi çevreliyor. Ortada genç bir avcının sarmaşık kaplı taş heykeli duruyor.
   - Şaşkın görünümlü avcı (açıklığın büyüsünün bir kurbanı), bir tavşanı ters çevrilmiş halde tutar, bıçağı boğazına dayalıdır.
 
 #### Kulübenin İçi
 
-Gösterişli bir şekilde dekore edilmiştir. Kuzey şöminenin yanında uzun ahşap bir **fıçı**, içinden uzun bir süpürge çıkıyor. Doğu duvarına büyük bir **soba** monte edilmiştir. Tavandan bir **ip** üzerinde otlar ve kök sebzeler asılıdır.
+Gösterişli bir şekilde dekore edilmiştir. Kuzey şöminenin yanında uzun ahşap bir **fıçı**, içinden uzun bir süpürge çıkıyor. Doğu duvarına büyük bir **soba** monte edilmiştir. Tavandan bir **ip** üzerinde otlar ve sebzeler asılıdır.
 
 - **Fıçı**: Kalın harçla birleştirilmiş. Tozsuz ve süpürge dışında boş.
   - Fıçı en fazla bir kişiyi alabilir ve uçma yeteneğine sahiptir. Süpürgeyi kullanarak havada "kürek çekin".
 - **Soba**: Ilık ve üzerinde uyumak için yeterince büyük. Demir kulplardan birine kırmızı bir eşarp bağlı.
-  - Eşarp, Anglwyst'e Sweeney tarafından verilmiş, aksi halde sıradandır. Sweeney onu geri almayı çok ister.
+  - Eşarp, Angelwyst'e Sweeney tarafından verilmiş, aksi halde sıradandır. Sweeney onu geri almayı çok ister.
 - **İp**: Nadir ve soyu tükenmiş kalitede mallar. Doğru alıcıya 500 altın değerinde.
   - İpten bir adamotu kökü sarkıyor. Her gün su verilirse, bir yalan duyduğunda bunu belirtir. Kesilirse yüksek sesle çığlık atar.
 
@@ -488,11 +488,11 @@ Gösterişli bir şekilde dekore edilmiştir. Kuzey şöminenin yanında uzun ah
 
 #### Boz Ayı
 
-6 HP, 15 STR, 13 DEX, 5 WIL, pençeler (d8+d8)
+6 HK, 15 GÜÇ, 13 ÇEV, 5 İRA, pençeler (d8+d8)
 
 - Genellikle dağlarda, ormanlık alanlarda ve ovalarda bulunan kırmızımsı kahverengi ayılar.
   - Balık ve et yemeyi tercih ederler ve yollarına çıkan talihsiz kişiye saldırırlar.
-- **Kritik Hasar**: Hedefi ek d6 STR hasarı için ısırır. Hedef çok hızlı kan kaybeder.
+- **Kritik Hasar**: Hedefi ek d6 GÜÇ hasarı için ısırır. Hedef çok hızlı kan kaybeder.
 
 ### 6 - Gri Tapınak
 
@@ -504,7 +504,7 @@ Dört patikanın kesiştiği noktada gri bir orman **tapınağı** duruyor. Merk
   - Hava büyüyle ışıldıyor, en güçlü şekilde iki heykelin üzerinde yayılıyor.
   - _Soldurma_ etkisi, açıklığa girmeden önce bile belirgindir, çünkü _Soldurma_ her yöne yayılmaya başlamıştır.
   - Açıklığa getirilen bitki maddesi, doğrudan temas olmasa bile yakında taşlaşmaya başlayacaktır.
-- **Heykeller**: İki orman trolü, ikisinden daha büyüğünün havada tuttuğu parlak bir nesne için dövüşüyor.
+- **Heykeller**: İki orman trolü, daha büyük olanın havada tuttuğu parlak bir nesne için dövüşüyor.
   - Nesne bir **Eski Cam**dır bir ayna Emanetidir ve büyüsü, bir zamanlar burayı orman yaşamı için yemyeşil bir cennet yapan hassas büyüyü bozmuştur.
   - Cadının büyüsü, aynayı alandan çıkararak veya tamamen yok ederek bozulabilir. Heykel tarafından sıkıca tutulur, ancak pres uygulanarak veya trolün kolunu kırarak çıkarılabilir.
   - Büyü bozulursa, büyülü etki sona erecek ve troller yavaşça uyanacaktır. Hemen aynayı geri almaya çalışacaklardır.
@@ -516,7 +516,7 @@ Dört patikanın kesiştiği noktada gri bir orman **tapınağı** duruyor. Merk
 
 #### Orman Trolü
 
-10 HP, 15 STR, 12 DEX, 7 WIL, ısırık (d8), sopa (d10)
+10 HK, 15 GÜÇ, 12 ÇEV, 7 İRA, ısırık (d8), sopa (d10)
 
 - Kabuk veya kökten yapılmış uzun kollu büyük insansılar. Ormanlarda yaşarlar, etraflarındaki bitki örtüsüyle derin bir bağ paylaşırlar.
 - Öldürülürlerse, cesetleri ormandan çıkarılmadığı veya ateşle yakılmadığı sürece yavaşça yenilenirler.
@@ -526,28 +526,28 @@ Dört patikanın kesiştiği noktada gri bir orman **tapınağı** duruyor. Merk
 
 **Harabeler**: _Sular Altındaki Manastır_, _Gizli Önbellek_
 
-Küçük bir göletin merkezinde sular altında kalmış üç **bina** yükseliyor, **konik** çatıları suyun altından görünüyor. Kuzey tarafında, kuru bir nehir yatağı doğrudan gölete giriyor. Doğu patikası, düzinelerce yığılmış **taş** ile kaplı.
+Küçük bir göletin merkezinde sular altında kalmış üç **bina** yükseliyor, **konik** çatıları suyun altından görünüyor. Kuzey tarafında, kuru bir nehir yatağı doğrudan gölete giriyor. Doğu patikası, yığılmış **taş**lar ile kaplı.
 
 - **Binalar**: Arkaik, incelikli ve güzel dini ikonografi. Açıkça bir manastır.
   - **8**'deki baraj yıkıldıktan sonra sular altında kalmış.
 - **Çatılar**: Üç binanın en uzun olanı, suyun oldukça yukarısında bir cam pencereye sahip.
-  - Pencere paslanmış ve kapalıdır, ancak manastırın Bölüm Evi'ne (Chapter House) girmek için zorlanabilir veya kırılabilir.
+  - Pencere paslanmış ve kapanmış durumda, ancak zorlanarak veya kırılarak manastırın Şapel Binası'na girilebilir.
 - **Taşlar**: Doğu patikasının Güney tarafı boyunca yığılmış. Çoğuna isimler kazınmış.
-  - Keşişler, düşen her üyeleri için patikanın yanına taş yığınları bırakmışlar.
+  - Keşişler, kaybedilen her üyeleri için patikanın yanına taş yığınları bırakmışlar.
 
-#### Bölüm Evi
+#### Şapel
 
 **Dokumalar** bu dairesel odanın duvarlarını kaplar, ahşap **zemini** su hasarı nedeniyle neredeyse tamamen çürümüştür. Güneybatı tarafındaki çökmüş bir korkuluk, binanın geri kalanına inen sular altındaki **merdiven boşluğundan** geriye kalan tek şeydir.
 
 - **Dokumalar**: Küflü ve kurtarılamaz durumda.
-  - Başlangıçta manastırı eski ihtişamıyla ve burada yaşayan keşişleri tasvir ediyordu.
-- **Zemin**: Ahşap tahtalardan biri diğerlerinden daha az solgundur. Hafif çiçekli bir şey kokuyor.
-  - Tahtanın altında gizli bir Büyü Kitabı, _Özlem Yolu (Yearning Path)_ bulunur.
+  - Başlangıçta manastırı eski ihtişamıyla ve burada yaşayan keşişleri tasvir ediyor.
+- **Zemin**: Ahşap tahtalardan biri diğerlerinden daha az solgundur. Hafif bir çiçek kokusu var.
+  - Tahtanın altında gizli bir Büyü Kitabı, _Özlem Yolu_ bulunur.
 - **Merdiven Boşluğu**: Tamamen su altında. Aşağıdaki odalar sadece yüzen cesetler ve mahvolmuş kitaplar içeriyor.
 
-#### _Özlem Yolu (Yearning Path)_
+#### _Yearning Path_
 
-- Bir kalbin _gerçek_ arzusunun nesnesine giden en kısa yolu gösterir. _Lavanta kokar. Günde bir defadan fazla okunursa fazladan Yorgunluk ekler. Süreç birikimlidir._
+- Kalbin _gerçek_ arzusuna giden en kısa yolu gösterir. Lavanta kokar. _Günde birden fazla okunursa ekstra yorgunluk katar. Etkisi kümülatiftir._
 
 ### 8 - Kara Kütle
 
@@ -559,37 +559,37 @@ Siyah bir **domuz**, siyah iplik ve ağaçlardan oluşan büyük bir **kütlenin
   - Arka kısmındaki örümcek ısırığıyla zehirlenmiş. Ekip yardımına gelirse, Orman bunu hatırlayacaktır.
 - **Kütle**: Kalın siyah ipek iplikleri, 3 metre yüksekliğinde bir odun yığınını bir arada tutuyor.
   - Yuva, 3 **Kara İpek Örümceği**'ne ev sahipliği yapıyor. Yiyecekleriyle etkileşime giren veya yuvalarına çok yaklaşan herkese saldırırlar.
-  - Yuvadan dikkatlice toplanan siyah ipek, 200 altın değerindedir. Yaklaşık 18 metre uzunluğundaki bu mükemmel ip son derece güçlüdür ve su itici özelliği nedeniyle çok rağbet görür.
+  - Yuvadan dikkatlice toplanan siyah ipek, 200 altın değerindedir. Yaklaşık 20 metre uzunluğundaki bu mükemmel ip son derece güçlüdür ve hidrofobik özelliği nedeniyle çok rağbet görür.
 - **Leşler**: Çoğunlukla hayvan cesetleri. Siyah ağın içinden bir insan şekli görülebiliyor.
-  - İnsan, Sweeney'nin uyarılarını dikkate almayıp _Avcı Yolu_'nun Kuzeyinde avlanan bir avcıydı. Cesette Azıklar (2 kullanım kaldı), 33 altın ve bir bel bıçağı (d6) var.
+  - İnsan, Sweeney'nin uyarılarını dikkate almayıp _Avcı Yolu_'nun Kuzeyinde avlanan bir avcıydı. Cesette Konsantre Yiyecek (2 kullanım kaldı), 33 altın ve bir ufak bıçak (d6) var.
 - **Nehir Yatağı**: Etrafa saçılmış büyük odun yığınları. Uzun parçalara siyah ipek bağlandığı görülebiliyor.
   - Suyu bir damlama seviyesinde tutan eski bir kunduz barajı. Örümcekler yuvalarını inşa etmek için barajı yıktı. Ardından gelen sel, **7**'deki manastırı yok etti, ancak nehir ancak bu yılın başlarındaki kuraklıktan sonra kurudu.
 
 #### Domuz
 
-4 HP, 12 STR, 5 DEX, 6 WIL, dişler (d6+d6)
+4 HK, 12 GÜÇ, 5 ÇEV, 6 İRA, dişler (d6+d6)
 
 #### **Kara İpek Örümceği**
 
-4 HP, 4 STR, 13 DEX, 5 WIL, ısırık (d8)
+4 HK, 4 GÜÇ, 13 ÇEV, 5 İRA, ısırık (d8)
 
-- **Kritik Hasar:** Zehir kurbanı felç eder ve ek d4 DEX hasarı verir. Kurban daha sonra yenilmek üzere örümceğin yuvasına sürüklenir.
+- **Kritik Hasar:** Zehir kurbanı felç eder ve ek d4 ÇEV hasarı verir. Kurban daha sonra yenilmek üzere örümceğin yuvasına sürüklenir.
 
 ### 9 - Balıkçı Kulübesi
 
 **Barınak**: _Balıkçı Kulübesi_, _Ordu Kaçakları Tarafından İşgal Edilmiş_ [Çıkış]
 
-Kuzeyde küçük bir **gölün** yanına inşa edilmiş derme çatma bir **kulübe**. Batı tarafındaki bir pişirme rafından **duman** yükseliyor ve güneye bakan pencereden yüksek **sesler** yankılanıyor.
+Kuzeyde küçük bir **gölün** yanına inşa edilmiş derme çatma bir **kulübe**. Batı tarafındaki bir ocaktan **duman** yükseliyor ve güneye bakan pencereden yüksek **sesler** yankılanıyor.
 
 - **Kulübe**: İple birbirine bağlanmış basit kütüklerden inşa edilmiş, ip yeni görünüyor. Kuzey tarafından çıkan ve göle uzanan bir olta ipi görülebiliyor.
 - **Göl**: Sakin, ancak böcek dolu. Batı tarafındaki bir patika ormandan uzaklaşıyor.
   - Gölde bir süredir balık tutulmamış ve aşırı nüfus oluşmuş. Dolayısıyla balık tutmak kolay.
 - **Duman**: Ahşap pişirme rafından duman tütüyor. Rafın yanında, her biri 3 kullanımlık olan 4 Azık değerinde kızarmış balık yığını duruyor.
 - **Sesler**: Gülüşme ve boğuk konuşma. İçeriden en az iki ses duyulabiliyor.
-  - Bu kulübede izinsiz yaşayan üç eski asker var. Bunlar, zorla askerlik hizmetine alınmış pasifistler. **7**'deki manastıra sığınmak istiyorlar ama henüz o kadar uzağa gidemediler. Neşeli ve iyi kalpliler, ancak tam birer korkaklar.
+  - Bu kulübede izinsiz yaşayan üç eski asker var. Bunlar, zorla askerlik hizmetine alınmış pasifistler. **7**'deki manastıra sığınmak istiyorlar ama henüz o kadar uzağa gidemediler. Neşeli ve iyi kalpliler, ancak hepsi birer korkak.
   - Orman hakkında, gölden Güneye doğru akan ve bir zamanlar bir manastırın yakınlarında sona eren bir nehir olduğu dışında çok az şey biliyorlar.
 
-### Karşılaşmalar
+### Rastgele Düşman Tablosu / Karşılaşmalar
 
 |         |                                                                                            |
 | ------- | ------------------------------------------------------------------------------------------ |
