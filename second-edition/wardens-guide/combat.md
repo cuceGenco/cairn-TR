@@ -13,13 +13,13 @@ Cairn'de çatışma hızlı, karmaşık ve çoğu zaman ölümcüldür. Bunlara 
 - **Grup İnisiyatifi**: İlk tur hariç (PC'lerin sıralarını garantilemek için önce Çeviklik (ÇEV) zarları atmaları gereken tur), hem PC'ler hem de rakipleri sırayla birlikte hareket eder. Bir grubun bireysel eylemlerinin sonuçları eş zamanlı olarak gerçekleşir.
 - **Saldırılar Otomatik Olarak Vurur**: Savaşanlar genellikle saldırılarının "isabet edip etmediğini" görmek için zar atmadan, hedeflerine otomatik olarak hasar verir. Birden fazla saldırgan aynı düşmanı hedef aldığında, saldırıda yalnızca en yüksek zar sonucu kullanılır.
 - **Hasar Koruması (HK) ve Yara İzleri (Scar)**: Hasar Koruması; beceri, dayanıklılık, direnç ve şansın bir ölçüsü olarak işlev görür. Ayrıca PC güvende ve rahat olduğunda otomatik olarak yenilenir. Hasar bir PC'nin HK'sini tam **0**'a düşürürse, o karakter bir _Yara İzi_ alır; bu hem olumlu hem de olumsuz sonuçlar doğurabilir.
-- **Kritik Hasar**: Bir hedefin HK'sini sıfırın altına düşüren hasar, kalan miktar kadar hedefin GÜÇ (GÜÇ) puanından düşülür. Hedef, yeni GÜÇ puanını kullanarak Kritik Hasar almaktan kaçınmak için derhal bir GÜÇ zarı atmalıdır. Başarısız olursa, hedef saf dışı kalır.
+- **Kritik Hasar**: Bir hedefin HK'sını sıfırın altına düşüren hasar, kalan miktar kadar hedefin GÜÇ puanından düşülür. Hedef, yeni GÜÇ puanını kullanarak Kritik Hasar almaktan kaçınmak için derhal bir GÜÇ zarı atmalıdır. Başarısız olursa, hedef saf dışı kalır.
 
 ## Örnek
 
 > Günlerce bitmeyen balçık ve karanlıkta ilerledikten sonra ekip, nihayet geçmiş çağın meşhur haydutu Palalı Kral'a ait olan mezar höyüğünü bulur.
 
-**Oyun Yöneticisi**: _"Sonunda haritanızda işaretli noktaya ulaştınız ve sabahın ilk ışıklarında, yoğuk sisin arasından mezar höyüğünün girişi seçilmeye başlıyor. Ama yuvarlanan sis dağılırken, mezar girişinin yakınında rengarenk bir hareket görüyorsunuz."_
+**Oyun Yöneticisi(Muhafız)**: _"Sonunda haritanızda işaretli noktaya ulaştınız ve sabahın ilk ışıklarında, yoğuk sisin arasından mezar höyüğünün girişi seçilmeye başlıyor. Ama yuvarlanan sis dağılırken, mezar girişinin yakınında rengarenk bir hareket görüyorsunuz."_
 
 **Elif**: _"Hiçbir şey asla kolay olmuyor, değil mi? Olsa olsa Ayı Meclisi'ndeki sevgili dostlarımızdır, bizim ekmeğimize yağ sürmeye çalışıyorlar!"_
 

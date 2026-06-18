@@ -23,7 +23,7 @@ Eşsiz bir canavar yaratmak için şu adımları izleyin:
 - Canavarların öne çıkması için ona karakter kazandırın ve akılda kalıcı olması adına onlara bir hava vermeye çalışın. Oyuncular, sıradan bir goblin okçudan ziyade kayıp koyunlarını arayan domuz suratlı bir insansıyı daha kolay hatırlayacaktır.
 - Canavar istatistiklerini her zaman eğlenceli ve ilginç olmalarını önceleyerek oluşturun.
 
-## ** Hasar Koruması (HK)**
+## **Hasar Koruması (HK)**
 
 Bir canavarın, ister dayanıklılık, ister hız, ister beceri yoluyla tehlikeden kaçınma yeteneği. Ortalama canavarlara 3 HK, daha dayanıklı olanlara 6 HK ve ciddi tehditlere 10 veya daha fazla HK verin.
 
