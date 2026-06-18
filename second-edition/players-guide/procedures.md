@@ -36,7 +36,7 @@ Parti:
 
 |       |                 |                                                                                                                       |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **1** |  **Karşılaşma** | Bir karşılaşma tablosunda zar at. Muhtemelen **düşmanca**. (Bkz. [Tepkiler](/second-edition/players-guide/core-rules##Tepkiler).) |
+| **1** |  **Karşılaşma** | Bir karşılaşma tablosunda zar at. Muhtemelen **düşmanca**. (Bkz. [Tepkiler](/cairn-tr/second-edition/players-guide/core-rules##Tepkiler).) |
 | **2** |    **İşaret**   | Bir ipucu, iz, patika, terk edilmiş in, koku, kurban vb. keşfedilir.                                                 |
 | **3** | **Çevre**       | Çevre değişir. Sular yükselir, tavanlar çöker, bir ritüel tamamlanmaya yaklaşır vb.                    |
 | **4** |    **Kayıp**    | Meşaleler söner, devam eden bir büyü sona erer vb. Parti devam etmeden önce etkiyi çözmelidir.                           |
@@ -163,7 +163,7 @@ Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "*
 
 | **#** | **Tür** | **Açıklama** |
 |---|---|---|
-| **1** | **Karşılaşma** | Bu arazi türü veya konum için bir karşılaşma tablosunda zar at. Uygunsa NPC [tepkileri](/second-edition/players-guide/core-rules.md#tepkiler) için zar atmayı unutmayın. |
+| **1** | **Karşılaşma** | Bu arazi türü veya konum için bir karşılaşma tablosunda zar at. Uygunsa NPC [tepkileri](/cairn-tr/second-edition/players-guide/core-rules.md#tepkiler) için zar atmayı unutmayın. |
 | **2** | **İşaret** | Parti, yakındaki bir karşılaşma, yerellik, gizli bir özellik veya yakındaki bir alan hakkında bilgi ipucu, iz veya belirti keşfeder. |
 | **3** | **Çevre** | Hava durumunda veya arazide bir değişiklik. |
 | **4** | **Kayıp** | Parti, onlara bir kaynağa (konsantre yiyecek, alet vb.), zamana veya çabaya mal olan bir seçimle karşı karşıyadır. |
@@ -245,7 +245,7 @@ Aşağıdaki faaliyetler, oyuncuların seçebileceği en yaygın **Aşağı Zama
 
 ### Araştırma
 
-Bir PC, kayıp veya unutulmuş bir bilgi parçası, kayıp bir eşyanın konumu, önemli bir NPC'nin nerede olduğu vb. hakkında bir soruyu araştırır. Bu eylemi gerçekleştirmek için oyuncunun yanıtlamak istediği açıkça formüle edilmiş bir sorusu ve karakterinin etkileşime girebileceği oyun dünyasında bir **Kaynak** bilgisi olmalıdır. PC'nin bir **Kaynağı** yoksa, bir tane bulmaya çalışmak için bir **Durgun Zaman Eylemi** harcayabilir. Başarılı olacağının garantisi yoktur. Bir soru sorulduktan ve uygun bir **Kaynak** belirlendikten sonra, **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
+Bir PC, kayıp veya unutulmuş bir bilgi parçası, kayıp bir eşyanın konumu, önemli bir NPC'nin nerede olduğu vb. hakkında bir soruyu araştırır. Bu eylemi gerçekleştirmek için oyuncunun yanıtlamak istediği açıkça sorulmuş bir sorusu ve karakterinin etkileşime girebileceği oyun dünyasında bir **Kaynağı** olmalıdır. PC'nin bir **Kaynağı** yoksa, bir tane bulmaya çalışmak için bir **Durgun Zaman Eylemi** harcayabilir. Başarılı olacağının garantisi yoktur. Bir soru sorulduktan ve uygun bir **Kaynak** belirlendikten sonra, **Muhafız** herhangi bir **Kilometre Taşı** ve ilişkili **Bedelleri** sağlamalıdır.
 
 #### Sorular
 
