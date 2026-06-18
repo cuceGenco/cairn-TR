@@ -120,7 +120,7 @@ Oyuncular, paylaşılan ortamla, karakter hedefleriyle ve parti zorluklarıyla i
 ### Hazine
 
 - Hazine, bulunduğu ortama özgüdür. Bir hikaye anlatır.
-- Hazine oldukça değerlidir, neredeyse her zaman hantaldır ve değeri ve prestiji dışında nadiren kullanışlıdır.
+- Hazine oldukça değerlidir, neredeyse her zaman **hantaldır** ve değeri ve prestiji dışında nadiren kullanışlıdır.
 - Kalıntılar Hazine değildir, ancak kullanışlı ve ilginçtirler.
 - Hazineyi, göz korkutucu düşmanların koruması altındaki egzotik yerlere bir cazibe olarak kullan.
 

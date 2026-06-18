@@ -14,26 +14,26 @@ grand_parent: İkinci Edisyon
 - Geçmişinin içindeki tabloların her birinde zar at. Her sonuçtan karakterinin eşyalarını, becerilerini veya yeteneklerini kaydet. Bazı geçmişler, [Pazar](/second-edition/players-guide/marketplace) bölümündeki tablolara da bakmanı isteyebilir.
 
 ## Geçmişler
-> Bu oyunda bir sürü tablo olacak bunları kullanmanın yolu ise oldukça basit d20 gibi ifadeler gördüğünüzde bu bir adet 20'lik zar atın demek. Aynı şekilde 2d10 gördüğünüzde ise 2 adet 10 yüzlü zar atıp bunun toplamını alın. Not: 2d10 kesinlikle 1d20'ye eşit değildir. 
+> Örnek d20: 1 adet yirmi yüzlü zar sonucu. 2d12: 2 adet 12 yüzlü zar atıp sonuçları topla. 
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
 | **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **1**   | [Simyacı](/second-edition/backgrounds/aurifex)               | **11** | [Yarı Cadı](/second-edition/backgrounds/half-witch)     |
+| **2**   | [Berber-Cerrah](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
+| **3**   | [Hayvan Terbiyecisi](/second-edition/backgrounds/beast-handler)   | **13** | [Jonglör](/second-edition/backgrounds/jongleur/)        |
+| **4**   | [Kemik Bekçisi](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kazancı](/second-edition/backgrounds/kettlewright) |
+| **5**   | [Yankesici](/second-edition/backgrounds/cutpurse)             | **15** | [Sınır Muhafızı](/second-edition/backgrounds/marchguard/)    |
+| **6**   | [Tarla Muhafızı](/second-edition/backgrounds/fieldwarden/)      | **16** | [Şarlatan](/second-edition/backgrounds/mountebank)     |
+| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Öncü Süvari](/second-edition/backgrounds/outrider)         |
+| **8**   | [Buluntu](/second-edition/backgrounds/foundling)           | **18** | [Pusucu](/second-edition/backgrounds/prowler)           |
+| **9**   | [Mantar Toplayıcısı](/second-edition/backgrounds/fungal-forager) | **19** | [Irmak Ozanı](/second-edition/backgrounds/rill-runner)   |
+| **10**  | [Yeşil Bilge](/second-edition/backgrounds/greenwise/)          | **20** | [Yazman](/second-edition/backgrounds/scrivener)       |
 
 ## Nitelikler, Hasar Koruması ve Özellikler
 
 - Karakterinin **Nitelikleri** ve **Hasar Koruması** için zar at.
-- Karakterinin geri kalan [Özellikler](#karakter-özellikleri-d10) için, ardından [Bağlar](#bağlar) tablosu için zar at.
+- Karakterinin geri kalan [Özellikleri](#karakter-özellikleri-d10) için, ardından [Bağlar](#bağlar) tablosu için zar at.
 - Son olarak, karakterinin **Yaşı** için zar at (2d20+10). Eğer _en genç_ karakter sensen, [Alametler](#alametler) tablosunda zar at. Sonuç diğer oyunculara yüksek sesle okunmalıdır. Muhafız, Alametleri uygun gördüğü şekilde oyun dünyasına entegre etmelidir.
 
 ## Nitelikler

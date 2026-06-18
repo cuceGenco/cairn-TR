@@ -75,7 +75,7 @@ Parti:
 
 #### Kapılar
 - Kapılar ve girişler kilitli, sıkışmış veya tamamen tıkalı olabilir. Karakterler mevcut kaynakları (sivri uçlar, tutkal) veya ham yeteneklerini kullanarak bir kapıyı zorla açmayı (veya kapatmayı) deneyebilir.
-- Partinin yürüyüş düzeni, kapının ardında ne olandan en çok kimin etkileneceğini belirler.
+- Partinin yürüyüş düzeni, kapının ardında olan olaydan en çok etkilenen kişileri belirler.
 - Bir karakter, dikkatli gözlem (dinleme, koklama vb.) yoluyla yakındaki kapı ve duvarların ardındaki yaşam belirtilerini ve diğer tehlikeleri tespit edebilir.
 
 #### Tuzaklar
@@ -120,12 +120,11 @@ Hava durumu, arazi, karanlık, yaralı parti üyeleri ve diğer engeller seyahat
 
 ### Arazi Zorluğu
 
-|                |                               |             |                                                                                                                   |
-| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Zorluk**     | **Arazi**                     | **Ceza**    | **Faktörler**                                                                                                     |
-| **Kolay**      | **Ovalar, platolar, vadiler** | Yok         | _Dinlenmek için güvenli alanlar, yol arkadaşları, iyi görüş_                                                        |
-| **Zorlu**      | **Ormanlar, çöller, tepeler** | +1 Nöbet    | _Vahşi hayvanlar, su baskınları, kırık ekipmanlar, düşen kayalar, güvensiz barınaklar, avcı tuzakları_             |
-| **Tehlikeli**  | **Dağlar, sık ormanlar, bataklık**| +2 Nöbet    | _Bataklık, emici çamur, boğucu asmalar, kirli su, zehirli bitkiler ve hayvanlar, zayıf navigasyon_                |
+| **Zorluk** | **Arazi** | **Ceza*** | **Faktörler** |
+|---|---|---|---|
+| **Kolay** | Ovalar, platolar, vadiler | Yok | _Dinlenmek için güvenli alanlar, yol arkadaşları, iyi görüş_ |
+| **Zorlu** | Ormanlar, çöller, tepeler | +1 Nöbet | _Vahşi hayvanlar, su baskınları, kırık ekipmanlar, düşen kayalar, güvensiz barınaklar, avcı tuzakları_ |
+| **Tehlikeli** | Dağlar, sık ormanlar, bataklık | +2 Nöbet | _Bataklık, emici çamur, boğucu asmalar, kirli su, zehirli bitkiler ve hayvanlar, zayıf navigasyon_ |
 ### Hava Durumu
 
 Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "**Aşırı**" hava sonucu arka arkaya iki kez gelirse, hava "**Felaket**" seviyesine döner. Bir fırtına kasırgaya dönüşür, bir sağanak vadiyi su altında bırakır, vb.
@@ -156,20 +155,20 @@ Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "*
 
 ### Vahşi Doğa Keşif Döngüsü
 
-1. **Muhafız**, haritadaki mevcut **konumu** veya **bölgeyi** ve yol, hava durumu, arazi veya parti durumunun **seyahat hızını** nasıl etkileyebileceğini betimler. Parti, hedeflerine doğru bir rota çizer veya mevcut rotayı ayarlar.
+1. **Muhafız** haritadaki mevcut **konumu** veya bölgeyi betimler. Ayrıca yol, hava durumu, arazi ve parti durumunun _seyahat hızının_ nasıl etkileyebileceğini de belirtir. Parti bu bilgiler ışığında hedeflerine doğru bir rota çizer veya mevcut rotayı ayarlar.
 2. Her parti üyesi tek bir **Vahşi Doğa Eylemi** seçer. **Muhafız** sonuçları anlatır ve ardından [**Vahşi Doğa Olayları**](#vahşi-doğa-olayları) tablosunda zar atar. Parti sonuçlara yanıt verir.
 3. **Oyuncular** ve **Muhafız** herhangi bir kaynak kaybını ve yeni durumları (yani meşale kullanımı, _bitkinlik_ vb.) kaydeder ve döngü tekrarlanır.
 
 ### Vahşi Doğa Olayları
 
-|       |                  |                                                                                                                                                                                                                                                                      |
-| ----- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Karşılaşma**   | Bu arazi türü veya konum için bir karşılaşma tablosunda zar at. Uygunsa NPC [tepkileri](/second-edition/players-guide/core-rules.md#tepkiler) için zar atmayı unutmayın.                                                                                                    |
-| **2** | **İşaret**       | Parti, yakındaki bir karşılaşma, yerellik, gizli bir özellik veya yakındaki bir alan hakkında bilgi ipucu, iz veya belirti keşfeder.                                                                                                                                           |
-| **3** | **Çevre**        | Hava durumunda veya arazide bir değişiklik.                                                                                                                                                                                                                           |
-| **4** | **Kayıp**        | Parti, onlara bir kaynağa (konsantre yiyecek, alet vb.), zamana veya çabaya mal olan bir seçimle karşı karşıyadır.                                                                                                                                                         |
-| **5** | **Tükenme**      | Parti, çaba, dikkat veya gecikmeler gerektiren bir engelle karşılaşır. Bu, fazladan zaman harcamak (ve ek bir **Vahşi Doğa Eylemi**) veya zorluklarını temsil etmesi için PC'nin envanterine **Yorgunluk** eklemek anlamına gelebilir.                                   |
-| **6** | **Keşif**        | Parti yiyecek, hazine veya diğer kullanışlı kaynakları bulur. **Muhafız** bunun yerine bölgenin ana özelliğini ortaya çıkarmayı seçebilir.                                                                                                                                |
+| **#** | **Tür** | **Açıklama** |
+|---|---|---|
+| **1** | **Karşılaşma** | Bu arazi türü veya konum için bir karşılaşma tablosunda zar at. Uygunsa NPC [tepkileri](/second-edition/players-guide/core-rules.md#tepkiler) için zar atmayı unutmayın. |
+| **2** | **İşaret** | Parti, yakındaki bir karşılaşma, yerellik, gizli bir özellik veya yakındaki bir alan hakkında bilgi ipucu, iz veya belirti keşfeder. |
+| **3** | **Çevre** | Hava durumunda veya arazide bir değişiklik. |
+| **4** | **Kayıp** | Parti, onlara bir kaynağa (konsantre yiyecek, alet vb.), zamana veya çabaya mal olan bir seçimle karşı karşıyadır. |
+| **5** | **Tükenme** | Parti, çaba, dikkat veya gecikmeler gerektiren bir engelle karşılaşır. Bu, fazladan zaman harcamak (ve ek bir **Vahşi Doğa Eylemi**) veya zorluklarını temsil etmesi için PC'nin envanterine **Yorgunluk** eklemek anlamına gelebilir. |
+| **6** | **Keşif** | Parti yiyecek, hazine veya diğer kullanışlı kaynakları bulur. **Muhafız** bunun yerine bölgenin ana özelliğini ortaya çıkarmayı seçebilir. |
 ### Vahşi Doğa Unsurları
 
 #### Gece
@@ -283,20 +282,9 @@ Oyuncu, tam olarak neyi geliştirmek istediğini ve birlikte eğitim alabileceğ
 
 ### Bağları Güçlendirme
 
-Bir karakter, oyun dünyasındaki bir NPC veya Fraksiyon ile bağ kurar. İlk olarak, bağlarını güçlendirmek istedikleri varlığı ve belirli bir **niyeti** (örneğin güven inşa etmek, bir arkadaşlığı onarmak, bir Fraksiyona üyelik talep etmek, bir ittifak oluşturmak vb.) belirlemelidir. **Muhafız** daha sonra PC'nin ilişkiyi ilerletmek için üstlenebileceği somut önlemleri (**Kilometre Taşları** ve **Bedeller** olarak tanımlanır) sağlar. Tamamlanan her **Kilometre Taşı** ile **Muhafız**, PC'nin ilişkisinin nasıl büyüdüğünü veya değiştiğini betimler.
+Bir karakter, oyun dünyasındaki bir NPC veya Klik ile bağ kurar. İlk olarak, bağlarını güçlendirmek istedikleri varlığı ve belirli bir **niyeti** (örneğin güven inşa etmek, bir arkadaşlığı onarmak, bir Klik üyelik talep etmek, bir ittifak oluşturmak vb.) belirlemelidir. **Muhafız** daha sonra PC'nin ilişkiyi ilerletmek için üstlenebileceği somut önlemleri (**Dönüm Noktaları** ve **Bedeller** olarak tanımlanır) sağlar. Tamamlanan her **Dönüm Noktası** ile **Muhafız**, PC'nin ilişkisinin nasıl büyüdüğünü veya değiştiğini betimler.
 
 **Örnekler:**
-
-<<<<<<< HEAD
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
-
-**Examples:**
-
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
-=======
-- **Kökler**'e yapılan başarısız bir inişten dönen bir PC, farkında olmadan bir kaçak yolcu getirdiğini keşfeder: yeni çatlamış, gözsüz bir yiyici. Yaratığı saklamaya ve gizlice eğitmeye karar verir.
-- Bir oyun oturumu sırasında, bir PC **Helm Tarikatı**'nın bir ajanıyla arkadaş olur. Tarikatın değerlerinden etkilenen PC, katılmak için gereken koşulların neler olduğunu sorar.
+- **Kökler**'e yapılan başarısız bir inişten dönen bir PC, farkında olmadan bir kaçak yolcu getirdiğini keşfeder: yeni çatlamış, gözsüz bir etobur. Yaratığı saklamaya ve gizlice eğitmeye karar verir.
+- Bir oyun oturumu sırasında, bir PC **Miğfer Tarikatı**'nın bir ajanıyla arkadaş olur. Tarikatın değerlerinden etkilenen PC, katılmak için gereken koşulların neler olduğunu sorar.
 - Güçlü bir fraksiyonun bir ajanı, partinin bakımı altındayken **Kurbağalar Savaşı** sırasında ölür. Şimdi sorumlu olanlar, partinin o fraksiyon için tekrar görev yapabilmesi adına bir tazminat sunmak istemektedir.
->>>>>>> bd023327 (players guide done)
