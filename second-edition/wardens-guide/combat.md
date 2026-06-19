@@ -11,23 +11,23 @@ grand_parent: İkinci Edisyon
 Cairn'de çatışma hızlı, karmaşık ve çoğu zaman ölümcüldür. Bunlara ek olarak, çatışma kuralları birkaç önemli noktada diğer oyunlardan farklıdır:
 
 - **Grup İnisiyatifi**: İlk tur hariç (PC'lerin sıralarını garantilemek için önce Çeviklik (ÇEV) zarları atmaları gereken tur), hem PC'ler hem de rakipleri sırayla birlikte hareket eder. Bir grubun bireysel eylemlerinin sonuçları eş zamanlı olarak gerçekleşir.
-- **Saldırılar Otomatik Olarak Vurur**: Savaşanlar genellikle saldırılarının "isabet edip etmediğini" görmek için zar atmadan, hedeflerine otomatik olarak hasar verir. Birden fazla saldırgan aynı düşmanı hedef aldığında, saldırıda yalnızca en yüksek zar sonucu kullanılır.
-- **Hasar Koruması (HK) ve Yara İzleri (Scar)**: Hasar Koruması; beceri, dayanıklılık, direnç ve şansın bir ölçüsü olarak işlev görür. Ayrıca PC güvende ve rahat olduğunda otomatik olarak yenilenir. Hasar bir PC'nin HK'sini tam **0**'a düşürürse, o karakter bir _Yara İzi_ alır; bu hem olumlu hem de olumsuz sonuçlar doğurabilir.
-- **Kritik Hasar**: Bir hedefin HK'sını sıfırın altına düşüren hasar, kalan miktar kadar hedefin GÜÇ puanından düşülür. Hedef, yeni GÜÇ puanını kullanarak Kritik Hasar almaktan kaçınmak için derhal bir GÜÇ zarı atmalıdır. Başarısız olursa, hedef saf dışı kalır.
+- **Saldırılar Otomatik Olarak Vurur**: Savaşanlar genellikle saldırılarının "isabet edip etmediğini" görmek için zar atmadan, hedeflerine otomatik olarak hasar verir. Birden fazla saldırgan aynı düşmanı hedef aldığında, saldırıda yalnızca en yüksek zar sonucu kullanılır(ör: d6+d6).
+- **Hasar Koruması (HK) ve Yara İzleri**: Hasar Koruması; beceri, dayanıklılık, direnç ve şansın bir ölçüsü olarak işlev görür. Ayrıca PC güvende ve rahat olduğunda otomatik olarak yenilenir. Hasar bir PC'nin HK'sini tam **0**'a düşürürse, o karakter bir _Yara İzi_ alır; bu hem olumlu hem de olumsuz sonuçlar doğurabilir.
+- **Kritik Hasar**: Bir hedefin HK'sını sıfırın altına düşüren hasar, kalan miktar kadar hedefin GÜÇ puanından düşülür. Hedef, yeni GÜÇ puanını kullanarak Kritik Hasar almaktan kaçınmak için bir GÜÇ zarı atmalıdır. Başarısız olursa, hedef saf dışı kalır.
 
 ## Örnek
 
-> Günlerce bitmeyen balçık ve karanlıkta ilerledikten sonra ekip, nihayet geçmiş çağın meşhur haydutu Palalı Kral'a ait olan mezar höyüğünü bulur.
+>Günlerce süren, balçıklı yollara bata çıkan karanlıklar içinde geçen maceralardan sonra ekip öncenin meşhur haydutu Palalı Kral'a ait olan mezarı bulur.
 
-**Oyun Yöneticisi(Muhafız)**: _"Sonunda haritanızda işaretli noktaya ulaştınız ve sabahın ilk ışıklarında, yoğuk sisin arasından mezar höyüğünün girişi seçilmeye başlıyor. Ama yuvarlanan sis dağılırken, mezar girişinin yakınında rengarenk bir hareket görüyorsunuz."_
+**Oyun Yöneticisi(Muhafız)**: _"Sonunda haritanızda işaretli noktaya ulaştınız ve sabahın ilk ışıklarında, yoğuk sisin arasından mezar höyüğünün girişi seçilmeye başlıyor ama sis dağılırken, mezar girişinin yakınında rengarenk bir hareket görüyorsunuz."_
 
 **Elif**: _"Hiçbir şey asla kolay olmuyor, değil mi? Olsa olsa Ayı Meclisi'ndeki sevgili dostlarımızdır, bizim ekmeğimize yağ sürmeye çalışıyorlar!"_
 
 **Can**: _"Hadi canım, hemen bir tehlike olduğunu bilmiyoruz. Değil mi?"_
 
-**Mehmet**: _"Fark etmez; bundan sonra ne olursa hazırlıklı olmalıyız. Silahlarınızı indirin, ben bir sesleneceğim. Belki de henüz kan dökülmesini önleyebiliriz."_
+**Mehmet**: _"Fark etmez; bundan sonra ne olursa hazırlıklı olmalıyız. Silahlarınızı indirin, ben bir sesleneceğim. Belki de kan dökülmesini önleyebiliriz."_
 
-**Oyun Yöneticisi**: _"Mezar höyüğü yönüne geleneksel bir uyarı bağırıyorsunuz. Hemen bir yanıt gelmiyor, sonra sadece bir kıkırdama duyuluyor. Görünüşe göre size gülüyorlar! Birkaç an sonra, sisin içinden üç figür çıkıp doğrudan görüş hattınıza giriyor, her biri bir silah kuşanmış. En iri olanı, iki elli bir savaş baltası sallarken sırıtıyor; diğer ikisi (belli ki kardeş olan bir erkek ve bir kadın) birbirinin aynısı kılıçlar taşıyor. Herkes, onlardan önce hareket edip edemeyeceğini görmek için bir ÇEV zarları atsın."_
+**Oyun Yöneticisi**: _"Mezar höyüğü yönüne bilinen bir uyarı çığlığı atıyorsunuz. Hemen bir yanıt gelmiyor, sonra sadece bir kıkırdama duyuluyor. Görünüşe göre size gülüyorlar! Sadece biraz sonra, sisin içinden üç figür çıkıp doğrudan görüş hattınıza giriyor, her biri bir silah kuşanmış. En iri olanı, iki elli bir savaş baltası sallarken sırıtıyor; diğer ikisi (belli ki kardeş olan bir erkek ve bir kadın) birbirinin aynısı kılıçlar taşıyor. Herkes, onlardan önce hareket edip edemeyeceğini görmek için bir ÇEV atsın."_
 
 > Mehmet, Can ve Elif, ilk turda bir hamle yapıp yapamayacaklarını görmek için ÇEV zarlarını atarlar. Mehmet ve Elif başarılı olur, ama Can başaramaz.
 
@@ -35,29 +35,29 @@ Cairn'de çatışma hızlı, karmaşık ve çoğu zaman ölümcüldür. Bunlara 
 
 **Oyun Yöneticisi**: _"Evet. Pekala, Mehmet ve Elif, her biriniz bu turda bir hareket ve bir eylem yapabilirsiniz. Hayatta kalırlarsa, üç rakibinizin ardından karşılık verme şansı olacak. Sonra Can da dâhil olmak üzere PC'lerin hareket etme sırası gelecek."_
 
-**Mehmet**: _"Arbaletim hazır değil, o yüzden gümüş bıçağımla iri olanın peşine gideceğim. Onu devirebilirsek, diğerleri kaçabilir."_
+**Mehmet**: _"Arbaletim hazır değil, o yüzden gümüş bıçağımla iri olanın üzerine atılacağım. Onu devirebilirsek, diğerleri kaçabilir."_
 
 **Elif**: _"Hey, benim de planım buydu! Neden ikimiz de onun peşine gitmiyoruz?"_
 
-> Mehmet ve Elif ayrı ayrı saldırı zarları atar, ancak yalnızca en yüksek sayı, iri adama [8 HK, 15 GÜÇ, 7 ÇEV, 9 İRA, savaş baltası (d10)] hasar olarak sayılır. Mehmet 4 atar, Elif ise her hançeri için sırasıyla 5 ve 1 atar.
+> Mehmet ve Elif ayrı ayrı saldırı zarları atar, ancak yalnızca en yüksek sonuç, iri adama [8 HK, 15 GÜÇ, 7 ÇEV, 9 İRA, savaş baltası (d10)] hasar olarak sayılır. Mehmet 4 atar, Elif ise her hançeri için sırasıyla 5 ve 1 atar.
 
 **Oyun Yöneticisi**: _"İkiniz de savaş baltalı adama saldırıyorsunuz. Mehmet'in ilk saplamasını rahatça savuşturuyor ama Elif'e yetişmekte zorlanıyor! Elif'in çift hançeri, adamın sadece milisaniye önce durduğu havayı dilimlerken neredeyse içini deşiyordu. Bu çok yakındı!"_
 
 **Elif**: _"Teşekkürler. Yine de pek iç rahatlatıcı değil."_
 
-> Şimdi rakiplerin saldırma veya eylem yapma sırası. Bu olayların anlatımı ardışık olsa da sonuçlar aşağı yukarı aynı anda gerçekleşir. Oyun Yöneticisi, her düşman savaşçı için bir saldırı zarı atar ve her PC'yi yalnızca bir kez hedefler. İri adam d10 atar ve Elif'e yalnızca 3 hasar verirken, yardakçıları birer d6 atar, sırasıyla Mehmet'e 1, Can'a 6 hasar verir. Oyun Yöneticisi sonuçları anlatırken her oyuncu, kaybedilen HK veya GÜÇ'ü karakter kağıdına işler.
+> Şimdi rakiplerin saldırma veya eylem yapma sırası. Bu olayların anlatımı sırayla olsa da sonuçlar aşağı yukarı aynı anda gerçekleşir. Oyun Yöneticisi, her düşman savaşçı için bir saldırı zarı atar ve her PC'yi yalnızca bir kez hedefler. İri adam d10 atar ve Elif'e yalnızca 3 hasar verirken, yardakçıları birer d6 atar, sırasıyla Mehmet'e 1, Can'a 6 hasar verir. Oyun Yöneticisi sonuçları anlatırken her oyuncu, kaybedilen HK veya GÜÇ'ü karakter kağıdına işler.
 
-**Oyun Yöneticisi**: _"Şimdi rakipleriniz size bir saldırı deneyecek. İri adam baltasını Elif'e savuruyor, ancak ıskalıyor; baltanın ağzıyla Elif arasında kocaman bir boşluk kalıyor. Yine de bir daha bu kadar şanslı olacağınızı bilmiyorsunuz. Ardından kısa boylu adam, üçünüz arasında en yakın olan Mehmet'e saplıyor. Neyse ki adamın bıçağı sadece zırhına sürtüp geçiyor. Şimdi de adamın kız kardeşi, neredeyse Can'ın kafasını kılıcıyla uçuruyor. Kılıç kan çıkarmıyor ama onu o kadar sert savuruyor ki neredeyse devriliyor ve gözlerini parlak ışıklar, pırıltılar dolduruyor."_
+**Oyun Yöneticisi**: _"Şimdi rakipleriniz size bir saldırı deneyecek. İri adam baltasını Elif'e savuruyor, ancak ıskalıyor; baltanın ağzıyla Elif arasında kocaman bir boşluk kalıyor. Yine de bir daha bu kadar şanslı olacağınızı sanmıyorsunuz. Ardından kısa boylu adam, üçünüz arasında en yakın olan Mehmet'e saplıyor. Neyse ki adamın bıçağı sadece zırhına sürtüp geçiyor. Şimdi de adamın kız kardeşi, neredeyse Can'ın kafasını kılıcıyla uçuruyor. Kılıç kan çıkarmıyor ama onu o kadar sert savuruyor ki neredeyse devriliyor ve gözlerini parlak ışıklar, pırıltılar dolduruyor."_
 
-**Can**: _"Ah. Sanırım bu beni tam 0 HK'ye getiriyor. Yara İzleri (Scars) tablosuna bakmalıyım, değil mi?"_
+**Can**: _"Ah. Sanırım bu beni tam 0 HK'ye getiriyor. Yara İzleri tablosuna bakmalıyım, değil mi?"_
 
-**Oyun Yöneticisi**: _"Evet, ayrıca saldırıda ne kadar HK kaybettiğini de kontrol etmelisin. Bakalım... 6 HK'n vardı ama zırhın yok, saldırıda 6 hasar aldın. Bu demek oluyor ki **Yönünü Şaşırtan Kafa Travması** almalısın!"_
+**Oyun Yöneticisi**: _"Evet, ayrıca saldırıda ne kadar HK kaybettiğini de kontrol etmelisin. Bakalım... 6 HK'n vardı ama zırhın yok, saldırıda 6 hasar aldın. Bu demek oluyor ki **Yönlendirici Kafa Travması** almalısın!"_
 
-**Can**: _"Pekala. Bunun için fazla heyecanlıymışsın gibi geliyor. Tamam, diyor ki 1d6 atmalıyım... 3 geldi, bu ÇEV anlamına geliyor. Şimdi 3d6 atmalıyım ve eğer toplam mevcut Çeviklik puanımdan büyükse, yeni puanı koruyorum, değil mi? Pekala... hey, 14! Bu şu an sahip olduğumdan biraz daha yüksek! Belki de kafaya almak o kadar da kötü değilmiş?"_
+**Can**: _"Pekala. Bunun için fazla heyecanlıymışsın gibi geliyor. Tamam, diyor ki 1d6 atmalıyım... 3 geldi, bu ÇEV anlamına geliyor. Şimdi 3d6 atmalıyım ve eğer toplam mevcut Çeviklik puanımdan büyükse, yeni puanı koruyorum, değil mi? Pekala... hey, 14! Bu şu an sahip olduğumdan biraz daha yüksek! Belki de kafaya darbe almak o kadar da kötü değilmiş?"_
 
 **Oyun Yöneticisi**: _"Belki. Bir puan az gelseydi hastalığa yakalanacaktın, bir puan fazla gelseydi bir süreliğine işitme duyunu kaybedecektin. Yeni ÇEV puanını yaz. Gerçekten şanslısın, biliyor musun? Her neyse, şimdi yine PC'lerin hareket etme sırası."_
 
-**Mehmet**: _"Kısa boylu adama rövanş yapacağım!"_
+**Mehmet**: _"Kısa boylu adamdan öcümü alacağım!"_
 
 **Elif**: _"Ben iri adama bir kez daha saldıracağım."_
 
