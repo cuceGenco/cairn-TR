@@ -199,7 +199,7 @@ Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "*
 #### Seyahat Et
 
 - Seyahat başlar. Yakındaki alanların belirgin konumları, özellikleri ve arazileri mesafelerine göre ortaya çıkar. Bu eylem tipik olarak tüm parti tarafından tek bir eylem olarak yapılır.
-- Parti, yol boyunca kaybolup kaybolmadıklarını görmek için 1z6 atar. Bu risk, yol **Zorluğuna**, haritalara, parti becerilerine ve rehberlere bağlı olarak artabilir veya azalabilir.
+- Parti, yol boyunca kaybolup kaybolmadıklarını görmek için 1d6 atar. Bu risk, yol **Zorluğuna**, haritalara, parti becerilerine ve rehberlere bağlı olarak artabilir veya azalabilir.
 - Kaybolursa, partinin yolunu bulmak için bir **Vahşi Doğa Eylemi** harcaması gerekebilir. Aksi halde parti, rotası boyunca bir sonraki **noktaya** ulaşır.
 
 > Kaybolma sonuçlarını ilgili yol **Zorluğu** ile karşılaştırmayı unutmayın.
@@ -212,7 +212,7 @@ Her gün, Muhafız uygun mevsim için hava durumu tablosunda zar atmalıdır. "*
 
 #### Tedarik Et
 
-- Bir veya daha fazla parti üyesi avlanabilir, balık tutabilir veya yiyecek toplayabilir, 1z4 **Konsantre Yiyecek** (her biri 3 kullanım) toplar. Daha fazla ganimet şansı, katılan her ekstra katılımcıyla artar (örneğin 1z4, 1z6 olur, maksimum 1z12'ye kadar).
+- Bir veya daha fazla parti üyesi avlanabilir, balık tutabilir veya yiyecek toplayabilir, 1d4 **Konsantre Yiyecek** (her biri 3 kullanım) toplar. Daha fazla ganimet şansı, katılan her ekstra katılımcıyla artar (örneğin 1d4, 1d6 olur, maksimum 1d12'ye kadar).
 - İlgili deneyim veya ekipman da toplanan ganimeti artırabilir.
 - Parti evler ve küçük köylerle karşılaşabilir, altın harcayarak ve tam bir **nöbet** ayırarak malzeme yenileyebilir.
 
@@ -277,7 +277,7 @@ Oyuncu, tam olarak neyi geliştirmek istediğini ve birlikte eğitim alabileceğ
 
 - **İki Elli Savuşturma**: Bir eli boşken savaşırken, bir PC'nin HP'si geçici olarak 1d4 artar. Parti, **Kraterli Topraklar**'dan bir paralı asker tuttu; bu toprakların savaşçıları düşman saldırılarından kaçınmaya önem verir. Kadın, kendisini göğüs göğüse dövüşte yenebilecek herkese eğitim vermeyi kabul etti.
 - **Bitki Bilimi**: Doğru malzemeler verildiğinde, bir PC bir **Durgun Zaman Eylemi** olarak bir **İyileştirici Merhem** (4 GÜÇ onarır) yapabilir. **Yeşil Koruluklar**'daki yaşlı bir bitkici kadından bakım aldıktan sonra, yaralı PC şifa sanatlarında eğitilmek istedi. **Usta** kabul etti, ancak eğitime başlamadan önce üç nadir bitki toplamalarını istedi.
-- **Alabalık Ustası**: Tedarik etme **Eylemi** yaparken, soğuk tatlı su kaynaklarının yakınında toplanan **Konsantre Yiyecek**ler bir kademe artar (örn. 1z4, 1z6 olur). Parti, ünlü korkunç **Gümüş Atıklar**'dan mahsur kalmış bir doğa bilimciyi güvenli bir şekilde şehre geri getirdi. Teşekkür olarak, soğuk sularda sıkça bulunan yaygın bir göl balığını tanımlamak ve yakalamak için bir PC'ye eğitim vermeyi teklif etti.
+- **Alabalık Ustası**: Tedarik etme **Eylemi** yaparken, soğuk tatlı su kaynaklarının yakınında toplanan **Konsantre Yiyecek**ler bir kademe artar (örn. 1d4, 1d6 olur). Parti, ünlü korkunç **Gümüş Atıklar**'dan mahsur kalmış bir doğa bilimciyi güvenli bir şekilde şehre geri getirdi. Teşekkür olarak, soğuk sularda sıkça bulunan yaygın bir göl balığını tanımlamak ve yakalamak için bir PC'ye eğitim vermeyi teklif etti.
 
 
 ### Bağları Güçlendirme
