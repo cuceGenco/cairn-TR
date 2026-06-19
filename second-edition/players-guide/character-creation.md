@@ -19,16 +19,16 @@ grand_parent: İkinci Edisyon
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
 | **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Simyacı](/second-edition/backgrounds/aurifex)               | **11** | [Yarı Cadı](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Berber-Cerrah](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Hayvan Terbiyecisi](/second-edition/backgrounds/beast-handler)   | **13** | [Jonglör](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Kemik Bekçisi](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kazancı](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Yankesici](/second-edition/backgrounds/cutpurse)             | **15** | [Sınır Muhafızı](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Tarla Muhafızı](/second-edition/backgrounds/fieldwarden/)      | **16** | [Şarlatan](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Öncü Süvari](/second-edition/backgrounds/outrider)         |
-| **8**   | [Buluntu](/second-edition/backgrounds/foundling)           | **18** | [Pusucu](/second-edition/backgrounds/prowler)           |
-| **9**   | [Mantar Toplayıcısı](/second-edition/backgrounds/fungal-forager) | **19** | [Irmak Ozanı](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Yeşil Bilge](/second-edition/backgrounds/greenwise/)          | **20** | [Yazman](/second-edition/backgrounds/scrivener)       |
+| **1**   | [Simyacı](/cairn-tr/second-edition/backgrounds/aurifex/)               | **11** | [Yarı Cadı](/cairn-tr/second-edition/backgrounds/half-witch)     |
+| **2**   | [Berber-Cerrah](/cairn-tr/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/cairn-tr/second-edition/backgrounds/hexenbane)       |
+| **3**   | [Hayvan Terbiyecisi](/cairn-tr/second-edition/backgrounds/beast-handler)   | **13** | [Jonglör](/cairn-tr/second-edition/backgrounds/jongleur/)        |
+| **4**   | [Kemik Bekçisi](/cairn-tr/second-edition/backgrounds/bonekeeper/)        | **14** | [Kazancı](/cairn-tr/second-edition/backgrounds/kettlewright) |
+| **5**   | [Yankesici](/cairn-tr/second-edition/backgrounds/cutpurse)             | **15** | [Sınır Muhafızı](/cairn-tr/second-edition/backgrounds/marchguard/)    |
+| **6**   | [Tarla Muhafızı](/cairn-tr/second-edition/backgrounds/fieldwarden/)      | **16** | [Şarlatan](/cairn-tr/second-edition/backgrounds/mountebank)     |
+| **7**   | [Fletchwind](/cairn-tr/second-edition/backgrounds/fletchwind)         | **17** | [Öncü Süvari](/cairn-tr/second-edition/backgrounds/outrider)         |
+| **8**   | [Buluntu](/cairn-tr/second-edition/backgrounds/foundling)           | **18** | [Pusucu](/cairn-tr/second-edition/backgrounds/prowler)           |
+| **9**   | [Mantar Toplayıcısı](/cairn-tr/second-edition/backgrounds/fungal-forager) | **19** | [Irmak Ozanı](/cairn-tr/second-edition/backgrounds/rill-runner)   |
+| **10**  | [Yeşil Bilge](/cairn-tr/second-edition/backgrounds/greenwise/)          | **20** | [Yazman](/cairn-tr/second-edition/backgrounds/scrivener)       |
 
 ## Nitelikler, Hasar Koruması ve Özellikler
 
@@ -44,8 +44,8 @@ grand_parent: İkinci Edisyon
 
 ## Hasar Koruması
 
-- Karakterinin başlangıç **Hasar Koruması** (HK) için 1d6 at. HK, karakterin savaşta hasardan kaçınma yeteneğini yansıtır. Karakterin sağlığını veya dayanıklılığını göstermez, ve çok uzun süreli kaybedilen bir şey değildir. Bkz. [İyileşme & Kurtarma](/second-edition/players-guide/core-rules#İyileşme&Kurtarma).
-- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, oyuncu [**Yara İzleri**](/second-edition/players-guide/core-rules#Yara-İzleri-Tablosu) tablosunda zar atmalıdır.
+- Karakterinin başlangıç **Hasar Koruması** (HK) için 1d6 at. HK, karakterin savaşta hasardan kaçınma yeteneğini yansıtır. Karakterin sağlığını veya dayanıklılığını göstermez, ve çok uzun süreli kaybedilen bir şey değildir. Bkz. [İyileşme & Kurtarma](/cairn-tr/second-edition/players-guide/core-rules#İyileşme&Kurtarma).
+- Bir saldırı, bir PC'nin HK'sını tam olarak 0'a indirirse, oyuncu [**Yara İzleri**](/cairn-tr/second-edition/players-guide/core-rules#Yara-İzleri-Tablosu) tablosunda zar atmalıdır.
 
 ## Envanter
 
