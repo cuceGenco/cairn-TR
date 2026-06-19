@@ -18,7 +18,7 @@ grand_parent: İkinci Edisyon
 
 ### Zindan Keşif Döngüsü
 
-1. **Muhafız**, partinin çevresini ve acil tehlikeleri (çatışma, tuzaklar, sürprizler vb.) betimler. Oyuncular daha sonra karakterlerinin amaçlanan hareketlerini ve **eylemlerini** bildirir.
+1. **Muhafız**, partinin çevresini ve tehlikeleri (çatışma, tuzaklar, sürprizler vb.) betimler. Oyuncular daha sonra karakterlerinin amaçlanan hareketlerini ve **eylemlerini** bildirir.
 2. Muhafız, her karakterin **eylemlerini** halihazırda devam eden **eylemlerle** birlikte eş zamanlı olarak çözer. Unutmayın, Kader Zarı Muhafız'ın kararsız kaldığı her an kullanışlı bir araç olabilir!
 3. Oyuncular herhangi bir kaynak kaybını ve yeni durumları (yani eşya kullanımı, _bitkinlik_ vb.) kaydeder. Döngü daha sonra yeniden başlar. Eğer gerekli ise, **Muhafız** [**Zindan Olayları**](#zindan-olayları) tablosunda zar atmalıdır. Sonuçları yorumlarken sağduyuyu elden bırakmayın!
 
@@ -69,7 +69,7 @@ Parti:
 ### Zindan Unsurları
 
 #### Işık
-- Meşaleler ve diğer dairesel ışık kaynakları, 12 metrelik zindanı aydınlatır ve bunun ötesinde sadece nesnelerin loş bir taslağını gösterir. Meşaleler, bir karakter veya çevre tarafından söndürülene kadar dayanır.
+- Meşaleler ve diğer dairesel ışık kaynakları, 12 metrelik mesafeyi aydınlatır ve bunun ötesinde sadece nesnelerin loş bir taslağını gösterir. Meşaleler, bir karakter veya çevre tarafından söndürülene kadar dayanır.
 - Bir meşale, kalıcı olarak bozulmadan önce 3 kez yakılabilir. Bir fener, her yağ tenekesinde 6 kez yeniden yakılabilir, ancak daha fazla envanter yuvası gerektirir.
 - Işık kaynağı olmayan karakterler, durumları düzelene kadar _panik_ yaşayabilir.
 

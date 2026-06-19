@@ -56,8 +56,8 @@ PC'ler, partiye tepkisi belli olmayan bir NPC ile karşılaştığında, Muhafı
 ## Paralı Askerler
 
 - Maceracı grupları, seferlerde yardımcı olmaları için paralı askerler tutabilir, onların benzersiz becerilerine, bilgilerine ve eğitimlerine güvenebilir.
-- Bir paralı asker oluşturmak için, Pazar'daki [Paralı Askerler](/second-edition/players-guide/marketplace#paralı-askerler-günlük) tablosundan uygun bir rol seçin. Her nitelik için 3d6 ve HK'ları için 1d6 atın. Konumlarına uygun **ekipman** verin, ardından onları daha da detaylandırmak için Karakter Özellikleri tablolarında zar atın.
-- Alternatif olarak, [Karakter Yaratım](/second-edition/players-guide/character-creation) kılavuzundan uygun bir [**geçmiş**](/second-edition/players-guide/character-creation#geçmişler) ve **isim** seçin. O geçmişe ait tablolarda zar atın (veya seçim yapın). Ardından Konsantre Yiyecek, Altın Sikke, Nitelikler, HK ve yaş için zar atın.
+- Bir paralı asker oluşturmak için, Pazar'daki [Paralı Askerler](/cairn-tr/second-edition/players-guide/marketplace#paralı-askerler-günlük) tablosundan uygun bir rol seçin. Her nitelik için 3d6 ve HK'ları için 1d6 atın. Konumlarına uygun **ekipman** verin, ardından onları daha da detaylandırmak için Karakter Özellikleri tablolarında zar atın.
+- Alternatif olarak, [Karakter Yaratım](/cairn-tr/second-edition/players-guide/character-creation) kılavuzundan uygun bir [**geçmiş**](/cairn-tr/second-edition/players-guide/character-creation#geçmişler) ve **isim** seçin. O geçmişe ait tablolarda zar atın (veya seçim yapın). Ardından Konsantre Yiyecek, Altın Sikke, Nitelikler, HK ve yaş için zar atın.
 
 ## Kader Zarı
 
