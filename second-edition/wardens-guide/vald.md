@@ -117,7 +117,7 @@ Muhafızlar, diğer kliklere siyasete veya diğer bu tür kısa görüşlü kavg
 
 ### Genel Bakış
 
-Bir günde 24 saat ve bir haftada 6 gün vardır. Her ay 24 gündür (4 hafta), bir yılda 12 ay vardır. Yıl, her biri 72 gün süren 4 mevsime (Ölü, Kuru, Islak ve Hasat) ayrılır. Her 10 yılda bir, hiçbir aya ait olmayan 6 günlük bir "Artık Hafta" (_Yeniden Kazanım_) eklenir. Bu, on yıl üzerinden bir yılın ortalama uzunluğunu 288.6 gün yapar. Her yıl, _Kuru_ mevsim başlamadan hemen önce başlar. İçinde bulunduğumuz yıl 7728'dir.
+Bir günde 24 saat ve bir haftada 6 gün vardır. Her ay 24 gündür (4 hafta), bir yılda 12 ay vardır. Yıl, her biri 72 gün süren 4 mevsime (Ölü, Kuru, Islak ve Hasat) ayrılır. Her 10 yılda bir, hiçbir aya ait olmayan 6 günlük bir _Artık Hafta_ eklenir. Bu, on yıl üzerinden bir yılın ortalama uzunluğunu 288.6 gün yapar. Her yıl, _Kuru_ mevsim başlamadan hemen önce başlar. İçinde bulunduğumuz yıl 7728'dir.
 
 ### Haftanın Günleri
 
@@ -143,7 +143,7 @@ Bir günde 24 saat ve bir haftada 6 gün vardır. Her ay 24 gündür (4 hafta), 
 11. Bela 
 12. Günbatımı 
 
-### Yeniden Kazanım Haftası (On yılda bir)
+### Artık Hafta (On yılda bir)
 
 1. Tanı 
 2. Hatırla 

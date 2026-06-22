@@ -21,23 +21,23 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 - Şüpheye düştüğünüzde, partinin bir sorunu aşmak için zamana, kaynaklara, beceriye veya avantaja sahip olup olmadığını sorun. Cevap "hayır" ise, genellikle bir kurtarma zarı gerekir. Cevap "bilmiyorum" ise, Kader Zarı ile bir atış gerekebilir.
 - "Hayır" demekten çekinmeyin, ancak bir alternatif sunmayı unutmayın. Eğer ekip, kontrolleri dışındaki koşullar nedeniyle ilerleyemiyorsa, onlara değerlendirmeleri için başka bir seçenek verin.
 - Karakter ölümü asla sürpriz olmamalıdır. Risk o kadar büyükse ve sonuç ölümcül olabilirse, oyuncunun neye bulaştığını anladığından emin olun.
-- PC'lerin seçebileceği birden çok uygulanabilir seçeneği her zaman sunun. Seçenekler arttıkça durum daha ilginç hale gelir.
-- Bir kurtarma zarının sonucu basit bir ikili olmak zorunda değildir. Sonuçları, zar atışına giren çaba, öngörü, kaynaklar ve becerinin bütününe göre şekillendirebilirsiniz.
-- Oyunculara karşı şeffaf olun. Bu, dünyanın tüm sırlarını açığa çıkarmak anlamına gelmez, ancak her oyuncuya karakterinin sahip olabileceği maksimum bilgiyi sağlayın.
-- Mümkün olduğunda zar atışı gerektirmekten kaçının. Bir PC bir sorunu tamamen anlatısal öğeler kullanarak çözebiliyorsa, _zar atışı istemeyin_.
-- Birden çok zar atışını tek bir zar atışıyla değiştirin. Sonuçları tek bir atışa indirgemek, oyuncu katkısını en üst düzeye çıkarırken gerilimi artırabilir.
+- PC'lerin seçebileceği birden çok uygulanabilir seçenecek daima sunun. Seçenekler arttıkça durum daha ilginç hale gelir.
+- Bir kurtarma zarının sonucu sadece 2 sonuçtan ibaret olmak zorunda değildir. Sonuçları, zar atışına verilen çaba, öngörü, kaynaklar ve becerinin bütününe göre şekillendirebilirsiniz.
+- Oyunculara karşı şeffaf olun. Bu, bütün sırları açıklamak gibi düşünmeyin. Her oyuncuya karakterinin sahip olabileceği maksimum bilgiyi sağlayın(5 duyu organının tamamı).
+- Mümkün olduğunda zar atışı gerekmemesini sağlmaya çalışın. PC bir sorunu tamamen hikayesel öğeler kullanarak çözebiliyorsa, _zar atışı istemeyin_.
+- Birden çok zar atışı yerine tek bir zar isteyebilirsiniz. Sonuçları tek bir atışa indirgemek, oyuncu katkısını en üst düzeye çıkarırken gerilimi artırabilir ve oyuncuyu anlatısal/hikayesel çıkarımlar yapmak zorunda bırakabilir. 
 
 ## Geleneksel Kurtarma Zarları
 
 ### Güç 
 
-> Wolfram yeraltı hapishane hücresinde, göğsüne sıkıca bastırdığı bir kumaş bohçayla koşuyor. Lucius ve Freya hemen arkada, iri bir gardiyan ve onun evcil kurduyla dövüşüyorlar.
+> Wolfram bir hapishane hücresinde, göğsüne doğru sıkıca bastırdığı bir kumaş bohçayla koşuyor. Lucius ve Freya hemen arkada, iri bir gardiyan ve onun evcil kurduyla dövüşüyorlar.
 
 **Wolfram**: _"Unutmayın, onlar masum! Ölmeleri gerekmiyor!"_
 
 **Freya**: _"Üzgünüm, havlamalar ve hırlamalar arasında seni duyamıyorum!"_
 
-**Muhafız**: _"Aniden, gardiyan durur ve ıslık çalarak evcil hayvanını geri çağırır. Ardından arkasındaki bir kolu çeker ve Doğu koridorunun diğer ucundan yüksek bir gıcırtı sesi gelmeye başlar. Sonra ne yaptığını görüyorsunuz: tavandan kalın bir demir parmaklık iniş yapıyor. Kapanırsa, hapishanenin bu bölümüne kilitleneceksiniz! Wolfram, muhtemelen hiç risk almadan geçebilirsin. Lucius ve Freya'nın geçebilmek için ÇEV zarları atmaları gerekecek."_
+**Muhafız**: _"Aniden, gardiyan durur ve ıslık çalarak hayvanını geri çağırır. Ardından arkasındaki bir kolu çeker ve Doğu koridorunun diğer ucundan yüksek bir gıcırtı sesi gelmeye başlar. Şu an ne yaptığını görebiliyorsunuz: tavandan kalın bir demir parmaklık iniş yapıyor. Kapanırsa, hapishanenin bu bölümüne kilitleneceksiniz! Wolfram, muhtemelen hiç risk almadan geçebilirsin. Lucius ve Freya'nın geçebilmek için ÇEV zarları atmaları gerekecek."_
 
 **Wolfram**: _"Duracağım ve parmaklığı elimden geldiğince tutacağım. Ne risk alıyorum?"_
 
@@ -47,21 +47,21 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 > Lucius ve Freya kabul eder ve Wolfram 13 atar: başarı!
 
-**Muhafız**: _"Demir çubuklar kollarına ve omuzlarına baskı yaparken inliyorsun. Parmaklık seni ikiye bölecekmiş gibi hissettiğin anda, Lucius ve Freya yanından geçip güvenli bölgeye varıyor. Geri çekiliyorsun ve parmaklık taş zemine öyle bir kuvvetle çöküyor ki mekanizmanın kendisi kırılıyor. Artık geri dönüş yok! Büyük gardiyan da geçemeyecek yine de."_
+**Muhafız**: _"Demir çubuklar kollarına ve omuzlarına baskı yaparken inliyorsun. Parmaklık seni ikiye bölecekmiş gibi hissettiğin anda, Lucius ve Freya yanından geçip güvenli bölgeye varıyor. Geri çekiliyorsun ve parmaklık taş zemine öyle bir kuvvetle çöküyor ki mekanizmanın kendisi kırılıyor. Artık geri dönüş yok! Büyük gardiyan da geçemeyecek."_
 
-**Wolfram**: _"Her zaman söylediğim gibi: 'Güç yoluyla erdem gelir.' Yoksa 'Erdem, güçte midir?' Ah, neyse... Hey, beni bekleyin!"_
+**Wolfram**: _"Her zaman söylediğim gibi: 'Güç erdemi getirir.' Yoksa 'Erdem, güçte midir?' Ah, neyse... Hey, beni bekleyin!"_
 
 ### Çeviklik 
 
-> Freya, harap bir meyhanenin merteklerinin üzerine çömelmiş, aşağıda ağır silahlı bir haydut çetesini gözetliyor.
+> Freya, harap olmuş bir meyhanenin çatısı üzerinde çömelmiş, aşağıdaki ağır silahlı bir haydut çetesini gözetliyor.
 
-**Muhafız**: _"Yirmi dakikalık sıkışık rahatsızlıktan sonra, bu girişime harcadığın özen ve dikkat nihayet ödüllendiriliyor; aşağıdaki adamlardan biri saklandıkları yerin konumunu yüksek sesle söylüyor. Görevin tamam! Şimdi ne yapıyorsun?"_
+**Muhafız**: _"Yirmi dakikalık rahatsızlıktan sonra, bu girişime harcadığın özen ve dikkat nihayet ödüllendiriliyor; aşağıdaki adamlardan biri saklandıkları yerin konumunu yüksek sesle söylüyor. Görevin tamam! Şimdi ne yapıyorsun?"_
 
-**Freya**: _"Bu şaklabanlar benim burada olduğumu bilmeden tüymem gerek. Neredeyse bitirdiler mi?"_
+**Freya**: _"Bu şaklabanlar benim burada olduğumu bilmeden tüymem gerek. Dağılacaklar değil mi birazdan?"_
 
 **Muhafız**: _"Aslında, içlerinden biri bir deste kağıt çıkarıyor ve diğerleri onaylarcasına başlarını sallıyor. Görünüşe göre bir süre daha burada kalacaklar."_
 
-**Freya**: _"Tüh. Neyse, bugün yapmazsan yarın daha geç, değil mi? Geldiğim yoldan geri sıvışacağım."_
+**Freya**: _"Tüh. Neyse. Geldiğim yoldan geri sıvışacağım."_
 
 **Muhafız**: _"Sorun yok, ancak daha önce geçtiğinde burada kimse yoktu. Artık durum böyle değil! Fark edilmemek için bir ÇEV zarları atmalısın."_
 
@@ -79,11 +79,11 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 **Freya**: _"Onu arkada bırakmayacağım. Sen yine de git, ama ben onu çıkaracağım. Ben bir yankesiciyim, her yerde arkadaşlarım vardır, değil mi? Ya da belki burada bağlantı kurmak için kullanabileceğim bir hırsız argosu vardır?"_
 
-**Muhafız**: _"Evet. İstersen geceyi kendi türün arasında bağlantı kurmaya çalışarak geçirebilirsin."_
+**Muhafız**: _"Evet. İstersen geceyi farklı yankesiciler arasında bağlantı kurmaya çalışarak geçirebilirsin."_
 
-> Ekip ayrılır ve Freya yerel bir çalıcıdan (fence) ihtiyacı olanı öğrenir. (Bu, İkizler'den birine mal olur ve hiç mutlu olmaz). Lucius, komiserlik binasının altındaki bir hapishanede cezasını beklemektedir.
+> Ekip ayrılır ve Freya yerel bir yankesiciden ihtiyacı olanı öğrenir. (Bu, hançerlerinden birine mal olur ve bu onu hiç mutlu etmez). Lucius, komiserlik binasının altındaki bir hapishanede cezasını beklemektedir.
 
-**Muhafız**: _"Sabahın erken saatlerinin loş ışığında, sokak havalandırma deliğinden bir not sıkıştırıldığını fark ediyorsun. Şöyle yazıyor: 'Şunu söyle, özgür olacaksın: "Solgun Adam Ölmeyi Arzuluyor." Tek şansın var.'"_
+**Muhafız**: _"Sabahın erken saatlerinin loş ışığında, sokak havalandırma deliğinden bir not sıkıştırıldığını fark ediyorsun. Şöyle yazıyor: 'Şunu söyle ve özgür olacaksın: "Solgun Adam Ölmeyi Arzuluyor." Tek şansın var.'"_
 
 **Lucius**: _"...Ne? Tamam. Bunu biri mi verdi? Bunu yüksek sesle söylemem gerek... ama doğru zamanda, yoksa doğru kişiye mi?"_
 
@@ -93,7 +93,7 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 **Muhafız**: _"Hücreni açar ve dışarı çıkman için işaret eder."_
 
-**Lucius**: _"Merhaba dostum! Amirine konuşabilir miyim? Onların ilgisini çekebilecek bazı önemli haberlerim var..."_
+**Lucius**: _"Merhaba dostum! Amirinle konuşabilir miyim? Onların ilgisini çekebilecek bazı önemli haberlerim var..."_
 
 **Muhafız**: _"Gardiyan sırıtırken bir çift kelepçeyi kaldırır."_
 
@@ -101,9 +101,9 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 **Muhafız**: _"Gardiyan olduğu yerde durur, sonra kelepçeleri indirir. Bir kez başını sallar ve onu takip etmen için işaret eder."_
 
-**Lucius**: _"Bu şanslıydı. Bu nedir, gardiyanlar için bir şifre falan mı? Cellatlar? Her neyse, takip ediyorum."_
+**Lucius**: _"Bu nedir, gardiyanlar için bir şifre falan mı? Cellatlar? Her neyse, takip ediyorum."_
 
-**Muhafız**: _"Gardiyan seni hapishanenin karanlığına, ışıktan uzağa yönlendiriyor. Uzak duvara ulaştığında, başının çok üzerindeki bir taşa üç kez vuruyor. Bir an sonra duvar içe doğru dönüyor ve gardiyan güvenle içeri yürüyor; burada koyu saçlı bir kadın bir masada bekliyor. Kadın sana gülümsüyor ve karşısındaki sandalyeye oturmanı işaret ediyor."_
+**Muhafız**: _"Gardiyan seni hapishanenin karanlığına, ışıktan uzağa yönlendiriyor. Uzak duvara ulaştığında, başının çok üzerindeki bir taşa üç kez vuruyor. Hemen sonrasında duvar içe doğru dönüyor ve gardiyan güvenle içeri yürüyor; burada koyu saçlı bir kadın bir masada bekliyor. Kadın sana gülümsüyor ve karşısındaki sandalyeye oturmanı işaret ediyor."_
 
 **Lucius**: _"Oha. Hücreme geri dönebilir miyim lütfen? Şaka şaka. Oturuyorum."_
 
@@ -119,13 +119,13 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 > Lucius partinin şimdiye kadarki çabalarını anlatır. Bir İRA zarları atar. 5 atar, başarı! Katja samimiyetine ikna olur.
 
-**Muhafız** _"Hikayeni dinlerken Katja kaşlarını çatar, sonunda gülümser. 'Pekala, pekala, sana inanıyorum. Bir anlaşma yapalım! Beni bu "müşteri" ile tanıştır, zahmetle kasabama kadar getirdiğiniz, ve ben de siz sıvışırken kimsenin bakmadığından emin olayım. Ama şimdi hemen gitmeliyiz, burası patlamadan önce. Ve eğer bu olursa, güvenliğinizi ben bile garanti edemem...'"_
+**Muhafız** _"Hikayeni dinlerken Katja kaşlarını çatar, sonunda gülümser. 'Pekala, pekala, sana inanıyorum. Bir anlaşma yapalım! Beni bu "müşteri" ile tanıştır, zahmetle kasabama kadar getirdiğiniz, ve ben de siz sıvışırken kimsenin bakmadığından emin olayım. Ama şimdi hemen gitmeliyiz, burası patlamadan önce. Eğer bu olursa, güvenliğinizi ben bile garanti edemem...'"_
 
-> Bir saat sonra Lucius, Freya'yı bulur, ancak diğerlerini bulamaz. Freya, Wolfram ve müşterilerinin çoktan kasaya gitmiş olduğunu açıklar. Onları oraya götürmeyi kabul eder, ancak önce hızlı bir uğrama yapması gerektiğini söyler. Hançerlerinden birini geri almakla ilgili bir şey...
+> Bir saat sonra Lucius, Freya'yı bulur, ancak diğerlerini bulamaz. Freya, Wolfram ve müşterilerinin çoktan kasaya gitmiş olduğunu açıklar. Onları oraya götürmeyi kabul eder, ancak önce hızlıca bir yere uğraması gerektiğini söyler. Hançerlerinden birini geri almakla ilgili bir şey...
 
 ## Karşıt Kurtarma Zarları 
 
-> Ekip, rakiplerini (iki Haydut ve Hobgoblin şefleri) dik bir uçurum kenarında sıkıştırdı. Lucius ve Wolfram hemen sıralarını alabilirler, ancak Freya ilk ÇEV zarlarını başaramadı ve rakiplerinden sonra hareket etmek zorunda. Arkadaşları daha küçük düşmanlarla uğraşırken, Freya Hobgoblin'in kafasını ezmesinden zor kurtulur!
+> Ekip, rakiplerini (iki Haydut ve Hobgoblin şefleri) dik bir uçurum kenarında sıkıştırdı. Lucius ve Wolfram hemen sıralarını alabilirler, ancak Freya ilk ÇEV zarlarını başaramadı ve rakiplerinden sonra hareket etmek zorunda. Arkadaşları daha küçük düşmanlarla uğraşırken, Freya Hobgoblin'in kafasını ezebilir!
 
 **Freya**: _"Liderleriyle bir raunt daha kaldırabileceğimi sanmıyorum, bu yüzden onu uçurumdan aşağı itmeyi deneyeceğim!"_
 
@@ -135,7 +135,7 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 > Freya, Hobgoblin'i yakalamak ve uçurumdan fırlatmak için bir GÜÇ kurtarma zarı atar. 17 atar, başarısız!
 
-**Muhafız**: _"Liderleri seni kaldırır ve geriye fırlatır, seni uçurumdan aşağı yollayarak. Neyse ki Catring son yükünü kullanır ve 3 metre aşağıda dağ yamacından fırlamış bir ağaç dalını zarifçe yakalarsın. Geri tırmanman iki turunu alacak, ya da hızlı yapmak için bir ÇEV zarları atman gerekecek."_
+**Muhafız**: _"Liderleri seni kaldırır ve geriye fırlatır, seni uçurumdan aşağı yollar. Neyse ki Catring son yükünü kullanır ve 3 metre aşağıda dağ yamacından fırlamış bir ağaç dalını zarifçe yakalarsın. Geri tırmanman iki turunu alacak, ya da hızlı yapmak için bir ÇEV zarları atman gerekecek."_
 
 **Freya**: _"Lanet olsun. Umarım yoldaşlarım ben dönene kadar yeterince iyi idare ederler..."_
 
@@ -147,11 +147,11 @@ Bir oyuncu karakterinin kurtarma zarı atması gereken üç yaygın senaryo vard
 
 **Wolfram**: _"Avımız bu lanet yerin tepesinde söyleniyor! Bence kuzeye devam etmeliyiz."_
 
-**Muhafız**: _"Diğerleriniz de aynı fikirde? Pekala öyleyse. Aynı yürüyüş düzeniyle devam ettiğinizi varsayarak..."_
+**Muhafız**: _"Hepiniz aynı fikirde misiniz? Pekala öyleyse. Aynı yürüyüş düzeniyle devam ettiğinizi varsayarak..."_
 
 **Wolfram**: _"Bekleyin! Önce ben gideyim. Tarikatım gizleneni ortaya çıkarabilir ve karanlıkta ileride uğursuz bir şeyler hissettim. Önden gideceğim, mümkün olduğunca dikkatli adımlayarak, Voidglass Parçam hazır."_
 
-**Muhafız**: _"Wolfram, dikkatlice köprüye adım atmaya başlıyorsun; köprü her adımda inliyor ve gıcırdıyor. Yine de ayaklarının altında sağlam hissettiriyor. Ekip orta noktaya ulaştığında, zemin şiddetle sarsılmaya başlıyor, ardından çatlaklarla doluyor. Arkadan çökecek gibi görünüyor!"_
+**Muhafız**: _"Wolfram, dikkatlice köprüye adım atmaya başlıyorsun; köprü her adımda gıcırdıyor. Yine de ayaklarının altında sağlam hissettiriyor. Ekip orta noktaya ulaştığında, zemin şiddetle sarsılmaya başlıyor, ardından çatlaklarla doluyor. Arkadan çökecek gibi görünüyor!"_
 
 **Wolfram**: _"Diğer tarafa koşarsak, güvenle varabilir miyiz?"_
 
