@@ -10,7 +10,7 @@ grand_parent: İkinci Edisyon
 ## İlkeler
 
 - Her zaman ne olacağını netleştirin. O alev saçan fıçı sağlam mı görünüyor, yoksa her an patlayabilir mi?
-- Bir karakterin çevresini, fiziksel uzayda nerede olduğunu ve duyularının ne algıladığını düzenli olarak tekrar belirtin.
+- Bir karakterin çevresini, fiziksel uzayda nerede olduğunu ve duyularının ne algıladığını düzenli olarak tekrar tekrar belirtin.
 - Her odada önce bariz tehditleri ve NPC'leri, ardından ayırt edici ve akılda kalıcı nesneleri tanımlayın.
 - Karakterlere nasıl hissetmeleri gerektiğini söylemeyin; sadece şu anda, gözlerinin önünde olan biteni anlatın.
 - Bir sonraki koridorun ötesinde ne olduğuna dair ipuçları verin (kokular, sesler, yükseklik farkları dahil).
@@ -23,14 +23,14 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 ### Avlu
 
-**Açık havaya** açılan geniş bir avlu. **Zemin** kumlu ve engebeli. Odanın merkezine yakın bir yerde **moloz** yığılı. Tam ortada, bir çatal mızrak tutan, gerçek boyutlarda bir **heykel** yerleştirilmiş. Doğuya bakan ahşap bir **kapı**, demir bir zincirle kilitlenmiş. Batıya doğru açık bir taş kemer geçit veriyor.
+**Açık havaya** açılan geniş bir avlu. **Zemin** kumlu ve engebeli. Odanın merkezine yakın bir yerde **moloz** yığılı. Tam ortada, bir üç başlı mızrak tutan, gerçek boyutlarda bir **heykel** yerleştirilmiş. Doğuya bakan ahşap bir **kapı**, demir bir zincirle kilitlenmiş. Batıya doğru açık bir taş kemer geçit veriyor.
 
 - **Hava**: Çatı çökmüş, dışarıdan gelen ışık odayı aydınlatıyor.
-- **Zemin**: Işık üzerine söyleniyor. Hızlı bir inceleme, "kum"un aslında toz haline getirilmiş kemikler olduğunu ortaya çıkaracaktır.
+- **Zemin**: Işık üzerine vuruyor. Hızlı bir inceleme: "kum"un aslında toz haline getirilmiş kemikler olduğunu ortaya çıkaracaktır.
 - **Moloz**: İnsanlara benzeyen heykellerden oluşan taş parçaları.
   - Sıkı bir taş yumruğun içinde kırmızı bir mücevher parıldıyor.
 - **Heykel**: Bir göz çukuru boş, diğerinde kırmızı bir mücevher var.
-  - Tarikatın Ölüm Tanrıçası, zamanla bozulmuş. Kalan göz çıkarılırsa, heykel canlanır ve çatal mızrağı bir yay şeklinde savurarak d6 GÜÇ hasarı verir. Mızrakla temasa geçen kişi taşa dönüşür.
+  - Tarikatın Ölüm Tanrıçası, zamanla bozulmuş. Kalan göz çıkarılırsa, heykel canlanır ve üç başlı mızrağı bir yay şeklinde savurarak d6 GÜÇ hasarı verir. Mızrakla temasa geçen kişi taşa dönüşür.
   - Yakındaki molozdaki mücevher heykele yerleştirilirse hiçbir şey olmaz. Tekrar çıkarılırsa, heykel buna göre tepki verir.
 - **Kapı**: Eriye Odası'nın kapısı neredeyse tamamen çürümüş, ahşapta çatlaklar bırakmış. Demir zincir açıkça paslanmış.
 
@@ -44,7 +44,7 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 **Muhafız**: _"Pekala, **Wolfram** ile başlayalım. Kum beyaz, taneli ve kesinlikle buralardaki herhangi bir sahilden değil. Yerdeki küçük bir topaktan başlayarak, yarı çürümüş bir insan kafatası tanıyorsunuz, yani bu 'kum' aslında kemik! Şimdi ne yapıyorsun?"_
 
-**Wolfram**: _"İğrenç. Kılıcımla biraz dürtüşeceğim. Tozun içinde gizli bir şey var mı? Belki değerli bir şey?"_
+**Wolfram**: _"İğrenç. Kılıcımla biraz dürteceğim. Tozun içinde gizli bir şey var mı? Belki değerli bir şey?"_
 
 **Muhafız**: _"Hayır. Ama en azından zeminin güvenli olduğuna ikna oldun. Ve bu senin turunun sonu!"_
 
@@ -58,7 +58,7 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 **Muhafız**: _"Kulağını kapıya dayıyorsun, ama diğer taraftan sadece hafif bir hışırtı duyuyorsun."_
 
-**Lucius**: _"Anahtar deliği ne kadar bozuk? İçinden görebilir miyim? Peki ya kapının kendisi? Çürümüş demiştin."_
+**Lucius**: _"Anahtar deliği ne durumda? İçinden görebilir miyim? Peki ya kapının kendisi? Çürümüş demiştin."_
 
 **Muhafız**: _"Anahtar deliği sağlam ve içini görmek için çok karanlık. İçine bir ışık tutabilirsin ya da kapıdaki aralıklardan birini kullanabilirsin."_
 
@@ -70,9 +70,9 @@ Wolfram, Lucius ve Freya, **Ein Eyton** adlı orman tapınağının birinci kat�
 
 **Muhafız**: _"Anlaşıldı. Şimdi **Freya'nın** o heykel hakkında ne bulabildiğine bakalım."_
 
-**Freya**: _"Doğru, sadece bakmak istediğimi ama çok yaklaşmak istemediğimi hatırla."_
+**Freya**: _"Doğru, sadece bakmak istediğimi ama çok yaklaşmak istemediğimi söylemiştim."_
 
-**Muhafız**: _"Heykelden yaklaşık beş adım kalana kadar yaklaşıyorsun. Yüzü yontulmuş ve gözlerinden biri yok. Ancak diğerine güzel bir kırmızı mücevher yerleştirilmiş! Heykel elinde beyaz bir çatal mızrak tutuyor. Heykelle daha fazla etkileşime geçiyor musun yoksa devam mı ediyorsun?"_
+**Muhafız**: _"Heykele yaklaşık beş adım mesafede duruyorsun. Yüzü yontulmuş ve gözlerinden biri yok. Ancak diğerine güzel bir kırmızı mücevher yerleştirilmiş! Heykel elinde beyaz bir üç başlı mızrak tutuyor. Heykelle daha fazla etkileşime geçiyor musun yoksa devam mı ediyorsun?"_
 
 **Freya**: _"Bu çok ürkütücü! Bu işin içinde olmak istemiyorum, en azından bu odanın ne işe yaradığını daha fazla öğrenene kadar. Daha önce bahsettiğin molozu incelemek istiyorum."_
 
