@@ -7,8 +7,7 @@ grand_parent: İkinci Edisyon
 
 # Tüygar
 
-> Uzaktan vurmak seni korkak yapmaz. Bir müzisyen gibi yay kirişinin şarkısı düşmanlarına uyarı için kullanıyorsun. Hızlı bir ölümün sessiz vaadini iletiyor yayın.
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring naught but a warning, singing the silent promise of a quick death. 
+> Uzaktan vurmak seni korkak yapmaz. Bir müzisyen gibi yay kirişinin şarkısı düşmanlarına uyarı için kullanıyorsun. Yayın hızlı bir ölümün sessiz vaadini iletiyor.
 
 ## İsimler
 
